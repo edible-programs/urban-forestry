@@ -1,0 +1,419 @@
+{
+  "tree_id": 543,
+  "family": "Myrtaceae",
+  "memo": "&lt;em&gt;Eucalyptus globulus&lt;/em&gt;, commonly known as blue gum, is one of the most widely recognized and extensively planted eucalyptus species. Native to Australia, it has become naturalized in many regions worldwide, particularly in California and Hawaii, where it thrives in Mediterranean climates with mild seasonal variation. In its natural range, &lt;em&gt;E. globulus&lt;/em&gt; often forms dense, pure stands that exclude most understory vegetation. It reproduces both by seed and vegetative sprouting, contributing to its ability to dominate a variety of plant communities. Its rapid growth, high water use, and prolific seed production make it an exceptionally strong competitor, often outcompeting native species and altering local ecosystems.",
+  "fragrance": 1,
+  "native_range": "Australia",
+  "photolocations": "Los Angeles County Arboretum - Arcadia, CA, San Luis Obispo, CA and Balboa Park - San Diego, CA",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 0,
+  "ethnobotanical_info": "",
+  "pi_invasive": 0,
+  "invasive_text": "This plant is classified as potentially invasive in specific areas of California by the California Invasive Plant Council (&lt;a href=&quot;http://www.cal-ipc.org/&quot;&gt;Cal-IPC&lt;/a&gt;).",
+  "ca_invasive": 1,
+  "schoolyard": 0,
+  "schoolyard_use_notes": null,
+  "soil_ph_low": 3,
+  "soil_ph_high": 7,
+  "planting_area": ">7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Medium Weak",
+  "branch_strength_high": "Medium Weak",
+  "root_damage_potential": "Moderate",
+  "biogenic_emissions": "High",
+  "deer_palatable": 0,
+  "height_high": 80,
+  "height_memo": null,
+  "width_high": 75,
+  "growth_rate_high": 36,
+  "water_use": "Medium",
+  "salt_tolerance": "High",
+  "fruit_size": "Medium",
+  "fruit_color": "Gray or Blue Green",
+  "fruit_type": "Capsule",
+  "flower_showiness": "",
+  "bark_color": [
+    "Cream or Light Gray"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Sickle Shaped",
+  "foliage_fall_color": 0,
+  "foliage_type": "Evergreen",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": null,
+  "suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/43/original/543_current_suitability_map.png",
+  "future_suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/43/original/543_future_suitability_map.png",
+  "sex_explanation": null,
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 534,
+    "tree_id": 543,
+    "common": "BLUE GUM",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 0
+  },
+  "primary_taxon": {
+    "taxon_id": 534,
+    "genus": "Eucalyptus",
+    "species": "globulus",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Eucalyptus globulus"
+  },
+  "other_taxa": [],
+  "other_common": [
+    {
+      "common_id": 3010,
+      "tree_id": 543,
+      "common": "SOUTHERN GUM",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 1
+    },
+    {
+      "common_id": 3011,
+      "tree_id": 543,
+      "common": "TASMANIAN BLUE GUM",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 11255,
+      "tree_id": 543,
+      "common": "VICTORIAN BLUE GUM",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 3
+    },
+    {
+      "common_id": 11256,
+      "tree_id": 543,
+      "common": "TASMANIAN BLUEGUM",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 4
+    },
+    {
+      "common_id": 11257,
+      "tree_id": 543,
+      "common": "BLUE GUM TREE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 5
+    },
+    {
+      "common_id": 11258,
+      "tree_id": 543,
+      "common": "SOUTHERN BLUE GUM",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 6
+    },
+    {
+      "common_id": 11259,
+      "tree_id": 543,
+      "common": "BLUEGUM EUCALYPTUS",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 7
+    }
+  ],
+  "genericCommonNames": [
+    "EUCALYPTUS"
+  ],
+  "images": [
+    {
+      "photo_link_id": 5091,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/43/original/eucalyptus-globulus-tree-2.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 19778,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/43/original/Eucalyptus-globulus-(1).jpg",
+      "sequence": 2,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 29307,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/43/original/Eucalyptus-globulus-f045e42a-e5a5-4fe7-bf09-b1faf93d4a7e.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 24083,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/43/original/Eucalyptus-globulus-1139870f-8a97-4a3d-bbb5-45d1011edd85.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter ",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 5092,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/43/original/eucalyptus-globulus-tree.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 19780,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/43/original/Eucalyptus-globulus.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 19781,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/43/original/Eucalyptus-globulus-(3).jpg",
+      "sequence": 7,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 24274,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/43/original/Eucalyptus-globulus-9e1da770-498e-4c99-a70d-72567920f29c.jpg",
+      "sequence": 8,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 31814,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/43/original/Eucalyptus-globulus-016d3e39-ff92-415b-b3f7-183c38006ebf.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 5093,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/43/original/eucalyptus-globulus-foliage.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "foliage"
+    },
+    {
+      "photo_link_id": 5095,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/43/original/eucalyptus-globulus-leaves-3.jpg",
+      "sequence": 11,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves-3"
+    },
+    {
+      "photo_link_id": 5096,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/43/original/eucalyptus-globulus-leaves-4.jpg",
+      "sequence": 12,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves-4"
+    },
+    {
+      "photo_link_id": 25254,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/43/original/Eucalyptus-globulus-1cebfbcf-47d5-428b-a6b6-1ca40811fad6.jpg",
+      "sequence": 13,
+      "credit": "M. Ritter ",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 5097,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/43/original/eucalyptus-globulus-leaves-5.jpg",
+      "sequence": 14,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves-5"
+    },
+    {
+      "photo_link_id": 5094,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/43/original/eucalyptus-globulus-leaves.jpg",
+      "sequence": 15,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 25255,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/43/original/Eucalyptus-globulus-(1)-0dee6e95-229d-4527-bc8e-5d2c1df741df.jpg",
+      "sequence": 16,
+      "credit": "M. Ritter ",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25253,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/43/original/Eucalyptus-globulus-(2)-144dfdd3-7728-4abb-9bda-9a745882dc6f.jpg",
+      "sequence": 17,
+      "credit": "M. Ritter ",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 24199,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/43/original/E.-globulus1---1",
+      "sequence": 18,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 5098,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/43/original/eucalyptus-globulus-flowers-close-up.jpg",
+      "sequence": 19,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "flowers-close-up"
+    },
+    {
+      "photo_link_id": 5099,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/43/original/eucalyptus-globulus-fruit-id.jpg",
+      "sequence": 20,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit-id"
+    },
+    {
+      "photo_link_id": 19779,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/43/original/Eucalyptus-globulus-(2).jpg",
+      "sequence": 21,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 5100,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/43/original/eucalyptus-globulus-bark.jpg",
+      "sequence": 22,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "bark"
+    },
+    {
+      "photo_link_id": 24629,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/43/original/Eucalyptus-globulus-3823a649-6650-4de6-aa0b-79c949feee1a.jpg",
+      "sequence": 23,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    }
+  ],
+  "landscape_application": [],
+  "landscape_use": [],
+  "sunset_zone": [
+    "5",
+    "6",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "H1",
+    "H2"
+  ],
+  "formatted_sunset_zones": [
+    "5 - 6",
+    "8 - 24",
+    "H1",
+    "H2"
+  ],
+  "usda_zone": [
+    9,
+    10
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [
+    "Texas Root Rot",
+    "Verticillium"
+  ],
+  "disease_susceptibility": [
+    "Armillaria",
+    "Phytophthora",
+    "Root Rot"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [
+    "Beetle Borers",
+    "Psyllid",
+    "Thrip",
+    "Eucalyptus Snout Beetle (Gonipterus platensis)"
+  ],
+  "health_hazard": [
+    "Allergy",
+    "Irritant"
+  ],
+  "attracts_wildlife": [
+    "Bees",
+    "Birds"
+  ],
+  "fruit_value": [],
+  "fruiting_time": [
+    "Summer"
+  ],
+  "flower_time": [
+    "Winter",
+    "Spring"
+  ],
+  "flower_color": [
+    "Yellow",
+    "White"
+  ],
+  "foliage_growth_color": [
+    "Dark Green"
+  ],
+  "bark_texture": [
+    "Exfoliating"
+  ],
+  "tree_shape": [
+    "Rounded"
+  ],
+  "litter_type": [
+    "Bark",
+    "Dry Fruit",
+    "Leaves",
+    "Twigs"
+  ],
+  "climate_adapted_regions": [],
+  "appraisal_text": "Suggested LCANT 24\" box, Group Rating 4, Approx. cross sectional area 4.75 sq. in.",
+  "app_grrating": "4",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Eucalyptus_globulus"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/53398-Eucalyptus-globulus"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:592965-1"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "/blue-gum/"
+    }
+  ],
+  "champ_count": 2
+}

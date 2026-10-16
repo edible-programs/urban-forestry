@@ -1,0 +1,594 @@
+{
+  "tree_id": 609,
+  "family": "Moraceae",
+  "memo": "This tree is a popular choice for urban landscapes due to its dense, glossy green foliage that provides ample shade. Its aerial roots often create an intriguing, almost sculptural appearance, making it a striking feature in parks and along streets. It can grow quite large, offering a broad canopy that helps cool the surrounding area. This tree is also known for its resilience, thriving in a variety of soil types and requiring minimal maintenance once established. Its small, inconspicuous fruits attract birds, adding to the biodiversity of urban settings.",
+  "fragrance": 0,
+  "native_range": "Malaysia peninsula to Borneo",
+  "photolocations": "Kona, HI, National Arboretum - Washington, DC, Los Angeles, CA, Claremont, CA, San Francisco, CA, Pasadena, CA, Santa Barbara, CA,  Newport Beach, CA and San Luis Obispo, CA",
+  "display": 1,
+  "pacific_island": 1,
+  "california_native": 0,
+  "ethnobotanical_info": "Throughout southeast Asia, spirits are thought to dwell in this tree, and it is often planted around temples.  In Okinawa, the lye of &lt;i&gt;F. macrocarpa&lt;/i&gt; wood ash is a crucial ingredient in the preparation of soba noodles.  The roots, leaves, and stems of this &lt;i&gt;Ficus&lt;/i&gt; have high antioxidant and antibacterial properties. The tree is used in traditional medicine throughout China, Japan, and Malaysia. (Ao et al., 2008)",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 1,
+  "schoolyard_use_notes": "This tree has glossy, oval leaves that are ideal for teaching about leaf structure and plant respiration. Its dense canopy provides ample shade, making it a pleasant spot for outdoor classes. The small fruits attract birds and other wildlife, offering opportunities to discuss urban ecosystems and food chains. Its aerial roots can be used to explain plant support systems and propagation methods. This tree&#x27;s resilience to urban conditions makes it a practical example of adaptability in plants.",
+  "soil_ph_low": 3,
+  "soil_ph_high": 7,
+  "planting_area": "4 to 7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Medium Weak",
+  "branch_strength_high": "Medium Weak",
+  "root_damage_potential": "Moderate",
+  "biogenic_emissions": "High",
+  "deer_palatable": null,
+  "height_high": 60,
+  "height_memo": null,
+  "width_high": 55,
+  "growth_rate_high": 24,
+  "water_use": "Medium",
+  "salt_tolerance": "moderate",
+  "fruit_size": "Small",
+  "fruit_color": "Mostly Green",
+  "fruit_type": "Multiple Fruit",
+  "flower_showiness": "Inconspicuous",
+  "bark_color": [
+    "Light Gray"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Oval",
+  "foliage_fall_color": 0,
+  "foliage_type": "Evergreen",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": "Lowest",
+  "suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/09/original/609_current_suitability_map.png",
+  "future_suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/09/original/609_future_suitability_map.png",
+  "sex_explanation": null,
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 9404,
+    "tree_id": 609,
+    "common": "INDIAN LAUREL FIG OR CHINESE BANYAN",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 0
+  },
+  "primary_taxon": {
+    "taxon_id": 594,
+    "genus": "Ficus",
+    "species": "microcarpa",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Ficus microcarpa"
+  },
+  "other_taxa": [
+    {
+      "taxon_id": 2225,
+      "genus": "Ficus",
+      "species": "microcarpa",
+      "hybrid_alt_species": "",
+      "subspecies": "",
+      "variety": "nitida",
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 2,
+      "name_concat": "Ficus microcarpa var. nitida"
+    },
+    {
+      "taxon_id": 3766,
+      "genus": "Ficus",
+      "species": "retusa",
+      "hybrid_alt_species": null,
+      "subspecies": null,
+      "variety": null,
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 3,
+      "name_concat": "Ficus retusa"
+    },
+    {
+      "taxon_id": 3767,
+      "genus": "Ficus",
+      "species": "retusa",
+      "hybrid_alt_species": null,
+      "subspecies": null,
+      "variety": "Nitida",
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 4,
+      "name_concat": "Ficus retusa var. nitida"
+    },
+    {
+      "taxon_id": 4779,
+      "genus": "Ficus",
+      "species": "nitida",
+      "hybrid_alt_species": null,
+      "subspecies": null,
+      "variety": null,
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 5,
+      "name_concat": "Ficus nitida"
+    }
+  ],
+  "other_common": [
+    {
+      "common_id": 7787,
+      "tree_id": 609,
+      "common": "LAUREL FIG",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 1
+    },
+    {
+      "common_id": 7788,
+      "tree_id": 609,
+      "common": "INDIAN LAUREL FIG",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 11406,
+      "tree_id": 609,
+      "common": "CURTAIN FIG",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 3
+    },
+    {
+      "common_id": 7789,
+      "tree_id": 609,
+      "common": "LAUREL RUBBER",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 4
+    },
+    {
+      "common_id": 11407,
+      "tree_id": 609,
+      "common": "SMALL FRUIT FIG",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 5
+    },
+    {
+      "common_id": 7790,
+      "tree_id": 609,
+      "common": "CHINESE BANYAN",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 6
+    },
+    {
+      "common_id": 11408,
+      "tree_id": 609,
+      "common": "HILL'S WEEPING FIG",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 7
+    },
+    {
+      "common_id": 7791,
+      "tree_id": 609,
+      "common": "NUNU",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 8
+    },
+    {
+      "common_id": 11409,
+      "tree_id": 609,
+      "common": "MALAY BANYAN",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 9
+    },
+    {
+      "common_id": 7792,
+      "tree_id": 609,
+      "common": "LULK",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 10
+    },
+    {
+      "common_id": 7793,
+      "tree_id": 609,
+      "common": "AU",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 11
+    }
+  ],
+  "genericCommonNames": [
+    "FIG"
+  ],
+  "images": [
+    {
+      "photo_link_id": 5728,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/09/original/ficus-microcarpa-tree-2.jpg",
+      "sequence": 1,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 5729,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/09/original/ficus-microcarpa-tree-3.jpg",
+      "sequence": 2,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "tree-3"
+    },
+    {
+      "photo_link_id": 5730,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/09/original/ficus-microcarpa-tree.jpg",
+      "sequence": 3,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 32183,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/09/original/Ficus-microcarpa-(2)-c93804b0-d089-406c-bd8f-734427785e98.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 32185,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/09/original/Ficus-microcarpa-(1)-9ccc5229-abeb-46b6-9541-dbdc4c381e29.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 32186,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/09/original/Ficus-microcarpa-(3)-b5ec0c7e-2407-4b43-839f-97dad0807847.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 33450,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/09/original/Ficus-microcarpa-1594cb35-5018-4d48-a183-ef989232a7ed.jpg",
+      "sequence": 7,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 32184,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/09/original/Ficus-microcarpa-f190384f-1ec3-427f-9132-d2ada81159f8.jpg",
+      "sequence": 8,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 27099,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/09/original/Ficus-microcarpa-51224dfd-de9a-4cc5-8b49-0d4b211bb36c.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 5732,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/09/original/ficus-microcarpa-trees-3.jpg",
+      "sequence": 10,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "trees-3"
+    },
+    {
+      "photo_link_id": 30574,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/09/original/Ficus-microcarpa-(1)-d4c7822a-0b01-4b86-982f-71d2ccc147b9.jpg",
+      "sequence": 11,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 5733,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/09/original/ficus-microcarpa-trees.jpg",
+      "sequence": 12,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "trees"
+    },
+    {
+      "photo_link_id": 18980,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/09/original/Ficus-microcarpa.jpg",
+      "sequence": 13,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 5734,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/09/original/ficus-microcarpa-trees-young.jpg",
+      "sequence": 14,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "trees-young"
+    },
+    {
+      "photo_link_id": 30575,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/09/original/Ficus-microcarpa-4ee6f4d2-066d-47bb-8491-e2e7b2b039a7.jpg",
+      "sequence": 15,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 23855,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/09/original/Ficus-microcarpa-(3).jpg",
+      "sequence": 16,
+      "credit": "M. Ritter ",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 5735,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/09/original/ficus-microcarpa-tree-espalier.jpg",
+      "sequence": 17,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "tree-espalier"
+    },
+    {
+      "photo_link_id": 22914,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/09/original/Ficus-microcarpa-2ff1387d-dbee-4575-8bc9-33904b923bb7.jpg",
+      "sequence": 18,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25842,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/09/original/Ficus-microcarpa-a836bef2-1015-4aa3-8bf4-cc7289616273.jpg",
+      "sequence": 19,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 17686,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/09/original/Ficus-microcarpa_4436.jpg",
+      "sequence": 20,
+      "credit": "C. Stubler and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25844,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/09/original/Ficus-microcarpa-(1)-db5e549c-6853-4883-bc37-3c0063100717.jpg",
+      "sequence": 21,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 5736,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/09/original/ficus-microcarpa-tree-bonsai.jpg",
+      "sequence": 22,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "tree-bonsai"
+    },
+    {
+      "photo_link_id": 29916,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/09/original/Ficus-microcarpa-c637364a-a77f-4b7b-b0dd-2cf6bf7521d4.jpg",
+      "sequence": 23,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25845,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/09/original/Ficus-microcarpa-(3)-b77971df-1f24-42ac-828d-ad606fc1863e.jpg",
+      "sequence": 24,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 29504,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/09/original/Ficus-microcarpa-49f56f84-d679-4ae5-a7b3-be63101e1a51.jpg",
+      "sequence": 25,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 5737,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/09/original/ficus-microcarpa-leaves.jpg",
+      "sequence": 26,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 5738,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/09/original/ficus-microcarpa-leaves-2.jpg",
+      "sequence": 27,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "leaves-2"
+    },
+    {
+      "photo_link_id": 19929,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/09/original/Ficus-microcarpa-Kona.jpg",
+      "sequence": 28,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 22912,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/09/original/Ficus-microcarpa-(1)-ba1f373e-a16e-4f48-ae52-de29b4a386d6.jpg",
+      "sequence": 29,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 22913,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/09/original/Ficus-microcarpa-(2).jpg",
+      "sequence": 30,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 21055,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/09/original/Ficus-microcarpa-40f3f64c-0df4-438f-8d43-72379051a9f1.jpg",
+      "sequence": 31,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 21056,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/09/original/Ficus-microcarpa-(1).jpg",
+      "sequence": 32,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 5731,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/09/original/ficus-microcarpa-tree-4.jpg",
+      "sequence": 33,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "tree-4"
+    },
+    {
+      "photo_link_id": 5741,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/09/original/ficus-microcarpa-trunk.jpg",
+      "sequence": 34,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "trunk"
+    },
+    {
+      "photo_link_id": 23857,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/09/original/Ficus-microcarpa-(1)-4904c76d-b9e3-4994-8eda-01580b90a6f2.jpg",
+      "sequence": 35,
+      "credit": "M. Ritter ",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 23856,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/09/original/Ficus-microcarpa-(2)-9ea34a16-9e84-4a5d-80bb-736db5d724c3.jpg",
+      "sequence": 36,
+      "credit": "M. Ritter ",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25843,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/09/original/Ficus-microcarpa-(2)-59dcb9bf-e233-453a-b88b-a3d3cc3f31ac.jpg",
+      "sequence": 37,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 5742,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/09/original/ficus-microcarpa-bark.jpg",
+      "sequence": 38,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "bark"
+    },
+    {
+      "photo_link_id": 23858,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/09/original/Ficus-microcarpa-wood.jpg",
+      "sequence": 39,
+      "credit": "M. Ritter ",
+      "attribute_name": null
+    }
+  ],
+  "landscape_application": [
+    "Screen Tree",
+    "Shade Tree",
+    "Specimen"
+  ],
+  "landscape_use": [
+    "Bonsai"
+  ],
+  "sunset_zone": [
+    "9",
+    "13",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "H1",
+    "H2"
+  ],
+  "formatted_sunset_zones": [
+    "9",
+    "13",
+    "16 - 24",
+    "H1",
+    "H2"
+  ],
+  "usda_zone": [
+    9,
+    10,
+    11,
+    12
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand"
+  ],
+  "disease_resistant": [
+    "Armillaria",
+    "Root Rot"
+  ],
+  "disease_susceptibility": [],
+  "pest_resistant": [],
+  "pest_susceptibility": [
+    "Thrip"
+  ],
+  "health_hazard": [
+    "Irritant"
+  ],
+  "attracts_wildlife": [],
+  "fruit_value": [],
+  "fruiting_time": [
+    "Spring"
+  ],
+  "flower_time": [
+    "Winter"
+  ],
+  "flower_color": [],
+  "foliage_growth_color": [
+    "Green"
+  ],
+  "bark_texture": [
+    "Smooth"
+  ],
+  "tree_shape": [
+    "Rounded"
+  ],
+  "litter_type": [
+    "Dry Fruit"
+  ],
+  "climate_adapted_regions": [],
+  "appraisal_text": "Suggested LCANT 24\" box, Group Rating 3, Approx. cross sectional area 3.80 sq. in.",
+  "app_grrating": "3",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Ficus_microcarpa"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/54982-Ficus-microcarpa"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:2811323-4"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 2
+}

@@ -1,0 +1,356 @@
+{
+  "tree_id": 654,
+  "family": "Rutaceae",
+  "memo": "This tree has a graceful, weeping habit with slender branches that give it a delicate appearance. Its narrow, evergreen leaves are dark green and slightly leathery, providing a lush canopy year-round. Small, fragrant white flowers bloom in clusters, adding a subtle but pleasant aroma to the surroundings. The tree is drought-tolerant and thrives in a variety of soil types, making it a resilient choice for urban landscapes. Its moderate growth rate and manageable size make it suitable for both small gardens and larger public spaces.",
+  "fragrance": 0,
+  "native_range": "Australia",
+  "photolocations": "Los Angeles County Arboretum - Arcadia, CA, Huntington Botanical Gardens - San Marino, CA, Santa Barbara, CA, Santa Cruz, CA and San Diego, CA",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 0,
+  "ethnobotanical_info": "",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 1,
+  "schoolyard_use_notes": "This tree has long, slender leaves that can be used to teach about leaf structure and function. Its small, white flowers bloom in clusters, providing an opportunity to discuss pollination and flower anatomy. The tree's resilience to drought conditions makes it a suitable example for lessons on plant adaptation and survival in arid environments. The leaves also release a pleasant aroma when crushed, adding a sensory element to educational activities.",
+  "soil_ph_low": 1,
+  "soil_ph_high": 5,
+  "planting_area": "4 to 7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Medium",
+  "branch_strength_high": "Medium",
+  "root_damage_potential": "Low",
+  "biogenic_emissions": "Moderate",
+  "deer_palatable": null,
+  "height_high": 60,
+  "height_memo": null,
+  "width_high": 20,
+  "growth_rate_high": 36,
+  "water_use": "Medium",
+  "salt_tolerance": "Moderate",
+  "fruit_size": "Small",
+  "fruit_color": "Mostly Green",
+  "fruit_type": "Capsule",
+  "flower_showiness": "",
+  "bark_color": [
+    "Dark Brown or Light Green"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Spear Shaped",
+  "foliage_fall_color": 0,
+  "foliage_type": "Evergreen",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": null,
+  "suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/54/original/654_current_suitability_map.png",
+  "future_suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/54/original/654_future_suitability_map.png",
+  "sex_explanation": null,
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 639,
+    "tree_id": 654,
+    "common": "AUSTRALIAN WILLOW",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 2
+  },
+  "primary_taxon": {
+    "taxon_id": 639,
+    "genus": "Geijera",
+    "species": "parviflora",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Geijera parviflora"
+  },
+  "other_taxa": [],
+  "other_common": [
+    {
+      "common_id": 3184,
+      "tree_id": 654,
+      "common": "WILGA",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 1
+    },
+    {
+      "common_id": 11442,
+      "tree_id": 654,
+      "common": "TREE WILGA",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 11443,
+      "tree_id": 654,
+      "common": "LAVENDER BUSH",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 3
+    }
+  ],
+  "genericCommonNames": [
+    "AUSTRALIAN WILLOW"
+  ],
+  "images": [
+    {
+      "photo_link_id": 6115,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/54/original/geijera-parviflora-tree-4.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-4"
+    },
+    {
+      "photo_link_id": 6116,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/54/original/geijera-parviflora-tree.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 6117,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/54/original/geijera-parviflora-tree-3.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-3"
+    },
+    {
+      "photo_link_id": 29950,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/54/original/Geijera-parviflora-b6713498-7738-4ac5-aa16-6c8a06971592.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 27101,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/54/original/Geijera-parviflora.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 6118,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/54/original/geijera-parviflora-tree-2.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 29951,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/54/original/Geijera-parviflora-(2).jpg",
+      "sequence": 7,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 29949,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/54/original/Geijera-parviflora-(3).jpg",
+      "sequence": 8,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 6119,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/54/original/geijera-parviflora-leaves-3.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves-3"
+    },
+    {
+      "photo_link_id": 6120,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/54/original/geijera-parviflora-leaves.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 6123,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/54/original/geijera-parviflora-leaves-and-flowers.jpg",
+      "sequence": 11,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "flowers"
+    },
+    {
+      "photo_link_id": 33285,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/54/original/Geijera-parviflora-7e121fe7-2f32-4a98-a746-ba910e6c6fdb.jpg",
+      "sequence": 12,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 6121,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/54/original/geijera-parviflora-leaves-2.jpg",
+      "sequence": 13,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves-2"
+    },
+    {
+      "photo_link_id": 27102,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/54/original/Geijera-parviflora-(1).jpg",
+      "sequence": 14,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 6127,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/54/original/geijera-parviflora-leaves-and-fruit.jpg",
+      "sequence": 15,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit"
+    },
+    {
+      "photo_link_id": 6124,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/54/original/geijera-parviflora-flowers-close-up.jpg",
+      "sequence": 16,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "flowers-close-up"
+    },
+    {
+      "photo_link_id": 6126,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/54/original/geijera-parviflora-fruit-2.jpg",
+      "sequence": 17,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit-2"
+    },
+    {
+      "photo_link_id": 33286,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/54/original/Geijera-parviflora-(1)-e943de73-78d0-4705-959a-40663ca5a3d6.jpg",
+      "sequence": 18,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 6128,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/54/original/geijera-parviflora-bark.jpg",
+      "sequence": 19,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "bark"
+    },
+    {
+      "photo_link_id": 6129,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/54/original/geijera-parviflora-bark-2.jpg",
+      "sequence": 20,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "bark-2"
+    },
+    {
+      "photo_link_id": 29952,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/54/original/Geijera-parviflora-(1)-3c018f9a-5387-4775-9ee0-23db5fd12d0d.jpg",
+      "sequence": 21,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    }
+  ],
+  "landscape_application": [
+    "Screen Tree",
+    "Landscape Tree",
+    "Street Tree"
+  ],
+  "landscape_use": [],
+  "sunset_zone": [
+    "8",
+    "9",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24"
+  ],
+  "formatted_sunset_zones": [
+    "8 - 9",
+    "12 - 24"
+  ],
+  "usda_zone": [
+    9,
+    10,
+    11
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [
+    "Armillaria"
+  ],
+  "disease_susceptibility": [],
+  "pest_resistant": [],
+  "pest_susceptibility": [],
+  "health_hazard": [
+    "None Known"
+  ],
+  "attracts_wildlife": [
+    "Bees"
+  ],
+  "fruit_value": [
+    "Wildlife use it"
+  ],
+  "fruiting_time": [
+    "Summer"
+  ],
+  "flower_time": [
+    "Fall",
+    "Spring"
+  ],
+  "flower_color": [
+    "White"
+  ],
+  "foliage_growth_color": [
+    "Green"
+  ],
+  "bark_texture": [
+    "Rough"
+  ],
+  "tree_shape": [
+    "Rounded"
+  ],
+  "litter_type": [
+    "Dry Fruit"
+  ],
+  "climate_adapted_regions": [],
+  "appraisal_text": "Suggested LCANT 24\" box, Group Rating 2, Approx. cross sectional area 2.24 sq. in.",
+  "app_grrating": "2",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Geijera_parviflora"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/185434-Geijera-parviflora"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:773711-1"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 2
+}

@@ -1,0 +1,482 @@
+{
+  "tree_id": 1227,
+  "family": "Fagaceae",
+  "memo": "The coast live oak is an evergreen tree that can live for several hundred years. It's the backbone of coastal California woodlands, a California icon, and the basis for city names like Thousand Oaks and Oakland. Its leathery cupped leaves have tufts of hair on the undersides where the main vein and the secondary veins intersect. These pockets of hair, which are especially present on younger leaves, are used as shelter by mites that graze fungi on the leaf surface. Spanish settlers associated this tree with fertile land, and the placement of the Franciscan missions matches the coast live oak's native range.",
+  "fragrance": 0,
+  "native_range": "California, Northwest Mexico",
+  "photolocations": "UC Santa Cruz - Santa Cruz, CA, Temecula, CA, Huntington Botanical Gardens - San Marino, CA, San Luis Obispo, CA and Lotusland - Santa Barbara, CA",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 1,
+  "ethnobotanical_info": "The acorns of these trees were incredibly important food resources for indigenous people throughout their range.&nbsp;",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 1,
+  "schoolyard_use_notes": "This tree offers opportunities to learn about ethnobotany, ecology, and symbiosis. Becuase this trees acorns were a vital food resource for indigenous peoples, this tree can provide important insight into human history on the California coast. In addition to human use, the acorns are important food for squirrels and small mammals and many species of native wasps create galls on the branches of the trees, making this tree an important part of their life cycle. Acorn woodpeckers (&lt;em&gt;Melanerpes formicivorus&lt;/em&gt;) rely heavily on these trees for food resources, caching hundreds to thousands of acorns in granaries to supplement their diet of insects. Chanterelle mushrooms are also primarily found growing around Coast Live Oaks. Mites living in the hair tufts on the underside of leaves help protect the oak’s leaves from fungal infection. In return, the mites get a place to live. This is a cool, visual introduction to symbiotic relationships.&nbsp;",
+  "soil_ph_low": 1,
+  "soil_ph_high": 5,
+  "planting_area": "4 to 7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Strong",
+  "branch_strength_high": "Strong",
+  "root_damage_potential": "Moderate",
+  "biogenic_emissions": "High",
+  "deer_palatable": null,
+  "height_high": 70,
+  "height_memo": null,
+  "width_high": 70,
+  "growth_rate_high": 24,
+  "water_use": "Low",
+  "salt_tolerance": "High",
+  "fruit_size": "Large",
+  "fruit_color": "Brown",
+  "fruit_type": "Acorn",
+  "flower_showiness": "Inconspicuous",
+  "bark_color": [
+    "Dark Gray"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Oval",
+  "foliage_fall_color": 0,
+  "foliage_type": "Evergreen",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": null,
+  "suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/27/original/1227_current_suitability_map.png",
+  "future_suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/27/original/1227_future_suitability_map.png",
+  "sex_explanation": null,
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 1209,
+    "tree_id": 1227,
+    "common": "COAST LIVE OAK",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 0
+  },
+  "primary_taxon": {
+    "taxon_id": 1209,
+    "genus": "Quercus",
+    "species": "agrifolia",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Quercus agrifolia"
+  },
+  "other_taxa": [
+    {
+      "taxon_id": 4436,
+      "genus": "Quercus",
+      "species": "acutiglandis",
+      "hybrid_alt_species": null,
+      "subspecies": null,
+      "variety": null,
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 2,
+      "name_concat": "Quercus acutiglandis"
+    },
+    {
+      "taxon_id": 4437,
+      "genus": "Quercus",
+      "species": "agrifolia",
+      "hybrid_alt_species": null,
+      "subspecies": null,
+      "variety": "frutescens",
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 3,
+      "name_concat": "Quercus agrifolia var. frutescens"
+    },
+    {
+      "taxon_id": 4438,
+      "genus": "Quercus",
+      "species": "agrifolia",
+      "hybrid_alt_species": null,
+      "subspecies": null,
+      "variety": "oxyadenia",
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 4,
+      "name_concat": "Quercus agrifolia var. oxyadenia"
+    },
+    {
+      "taxon_id": 4439,
+      "genus": "Quercus",
+      "species": "oxyadenia",
+      "hybrid_alt_species": null,
+      "subspecies": null,
+      "variety": null,
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 5,
+      "name_concat": "Quercus oxyadenia"
+    },
+    {
+      "taxon_id": 4440,
+      "genus": "Quercus",
+      "species": "pricei",
+      "hybrid_alt_species": null,
+      "subspecies": null,
+      "variety": null,
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 6,
+      "name_concat": "Quercus pricei"
+    }
+  ],
+  "other_common": [
+    {
+      "common_id": 6686,
+      "tree_id": 1227,
+      "common": "ENCINA",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 1
+    },
+    {
+      "common_id": 12237,
+      "tree_id": 1227,
+      "common": "CALIFORNIA LIVE OAK",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    }
+  ],
+  "genericCommonNames": [
+    "OAK"
+  ],
+  "images": [
+    {
+      "photo_link_id": 11227,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/27/original/quercus-agrifolia-tree-3.jpg",
+      "sequence": 1,
+      "credit": "J. Reimer and M. Ritter",
+      "attribute_name": "tree-3"
+    },
+    {
+      "photo_link_id": 28153,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/27/original/Quercus-agrifolia-c69fbebc-6764-41e4-9fe6-31eb373fcd34.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter ",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 28154,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/27/original/Quercus-agrifolia-(1)-f3d8d83c-8bac-479a-9ce6-ea10803adc08.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter ",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 11225,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/27/original/quercus-agrifolia-tree-2.jpg",
+      "sequence": 4,
+      "credit": "J. Reimer and M. Ritter",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 25439,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/27/original/Quercus-agrifolia-(1)-e8517b34-575f-4683-bdac-b1d64650b4b3.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 11226,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/27/original/quercus-agrifolia-tree.jpg",
+      "sequence": 6,
+      "credit": "J. Reimer and M. Ritter",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 29143,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/27/original/Quercus-agrifolia-ef5d3069-5722-4c61-810f-ec1ff88ff4ac.jpg",
+      "sequence": 7,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 32939,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/27/original/Quercus-agrifolia-fce5107a-0f84-4250-b859-2b1e5e76b953.jpg",
+      "sequence": 8,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 11228,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/27/original/quercus-agrifolia-tree-4.jpg",
+      "sequence": 9,
+      "credit": "J. Reimer and M. Ritter",
+      "attribute_name": "tree-4"
+    },
+    {
+      "photo_link_id": 34031,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/27/original/Quercus-agrifolia-4a037305-3d6e-4af6-9fb0-a7a33a96038d.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 34032,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/27/original/Quercus-agrifolia-(1)-cdbe7719-6576-4622-ae61-faee49dbd27a.jpg",
+      "sequence": 11,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25440,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/27/original/Quercus-agrifolia-578c85c4-a559-4680-b2d4-2ed4e068bfa0.jpg",
+      "sequence": 12,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 31341,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/27/original/Quercus-agrifolia-6bd78716-1b7c-44ce-a624-4e85cb6ea2bf.jpg",
+      "sequence": 13,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 18609,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/27/original/Quercus-agrifolia_4409.jpg",
+      "sequence": 14,
+      "credit": "C. Stubler and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 31694,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/27/original/Quercus-agrifolia-92eb8919-fdc4-4e69-b820-1c3cafabfd46.jpg",
+      "sequence": 15,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 11229,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/27/original/quercus-agrifolia-leaves.jpg",
+      "sequence": 16,
+      "credit": "J. Reimer and M. Ritter",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 11230,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/27/original/quercus-agrifolia-leaves-new.jpg",
+      "sequence": 17,
+      "credit": "J. Reimer and M. Ritter",
+      "attribute_name": "leaves-new"
+    },
+    {
+      "photo_link_id": 11231,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/27/original/quercus-agrifolia-leaves-variation.jpg",
+      "sequence": 18,
+      "credit": "J. Reimer and M. Ritter",
+      "attribute_name": "leaves-variation"
+    },
+    {
+      "photo_link_id": 32938,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/27/original/Quercus-agrifolia-(1)-eeab572c-5c08-443a-a6a7-1dc76af90214.jpg",
+      "sequence": 19,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 11232,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/27/original/quercus-agrifolia-flowers-male.jpg",
+      "sequence": 20,
+      "credit": "J. Reimer and M. Ritter",
+      "attribute_name": "flowers-male"
+    },
+    {
+      "photo_link_id": 11233,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/27/original/quercus-agrifolia-flowers.jpg",
+      "sequence": 21,
+      "credit": "J. Reimer and M. Ritter",
+      "attribute_name": "flowers"
+    },
+    {
+      "photo_link_id": 11235,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/27/original/quercus-agrifolia-leaves-and-fruit.jpg",
+      "sequence": 22,
+      "credit": "J. Reimer and M. Ritter",
+      "attribute_name": "leaves-and-fruit"
+    },
+    {
+      "photo_link_id": 11236,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/27/original/quercus-agrifolia-acorns.jpg",
+      "sequence": 23,
+      "credit": "J. Reimer and M. Ritter",
+      "attribute_name": "acorns"
+    },
+    {
+      "photo_link_id": 31342,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/27/original/Quercus-agrifolia-(1)-196b1d3c-bb92-4fab-ae3d-d1ebd00c00ad.jpg",
+      "sequence": 24,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 11237,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/27/original/quercus-agrifolia-branching.jpg",
+      "sequence": 25,
+      "credit": "J. Reimer and M. Ritter",
+      "attribute_name": "branching"
+    },
+    {
+      "photo_link_id": 25399,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/27/original/Quercus-agrifolia-(1).jpg",
+      "sequence": 26,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25400,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/27/original/Quercus-agrifolia.jpg",
+      "sequence": 27,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 11238,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/27/original/quercus-agrifolia-bark-2.jpg",
+      "sequence": 28,
+      "credit": "J. Reimer and M. Ritter",
+      "attribute_name": "bark-2"
+    },
+    {
+      "photo_link_id": 11239,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/27/original/quercus-agrifolia-bark.jpg",
+      "sequence": 29,
+      "credit": "J. Reimer and M. Ritter",
+      "attribute_name": "bark"
+    }
+  ],
+  "landscape_application": [],
+  "landscape_use": [
+    "Hedged"
+  ],
+  "sunset_zone": [
+    "7",
+    "8",
+    "9",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24"
+  ],
+  "formatted_sunset_zones": [
+    "7 - 9",
+    "14 - 24"
+  ],
+  "usda_zone": [
+    8,
+    9,
+    10
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [
+    "Verticillium"
+  ],
+  "disease_susceptibility": [
+    "Sudden Oak Death",
+    "Crown Rot",
+    "Mistletoe",
+    "Armillaria"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [
+    "Carpenterworm",
+    "Invasive Shot Hole Borer",
+    "Goldspotted Oak Borer",
+    "Aphids"
+  ],
+  "health_hazard": [
+    "Allergy",
+    "Poisonous"
+  ],
+  "attracts_wildlife": [
+    "Birds",
+    "Squirrels"
+  ],
+  "fruit_value": [
+    "Edible",
+    "Wildlife use it"
+  ],
+  "fruiting_time": [
+    "Fall",
+    "Winter"
+  ],
+  "flower_time": [
+    "Spring"
+  ],
+  "flower_color": [
+    "Brown",
+    "Yellow-Green"
+  ],
+  "foliage_growth_color": [
+    "Dark Green"
+  ],
+  "bark_texture": [
+    "Furrowed",
+    "Smooth"
+  ],
+  "tree_shape": [
+    "Rounded"
+  ],
+  "litter_type": [
+    "Dry Fruit"
+  ],
+  "climate_adapted_regions": [
+    "Inland Empire",
+    "Inland Valleys",
+    "Northern California Coast",
+    "Southern California Coast"
+  ],
+  "appraisal_text": "Suggested LCANT 24\" box, Group Rating 3, Approx. cross sectional area 3.80 sq. in.",
+  "app_grrating": "3",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Quercus_agrifolia"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/47850-Quercus-agrifolia"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:295759-1"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 2
+}

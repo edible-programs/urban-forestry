@@ -1,0 +1,334 @@
+{
+  "tree_id": 652,
+  "family": "Garryaceae",
+  "memo": "Drought and salt tolerant, &lt;em&gt;Garrya elliptica &lt;/em&gt;is found naturally along the coastal ranges of California and Oregon. Its leathery leaves have wavy margins that tend to curl, and populate a dense and tidy canopy. This tree produces male and female flowers on separate individuals. The male flowers are particularly showy, displaying long pendant catkins up to 12 inches long in shades of cream, red, green, and yellow. Its large, hanging clusters of berries turn purple-gray and hairy with age. This species can grow on clay-heavy and serpentine soils.&nbsp;",
+  "fragrance": 0,
+  "native_range": "California, Oregon",
+  "photolocations": "Strybing Arboretum - San Francisco, CA, Regional Parks Botanic Garden, Tilden Regional Park - Berkeley, CA  and Rancho Santa Ana Botanic Garden - Claremont, CA",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 1,
+  "ethnobotanical_info": "The wood of Coast Silktassel is utilized by The Yurok Tribe to make traditional tools for scraping mussels off of rocks.",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 0,
+  "schoolyard_use_notes": null,
+  "soil_ph_low": 3,
+  "soil_ph_high": 6,
+  "planting_area": "2 to 4",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Medium",
+  "branch_strength_high": "Medium",
+  "root_damage_potential": "Low",
+  "biogenic_emissions": "",
+  "deer_palatable": null,
+  "height_high": 15,
+  "height_memo": null,
+  "width_high": 15,
+  "growth_rate_high": 24,
+  "water_use": "Low",
+  "salt_tolerance": "High",
+  "fruit_size": "Small",
+  "fruit_color": "Purple, Black",
+  "fruit_type": "Berry",
+  "flower_showiness": "Showy",
+  "bark_color": [
+    "Dark Brown",
+    "Light Green"
+  ],
+  "leaf_arrangement": "Opposite",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Elliptic",
+  "foliage_fall_color": 0,
+  "foliage_type": "Evergreen",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": null,
+  "suitability_map": null,
+  "future_suitability_map": null,
+  "sex_explanation": null,
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 637,
+    "tree_id": 652,
+    "common": "COAST SILKTASSEL",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 0
+  },
+  "primary_taxon": {
+    "taxon_id": 637,
+    "genus": "Garrya",
+    "species": "elliptica",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Garrya elliptica"
+  },
+  "other_taxa": [
+    {
+      "taxon_id": 5622,
+      "genus": "Garrya",
+      "species": "lindleyana",
+      "hybrid_alt_species": null,
+      "subspecies": null,
+      "variety": null,
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 2,
+      "name_concat": "Garrya lindleyana"
+    }
+  ],
+  "other_common": [
+    {
+      "common_id": 14942,
+      "tree_id": 652,
+      "common": "SILK-TASSEL TREE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 1
+    },
+    {
+      "common_id": 11439,
+      "tree_id": 652,
+      "common": "WAVYLEAF SILKTASSEL",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 3181,
+      "tree_id": 652,
+      "common": "SILK-TASSEL BUSH",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 3
+    },
+    {
+      "common_id": 11441,
+      "tree_id": 652,
+      "common": "SILK TASSEL",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 4
+    }
+  ],
+  "genericCommonNames": [
+    "SILKTASSEL"
+  ],
+  "images": [
+    {
+      "photo_link_id": 6097,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/52/original/garrya-elliptica-tree.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 6098,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/52/original/garrya-elliptica-tree-2.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 6099,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/52/original/garrya-elliptica-leaves.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 6100,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/52/original/garrya-elliptica-leaves-2.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter",
+      "attribute_name": "leaves-2"
+    },
+    {
+      "photo_link_id": 6101,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/52/original/garrya-elliptica-leaves-close-up.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter",
+      "attribute_name": "leaves-close-up"
+    },
+    {
+      "photo_link_id": 6102,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/52/original/garrya-elliptica-leaves-3.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter",
+      "attribute_name": "leaves-3"
+    },
+    {
+      "photo_link_id": 6103,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/52/original/garrya-elliptica-leaves-4.jpg",
+      "sequence": 7,
+      "credit": "M. Ritter",
+      "attribute_name": "leaves-4"
+    },
+    {
+      "photo_link_id": 6104,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/52/original/garrya-elliptica-fruit-and-flowers.jpg",
+      "sequence": 8,
+      "credit": "M. Ritter",
+      "attribute_name": "fruit-and-flowers"
+    },
+    {
+      "photo_link_id": 6106,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/52/original/garrya-elliptica-leaves-and-fruit.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter",
+      "attribute_name": "fruit"
+    },
+    {
+      "photo_link_id": 6107,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/52/original/garrya-elliptica-bark.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter",
+      "attribute_name": "bark"
+    },
+    {
+      "photo_link_id": 19993,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/52/original/Garrya-elliptica.jpg",
+      "sequence": 11,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 19994,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/52/original/Garrya-elliptica-(2).jpg",
+      "sequence": 12,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 19995,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/52/original/Garrya-elliptica-(1).jpg",
+      "sequence": 13,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    }
+  ],
+  "landscape_application": [
+    "Screen Tree"
+  ],
+  "landscape_use": [
+    "Hedged"
+  ],
+  "sunset_zone": [
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21"
+  ],
+  "formatted_sunset_zones": [
+    "4 - 9",
+    "14 - 21"
+  ],
+  "usda_zone": [
+    8,
+    9,
+    10
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [
+    "Armillaria",
+    "Root Rot"
+  ],
+  "disease_susceptibility": [],
+  "pest_resistant": [],
+  "pest_susceptibility": [
+    "Aphids"
+  ],
+  "health_hazard": [
+    "Allergy"
+  ],
+  "attracts_wildlife": [
+    "Birds"
+  ],
+  "fruit_value": [
+    "Wildlife use it"
+  ],
+  "fruiting_time": [
+    "Fall",
+    "Winter",
+    "Summer"
+  ],
+  "flower_time": [
+    "Winter",
+    "Spring"
+  ],
+  "flower_color": [
+    "Green",
+    "Yellow",
+    "Cream",
+    "Pink"
+  ],
+  "foliage_growth_color": [
+    "Bluish Green",
+    "Silver",
+    "Gray Green"
+  ],
+  "bark_texture": [
+    "Smooth"
+  ],
+  "tree_shape": [
+    "Rounded",
+    "Shrub"
+  ],
+  "litter_type": [
+    "Wet Fruit"
+  ],
+  "climate_adapted_regions": [
+    "Northern California Coast"
+  ],
+  "appraisal_text": null,
+  "app_grrating": "",
+  "app_lcant": "",
+  "appraisal": "",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Garrya_elliptica"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/53399-Garrya-elliptica"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:271782-1"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 0
+}

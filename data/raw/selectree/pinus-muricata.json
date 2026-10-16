@@ -1,0 +1,461 @@
+{
+  "tree_id": 1058,
+  "family": "Pinaceae",
+  "memo": "Bishop pine always grows within ten miles of the Pacific Ocean, ranging from Cedros Island off the coast of Baja California to the California Channel Islands and on the mainland in scattered sites from northwestern Baja California to Humboldt County. Bishop pine is a two-needle pine with stiff, often twisted needles. Like its close relatives, knobcone pine (Pinus attenuata) and Monterey Pine (Pinus radiata), bishop pine is a closed-cone species with cones that generally open only after a fire has killed the parent tree. Persistent, unopened, asymmetrical cones cling in tight whorls around the branches. Trees in this species are highly variable, becoming dwarfed on poorly-drained, nutrient-deprived soils or growing as tall trees in dense forests in protected habitats. On headlands, trees are broad and wind-shorn with grayish-black furrowed bark.",
+  "fragrance": 0,
+  "native_range": "California",
+  "photolocations": "Mendocino Coast Botanical Gardens - Fort Bragg, CA, Regional Parks Botanic Garden, Tilden Regional Park - Berkeley, CA and Santa Barbara Botanic Garden - Santa Barbara, CA",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 1,
+  "ethnobotanical_info": "",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 0,
+  "schoolyard_use_notes": null,
+  "soil_ph_low": 1,
+  "soil_ph_high": 5,
+  "planting_area": ">7",
+  "shade_tolerant": 0,
+  "branch_strength_low": null,
+  "branch_strength_high": null,
+  "root_damage_potential": "Moderate",
+  "biogenic_emissions": "Moderate",
+  "deer_palatable": 0,
+  "height_high": 70,
+  "height_memo": null,
+  "width_high": 40,
+  "growth_rate_high": 36,
+  "water_use": "Medium",
+  "salt_tolerance": "High",
+  "fruit_size": "Large",
+  "fruit_color": "Brown",
+  "fruit_type": "Cone",
+  "flower_showiness": "",
+  "bark_color": [
+    "Dark Brown"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Needle",
+  "foliage_fall_color": 0,
+  "foliage_type": "Evergreen",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": null,
+  "suitability_map": null,
+  "future_suitability_map": null,
+  "sex_explanation": null,
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 1042,
+    "tree_id": 1058,
+    "common": "BISHOP PINE",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 1
+  },
+  "primary_taxon": {
+    "taxon_id": 1042,
+    "genus": "Pinus",
+    "species": "muricata",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Pinus muricata"
+  },
+  "other_taxa": [],
+  "other_common": [
+    {
+      "common_id": 11977,
+      "tree_id": 1058,
+      "common": "SANTA CRUZ ISLAND PINE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 11978,
+      "tree_id": 1058,
+      "common": "OBISPO PINE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 3
+    },
+    {
+      "common_id": 11979,
+      "tree_id": 1058,
+      "common": "PRICKLE CONE PINE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 4
+    }
+  ],
+  "genericCommonNames": [
+    "PINE"
+  ],
+  "images": [
+    {
+      "photo_link_id": 9733,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/58/original/pinus-muricata-tree-2.jpg",
+      "sequence": 1,
+      "credit": "J. Reimer and M. Ritter",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 25356,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/58/original/Pinus-muricata-93420148-6b5b-468d-81a1-7450264305f8.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 9732,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/58/original/pinus-muricata-tree.jpg",
+      "sequence": 3,
+      "credit": "J. Reimer and M. Ritter",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 25291,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/58/original/Pinus-muricata-(12).jpg",
+      "sequence": 4,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25304,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/58/original/Pinus-muricata-(15).jpg",
+      "sequence": 5,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25292,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/58/original/Pinus-muricata-(1).jpg",
+      "sequence": 6,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25311,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/58/original/Pinus-muricata-(14).jpg",
+      "sequence": 7,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25303,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/58/original/Pinus-muricata-(11).jpg",
+      "sequence": 8,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 9734,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/58/original/pinus-muricata-tree-young.jpg",
+      "sequence": 9,
+      "credit": "J. Reimer and M. Ritter",
+      "attribute_name": "tree-young"
+    },
+    {
+      "photo_link_id": 25300,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/58/original/Pinus-muricata-(13).jpg",
+      "sequence": 10,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25313,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/58/original/Pinus-muricata-(2).jpg",
+      "sequence": 11,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25298,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/58/original/Pinus-muricata-(3).jpg",
+      "sequence": 12,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25307,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/58/original/Pinus-muricata.jpg",
+      "sequence": 13,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 9736,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/58/original/pinus-muricata-needles.jpg",
+      "sequence": 14,
+      "credit": "J. Reimer and M. Ritter",
+      "attribute_name": "needles"
+    },
+    {
+      "photo_link_id": 9737,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/58/original/pinus-muricata-leaves.jpg",
+      "sequence": 15,
+      "credit": "J. Reimer and M. Ritter",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 9735,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/58/original/pinus-muricata-leaves-2.jpg",
+      "sequence": 16,
+      "credit": "J. Reimer and M. Ritter",
+      "attribute_name": "leaves-2"
+    },
+    {
+      "photo_link_id": 9738,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/58/original/pinus-muricata-flowers-female.jpg",
+      "sequence": 17,
+      "credit": "J. Reimer and M. Ritter",
+      "attribute_name": "flowers-female"
+    },
+    {
+      "photo_link_id": 25296,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/58/original/Pinus-muricata-(9).jpg",
+      "sequence": 18,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25294,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/58/original/Pinus-muricata-(8).jpg",
+      "sequence": 19,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25305,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/58/original/Pinus-muricata-(4).jpg",
+      "sequence": 20,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25301,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/58/original/Pinus-muricata-(20).jpg",
+      "sequence": 21,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25308,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/58/original/Pinus-muricata-(21).jpg",
+      "sequence": 22,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25297,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/58/original/Pinus-muricata-(10).jpg",
+      "sequence": 23,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25302,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/58/original/Pinus-muricata-(5).jpg",
+      "sequence": 24,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 9739,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/58/original/pinus-muricata-cone-young.jpg",
+      "sequence": 25,
+      "credit": "J. Reimer and M. Ritter",
+      "attribute_name": "cone-young"
+    },
+    {
+      "photo_link_id": 25306,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/58/original/Pinus-muricata-(17).jpg",
+      "sequence": 26,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 9740,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/58/original/pinus-muricata-cone.jpg",
+      "sequence": 27,
+      "credit": "J. Reimer and M. Ritter",
+      "attribute_name": "cone"
+    },
+    {
+      "photo_link_id": 25299,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/58/original/Pinus-muricata-(18).jpg",
+      "sequence": 28,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25293,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/58/original/Pinus-muricata-(6).jpg",
+      "sequence": 29,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25295,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/58/original/Pinus-muricata-(7).jpg",
+      "sequence": 30,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25310,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/58/original/Pinus-muricata-(22).jpg",
+      "sequence": 31,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 9741,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/58/original/pinus-muricata-pitch-canker-symptoms.jpg",
+      "sequence": 32,
+      "credit": "J. Reimer and M. Ritter",
+      "attribute_name": "pitch-canker-symptoms"
+    },
+    {
+      "photo_link_id": 25309,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/58/original/Pinus-muricata-(16).jpg",
+      "sequence": 33,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25312,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/58/original/Pinus-muricata-(19).jpg",
+      "sequence": 34,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 9742,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/58/original/pinus-muricata-bark.jpg",
+      "sequence": 35,
+      "credit": "J. Reimer and M. Ritter",
+      "attribute_name": "bark"
+    },
+    {
+      "photo_link_id": 9743,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/58/original/pinus-muricata-bark-2.jpg",
+      "sequence": 36,
+      "credit": "J. Reimer and M. Ritter",
+      "attribute_name": "bark-2"
+    }
+  ],
+  "landscape_application": [
+    "Screen Tree"
+  ],
+  "landscape_use": [],
+  "sunset_zone": [
+    "5",
+    "14",
+    "15",
+    "16",
+    "17",
+    "22",
+    "23",
+    "24"
+  ],
+  "formatted_sunset_zones": [
+    "5",
+    "14 - 17",
+    "22 - 24"
+  ],
+  "usda_zone": [
+    7,
+    8,
+    9
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand"
+  ],
+  "disease_resistant": [
+    "Verticillium"
+  ],
+  "disease_susceptibility": [
+    "Armillaria",
+    "Phytophthora",
+    "Root Rot",
+    "Rust"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [
+    "Aphids",
+    "Beetle Borers"
+  ],
+  "health_hazard": [
+    "Allergy"
+  ],
+  "attracts_wildlife": [
+    "Birds",
+    "Squirrels"
+  ],
+  "fruit_value": [],
+  "fruiting_time": [
+    "Fall",
+    "Winter",
+    "Summer"
+  ],
+  "flower_time": [
+    "Spring"
+  ],
+  "flower_color": [],
+  "foliage_growth_color": [
+    "Dark Green"
+  ],
+  "bark_texture": [
+    "Furrowed"
+  ],
+  "tree_shape": [
+    "Conical",
+    "Rounded"
+  ],
+  "litter_type": [
+    "Dry Fruit"
+  ],
+  "climate_adapted_regions": [
+    "Northern California Coast"
+  ],
+  "appraisal_text": "Group 3, Approx. cross sectional area 3.80 sq. in.",
+  "app_grrating": "3",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Pinus_muricata"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/54130-Pinus-muricata"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:314970-2"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 1
+}

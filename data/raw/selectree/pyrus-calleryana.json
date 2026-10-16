@@ -1,0 +1,311 @@
+{
+  "tree_id": 1214,
+  "family": "Rosaceae",
+  "memo": "&lt;em&gt;Pyrus calleryana &lt;/em&gt;is a slender-trunked tree with neat, upright growth and a rounded canopy. In autumn, the canopy puts on a colorful display of foliage ranging from reddish-purple to bronze-red. Its flowers make an appearance in early spring, blanketing a leafless canopy in white. These flowers produce an offensive odor.  Round, yellowish-green to brown pome fruits attract birds.  In some parts of the US this species forms dense thickets and is highly invasive. Its branches can also thorny. &lt;br&gt;&lt;br&gt;The Flora of China, Plants of the World Online, and several horticultural databases consistently treat Pyrus kawakamii as a synonym or variety within Pyrus calleryana, even though western horticulture in California continues to distinguish the two because they behave differently in the landscape. Pyrus calleryana is universally described as a fully deciduous tree, dropping its leaves for an extended winter period and blooming in early spring, whereas Pyrus kawakamii is evergreen to briefly deciduous, losing foliage only for a short interval in mid-winter and flowering several weeks earlier, often in late winter. Bark characteristics also diverge: P. calleryana has gray to grayish brown bark that becomes shallowly fissured with age, while P. kawakamii develops darker gray to brown bark that is deeply furrowed or blocky and appears checkered on mature trunks. The crown architecture further separates the two, with Callery pear forming a dense, upright, vase-shaped canopy with tight branching angles, and evergreen pear forming a rounder, more open canopy with broader, better spaced branches. These morphological and phenological traits align well with field observations in California, where P. kawakamii reliably blooms three to four weeks earlier than P. calleryana. Although major floras now usually lump kawakamii under calleryana, the horticultural distinctions remain pronounced and diagnostically consistent, making the species readily separable in California landscapes.&lt;br&gt;&lt;br&gt;&lt;br&gt;Key to speices in California&lt;br&gt;Tree deciduous for more than one month; bark gray to grayish brown, shallowly fissured; crown often compact and vase shaped toward the top of the trunk, with many narrow branch angles, Callery or Bradford pear (Pyrus calleryana).&lt;br&gt;&lt;br&gt;Tree evergreen or briefly deciduous only in mid-winter; bark dark gray to brown, deeply furrowed in a blocky or checkered pattern; crown rounded or umbrella shaped with a more open branching structure, evergreen pear (Pyrus kawakamii).",
+  "fragrance": 1,
+  "native_range": "China, Vietnam, Japan, and Taiwan",
+  "photolocations": "Cal Poly Campus - San Luis Obispo, CA, Petaluma, CA, Bakersfield, CA, San Jose, CA, Hoyt Arboretum - Portland, OR and Arnold Arboretum - Boston, MA.",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 0,
+  "ethnobotanical_info": "",
+  "pi_invasive": 0,
+  "invasive_text": "This plant is classified as potentially invasive in specific areas of California by the California Invasive Plant Council (&lt;a href=&quot;http://www.cal-ipc.org/&quot;&gt;Cal-IPC&lt;/a&gt;).",
+  "ca_invasive": 1,
+  "schoolyard": 0,
+  "schoolyard_use_notes": null,
+  "soil_ph_low": 1,
+  "soil_ph_high": 7,
+  "planting_area": ">7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Medium",
+  "branch_strength_high": "Medium",
+  "root_damage_potential": "Moderate",
+  "biogenic_emissions": "",
+  "deer_palatable": null,
+  "height_high": 50,
+  "height_memo": null,
+  "width_high": 50,
+  "growth_rate_high": 24,
+  "water_use": "Medium",
+  "salt_tolerance": "Moderate",
+  "fruit_size": "Small",
+  "fruit_color": "Brown, Yellow-Green",
+  "fruit_type": "Pome",
+  "flower_showiness": "Showy",
+  "sex": "Perfect Flowers",
+  "bark_color": [
+    "Light Brown",
+    "Reddish",
+    "Light Gray"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Ovate",
+  "foliage_fall_color": 1,
+  "foliage_type": "Deciduous",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": "Lowest",
+  "suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/14/original/1214_current_suitability_map.png",
+  "future_suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/14/original/1214_future_suitability_map.png",
+  "sex_explanation": "Has male and female reproductive parts in each flower (perfect)",
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 4071,
+    "tree_id": 1214,
+    "common": "CALLERY PEAR",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 0
+  },
+  "primary_taxon": {
+    "taxon_id": 1196,
+    "genus": "Pyrus",
+    "species": "calleryana",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Pyrus calleryana"
+  },
+  "other_taxa": [],
+  "other_common": [
+    {
+      "common_id": 1196,
+      "tree_id": 1214,
+      "common": "FLOWERING ORNAMENTAL PEAR",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 1
+    },
+    {
+      "common_id": 12233,
+      "tree_id": 1214,
+      "common": "BRADFORD PEAR",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    }
+  ],
+  "genericCommonNames": [
+    "PEAR"
+  ],
+  "images": [
+    {
+      "photo_link_id": 11109,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/14/original/pyrus-calleryana-tree-flowering.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-flowering"
+    },
+    {
+      "photo_link_id": 11110,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/14/original/pyrus-calleryana-tree.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 11111,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/14/original/pyrus-calleryana-tree-fall.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-fall"
+    },
+    {
+      "photo_link_id": 11112,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/14/original/pyrus-calleryana-trees-flowering.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "trees-flowering"
+    },
+    {
+      "photo_link_id": 11113,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/14/original/pyrus-calleryana-trees.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "trees"
+    },
+    {
+      "photo_link_id": 11114,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/14/original/pyrus-calleryana-trees-2.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "trees-2"
+    },
+    {
+      "photo_link_id": 11115,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/14/original/pyrus-calleryana-tree-2.jpg",
+      "sequence": 7,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 11116,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/14/original/pyrus-calleryana-leaves.jpg",
+      "sequence": 8,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 11117,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/14/original/pyrus-calleryana-leaves-2.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves-2"
+    },
+    {
+      "photo_link_id": 11118,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/14/original/pyrus-calleryana-leaves-fall.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves-fall"
+    },
+    {
+      "photo_link_id": 11119,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/14/original/pyrus-calleryana-flowers.jpg",
+      "sequence": 11,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "flowers"
+    },
+    {
+      "photo_link_id": 11120,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/14/original/pyrus-calleryana-fruit.jpg",
+      "sequence": 12,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit"
+    },
+    {
+      "photo_link_id": 11121,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/14/original/pyrus-calleryana-fruit-close-up.jpg",
+      "sequence": 13,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit-close-up"
+    },
+    {
+      "photo_link_id": 11122,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/14/original/pyrus-calleryana-bark.jpg",
+      "sequence": 14,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "bark"
+    }
+  ],
+  "landscape_application": [],
+  "landscape_use": [],
+  "sunset_zone": [
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21"
+  ],
+  "formatted_sunset_zones": [
+    "2 - 9",
+    "14 - 21"
+  ],
+  "usda_zone": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    4
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [
+    "Fair Resistance to Fire Blight",
+    "Armillaria",
+    "Verticillium",
+    "Root Rot"
+  ],
+  "disease_susceptibility": [
+    "Sooty Mold"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [
+    "White Fly"
+  ],
+  "health_hazard": [
+    "Allergy"
+  ],
+  "attracts_wildlife": [
+    "Birds"
+  ],
+  "fruit_value": [
+    "Wildlife use it"
+  ],
+  "fruiting_time": [
+    "Summer"
+  ],
+  "flower_time": [
+    "Winter",
+    "Spring"
+  ],
+  "flower_color": [
+    "White"
+  ],
+  "foliage_growth_color": [
+    "Dark Green"
+  ],
+  "bark_texture": [
+    "Blocky",
+    "Furrowed",
+    "Ridged"
+  ],
+  "tree_shape": [
+    "Rounded"
+  ],
+  "litter_type": [
+    "Wet Fruit"
+  ],
+  "climate_adapted_regions": [],
+  "appraisal_text": "Suggested LCANT 24\" box, Group Rating 2, Approx. cross sectional area 2.24 sq. in.",
+  "app_grrating": "2",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Pyrus_calleryana"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/119793-Pyrus-calleryana"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:730740-1"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 0
+}

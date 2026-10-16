@@ -1,0 +1,351 @@
+{
+  "tree_id": 1039,
+  "family": "Pinaceae",
+  "memo": "Lodgepole pine, a two-needle pine, is widely distributed in western North America, with a greater elevation range and a wider range of habitats than any other pine species. Three of the four subspecies grow in California. Sierra lodgepole (subsp. murrayana), also known as tamarack pine, occurs at high elevations, often in wet places in the eastern Transverse, Sierra Nevada, Cascade, and Klamath ranges. It is usually an erect tree with thin, flaky bark and has golf-ball-sized cones that open when mature. Shore pine (subsp. contorta) often has crooked trunks with thick furrowed bark and grows on coastal terraces from northern California to Alaska. The third California subspecies (subsp. bolanderi), or Mendocino White Plains lodgepole, is a dwarf tree constrained to stunted forests on highly acidic soils of old marine terraces around Fort Bragg. It is a closed-cone pine that releases its seeds after fire. Rocky Mountain lodgepole (subsp. latifolia) doesn't occur in California.",
+  "fragrance": 0,
+  "native_range": "California",
+  "photolocations": "San Jacinto, CA, Rancho Santa Ana Botanic Gardens - Claremont, CA, Tilden Regional Parks Botanic Garden - Berkeley, CA, UC Berkeley Botanic Garden - Berkeley, CA, Finch Arboretum - Spokane, WA  and Hoyt Arboretum - Portland, OR",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 0,
+  "ethnobotanical_info": "",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 0,
+  "schoolyard_use_notes": null,
+  "soil_ph_low": 1,
+  "soil_ph_high": 5,
+  "planting_area": "4 to 7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Strong",
+  "branch_strength_high": "Strong",
+  "root_damage_potential": "Moderate",
+  "biogenic_emissions": "Moderate",
+  "deer_palatable": 0,
+  "height_high": 40,
+  "height_memo": null,
+  "width_high": 35,
+  "growth_rate_high": 36,
+  "water_use": "Low",
+  "salt_tolerance": "High",
+  "fruit_size": "Medium",
+  "fruit_color": "Brown or Yellow",
+  "fruit_type": "Cone",
+  "flower_showiness": "",
+  "sex": "Perfect Flowers",
+  "bark_color": [
+    "Orange",
+    "Purple or Red Brown"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Needle",
+  "foliage_fall_color": 0,
+  "foliage_type": "Evergreen",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": null,
+  "suitability_map": null,
+  "future_suitability_map": null,
+  "sex_explanation": "Has male and female reproductive parts in each flower (perfect)",
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 10161,
+    "tree_id": 1039,
+    "common": "MENDOCINO WHITE PLAINS LODGEPOLE",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": null
+  },
+  "primary_taxon": {
+    "taxon_id": 1023,
+    "genus": "Pinus",
+    "species": "contorta",
+    "hybrid_alt_species": "",
+    "subspecies": "bolanderi",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Pinus contorta subsp. bolanderi"
+  },
+  "other_taxa": [
+    {
+      "taxon_id": 2357,
+      "genus": "Pinus",
+      "species": "contorta",
+      "hybrid_alt_species": "",
+      "subspecies": "",
+      "variety": "",
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 2,
+      "name_concat": "Pinus contorta"
+    },
+    {
+      "taxon_id": 3148,
+      "genus": "Pinus",
+      "species": "contorta",
+      "hybrid_alt_species": "",
+      "subspecies": "",
+      "variety": "contorta",
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 3,
+      "name_concat": "Pinus contorta var. contorta"
+    }
+  ],
+  "other_common": [
+    {
+      "common_id": 1023,
+      "tree_id": 1039,
+      "common": "SHORE PINE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 3788,
+      "tree_id": 1039,
+      "common": "BEACH PINE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    }
+  ],
+  "genericCommonNames": [
+    "PINE"
+  ],
+  "images": [
+    {
+      "photo_link_id": 9517,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/39/original/pinus-contorta-bolanderi-tree.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 9518,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/39/original/pinus-contorta-bolanderi-leaves-2.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "leaves-2"
+    },
+    {
+      "photo_link_id": 9519,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/39/original/pinus-contorta-bolanderi-leaves.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 33224,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/39/original/Pinus-contorta.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 9520,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/39/original/pinus-contorta-bolanderi-leaves-3.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "leaves-3"
+    },
+    {
+      "photo_link_id": 9521,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/39/original/pinus-contorta-bolanderi-flowers-male.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "flowers-male"
+    },
+    {
+      "photo_link_id": 9522,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/39/original/pinus-contorta-bolanderi-flowers-male-2.jpg",
+      "sequence": 7,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "flowers-male-2"
+    },
+    {
+      "photo_link_id": 9523,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/39/original/pinus-contorta-bolanderi-leaves-and-flowers.jpg",
+      "sequence": 8,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "leaves-and-flowers"
+    },
+    {
+      "photo_link_id": 9524,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/39/original/pinus-contorta-bolanderi-leaves-and-cones.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "leaves-and-cones"
+    },
+    {
+      "photo_link_id": 33225,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/39/original/Pinus-contorta-(2).jpg",
+      "sequence": 10,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 9525,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/39/original/pinus-contorta-bolanderi-cone-3.jpg",
+      "sequence": 11,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "cone-3"
+    },
+    {
+      "photo_link_id": 9526,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/39/original/pinus-contorta-bolanderi-cones-2.jpg",
+      "sequence": 12,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "cones-2"
+    },
+    {
+      "photo_link_id": 9527,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/39/original/pinus-contorta-bolanderi-cones.jpg",
+      "sequence": 13,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "cones"
+    },
+    {
+      "photo_link_id": 9528,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/39/original/pinus-contorta-bolanderi-cone.jpg",
+      "sequence": 14,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "cone"
+    },
+    {
+      "photo_link_id": 33223,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/39/original/Pinus-contorta-(1).jpg",
+      "sequence": 15,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 9529,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/39/original/pinus-contorta-bolanderi-bark.jpg",
+      "sequence": 16,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "bark"
+    }
+  ],
+  "landscape_application": [
+    "Container",
+    "Screen Tree"
+  ],
+  "landscape_use": [
+    "Bonsai"
+  ],
+  "sunset_zone": [
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "24"
+  ],
+  "formatted_sunset_zones": [
+    "4 - 9",
+    "14 - 22",
+    "24"
+  ],
+  "usda_zone": [
+    6,
+    7,
+    8
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand"
+  ],
+  "disease_resistant": [
+    "Verticillium",
+    "Phytophthora ramorum (Sudden Oak Death)"
+  ],
+  "disease_susceptibility": [
+    "Armillaria",
+    "Root Rot",
+    "Pitch Canker"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [
+    "Aphids",
+    "Beetle Borers",
+    "Mountain Pine Beetle",
+    "Red Turpentine Beetle"
+  ],
+  "health_hazard": [
+    "Allergy"
+  ],
+  "attracts_wildlife": [
+    "Birds",
+    "Squirrels"
+  ],
+  "fruit_value": [],
+  "fruiting_time": [
+    "Fall",
+    "Winter"
+  ],
+  "flower_time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower_color": [],
+  "foliage_growth_color": [
+    "Dark Green"
+  ],
+  "bark_texture": [
+    "Furrowed",
+    "Scaly"
+  ],
+  "tree_shape": [
+    "Conical"
+  ],
+  "litter_type": [
+    "Dry Fruit"
+  ],
+  "climate_adapted_regions": [],
+  "appraisal_text": "Suggested LCANT 24\" box, Group Rating 1, Approx. cross sectional area 2.09 sq. in.",
+  "app_grrating": "1",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Pinus_contorta"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/48934-Pinus-contorta"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:196949-2"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 2
+}

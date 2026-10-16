@@ -1,0 +1,417 @@
+{
+  "tree_id": 1266,
+  "family": "Fagaceae",
+  "memo": "This tree is a versatile and hardy evergreen, often found in urban landscapes. It has leathery, dark green leaves that provide a dense canopy, offering ample shade. The tree's acorns are a favorite among local wildlife, adding to its ecological value. Its bark is deeply furrowed, giving it a rugged and textured appearance. This tree is drought-tolerant, making it a practical choice for areas with limited water availability. With its robust structure and minimal maintenance needs, it is well-suited for parks, streets, and residential yards.",
+  "fragrance": 0,
+  "native_range": "California",
+  "photolocations": "Swanton Pacific Ranch - Davenport, CA, LA County Arboretum - Arcadia, CA, San Luis Obispo, CA and Strybing Arboretum - San Francisco, CA",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 1,
+  "ethnobotanical_info": "",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 1,
+  "schoolyard_use_notes": "This tree is great for learning about leaf morphology and variation, ethnobotany, and ecology.  The shiny, green leaves also vary widely in shape within one tree and among many trees; some are more deeply lobed while others may be entire. The acorns and acorn cupules are great materials for natural art projects. The tree is an important food resource and habitat for mammals and birds. Deer often browse the young growth.&nbsp;",
+  "soil_ph_low": 1,
+  "soil_ph_high": 5,
+  "planting_area": ">7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Strong",
+  "branch_strength_high": "Strong",
+  "root_damage_potential": "Moderate",
+  "biogenic_emissions": "High",
+  "deer_palatable": null,
+  "height_high": 70,
+  "height_memo": null,
+  "width_high": 75,
+  "growth_rate_high": 24,
+  "water_use": "Medium",
+  "salt_tolerance": "Low",
+  "fruit_size": "Medium",
+  "fruit_color": "Brown",
+  "fruit_type": "Acorn",
+  "flower_showiness": "Inconspicuous",
+  "bark_color": [
+    "Dark Brown"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Spear Shaped",
+  "foliage_fall_color": 0,
+  "foliage_type": "Evergreen",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": null,
+  "suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/66/original/1266_current_suitability_map.png",
+  "future_suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/66/original/1266_future_suitability_map.png",
+  "sex_explanation": null,
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 1248,
+    "tree_id": 1266,
+    "common": "INTERIOR LIVE OAK",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 0
+  },
+  "primary_taxon": {
+    "taxon_id": 1248,
+    "genus": "Quercus",
+    "species": "wislizeni",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Quercus wislizeni"
+  },
+  "other_taxa": [],
+  "other_common": [
+    {
+      "common_id": 4168,
+      "tree_id": 1266,
+      "common": "SIERRA LIVE OAK",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 1
+    }
+  ],
+  "genericCommonNames": [
+    "OAK"
+  ],
+  "images": [
+    {
+      "photo_link_id": 25773,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/66/original/Quercus-wislizeni-(1)-06fec42f-2886-49b1-ae59-d4a592cef360.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 11689,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/66/original/quercus-wislizeni-tree.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter, C. Stubler and J. Reimer",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 11690,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/66/original/quercus-wislizeni-tree-2.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter, C. Stubler and J. Reimer",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 25772,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/66/original/Quercus-wislizeni-97b9a022-e3ab-4625-9d30-75e183bc6bcc.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 11691,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/66/original/quercus-wislizeni-tree-3.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter, C. Stubler and J. Reimer",
+      "attribute_name": "tree-3"
+    },
+    {
+      "photo_link_id": 23980,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/66/original/Quercus-wislizeni-(3)-40c42a4c-2ca2-42ce-ba07-3ff015d4435c.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 23983,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/66/original/Quercus-wislizeni-(4)-af7e128a-caed-4b84-a243-0f1473d17d68.jpg",
+      "sequence": 7,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 23982,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/66/original/Quercus-wislizeni-(2)-0d56897d-7eb5-40d9-94c1-8958da871f5f.jpg",
+      "sequence": 8,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 32485,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/66/original/Quercus-wislizeni-(1)-7320d72d-2260-4837-9ff8-ce4152de8fa4.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 21017,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/66/original/Quercus-wislizeni-(5).jpg",
+      "sequence": 10,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 21018,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/66/original/Quercus-wislizeni-(3).jpg",
+      "sequence": 11,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 32484,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/66/original/Quercus-wislizeni-(2)-972d33f6-4142-4898-81d5-d148d009d030.jpg",
+      "sequence": 12,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25771,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/66/original/Quercus-wislizeni-(2)-8b12dee5-a0c1-42c2-9c76-72a18a90335b.jpg",
+      "sequence": 13,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 11692,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/66/original/quercus-wislizeni-leaves.jpg",
+      "sequence": 14,
+      "credit": "M. Ritter, C. Stubler and J. Reimer",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 11693,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/66/original/quercus-wislizeni-leaves-2.jpg",
+      "sequence": 15,
+      "credit": "M. Ritter, C. Stubler and J. Reimer",
+      "attribute_name": "leaves-2"
+    },
+    {
+      "photo_link_id": 11694,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/66/original/quercus-wislizeni-leaves-3.jpg",
+      "sequence": 16,
+      "credit": "M. Ritter, C. Stubler and J. Reimer",
+      "attribute_name": "leaves-3"
+    },
+    {
+      "photo_link_id": 21019,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/66/original/Quercus-wislizeni-(6).jpg",
+      "sequence": 17,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 21013,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/66/original/Quercus-wislizeni.jpg",
+      "sequence": 18,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 21015,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/66/original/Quercus-wislizeni-(2).jpg",
+      "sequence": 19,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 21014,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/66/original/Quercus-wislizeni-(1).jpg",
+      "sequence": 20,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 23332,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/66/original/Quercus-wislizeni1.jpg",
+      "sequence": 21,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 23331,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/66/original/Quercus-wislizeni-dc0b40a3-f247-41c1-b38f-a522e9414fc6.jpg",
+      "sequence": 22,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 31697,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/66/original/Quercus-wislezeni.jpg",
+      "sequence": 23,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 11695,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/66/original/quercus-wislizeni-flowers.jpg",
+      "sequence": 24,
+      "credit": "M. Ritter, C. Stubler and J. Reimer",
+      "attribute_name": "flowers"
+    },
+    {
+      "photo_link_id": 21016,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/66/original/Quercus-wislizeni-(4).jpg",
+      "sequence": 25,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 23979,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/66/original/Quercus-wislizeni-48ea6ac9-9e40-423e-9791-02f41f1bd837.jpg",
+      "sequence": 26,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 23981,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/66/original/Quercus-wislizeni-(1)-531c80e9-16fe-4df7-ad0d-890c43a0a6b4.jpg",
+      "sequence": 27,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 11696,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/66/original/quercus-wislizeni-acorns.jpg",
+      "sequence": 28,
+      "credit": "M. Ritter, C. Stubler and J. Reimer",
+      "attribute_name": "acorns"
+    },
+    {
+      "photo_link_id": 32483,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/66/original/Quercus-wislizeni-1de9c4a2-2398-4ce4-8e41-b2f2bc87c05d.jpg",
+      "sequence": 29,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 11697,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/66/original/quercus-wislizeni-bark.jpg",
+      "sequence": 30,
+      "credit": "M. Ritter, C. Stubler and J. Reimer",
+      "attribute_name": "bark"
+    },
+    {
+      "photo_link_id": 11698,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/66/original/quercus-wislizeni-bark-2.jpg",
+      "sequence": 31,
+      "credit": "M. Ritter, C. Stubler and J. Reimer",
+      "attribute_name": "bark-2"
+    }
+  ],
+  "landscape_application": [],
+  "landscape_use": [],
+  "sunset_zone": [
+    "7",
+    "8",
+    "9",
+    "14",
+    "15",
+    "16",
+    "18",
+    "19",
+    "20",
+    "21"
+  ],
+  "formatted_sunset_zones": [
+    "7 - 9",
+    "14 - 16",
+    "18 - 21"
+  ],
+  "usda_zone": [
+    8,
+    9,
+    10
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [
+    "Verticillium"
+  ],
+  "disease_susceptibility": [
+    "Armillaria",
+    "Crown Rot",
+    "Mistletoe",
+    "Powdery Mildew"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [
+    "Caterpillars",
+    "Coddling Moths",
+    "Insect Galls",
+    "White Fly"
+  ],
+  "health_hazard": [
+    "Allergy",
+    "Poisonous"
+  ],
+  "attracts_wildlife": [
+    "Birds",
+    "Squirrels"
+  ],
+  "fruit_value": [],
+  "fruiting_time": [
+    "Fall",
+    "Winter"
+  ],
+  "flower_time": [
+    "Spring"
+  ],
+  "flower_color": [],
+  "foliage_growth_color": [
+    "Green"
+  ],
+  "bark_texture": [
+    "Furrowed",
+    "Ridged",
+    "Scaly"
+  ],
+  "tree_shape": [
+    "Rounded",
+    "Vase"
+  ],
+  "litter_type": [
+    "Dry Fruit"
+  ],
+  "climate_adapted_regions": [
+    "Inland Valleys",
+    "Interior West",
+    "Northern California Coast"
+  ],
+  "appraisal_text": "Suggested LCANT 24\" box, Group Rating 2, Approx. cross sectional area 2.24 sq. in.",
+  "app_grrating": "2",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Quercus_wislizeni"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/51089-Quercus-wislizeni"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:296923-1"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 2
+}

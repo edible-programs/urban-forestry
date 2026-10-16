@@ -1,0 +1,482 @@
+{
+  "tree_id": 58,
+  "family": "Sapindaceae",
+  "memo": "The 130 or so maple species grow almost entirely in temperate areas of the northern hemisphere. In California, we have four species, two of which are trees. The largest and most long-lived of these is big-leaf maple. This winter-deciduous tree grows in riparian areas and mixed-evergreen forests from southern California to Alaska. Its lobed leaves can be a foot wide. Maples have winged fruits, called samaras or keys, formed in pairs that spin helicopter-like through the air when dispersing from the tree.&nbsp;",
+  "fragrance": 1,
+  "native_range": "California and Oregon",
+  "photolocations": "Big Sur, CA, Washington Park Arboretum - Seattle, WA, Stanford, CA, Rancho Santa Ana Botanic Garden - Claremont, CA and Regional Parks Botanic Garden, Tilden Regional Park - Berkeley, CA and UC Santa Cruz Arboretum - Santa Cruz, CA",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 1,
+  "ethnobotanical_info": "",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 1,
+  "schoolyard_use_notes": "It has large, star-shaped lobed leaves that offer an introduction to concepts like leaf morphology, photosynthesis, and plant adaptation. The leaves are deciduous and can be incorporated into lessons about seasonality. The leaves and fruits are fun to trace and draw. The dry winged fruits are wind dispersed and helicopter through the air.&nbsp;",
+  "soil_ph_low": 1,
+  "soil_ph_high": 5,
+  "planting_area": ">7",
+  "shade_tolerant": 1,
+  "branch_strength_low": "Medium",
+  "branch_strength_high": "Medium",
+  "root_damage_potential": "High",
+  "biogenic_emissions": "Moderate",
+  "deer_palatable": 0,
+  "height_high": 80,
+  "height_memo": null,
+  "width_high": 50,
+  "growth_rate_high": 36,
+  "water_use": "High",
+  "salt_tolerance": "Moderate",
+  "fruit_size": "Large",
+  "fruit_color": "Brown or Mostly Green",
+  "fruit_type": "Samara",
+  "flower_showiness": "Inconspicuous",
+  "bark_color": [
+    "Red Brown"
+  ],
+  "leaf_arrangement": "Opposite",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Palmately Lobed",
+  "foliage_fall_color": 1,
+  "foliage_type": "Deciduous",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": null,
+  "suitability_map": null,
+  "future_suitability_map": null,
+  "sex_explanation": null,
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 58,
+    "tree_id": 58,
+    "common": "BIGLEAF MAPLE",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 0
+  },
+  "primary_taxon": {
+    "taxon_id": 58,
+    "genus": "Acer",
+    "species": "macrophyllum",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Acer macrophyllum"
+  },
+  "other_taxa": [],
+  "other_common": [
+    {
+      "common_id": 2164,
+      "tree_id": 58,
+      "common": "OREGON MAPLE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 1
+    },
+    {
+      "common_id": 10607,
+      "tree_id": 58,
+      "common": "CANYON MAPLE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 10608,
+      "tree_id": 58,
+      "common": "PACIFIC MAPLE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 3
+    },
+    {
+      "common_id": 10609,
+      "tree_id": 58,
+      "common": "BROAD LEAVED MAPLE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 4
+    },
+    {
+      "common_id": 10610,
+      "tree_id": 58,
+      "common": "BIG LEAF MAPLE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 5
+    },
+    {
+      "common_id": 10611,
+      "tree_id": 58,
+      "common": "BIG LEAVED MAPLE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 6
+    }
+  ],
+  "genericCommonNames": [
+    "MAPLE"
+  ],
+  "images": [
+    {
+      "photo_link_id": 593,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/58/original/acer-macrophyllum-tree-2.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 594,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/58/original/acer-macrophyllum-tree.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 27057,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/58/original/Acer-macrophyllum-(1)-f6c4932d-abe1-4ae7-bd1e-9849298459f3.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 27058,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/58/original/Acer-macrophyllum-6907253a-053b-4257-8d53-c267a67eec3b.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 33556,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/58/original/Acer-macrophyllum-(2)-c1eff0e5-19d3-4387-b2c5-4dd00165ca50.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20404,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/58/original/Acer-macrophyllum-(3).jpg",
+      "sequence": 6,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20406,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/58/original/Acer-macrophyllum-(2).jpg",
+      "sequence": 7,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 595,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/58/original/acer-macrophyllum-canopy.jpg",
+      "sequence": 8,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "canopy"
+    },
+    {
+      "photo_link_id": 596,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/58/original/acer-macrophyllum-leaves.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 22657,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/58/original/Acer-macrophyllum-ba8b247e-53b2-4266-8125-235b240ac22b.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 597,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/58/original/acer-macrophyllum-leaves-2.jpg",
+      "sequence": 11,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves-2"
+    },
+    {
+      "photo_link_id": 33555,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/58/original/Acer-macrophyllum-37102b63-1c5e-415a-a6a7-c259fd1e1c50.jpg",
+      "sequence": 12,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 598,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/58/original/acer-macrophyllum-leaves-3.jpg",
+      "sequence": 13,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves-3"
+    },
+    {
+      "photo_link_id": 599,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/58/original/acer-macrophyllum-leaves-young.jpg",
+      "sequence": 14,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves-young"
+    },
+    {
+      "photo_link_id": 25011,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/58/original/Acer-macrophyllum-0a92610b-b864-40ab-bf0c-23798811e624.jpg",
+      "sequence": 15,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 33554,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/58/original/Acer-macrophyllum-(1)-45ac6810-fde6-49ba-873c-8be63d04d710.jpg",
+      "sequence": 16,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20924,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/58/original/Acer-macrophyllum-38c6b713-795e-47e9-a72f-e4c76ba8b1d4.jpg",
+      "sequence": 17,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 22654,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/58/original/Acer-macrophyllum-flowers-Wind-Wolves---3-dad6a68b-7886-413c-9e82-e182cd478fd2.jpg",
+      "sequence": 18,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 22656,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/58/original/Acer-macrophyllum-flowers-Wind-Wolves---1-bb373eee-34dc-4220-a1f3-3e2a7ae235de.jpg",
+      "sequence": 19,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20405,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/58/original/Acer-macrophyllum-(1).jpg",
+      "sequence": 20,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20407,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/58/original/Acer-macrophyllum.jpg",
+      "sequence": 21,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 600,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/58/original/acer-macrophyllum-flowers.jpg",
+      "sequence": 22,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "flowers"
+    },
+    {
+      "photo_link_id": 601,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/58/original/acer-macrophyllum-fruit.jpg",
+      "sequence": 23,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit"
+    },
+    {
+      "photo_link_id": 602,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/58/original/acer-macrophyllum-fruit-3.jpg",
+      "sequence": 24,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit-3"
+    },
+    {
+      "photo_link_id": 603,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/58/original/acer-macrophyllum-fruit-4.jpg",
+      "sequence": 25,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit-4"
+    },
+    {
+      "photo_link_id": 604,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/58/original/acer-macrophyllum-fruit-2.jpg",
+      "sequence": 26,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit-2"
+    },
+    {
+      "photo_link_id": 20925,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/58/original/Acer-macrophyllum-(2)-51de6436-214a-4fc1-9347-034785329edd.jpg",
+      "sequence": 27,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20926,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/58/original/Acer-macrophyllum-(3)-66889d2d-6cda-4338-a811-f7d45b66eb69.jpg",
+      "sequence": 28,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 22655,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/58/original/Acer-macrophyllum-flowers-Wind-Wolves---2-c1f2f316-571c-4add-b57b-c8a433a55067.jpg",
+      "sequence": 29,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20927,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/58/original/Acer-macrophyllum-(1)-4a5a691e-9525-4f23-87fb-35a2939ea350.jpg",
+      "sequence": 30,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25214,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/58/original/Acer-macrophyllum-(1)-5988d6a4-3c00-4d95-8a0f-6b761b30389e.jpg",
+      "sequence": 31,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25213,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/58/original/Acer-macrophyllum-3bc23fcb-27a0-432a-b49a-eb9667ca80bb.jpg",
+      "sequence": 32,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 605,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/58/original/acer-macrophyllum-bark.jpg",
+      "sequence": 33,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "bark"
+    },
+    {
+      "photo_link_id": 606,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/58/original/acer-macrophyllum-bark-2.jpg",
+      "sequence": 34,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "bark-2"
+    }
+  ],
+  "landscape_application": [
+    "Riparian"
+  ],
+  "landscape_use": [],
+  "sunset_zone": [
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24"
+  ],
+  "formatted_sunset_zones": [
+    "2 - 9",
+    "14 - 24"
+  ],
+  "usda_zone": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand"
+  ],
+  "disease_resistant": [],
+  "disease_susceptibility": [
+    "Sudden Oak Death",
+    "Root Rot",
+    "Armillaria",
+    "Annosus Root Disease"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [
+    "Invasive Shot Hole Borer",
+    "Beetle Borers",
+    "California Flathead Borer",
+    "Caterpillars"
+  ],
+  "health_hazard": [
+    "Allergy"
+  ],
+  "attracts_wildlife": [
+    "Bees"
+  ],
+  "fruit_value": [],
+  "fruiting_time": [
+    "Winter",
+    "Summer"
+  ],
+  "flower_time": [
+    "Spring"
+  ],
+  "flower_color": [
+    "Yellow"
+  ],
+  "foliage_growth_color": [
+    "Green"
+  ],
+  "bark_texture": [
+    "Furrowed"
+  ],
+  "tree_shape": [
+    "Rounded"
+  ],
+  "litter_type": [
+    "Dry Fruit"
+  ],
+  "climate_adapted_regions": [
+    "Northern California Coast"
+  ],
+  "appraisal_text": "Suggested LCANT 24\" box, Group Rating 3, Approx. cross sectional area 3.80 sq. in.",
+  "app_grrating": "3",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Acer_macrophyllum"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/48227-Acer-macrophyllum"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:317376-2"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "/bigleaf-maple/"
+    }
+  ],
+  "champ_count": 1
+}

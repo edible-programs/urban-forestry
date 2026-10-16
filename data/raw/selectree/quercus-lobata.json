@@ -1,0 +1,415 @@
+{
+  "tree_id": 1246,
+  "family": "Fagaceae",
+  "memo": "The valley oak is among the world's largest oak species. It grows only in California's Central Valley, Coast Ranges, and Sierra Nevada foothills. Its massive trunk, covered by deeply checkered bark, supports a rounded canopy of lobed, deciduous leaves. Since valley oaks grow on deep, moist loam, farmland development over the last 200 years displaced many trees throughout the range, and remaining stands of mature trees are now uncommon. In many areas valley oaks have been unsuccessful in reproduction for years; as old trees die, there are no young trees to replace them.",
+  "fragrance": 0,
+  "native_range": "California",
+  "photolocations": "Tilden Regional Parks Botanical Garden - Berkeley, CA, San Luis Obispo, CA, Los Gatos, CA, Visalia, CA, Rancho Santa Ana Botanic Garden - Claremont, CA, Los Angeles County Arboretum - Arcadia, CA and Albuquerque BioPark - Rio Grande Botanic Garden",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 1,
+  "ethnobotanical_info": "This tree can provide opportunities to learn about leaf morphology, species distributions, ethnobotany, ecology, and conservation biology. The deeply lobed leaves of this tree are a great introduction to leaf morphology and can be used in art projects as they are visually interesting. The tree may also be an interesting introduction to species distributions especially when compared to &lt;em&gt;Q. douglasii&lt;/em&gt;. These trees often occur nearby but in different habitats. &lt;em&gt;Q. douglasii&lt;/em&gt; is much more tolerant to shallower, arid soils and thus is found on hillsides while &lt;em&gt;Q. lobata&lt;/em&gt; needs deep, rich soils and is located in flat areas like valley floors. These trees may also be used for lessons and activities about ethnobotany as the acorns were an important food resource for many indigenous peoples in California and are palatable and sweet. In fact, most parts of this tree were used; the bark was used to make black dye, the galls were used as medicine, and the wood was used for construction. In addition to human uses, this tree provides important food resources and habitat to a number of birds and small mammals as well as insects. Galls from native wasps can be found along the branches of the tree. &lt;em&gt;Q. lobata&lt;/em&gt; also provides a great opportunity to learn about threats to plant species and conservation biology. Valley oaks need deep, rich soils and were indicators of prime cropland. Many trees were lost as lands in the Central Valley of California were developed for agriculture. Now there are protections hindering the removal of these trees, but the populations still struggle to regenerate due to increased seed predation and the removal of seedlings and saplings from developed land.",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 1,
+  "schoolyard_use_notes": "This tree has deeply lobed leaves and a broad, spreading canopy that provides ample shade. Its leaves turn a striking yellow in the fall, making it a great subject for lessons on seasonal changes. The tree produces acorns, which can be used to teach about seed dispersal and the role of trees in local ecosystems. The rough, furrowed bark can be examined to understand tree age and growth patterns.",
+  "soil_ph_low": 3,
+  "soil_ph_high": 7,
+  "planting_area": ">7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Medium",
+  "branch_strength_high": "Medium Strong",
+  "root_damage_potential": "Moderate",
+  "biogenic_emissions": "Moderate",
+  "deer_palatable": null,
+  "height_high": 70,
+  "height_memo": null,
+  "width_high": 50,
+  "growth_rate_high": 36,
+  "water_use": "Medium",
+  "salt_tolerance": "Low",
+  "fruit_size": "Medium",
+  "fruit_color": "Brown",
+  "fruit_type": "Acorn",
+  "flower_showiness": "Inconspicuous",
+  "bark_color": [
+    "Dark Brown",
+    "Light Gray or Light Green"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Obovate",
+  "foliage_fall_color": 1,
+  "foliage_type": "Deciduous",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": null,
+  "suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/46/original/1246_current_suitability_map.png",
+  "future_suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/46/original/1246_future_suitability_map.png",
+  "sex_explanation": null,
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 1228,
+    "tree_id": 1246,
+    "common": "VALLEY OAK",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 0
+  },
+  "primary_taxon": {
+    "taxon_id": 1228,
+    "genus": "Quercus",
+    "species": "lobata",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Quercus lobata"
+  },
+  "other_taxa": [],
+  "other_common": [
+    {
+      "common_id": 4134,
+      "tree_id": 1246,
+      "common": "CALIFORNIA WHITE OAK",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 1
+    },
+    {
+      "common_id": 6688,
+      "tree_id": 1246,
+      "common": "ROBLE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    }
+  ],
+  "genericCommonNames": [
+    "OAK"
+  ],
+  "images": [
+    {
+      "photo_link_id": 11459,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/46/original/quercus-lobata-tree-4.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-4"
+    },
+    {
+      "photo_link_id": 11460,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/46/original/quercus-lobata-tree-3.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-3"
+    },
+    {
+      "photo_link_id": 26244,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/46/original/Quercus-lobata-4019dc96-d320-4a6d-b3e7-e6c95e955c44.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter ",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 11461,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/46/original/quercus-lobata-tree-2.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 32495,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/46/original/Quercus-lobata-(2)-329270e2-7ee5-4e11-bd29-8202d3d12d4b.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 11462,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/46/original/quercus-lobata-tree.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 11463,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/46/original/quercus-lobata-tree-5.jpg",
+      "sequence": 7,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-5"
+    },
+    {
+      "photo_link_id": 11464,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/46/original/quercus-lobata-canopy.jpg",
+      "sequence": 8,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "canopy"
+    },
+    {
+      "photo_link_id": 20565,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/46/original/Quercus-lobata-a0aad5ca-c1d0-49be-bf3d-9ab4aee82971.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 31696,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/46/original/Quercus-lobata-591b1b94-7d03-45b6-bc48-9bff09c21381.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 24134,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/46/original/Quercus-lobata-b9502f5c-39ba-4d06-8f3d-40980d1c96e8.jpg",
+      "sequence": 11,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25443,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/46/original/Quercus-lobata-907725f1-9686-48aa-b918-12b11ebb7dee.jpg",
+      "sequence": 12,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 19988,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/46/original/Quercus-lobata.jpg",
+      "sequence": 13,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 21012,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/46/original/Quercus-lobata-256f7e7b-eded-4f68-a76b-264751ecb8a7.jpg",
+      "sequence": 14,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 24133,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/46/original/Quercus-lobata-(1)-1f6ffc8e-f325-4b97-9279-c5f8c23bcaf6.jpg",
+      "sequence": 15,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 21010,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/46/original/Quercus-lobata-(1).jpg",
+      "sequence": 16,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 32496,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/46/original/Quercus-lobata-4637b700-e590-4e70-9331-83e0523df4ad.jpg",
+      "sequence": 17,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 11466,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/46/original/quercus-lobata-leaves-2.jpg",
+      "sequence": 18,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves-2"
+    },
+    {
+      "photo_link_id": 11465,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/46/original/quercus-lobata-leaves.jpg",
+      "sequence": 19,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 11467,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/46/original/quercus-lobata-leaves-and-fruit.jpg",
+      "sequence": 20,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves-and-fruit"
+    },
+    {
+      "photo_link_id": 21011,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/46/original/Quercus-lobata-(2).jpg",
+      "sequence": 21,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 11468,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/46/original/quercus-lobata-leaf-3.jpg",
+      "sequence": 22,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaf-3"
+    },
+    {
+      "photo_link_id": 11469,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/46/original/quercus-lobata-leaf.jpg",
+      "sequence": 23,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaf"
+    },
+    {
+      "photo_link_id": 11470,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/46/original/quercus-lobata-leaf-2.jpg",
+      "sequence": 24,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaf-2"
+    },
+    {
+      "photo_link_id": 11471,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/46/original/quercus-lobata-acorns.jpg",
+      "sequence": 25,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "acorns"
+    },
+    {
+      "photo_link_id": 32497,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/46/original/Quercus-lobata-(1)-ea5b0808-30d0-4676-bf18-ae109b84ce70.jpg",
+      "sequence": 26,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 11472,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/46/original/quercus-lobata-bark-2.jpg",
+      "sequence": 27,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "bark-2"
+    },
+    {
+      "photo_link_id": 11473,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/46/original/quercus-lobata-bark.jpg",
+      "sequence": 28,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "bark"
+    }
+  ],
+  "landscape_application": [
+    "Riparian"
+  ],
+  "landscape_use": [],
+  "sunset_zone": [
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24"
+  ],
+  "formatted_sunset_zones": [
+    "3 - 9",
+    "11 - 24"
+  ],
+  "usda_zone": [
+    7,
+    8,
+    9
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand"
+  ],
+  "disease_resistant": [
+    "Verticillium"
+  ],
+  "disease_susceptibility": [
+    "Armillaria",
+    "Crown Rot",
+    "Mistletoe",
+    "Root Rot"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [
+    "Invasive Shot Hole Borer",
+    "Beetle Borers",
+    "Caterpillars",
+    "Insect Galls"
+  ],
+  "health_hazard": [
+    "Allergy",
+    "Poisonous"
+  ],
+  "attracts_wildlife": [
+    "Birds",
+    "Squirrels"
+  ],
+  "fruit_value": [],
+  "fruiting_time": [
+    "Fall",
+    "Winter"
+  ],
+  "flower_time": [
+    "Spring"
+  ],
+  "flower_color": [],
+  "foliage_growth_color": [
+    "Green"
+  ],
+  "bark_texture": [
+    "Blocky",
+    "Furrowed"
+  ],
+  "tree_shape": [
+    "Rounded"
+  ],
+  "litter_type": [
+    "Dry Fruit"
+  ],
+  "climate_adapted_regions": [
+    "Inland Empire",
+    "Inland Valleys",
+    "Interior West",
+    "Northern California Coast"
+  ],
+  "appraisal_text": "Suggested LCANT 24\" box, Group Rating 3, Approx. cross sectional area 3.80 sq. in.",
+  "app_grrating": "3",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Quercus_lobata"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/49011-Quercus-lobata"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:296396-1"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 2
+}

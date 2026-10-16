@@ -1,0 +1,433 @@
+{
+  "tree_id": 1566,
+  "family": "Salicaceae",
+  "memo": "The Pacific willow grows throughout western California and the Sierra Nevada foothills and north to Alaska. It is distinguishable from other willows by the warty glands present where the leafstalk meets the blade. It has an upright, asymmetric crown with a short, dark trunk and long branches bearing yellowish-brown twigs and yellowish-green leaves that are shiny on the upper surface and whitish below.",
+  "fragrance": 0,
+  "native_range": "From British Columbia to California and Southwestern United States",
+  "photolocations": "",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 1,
+  "ethnobotanical_info": "The branches and twigs of &lt;em&gt;Salix lasiandra&lt;/em&gt; are used by Pacific Northwest Tribes for fishing weirs, bows, and hand drills. Most importantly, they are used to weave baskets. Medicinally, willow bark contains salicyclic acid used to treat fevers and headaches, reduce inflammation, and relieve pain. Aspirin is a commonly used synthetic derivative of this compound. Its leaves and branches are used as a disinfectant.&nbsp;",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 0,
+  "schoolyard_use_notes": null,
+  "soil_ph_low": 1,
+  "soil_ph_high": 4,
+  "planting_area": "4 to 7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Weak",
+  "branch_strength_high": "Weak",
+  "root_damage_potential": "High",
+  "biogenic_emissions": "High",
+  "deer_palatable": -1,
+  "height_high": 40,
+  "height_memo": null,
+  "width_high": 25,
+  "growth_rate_high": 36,
+  "water_use": "High",
+  "salt_tolerance": "Moderate",
+  "fruit_size": "Very Small",
+  "fruit_color": "Light Brown",
+  "fruit_type": "Capsule",
+  "flower_showiness": "Inconspicuous",
+  "bark_color": [
+    "Brown"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Oblanceolate",
+  "foliage_fall_color": 1,
+  "foliage_type": "Deciduous",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": null,
+  "suitability_map": null,
+  "future_suitability_map": null,
+  "sex_explanation": null,
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 1545,
+    "tree_id": 1566,
+    "common": "PACIFIC WILLOW",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 0
+  },
+  "primary_taxon": {
+    "taxon_id": 1545,
+    "genus": "Salix",
+    "species": "lasiandra",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Salix lasiandra"
+  },
+  "other_taxa": [
+    {
+      "taxon_id": 2537,
+      "genus": "Salix",
+      "species": "lucida",
+      "hybrid_alt_species": "",
+      "subspecies": "lasiandra",
+      "variety": "",
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 2,
+      "name_concat": "Salix lucida subsp. lasiandra"
+    },
+    {
+      "taxon_id": 3207,
+      "genus": "Salix",
+      "species": "lasiandra",
+      "hybrid_alt_species": "",
+      "subspecies": "",
+      "variety": "lancifolia",
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 3,
+      "name_concat": "Salix lasiandra var. lancifolia"
+    }
+  ],
+  "other_common": [
+    {
+      "common_id": 14136,
+      "tree_id": 1566,
+      "common": "SHINING WILLOW",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 1
+    },
+    {
+      "common_id": 14137,
+      "tree_id": 1566,
+      "common": "WHIPLASH WILLOW",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 14138,
+      "tree_id": 1566,
+      "common": "GREENLEAF WILLOW",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 3
+    },
+    {
+      "common_id": 14139,
+      "tree_id": 1566,
+      "common": "TAIL LEAF WILLOW",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 4
+    },
+    {
+      "common_id": 14140,
+      "tree_id": 1566,
+      "common": "GLAND WILLOW",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 5
+    },
+    {
+      "common_id": 4636,
+      "tree_id": 1566,
+      "common": "YELLOW WILLOW",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 6
+    }
+  ],
+  "genericCommonNames": [
+    "WILLOW"
+  ],
+  "images": [
+    {
+      "photo_link_id": 32480,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/66/original/Salix-lasiandra-(4)-e2878630-eee4-446e-a2c8-e44075e6d59d.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 32479,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/66/original/Salix-lasiandra-50d98d90-2eec-47b2-bb81-c123eda599df.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 29151,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/66/original/Salix-lasiandra-46e0733f-03ff-451f-bcac-e50eee8ba96f.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 27120,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/66/original/Salix-lasiandra.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 29150,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/66/original/Salix-lasiandra-(1).jpg",
+      "sequence": 5,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 29440,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/66/original/Salix-lasiandra-(1)-0cbbb0ae-f7f6-48d6-a142-c4134e7eb396.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 29441,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/66/original/Salix-lasiandra-(3).jpg",
+      "sequence": 7,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 32476,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/66/original/Salix-lasiandra-(2)-635ecc84-3b28-426f-a5d3-3806fcf683a4.jpg",
+      "sequence": 8,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 14550,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/66/original/salix-lasiandra-leaves.jpg",
+      "sequence": 9,
+      "credit": "D. Keil",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 14551,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/66/original/salix-lasiandra-leaves-underside.jpg",
+      "sequence": 10,
+      "credit": "D. Keil",
+      "attribute_name": "leaves-underside"
+    },
+    {
+      "photo_link_id": 29439,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/66/original/Salix-lasiandra-(5).jpg",
+      "sequence": 11,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 29438,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/66/original/Salix-lasiandra-(4).jpg",
+      "sequence": 12,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 29442,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/66/original/Salix-lasiandra-(6).jpg",
+      "sequence": 13,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 29443,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/66/original/Salix-lasiandra-(2)-33e122d9-ff10-4be9-bcbf-11f9a3dcfb72.jpg",
+      "sequence": 14,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 14552,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/66/original/salix-lasiandra-leaf.jpg",
+      "sequence": 15,
+      "credit": "D. Keil",
+      "attribute_name": "leaf"
+    },
+    {
+      "photo_link_id": 14553,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/66/original/salix-lasiandra-leaf-underside.jpg",
+      "sequence": 16,
+      "credit": "D. Keil",
+      "attribute_name": "leaf-underside"
+    },
+    {
+      "photo_link_id": 14555,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/66/original/salix-lasiandra-flowers-2.jpg",
+      "sequence": 17,
+      "credit": "D. Keil",
+      "attribute_name": "flowers-2"
+    },
+    {
+      "photo_link_id": 14554,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/66/original/salix-lasiandra-flowers.jpg",
+      "sequence": 18,
+      "credit": "D. Keil",
+      "attribute_name": "flowers"
+    },
+    {
+      "photo_link_id": 14556,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/66/original/salix-lasiandra-flowers-3.jpg",
+      "sequence": 19,
+      "credit": "D. Keil",
+      "attribute_name": "flowers-3"
+    },
+    {
+      "photo_link_id": 32478,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/66/original/Salix-lasiandra-(3)-fc66d4a6-c042-4d84-98b1-0cf9eb7476a5.jpg",
+      "sequence": 20,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 29149,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/66/original/Salix-lasiandra-(2).jpg",
+      "sequence": 21,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 32477,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/66/original/Salix-lasiandra-(1)-acd731bc-42b3-4f77-b70e-1afdc66b6b40.jpg",
+      "sequence": 22,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    }
+  ],
+  "landscape_application": [
+    "Riparian",
+    "Screen Tree",
+    "Erosion Control",
+    "Screen Tree"
+  ],
+  "landscape_use": [],
+  "sunset_zone": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "14",
+    "15",
+    "16",
+    "17",
+    "22",
+    "23",
+    "24"
+  ],
+  "formatted_sunset_zones": [
+    "1 - 9",
+    "14 - 17",
+    "22 - 24"
+  ],
+  "usda_zone": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [
+    "Verticillium"
+  ],
+  "disease_susceptibility": [
+    "Anthracnose",
+    "Willow Blight",
+    "Armillaria",
+    "Phytophthora",
+    "Root Rot"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [
+    "Aphids",
+    "Beetle Borers",
+    "Caterpillars",
+    "Spider Mites"
+  ],
+  "health_hazard": [
+    "Allergy"
+  ],
+  "attracts_wildlife": [
+    "Birds",
+    "Mammals",
+    "Bees",
+    "Butterflies"
+  ],
+  "fruit_value": [],
+  "fruiting_time": [
+    "Summer"
+  ],
+  "flower_time": [
+    "Winter",
+    "Spring"
+  ],
+  "flower_color": [],
+  "foliage_growth_color": [
+    "Dark Green",
+    "Yellow"
+  ],
+  "bark_texture": [
+    "Furrowed",
+    "Rough"
+  ],
+  "tree_shape": [
+    "Rounded"
+  ],
+  "litter_type": [
+    "Dry Fruit"
+  ],
+  "climate_adapted_regions": [],
+  "appraisal_text": "Suggested LCANT 24\" box, Group Rating 4, Approx. cross sectional area 4.75 sq. in.",
+  "app_grrating": "4",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Salix_lucida"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/78943-Salix-lasiandra"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:284532-2"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 6
+}

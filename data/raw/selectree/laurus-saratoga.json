@@ -1,0 +1,342 @@
+{
+  "tree_id": 803,
+  "family": "Lauraceae",
+  "memo": "This tree is a versatile evergreen that thrives in urban landscapes. It features glossy, dark green leaves that emit a pleasant fragrance when crushed. Its dense foliage provides excellent shade and privacy, making it a popular choice for gardens and streetscapes. During the spring, it produces small, yellowish flowers that add a subtle touch of color. The tree is drought-tolerant and requires minimal maintenance, making it ideal for areas with limited water resources. Its moderate growth rate and manageable size make it suitable for both small and large spaces.",
+  "fragrance": 1,
+  "native_range": "Horticultural Hybrid",
+  "photolocations": "Santa Cruz, CA",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 0,
+  "ethnobotanical_info": "",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 1,
+  "schoolyard_use_notes": "This tree has glossy, dark green leaves that are aromatic when crushed, making it useful for lessons on plant scents and essential oils. Its small, yellowish flowers bloom in clusters, attracting pollinators and providing a real-life example of plant-pollinator interactions. The tree's evergreen nature allows for year-round study of leaf structure and function. Its dense foliage can also serve as a living backdrop for outdoor classroom activities.",
+  "soil_ph_low": 1,
+  "soil_ph_high": 7,
+  "planting_area": "4 to 7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Medium",
+  "branch_strength_high": "Medium",
+  "root_damage_potential": "Low",
+  "biogenic_emissions": "",
+  "deer_palatable": null,
+  "height_high": 40,
+  "height_memo": null,
+  "width_high": 30,
+  "growth_rate_high": 24,
+  "water_use": "Medium",
+  "salt_tolerance": "",
+  "fruit_size": "Small",
+  "fruit_color": "Black or Purple",
+  "fruit_type": "Berry",
+  "flower_showiness": "",
+  "bark_color": [
+    "Dark Gray or Light Gray"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Ovate",
+  "foliage_fall_color": 0,
+  "foliage_type": "Evergreen",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": null,
+  "suitability_map": null,
+  "future_suitability_map": null,
+  "sex_explanation": null,
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 788,
+    "tree_id": 803,
+    "common": "SARATOGA LAUREL",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 1
+  },
+  "primary_taxon": {
+    "taxon_id": 788,
+    "genus": "Laurus",
+    "species": null,
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": "Saratoga",
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Laurus 'Saratoga'"
+  },
+  "other_taxa": [],
+  "other_common": [],
+  "genericCommonNames": [
+    "LAUREL"
+  ],
+  "images": [
+    {
+      "photo_link_id": 7359,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/03/original/laurus-saratoga-tree.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter, J. Clark and B. Anderson",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 7360,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/03/original/laurus-saratoga-trees.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter, J. Clark and B. Anderson",
+      "attribute_name": "trees"
+    },
+    {
+      "photo_link_id": 7361,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/03/original/laurus-saratoga-tree-4.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter, J. Clark and B. Anderson",
+      "attribute_name": "tree-4"
+    },
+    {
+      "photo_link_id": 17085,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/03/original/Laurus-Saratoga-(7).jpg",
+      "sequence": 4,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 7362,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/03/original/laurus-saratoga-tree-3.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter, J. Clark and B. Anderson",
+      "attribute_name": "tree-3"
+    },
+    {
+      "photo_link_id": 7363,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/03/original/laurus-saratoga-tree-2.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter, J. Clark and B. Anderson",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 7364,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/03/original/laurus-saratoga-leaves-and-flowers.jpg",
+      "sequence": 7,
+      "credit": "M. Ritter, J. Clark and B. Anderson",
+      "attribute_name": "leaves-and-flowers"
+    },
+    {
+      "photo_link_id": 7365,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/03/original/laurus-saratoga-leaves-2.jpg",
+      "sequence": 8,
+      "credit": "M. Ritter, J. Clark and B. Anderson",
+      "attribute_name": "leaves-2"
+    },
+    {
+      "photo_link_id": 7366,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/03/original/laurus-saratoga-leaves-underside.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter, J. Clark and B. Anderson",
+      "attribute_name": "leaves-underside"
+    },
+    {
+      "photo_link_id": 7367,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/03/original/laurus-saratoga-leaves-4.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter, J. Clark and B. Anderson",
+      "attribute_name": "leaves-4"
+    },
+    {
+      "photo_link_id": 7368,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/03/original/laurus-saratoga-leaves-3.jpg",
+      "sequence": 11,
+      "credit": "M. Ritter, J. Clark and B. Anderson",
+      "attribute_name": "leaves-3"
+    },
+    {
+      "photo_link_id": 7369,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/03/original/laurus-saratoga-fruit.jpg",
+      "sequence": 12,
+      "credit": "M. Ritter, J. Clark and B. Anderson",
+      "attribute_name": "fruit"
+    },
+    {
+      "photo_link_id": 17080,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/03/original/Laurus-Saratoga-(9).jpg",
+      "sequence": 13,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 17082,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/03/original/Laurus-Saratoga-(5).jpg",
+      "sequence": 14,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 17083,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/03/original/Laurus-Saratoga.jpg",
+      "sequence": 15,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 17084,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/03/original/Laurus-Saratoga-(6).jpg",
+      "sequence": 16,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 17086,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/03/original/Laurus-Saratoga-(4).jpg",
+      "sequence": 17,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 17087,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/03/original/Laurus-Saratoga-(2).jpg",
+      "sequence": 18,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 17088,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/03/original/Laurus-Saratoga-(3).jpg",
+      "sequence": 19,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 17089,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/03/original/Laurus-Saratoga-(1).jpg",
+      "sequence": 20,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 17081,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/03/original/Laurus-Saratoga-(8).jpg",
+      "sequence": 21,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    }
+  ],
+  "landscape_application": [
+    "Screen Tree"
+  ],
+  "landscape_use": [
+    "Hedged",
+    "Topiary"
+  ],
+  "sunset_zone": [
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24"
+  ],
+  "formatted_sunset_zones": [
+    "5 - 9",
+    "12 - 24"
+  ],
+  "usda_zone": [
+    8,
+    9,
+    10
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [
+    "Armillaria",
+    "Root Rot"
+  ],
+  "disease_susceptibility": [],
+  "pest_resistant": [
+    "Psyllid"
+  ],
+  "pest_susceptibility": [
+    "Scales"
+  ],
+  "health_hazard": [
+    "None Known"
+  ],
+  "attracts_wildlife": [
+    "Birds"
+  ],
+  "fruit_value": [],
+  "fruiting_time": [
+    "Fall"
+  ],
+  "flower_time": [
+    "Spring"
+  ],
+  "flower_color": [
+    "Green",
+    "White",
+    "Yellow"
+  ],
+  "foliage_growth_color": [
+    "Bluish Green",
+    "Silver",
+    "Gray Green"
+  ],
+  "bark_texture": [
+    "Furrowed"
+  ],
+  "tree_shape": [
+    "Conical",
+    "Rounded"
+  ],
+  "litter_type": [
+    "Dry Fruit"
+  ],
+  "climate_adapted_regions": [],
+  "appraisal_text": "Group 2, Approx. cross sectional area 2.24 sq. in.",
+  "app_grrating": "2",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "N/A"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "N/A"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "N/A"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 0
+}

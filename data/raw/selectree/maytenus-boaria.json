@@ -1,0 +1,385 @@
+{
+  "tree_id": 925,
+  "family": "Celastraceae",
+  "memo": "&lt;em&gt;Maytenus boaria &lt;/em&gt;is valued for its weeping canopy made of slender, flexible branches drooping under the weight of its foliage. Its leaves have gently-serrated margins and glisten as they sway in the sun. While its flowers are not showy, they are adored by bees. The most unique feature of this tree are its capsule fruits, which are enclosed by bright red arils. This tree provides shade, ornamental beauty, and resistances to drought and oak root fungus. It is an invasive weed to California and New Zealand.&nbsp;",
+  "fragrance": 1,
+  "native_range": "Chile, Argentina, Brazil, and Peru",
+  "photolocations": "Blake Garden - Kensington, CA, San Francisco, CA, Nipomo, CA, Santa Barbara Courthouse - Santa Barbara, CA and Strybing Arboretum - San Francisco, CA",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 0,
+  "ethnobotanical_info": "The Mayten Tree produces a highly regarded honey. An edible oil is derived from its seeds, which is used for cooking. Its foliage is eaten by people and livestock when food is scarce, while its wood is made into tool handles. In traditional medicines, its leaves are used to alleviate fevers and headaches.&nbsp;",
+  "pi_invasive": 0,
+  "invasive_text": "This plant is classified as potentially invasive in specific areas of California by the California Invasive Plant Council (&lt;a href=&quot;http://www.cal-ipc.org/&quot;&gt;Cal-IPC&lt;/a&gt;).",
+  "ca_invasive": 1,
+  "schoolyard": 0,
+  "schoolyard_use_notes": null,
+  "soil_ph_low": 3,
+  "soil_ph_high": 7,
+  "planting_area": "4 to 7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Medium",
+  "branch_strength_high": "Medium",
+  "root_damage_potential": "Moderate",
+  "biogenic_emissions": "",
+  "deer_palatable": null,
+  "height_high": 50,
+  "height_memo": null,
+  "width_high": 30,
+  "growth_rate_high": 24,
+  "water_use": "Medium",
+  "salt_tolerance": "Moderate",
+  "fruit_size": "Very Small",
+  "fruit_color": "Orange, Red",
+  "fruit_type": "Capsule",
+  "flower_showiness": "Inconspicuous",
+  "sex": "Monoecious",
+  "bark_color": [
+    "Dark Brown",
+    "Dark Gray"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Ovate",
+  "foliage_fall_color": 0,
+  "foliage_type": "Evergreen",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": "Medium Low",
+  "suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/25/original/925_current_suitability_map.png",
+  "future_suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/25/original/925_future_suitability_map.png",
+  "sex_explanation": "Has separate male and female reproductive parts on the same tree (monoecious)",
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 909,
+    "tree_id": 925,
+    "common": "MAYTEN TREE",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 0
+  },
+  "primary_taxon": {
+    "taxon_id": 909,
+    "genus": "Maytenus",
+    "species": "boaria",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Maytenus boaria"
+  },
+  "other_taxa": [
+    {
+      "taxon_id": 5838,
+      "genus": "Celastrus",
+      "species": "boaria",
+      "hybrid_alt_species": null,
+      "subspecies": null,
+      "variety": null,
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 2,
+      "name_concat": "Celastrus boaria"
+    },
+    {
+      "taxon_id": 5839,
+      "genus": "Celastrus",
+      "species": "maytenus",
+      "hybrid_alt_species": null,
+      "subspecies": null,
+      "variety": null,
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 3,
+      "name_concat": "Celastrus maytenus"
+    }
+  ],
+  "other_common": [
+    {
+      "common_id": 11761,
+      "tree_id": 925,
+      "common": "MAYTEN",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    }
+  ],
+  "genericCommonNames": [
+    "MAYTEN TREE"
+  ],
+  "images": [
+    {
+      "photo_link_id": 20266,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/25/original/Maytenus-boaria-(5).jpg",
+      "sequence": 1,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20261,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/25/original/Maytenus-boaria-(4).jpg",
+      "sequence": 2,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20267,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/25/original/Maytenus-boaria-(6).jpg",
+      "sequence": 3,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 8438,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/25/original/maytenus-boaria-tree-3.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter",
+      "attribute_name": "tree-3"
+    },
+    {
+      "photo_link_id": 8439,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/25/original/maytenus-boaria-tree-4.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter",
+      "attribute_name": "tree-4"
+    },
+    {
+      "photo_link_id": 8440,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/25/original/maytenus-boaria-tree-2.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 8441,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/25/original/maytenus-boaria-tree.jpg",
+      "sequence": 7,
+      "credit": "M. Ritter",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 8442,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/25/original/maytenus-boaria-tree-6.jpg",
+      "sequence": 8,
+      "credit": "M. Ritter",
+      "attribute_name": "tree-6"
+    },
+    {
+      "photo_link_id": 20268,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/25/original/Maytenus-boaria-(3).jpg",
+      "sequence": 9,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 8443,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/25/original/maytenus-boaria-tree-5.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter",
+      "attribute_name": "tree-5"
+    },
+    {
+      "photo_link_id": 8444,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/25/original/maytenus-boaria-foliage.jpg",
+      "sequence": 11,
+      "credit": "M. Ritter",
+      "attribute_name": "foliage"
+    },
+    {
+      "photo_link_id": 8445,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/25/original/maytenus-boaria-leaves.jpg",
+      "sequence": 12,
+      "credit": "M. Ritter",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 8446,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/25/original/maytenus-boaria-leaves-2.jpg",
+      "sequence": 13,
+      "credit": "M. Ritter",
+      "attribute_name": "leaves-2"
+    },
+    {
+      "photo_link_id": 8447,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/25/original/maytenus-boaria-leaves-3.jpg",
+      "sequence": 14,
+      "credit": "M. Ritter",
+      "attribute_name": "leaves-3"
+    },
+    {
+      "photo_link_id": 8448,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/25/original/maytenus-boaria-flowers.jpg",
+      "sequence": 15,
+      "credit": "M. Ritter",
+      "attribute_name": "flowers"
+    },
+    {
+      "photo_link_id": 8449,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/25/original/maytenus-boaria-fruit-2.jpg",
+      "sequence": 16,
+      "credit": "M. Ritter",
+      "attribute_name": "fruit-2"
+    },
+    {
+      "photo_link_id": 8450,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/25/original/maytenus-boaria-fruit.jpg",
+      "sequence": 17,
+      "credit": "M. Ritter",
+      "attribute_name": "fruit"
+    },
+    {
+      "photo_link_id": 20260,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/25/original/Maytenus-boaria-(2).jpg",
+      "sequence": 18,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20265,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/25/original/Maytenus-boaria-(1).jpg",
+      "sequence": 19,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20262,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/25/original/Maytenus-boaria-(7).jpg",
+      "sequence": 20,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20263,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/25/original/Maytenus-boaria-(8).jpg",
+      "sequence": 21,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20264,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/25/original/Maytenus-boaria.jpg",
+      "sequence": 22,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 8451,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/25/original/maytenus-boaria-bark.jpg",
+      "sequence": 23,
+      "credit": "M. Ritter",
+      "attribute_name": "bark"
+    },
+    {
+      "photo_link_id": 8452,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/25/original/maytenus-boaria-bark-2.jpg",
+      "sequence": 24,
+      "credit": "M. Ritter",
+      "attribute_name": "bark-2"
+    }
+  ],
+  "landscape_application": [
+    "Screen Tree"
+  ],
+  "landscape_use": [],
+  "sunset_zone": [
+    "8",
+    "9",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24"
+  ],
+  "formatted_sunset_zones": [
+    "8 - 9",
+    "14 - 24"
+  ],
+  "usda_zone": [
+    9,
+    10
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [
+    "Armillaria"
+  ],
+  "disease_susceptibility": [],
+  "pest_resistant": [],
+  "pest_susceptibility": [],
+  "health_hazard": [
+    "None Known"
+  ],
+  "attracts_wildlife": [
+    "Birds",
+    "Bees"
+  ],
+  "fruit_value": [],
+  "fruiting_time": [
+    "Summer"
+  ],
+  "flower_time": [
+    "Spring"
+  ],
+  "flower_color": [
+    "Yellow-Green"
+  ],
+  "foliage_growth_color": [
+    "Green"
+  ],
+  "bark_texture": [
+    "Furrowed",
+    "Blocky"
+  ],
+  "tree_shape": [
+    "Rounded",
+    "Weeping"
+  ],
+  "litter_type": [
+    "Dry Fruit"
+  ],
+  "climate_adapted_regions": [
+    "Northern California Coast"
+  ],
+  "appraisal_text": "Suggested LCANT 24\" box, Group Rating 1, Approx. cross sectional area 2.09 sq. in.",
+  "app_grrating": "1",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Maytenus_boaria"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/77969-Maytenus-boaria"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:161827-1"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 2
+}

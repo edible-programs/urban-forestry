@@ -1,0 +1,379 @@
+{
+  "tree_id": 745,
+  "family": "Juglandaceae",
+  "memo": "The Northern California black walnut is a much larger tree than its Southern California cousin. They can achieve heights of eighty feet with a massive trunk. In addition to their size differences, the northern species has larger nuts and leaves with tufts of hair on the underside. As a native tree, Northern California black walnut only occurs in a few populations in the northeastern Bay Area around Walnut Creek and the lower Sacramento River. Because it's been widely cultivated as rootstock for English walnut, it grows outside its native range throughout much of California. Its beautiful purplish-brown wood is sold as claro walnut.",
+  "fragrance": 1,
+  "native_range": "Northern California",
+  "photolocations": "Rancho Santa Ana Botanic Gardens - Claremont, CA, Los Angeles County Arboretum - Arcadia, CA and San Luis Obispo, CA",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 1,
+  "ethnobotanical_info": "",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 0,
+  "schoolyard_use_notes": null,
+  "soil_ph_low": 1,
+  "soil_ph_high": 5,
+  "planting_area": ">7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Medium",
+  "branch_strength_high": "Medium",
+  "root_damage_potential": "Moderate",
+  "biogenic_emissions": "Moderate",
+  "deer_palatable": null,
+  "height_high": 60,
+  "height_memo": null,
+  "width_high": 60,
+  "growth_rate_high": 24,
+  "water_use": "Medium",
+  "salt_tolerance": "Moderate",
+  "fruit_size": "Large",
+  "fruit_color": "Brown or Mostly Green",
+  "fruit_type": "Nut",
+  "flower_showiness": "Inconspicuous",
+  "bark_color": [
+    "Dark Brown or Dark Gray"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Pinnately Compound",
+  "leaflet_shape": "Spear Shaped",
+  "foliage_fall_color": 1,
+  "foliage_type": "Deciduous",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": null,
+  "suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/45/original/745_current_suitability_map.png",
+  "future_suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/45/original/745_future_suitability_map.png",
+  "sex_explanation": null,
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 730,
+    "tree_id": 745,
+    "common": "NORTHERN CALIFORNIA BLACK WALNUT",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 1
+  },
+  "primary_taxon": {
+    "taxon_id": 730,
+    "genus": "Juglans",
+    "species": "hindsii",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Juglans hindsii"
+  },
+  "other_taxa": [],
+  "other_common": [
+    {
+      "common_id": 3318,
+      "tree_id": 745,
+      "common": "CALIFORNIA BLACK WALNUT",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 11556,
+      "tree_id": 745,
+      "common": "HINDS'S BLACK WALNUT",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 3319,
+      "tree_id": 745,
+      "common": "NORTHERN CALIFORNIA WALNUT",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 3
+    },
+    {
+      "common_id": 11557,
+      "tree_id": 745,
+      "common": "HINDS'S WALNUT",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 3
+    },
+    {
+      "common_id": 3320,
+      "tree_id": 745,
+      "common": "CLARO WALNUT",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 4
+    },
+    {
+      "common_id": 11558,
+      "tree_id": 745,
+      "common": "HIND'S BLACK WALNUT",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 4
+    }
+  ],
+  "genericCommonNames": [
+    "WALNUT"
+  ],
+  "images": [
+    {
+      "photo_link_id": 6813,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/45/original/juglans-hindsii-tree-2.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 6814,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/45/original/juglans-hindsii-tree.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 25146,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/45/original/Juglans-hindsii.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 6815,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/45/original/juglans-hindsii-branch.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "branch"
+    },
+    {
+      "photo_link_id": 6816,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/45/original/juglans-hindsii-leaves.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 6818,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/45/original/juglans-hindsii-leaves-alternate.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "leaves-alternate"
+    },
+    {
+      "photo_link_id": 19964,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/45/original/Juglans hindsii SLO - 5.JPG",
+      "sequence": 7,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 6819,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/45/original/juglans-hindsii-leaves-young.jpg",
+      "sequence": 8,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "leaves-young"
+    },
+    {
+      "photo_link_id": 6820,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/45/original/juglans-hindsii-flowers.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "flowers"
+    },
+    {
+      "photo_link_id": 6821,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/45/original/juglans-hindsii-flowers-close-up.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "flowers-close-up"
+    },
+    {
+      "photo_link_id": 6822,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/45/original/juglans-hindsii-flowers-old.jpg",
+      "sequence": 11,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "flowers-old"
+    },
+    {
+      "photo_link_id": 6825,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/45/original/juglans-hindsii-leaves-and-fruit.jpg",
+      "sequence": 12,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "fruit"
+    },
+    {
+      "photo_link_id": 33504,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/45/original/Juglans-hindsii-d072bfb1-f326-4702-a976-ac7d6abce039.jpg",
+      "sequence": 13,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 33505,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/45/original/Juglans-hindsii-(1)-f4c58115-d213-4963-b299-e1012fccae71.jpg",
+      "sequence": 14,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 6823,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/45/original/juglans-hindsii-fruit-3.jpg",
+      "sequence": 15,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "fruit-3"
+    },
+    {
+      "photo_link_id": 6824,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/45/original/juglans-hindsii-fruit-2.jpg",
+      "sequence": 16,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "fruit-2"
+    },
+    {
+      "photo_link_id": 6826,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/45/original/juglans-hindsii-bark-young.jpg",
+      "sequence": 17,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "bark-young"
+    },
+    {
+      "photo_link_id": 6827,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/45/original/juglans-hindsii-bark.jpg",
+      "sequence": 18,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "bark"
+    },
+    {
+      "photo_link_id": 25147,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/45/original/Juglans-hindsii-(2).jpg",
+      "sequence": 19,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25148,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/45/original/Juglans-hindsii-(1).jpg",
+      "sequence": 20,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    }
+  ],
+  "landscape_application": [
+    "Riparian"
+  ],
+  "landscape_use": [],
+  "sunset_zone": [
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20"
+  ],
+  "formatted_sunset_zones": [
+    "5 - 9",
+    "14 - 20"
+  ],
+  "usda_zone": [
+    7,
+    8,
+    9
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand"
+  ],
+  "disease_resistant": [
+    "Armillaria",
+    "Verticillium"
+  ],
+  "disease_susceptibility": [
+    "Mistletoe",
+    "Phytophthora",
+    "Root Rot",
+    "Sooty Mold",
+    "Armillaria"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [
+    "Aphids",
+    "Caterpillars"
+  ],
+  "health_hazard": [
+    "Allergy"
+  ],
+  "attracts_wildlife": [
+    "Birds",
+    "Squirrels"
+  ],
+  "fruit_value": [
+    "Edible"
+  ],
+  "fruiting_time": [
+    "Fall"
+  ],
+  "flower_time": [
+    "Spring"
+  ],
+  "flower_color": [],
+  "foliage_growth_color": [
+    "Green"
+  ],
+  "bark_texture": [
+    "Furrowed",
+    "Smooth"
+  ],
+  "tree_shape": [
+    "Rounded"
+  ],
+  "litter_type": [
+    "Dry Fruit"
+  ],
+  "climate_adapted_regions": [
+    "Interior West",
+    "Northern California Coast"
+  ],
+  "appraisal_text": "Suggested LCANT 24\" box, Group Rating 3, Approx. cross sectional area 3.80 sq. in.",
+  "app_grrating": "3",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Juglans_hindsii"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/54502-Juglans-hindsii"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:131754-2"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 2
+}

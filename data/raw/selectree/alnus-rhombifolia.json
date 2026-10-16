@@ -1,0 +1,395 @@
+{
+  "tree_id": 154,
+  "family": "Betulaceae",
+  "memo": "White alder ranges from southern California to Washington, western Idaho, and western Nevada. In California, it occurs in much of the state but is less common along the immediate coast. It's an entirely riparian tree, never found far from permanent riverbanks or canyon streams. White alder has flat, egg-shaped leaves with small teeth along the leaf edges.",
+  "fragrance": 0,
+  "native_range": "Western North America",
+  "photolocations": "Tilden Regional Parks Botanical Garden - Berkeley, CA, Rancho Santa Ana Botanic Garden - Claremont, CA and Cal Poly Campus - San Luis Obispo, CA, Santa Cruz, CA and Los Angeles County Arboretum - Arcadia, CA",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 1,
+  "ethnobotanical_info": "",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 0,
+  "schoolyard_use_notes": null,
+  "soil_ph_low": 1,
+  "soil_ph_high": 5,
+  "planting_area": ">7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Medium",
+  "branch_strength_high": "Medium",
+  "root_damage_potential": "High",
+  "biogenic_emissions": "",
+  "deer_palatable": 1,
+  "height_high": 80,
+  "height_memo": null,
+  "width_high": 50,
+  "growth_rate_high": 36,
+  "water_use": "High",
+  "salt_tolerance": "Moderate",
+  "fruit_size": "Medium",
+  "fruit_color": "Brown or Orange",
+  "fruit_type": "Cone",
+  "flower_showiness": "Inconspicuous",
+  "bark_color": [
+    "Light Gray"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Diamond Shaped",
+  "foliage_fall_color": 1,
+  "foliage_type": "Deciduous",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": null,
+  "suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/54/original/154_current_suitability_map.png",
+  "future_suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/54/original/154_future_suitability_map.png",
+  "sex_explanation": null,
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 153,
+    "tree_id": 154,
+    "common": "WHITE ALDER",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 1
+  },
+  "primary_taxon": {
+    "taxon_id": 153,
+    "genus": "Alnus",
+    "species": "rhombifolia",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Alnus rhombifolia"
+  },
+  "other_taxa": [],
+  "other_common": [
+    {
+      "common_id": 10692,
+      "tree_id": 154,
+      "common": "MOUNTAIN ALDER",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 0
+    },
+    {
+      "common_id": 10690,
+      "tree_id": 154,
+      "common": "CALIFORNIA ALDER",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 10691,
+      "tree_id": 154,
+      "common": "RHOMBIE LEAF ALDER",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 3
+    }
+  ],
+  "genericCommonNames": [
+    "ALDER"
+  ],
+  "images": [
+    {
+      "photo_link_id": 25215,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/54/original/Alnus-rhombifolia-a7174bfe-db61-4f87-85a2-22a1a432e9fe.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 1368,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/54/original/alnus-rhombifolia-tree.jpg",
+      "sequence": 2,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 24598,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/54/original/Alnus_rhombifoliaIMG_7629.jpg",
+      "sequence": 3,
+      "credit": "C. Stubler and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 1369,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/54/original/alnus-rhombifolia-tree-2.jpg",
+      "sequence": 4,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 1370,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/54/original/alnus-rhombifolia-tree-winter.jpg",
+      "sequence": 5,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "tree-winter"
+    },
+    {
+      "photo_link_id": 20937,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/54/original/Alnus-rhombifolia-(6).jpg",
+      "sequence": 6,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 23501,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/54/original/Alnus-rhombifolia-831d91ee-93c0-4ff0-ba09-6625a4c79525.jpg",
+      "sequence": 7,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 1371,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/54/original/alnus-rhombifolia-leaves.jpg",
+      "sequence": 8,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 20935,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/54/original/Alnus-rhombifolia.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 1372,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/54/original/alnus-rhombifolia-leaves-2.jpg",
+      "sequence": 10,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "leaves-2"
+    },
+    {
+      "photo_link_id": 1373,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/54/original/alnus-rhombifolia-leaves-young.jpg",
+      "sequence": 11,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "leaves-young"
+    },
+    {
+      "photo_link_id": 20932,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/54/original/Alnus-rhombifolia-(1).jpg",
+      "sequence": 12,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20934,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/54/original/Alnus-rhombifolia-(3).jpg",
+      "sequence": 13,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20933,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/54/original/Alnus-rhombifolia-(4).jpg",
+      "sequence": 14,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 1374,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/54/original/alnus-rhombifolia-leaf-2.jpg",
+      "sequence": 15,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "leaf-2"
+    },
+    {
+      "photo_link_id": 1375,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/54/original/alnus-rhombifolia-cones-male.jpg",
+      "sequence": 16,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "cones-male"
+    },
+    {
+      "photo_link_id": 1376,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/54/original/alnus-rhombifolia-cones-male-2.jpg",
+      "sequence": 17,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "cones-male-2"
+    },
+    {
+      "photo_link_id": 20936,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/54/original/Alnus-rhombifolia-(2).jpg",
+      "sequence": 18,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20931,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/54/original/Alnus-rhombifolia-(5).jpg",
+      "sequence": 19,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 1377,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/54/original/alnus-rhombifolia-cones.jpg",
+      "sequence": 20,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "cones"
+    },
+    {
+      "photo_link_id": 1378,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/54/original/alnus-rhombifolia-cones-2.jpg",
+      "sequence": 21,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "cones-2"
+    },
+    {
+      "photo_link_id": 1379,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/54/original/alnus-rhombifolia-cone-and-seeds.jpg",
+      "sequence": 22,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "cone-and-seeds"
+    },
+    {
+      "photo_link_id": 1380,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/54/original/alnus-rhombifolia-cones-female.jpg",
+      "sequence": 23,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "cones-female"
+    },
+    {
+      "photo_link_id": 1381,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/54/original/alnus-rhombifolia-bark-2.jpg",
+      "sequence": 24,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "bark-2"
+    },
+    {
+      "photo_link_id": 1382,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/54/original/alnus-rhombifolia-bark.jpg",
+      "sequence": 25,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "bark"
+    }
+  ],
+  "landscape_application": [
+    "Riparian"
+  ],
+  "landscape_use": [],
+  "sunset_zone": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21"
+  ],
+  "formatted_sunset_zones": [
+    "1 - 10",
+    "14 - 21"
+  ],
+  "usda_zone": [
+    8,
+    9,
+    10,
+    11
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [],
+  "disease_susceptibility": [
+    "Armillaria",
+    "Powdery Mildew",
+    "Root Rot"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [
+    "Aphids",
+    "Beetle Borers",
+    "Caterpillars",
+    "Spider Mites"
+  ],
+  "health_hazard": [
+    "Allergy"
+  ],
+  "attracts_wildlife": [
+    "Birds"
+  ],
+  "fruit_value": [],
+  "fruiting_time": [
+    "Fall",
+    "Winter",
+    "Summer"
+  ],
+  "flower_time": [
+    "Spring"
+  ],
+  "flower_color": [
+    "Green",
+    "Yellow"
+  ],
+  "foliage_growth_color": [
+    "Green"
+  ],
+  "bark_texture": [
+    "Furrowed"
+  ],
+  "tree_shape": [
+    "Conical"
+  ],
+  "litter_type": [
+    "Dry Fruit"
+  ],
+  "climate_adapted_regions": [
+    "Northern California Coast"
+  ],
+  "appraisal_text": "Group 3, Approx. cross sectional area 3.80 sq. in.",
+  "app_grrating": "3",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Alnus_rhombifolia"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/53351-Alnus-rhombifolia"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:294983-1"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 1
+}

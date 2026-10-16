@@ -1,0 +1,425 @@
+{
+  "tree_id": 1522,
+  "family": "Quillajaceae",
+  "memo": "This tree has a rounded canopy filled with glossy, dark green leaves that provide ample shade. Its bark is rugged and has a distinctive, cork-like texture. In the spring, it produces small, white flowers that add a subtle touch of elegance to its appearance. The tree is drought-tolerant, making it well-suited for urban environments with limited water resources. It also has a moderate growth rate, ensuring it won't outgrow its space too quickly. This tree is an excellent choice for adding both beauty and resilience to city landscapes.",
+  "fragrance": 0,
+  "native_range": "Chile",
+  "photolocations": "UC Santa Cruz Arboretum - Santa Cruz, CA, San Marcos Growers - Santa Barbara, CA, Mendocino Coast Botanical Gardens - Fort Bragg, CA and  San Francisco, CA",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 0,
+  "ethnobotanical_info": "",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 1,
+  "schoolyard_use_notes": "This tree has thick, evergreen leaves that stay vibrant year-round, making it a good subject for discussions on evergreen versus deciduous plants. The leaves contain saponins, which can be used to teach about natural soap production and chemical properties in plants. Its bark can be incorporated into lessons about traditional uses of plants by indigenous cultures. The tree produces clusters of small, white flowers that attract pollinators, providing opportunities to explore pollination and ecosystem interactions.",
+  "soil_ph_low": null,
+  "soil_ph_high": null,
+  "planting_area": "4 to 7",
+  "shade_tolerant": 0,
+  "branch_strength_low": null,
+  "branch_strength_high": null,
+  "root_damage_potential": "Low",
+  "biogenic_emissions": "",
+  "deer_palatable": null,
+  "height_high": 40,
+  "height_memo": null,
+  "width_high": 25,
+  "growth_rate_high": 12,
+  "water_use": "Low",
+  "salt_tolerance": "",
+  "fruit_size": "Small",
+  "fruit_color": "Brown",
+  "fruit_type": "Capsule",
+  "flower_showiness": "",
+  "bark_color": [
+    "Brown"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Ovate",
+  "foliage_fall_color": 0,
+  "foliage_type": "Evergreen",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": null,
+  "suitability_map": null,
+  "future_suitability_map": null,
+  "sex_explanation": null,
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 1501,
+    "tree_id": 1522,
+    "common": "SOAPBARK TREE",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 1
+  },
+  "primary_taxon": {
+    "taxon_id": 1501,
+    "genus": "Quillaja",
+    "species": "saponaria",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Quillaja saponaria"
+  },
+  "other_taxa": [
+    {
+      "taxon_id": 2506,
+      "genus": "Quillaja",
+      "species": "poeppigii",
+      "hybrid_alt_species": "",
+      "subspecies": "",
+      "variety": "",
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 2,
+      "name_concat": "Quillaja poeppigii"
+    },
+    {
+      "taxon_id": 3187,
+      "genus": "Quillaja",
+      "species": "smegmadermos",
+      "hybrid_alt_species": "",
+      "subspecies": "",
+      "variety": "",
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 3,
+      "name_concat": "Quillaja smegmadermos"
+    }
+  ],
+  "other_common": [
+    {
+      "common_id": 4549,
+      "tree_id": 1522,
+      "common": "QUILLAJA",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 4550,
+      "tree_id": 1522,
+      "common": "KILAYA",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 3
+    },
+    {
+      "common_id": 12724,
+      "tree_id": 1522,
+      "common": "SOAPBUSH",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 3
+    },
+    {
+      "common_id": 12725,
+      "tree_id": 1522,
+      "common": "MURILLO'S BARK",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 3
+    },
+    {
+      "common_id": 4551,
+      "tree_id": 1522,
+      "common": "MURILLO BARK",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 4
+    },
+    {
+      "common_id": 12726,
+      "tree_id": 1522,
+      "common": "SOAPBARKTREE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 4
+    },
+    {
+      "common_id": 12727,
+      "tree_id": 1522,
+      "common": "SOAPBARK",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 5
+    }
+  ],
+  "genericCommonNames": [
+    "SOAPBARK"
+  ],
+  "images": [
+    {
+      "photo_link_id": 14113,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/22/original/quillaja-saponaria-tree-3.jpg",
+      "sequence": 1,
+      "credit": "C. Stubler, J. Reimer, M. Ritter and R. Turner",
+      "attribute_name": "tree-3"
+    },
+    {
+      "photo_link_id": 14114,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/22/original/quillaja-saponaria-tree-4.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter",
+      "attribute_name": "tree-4"
+    },
+    {
+      "photo_link_id": 14115,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/22/original/quillaja-saponaria-tree-2.jpg",
+      "sequence": 3,
+      "credit": "C. Stubler, J. Reimer, M. Ritter and R. Turner",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 14116,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/22/original/quillaja-saponaria-tree.jpg",
+      "sequence": 4,
+      "credit": "C. Stubler, J. Reimer, M. Ritter and R. Turner",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 20576,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/22/original/Quillaja-saponaria-bb0ada17-0770-4337-8a2d-1020ebc93365.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 18999,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/22/original/Quillaja-saponaria.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20365,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/22/original/Quillaja-saponaria-(6).jpg",
+      "sequence": 7,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20363,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/22/original/Quillaja-saponaria1.jpg",
+      "sequence": 8,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20364,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/22/original/Quillaja-saponaria-(4).jpg",
+      "sequence": 9,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20366,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/22/original/Quillaja-saponaria-(3).jpg",
+      "sequence": 10,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 14117,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/22/original/quillaja-saponaria-leaves.jpg",
+      "sequence": 11,
+      "credit": "C. Stubler, J. Reimer, M. Ritter and R. Turner",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 14118,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/22/original/quillaja-saponaria-leaves-2.jpg",
+      "sequence": 12,
+      "credit": "C. Stubler, J. Reimer, M. Ritter and R. Turner",
+      "attribute_name": "leaves-2"
+    },
+    {
+      "photo_link_id": 18998,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/22/original/Quillaja-saponaria-(1).jpg",
+      "sequence": 13,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 14119,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/22/original/quillaja-saponaria-leaves-3.jpg",
+      "sequence": 14,
+      "credit": "C. Stubler, J. Reimer, M. Ritter and R. Turner",
+      "attribute_name": "leaves-3"
+    },
+    {
+      "photo_link_id": 14121,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/22/original/quillaja-saponaria-flowers-2.jpg",
+      "sequence": 15,
+      "credit": "C. Stubler, J. Reimer, M. Ritter and R. Turner",
+      "attribute_name": "flowers-2"
+    },
+    {
+      "photo_link_id": 14122,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/22/original/quillaja-saponaria-leaves-and-flowers.jpg",
+      "sequence": 16,
+      "credit": "C. Stubler, J. Reimer, M. Ritter and R. Turner",
+      "attribute_name": "flowers"
+    },
+    {
+      "photo_link_id": 14124,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/22/original/quillaja-saponaria-leaves-and-fruit.jpg",
+      "sequence": 17,
+      "credit": "C. Stubler, J. Reimer, M. Ritter and R. Turner",
+      "attribute_name": "fruit"
+    },
+    {
+      "photo_link_id": 14125,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/22/original/quillaja-saponaria-fruit-2.jpg",
+      "sequence": 18,
+      "credit": "C. Stubler, J. Reimer, M. Ritter and R. Turner",
+      "attribute_name": "fruit-2"
+    },
+    {
+      "photo_link_id": 20359,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/22/original/Quillaja-saponaria-(5).jpg",
+      "sequence": 19,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20362,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/22/original/Quillaja-saponaria-(1)-ad5eeb0a-124b-4999-82a5-49c2eab46a30.jpg",
+      "sequence": 20,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20360,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/22/original/Quillaja-saponaria-0bab2374-dba6-4896-9d29-5a671c59affd.jpg",
+      "sequence": 21,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20361,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/22/original/Quillaja-saponaria-(2).jpg",
+      "sequence": 22,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 14127,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/22/original/quillaja-saponaria-bark.jpg",
+      "sequence": 23,
+      "credit": "C. Stubler, J. Reimer, M. Ritter and R. Turner",
+      "attribute_name": "bark"
+    },
+    {
+      "photo_link_id": 14126,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/22/original/quillaja-saponaria-trunk.jpg",
+      "sequence": 24,
+      "credit": "C. Stubler, J. Reimer, M. Ritter and R. Turner",
+      "attribute_name": "trunk"
+    }
+  ],
+  "landscape_application": [
+    "Street Tree"
+  ],
+  "landscape_use": [],
+  "sunset_zone": [
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24"
+  ],
+  "formatted_sunset_zones": [
+    "12 - 24"
+  ],
+  "usda_zone": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "soil_texture": [],
+  "disease_resistant": [],
+  "disease_susceptibility": [],
+  "pest_resistant": [],
+  "pest_susceptibility": [],
+  "health_hazard": [],
+  "attracts_wildlife": [
+    "Bees"
+  ],
+  "fruit_value": [],
+  "fruiting_time": [
+    "Fall",
+    "Winter"
+  ],
+  "flower_time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower_color": [
+    "Yellow",
+    "Cream"
+  ],
+  "foliage_growth_color": [
+    "Dark Green"
+  ],
+  "bark_texture": [
+    "Scaly"
+  ],
+  "tree_shape": [
+    "Rounded"
+  ],
+  "litter_type": [],
+  "climate_adapted_regions": [
+    "Inland Empire",
+    "Inland Valleys",
+    "Southern California Coast"
+  ],
+  "appraisal_text": "Group 2, Approx. cross sectional area 2.24 sq. in.",
+  "app_grrating": "2",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Quillaja_saponaria"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/181934-Quillaja-saponaria"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:731377-1"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 0
+}

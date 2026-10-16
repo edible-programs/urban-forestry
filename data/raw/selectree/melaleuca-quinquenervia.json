@@ -1,0 +1,508 @@
+{
+  "tree_id": 933,
+  "family": "Myrtaceae",
+  "memo": "This tree has a distinctive, paper-like bark that peels away in layers, creating a textured, almost shaggy appearance. Its leaves are narrow and pointed, emitting a pleasant, aromatic scent when crushed. During the blooming season, it produces fluffy, white to cream-colored flowers that resemble bottlebrushes, adding a touch of elegance to its overall look. This tree is quite hardy and can thrive in a variety of soil types, making it a versatile choice for urban landscapes. It also provides excellent shade and can grow to a considerable height, offering both aesthetic and practical benefits to any setting.",
+  "fragrance": 0,
+  "native_range": "Eastern and Northern Australia",
+  "photolocations": "San Diego, Ventura, Santa Barbara, Goleta, CA, San Luis Obispo, CA and Cal Poly Campus - San Luis Obispo, CA",
+  "display": 1,
+  "pacific_island": 1,
+  "california_native": 0,
+  "ethnobotanical_info": "Native to Australia where it is called &lt;i&gt;niaouli&lt;/i&gt;, &lt;i&gt;Melaleuca &lt;/i&gt;&lt;i&gt;quinquenervia&lt;/i&gt; is an aggressive and problematic invasive tree across its naturalized distribution. Indigenous people of Australia chewed the leaves to treat headcolds, and used the papery bark to make ‘coolamons’, or carrying vessels used to transport food, water, traveling materials, or children. Essential oil of &lt;i&gt;M. &lt;/i&gt;&lt;i&gt;qu&lt;/i&gt;&lt;i&gt;n&lt;/i&gt;&lt;i&gt;iquenervia&lt;/i&gt; is produced in Australia and used in herbal therapy, aroma therapy, and cosmetics. (Oliveira et al., 2020)",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 1,
+  "schoolyard_use_notes": "This tree has thick, spongy bark that peels off in layers, which can be used to teach about tree bark adaptations and protection. Its narrow, pointed leaves release a distinctive fragrance when crushed, making it useful for lessons on plant aromas and essential oils. The tree produces small, bottlebrush-like flowers that attract pollinators, offering opportunities to discuss plant-pollinator relationships. The seed capsules remain on the tree and can be used to illustrate seed dispersal mechanisms.",
+  "soil_ph_low": 3,
+  "soil_ph_high": 5,
+  "planting_area": "4 to 7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Medium",
+  "branch_strength_high": "Medium",
+  "root_damage_potential": "Low",
+  "biogenic_emissions": "High",
+  "deer_palatable": null,
+  "height_high": 40,
+  "height_memo": null,
+  "width_high": 25,
+  "growth_rate_high": 24,
+  "water_use": "Low",
+  "salt_tolerance": "High",
+  "fruit_size": "Small",
+  "fruit_color": "Brown or Gray",
+  "fruit_type": "Capsule",
+  "flower_showiness": "Showy",
+  "bark_color": [
+    "Striking",
+    "Cream or Light Green"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Oblong",
+  "foliage_fall_color": 0,
+  "foliage_type": "Evergreen",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": "Lowest",
+  "suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/33/original/933_current_suitability_map.png",
+  "future_suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/33/original/933_future_suitability_map.png",
+  "sex_explanation": null,
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 9443,
+    "tree_id": 933,
+    "common": "PAPERBARK OR CAJEPUT TREE",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 1
+  },
+  "primary_taxon": {
+    "taxon_id": 917,
+    "genus": "Melaleuca",
+    "species": "quinquenervia",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Melaleuca quinquenervia"
+  },
+  "other_taxa": [],
+  "other_common": [
+    {
+      "common_id": 7989,
+      "tree_id": 933,
+      "common": "CAJEPUT TREE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 11772,
+      "tree_id": 933,
+      "common": "WHITE BOTTLEBRUSH TREE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 7990,
+      "tree_id": 933,
+      "common": "PUNK TREE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 3
+    },
+    {
+      "common_id": 11773,
+      "tree_id": 933,
+      "common": "PAPER BARK TEA TREE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 3
+    },
+    {
+      "common_id": 7991,
+      "tree_id": 933,
+      "common": "PAPERBARK",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 4
+    },
+    {
+      "common_id": 11774,
+      "tree_id": 933,
+      "common": "BELBOWRIE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 4
+    },
+    {
+      "common_id": 7992,
+      "tree_id": 933,
+      "common": "MELALEUCA",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 5
+    },
+    {
+      "common_id": 11775,
+      "tree_id": 933,
+      "common": "PUNKTREE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 5
+    },
+    {
+      "common_id": 11776,
+      "tree_id": 933,
+      "common": "FIVE VEIN PAPERBARK",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 6
+    },
+    {
+      "common_id": 11777,
+      "tree_id": 933,
+      "common": "BROAD LEAVED PAPERBARK",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 7
+    },
+    {
+      "common_id": 11778,
+      "tree_id": 933,
+      "common": "PAPER BARK",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 8
+    },
+    {
+      "common_id": 11779,
+      "tree_id": 933,
+      "common": "BROADLEAF TEATREE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 9
+    },
+    {
+      "common_id": 11780,
+      "tree_id": 933,
+      "common": "BOTTLE BRUSH TREE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 10
+    },
+    {
+      "common_id": 11781,
+      "tree_id": 933,
+      "common": "BROADLEAF PAPERBARK",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 11
+    },
+    {
+      "common_id": 11782,
+      "tree_id": 933,
+      "common": "NIAOULI",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 12
+    }
+  ],
+  "genericCommonNames": [
+    "MELALEUCA"
+  ],
+  "images": [
+    {
+      "photo_link_id": 8523,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/33/original/melaleuca-quinquenervia-tree-3.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "tree-3"
+    },
+    {
+      "photo_link_id": 8524,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/33/original/melaleuca-quinquenervia-tree-flowering.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "tree-flowering"
+    },
+    {
+      "photo_link_id": 8525,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/33/original/melaleuca-quinquenervia-trees.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "trees"
+    },
+    {
+      "photo_link_id": 33974,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/33/original/Melaleuca-quinquenervia-586a1044-b2b3-4c11-861e-00402ab4e7d3.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 17134,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/33/original/Melaleuca-quinquenervia.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 8526,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/33/original/melaleuca-quinquenervia-tree.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 19623,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/33/original/Melaleuca-quinquenervia-(4).jpg",
+      "sequence": 7,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 8527,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/33/original/melaleuca-quinquenervia-trees-street.jpg",
+      "sequence": 8,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "trees-street"
+    },
+    {
+      "photo_link_id": 8528,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/33/original/melaleuca-quinquenervia-tree-2.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 19622,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/33/original/Melaleuca-quinquenervia-(2).jpg",
+      "sequence": 10,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 19625,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/33/original/Melaleuca-quinquenervia-(3).jpg",
+      "sequence": 11,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 8529,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/33/original/melaleuca-quinquenervia-leaves.jpg",
+      "sequence": 12,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 8530,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/33/original/melaleuca-quinquenervia-flowers-3.jpg",
+      "sequence": 13,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "flowers-3"
+    },
+    {
+      "photo_link_id": 8531,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/33/original/melaleuca-quinquenervia-flowers-2.jpg",
+      "sequence": 14,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "flowers-2"
+    },
+    {
+      "photo_link_id": 8532,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/33/original/melaleuca-quinquenervia-flowers.jpg",
+      "sequence": 15,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "flowers"
+    },
+    {
+      "photo_link_id": 19624,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/33/original/Melaleuca-quinquenervia-(1).jpg",
+      "sequence": 16,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 8533,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/33/original/melaleuca-quinquenervia-leaf-close-up.jpg",
+      "sequence": 17,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "leaf-close-up"
+    },
+    {
+      "photo_link_id": 8534,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/33/original/melaleuca-quinquenervia-leaves-close-up.jpg",
+      "sequence": 18,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "leaves-close-up"
+    },
+    {
+      "photo_link_id": 8535,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/33/original/melaleuca-quinquenervia-fruit.jpg",
+      "sequence": 19,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "fruit"
+    },
+    {
+      "photo_link_id": 8536,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/33/original/melaleuca-quinquenervia-fruit-close-up.jpg",
+      "sequence": 20,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "fruit-close-up"
+    },
+    {
+      "photo_link_id": 8537,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/33/original/melaleuca-quinquenervia-bark.jpg",
+      "sequence": 21,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "bark"
+    },
+    {
+      "photo_link_id": 23083,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/33/original/Melaleuca-quinquenervia-(1)-2a5cc2fd-b206-406c-97f1-0493a10f026a.jpg",
+      "sequence": 22,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 23084,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/33/original/Melaleuca-quinquenervia-(2)-92d03aa8-b0ad-4eab-b64e-d87cb84d123b.jpg",
+      "sequence": 23,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 23085,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/33/original/Melaleuca-quinquenervia-2c1d94ee-676c-47ba-bbe3-76167f42f2fa.jpg",
+      "sequence": 24,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 23878,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/33/original/Melaleuca-quinquenervia-(2)-7a87fa3f-91fd-4c30-b4cd-f4cd0cd8b760.jpg",
+      "sequence": 25,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 23879,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/33/original/Melaleuca-quinquenervia-e0d2af14-2989-473f-b88f-4d5923e20b59.jpg",
+      "sequence": 26,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 23880,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/33/original/Melaleuca-quinquenervia-(1)-5b5274c1-992e-481c-b14b-53bb7416ebee.jpg",
+      "sequence": 27,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    }
+  ],
+  "landscape_application": [
+    "Riparian",
+    "Screen Tree"
+  ],
+  "landscape_use": [],
+  "sunset_zone": [
+    "9",
+    "12",
+    "13",
+    "15",
+    "16",
+    "17",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "H1",
+    "H2"
+  ],
+  "formatted_sunset_zones": [
+    "9",
+    "12 - 13",
+    "15 - 17",
+    "20 - 24",
+    "H1",
+    "H2"
+  ],
+  "usda_zone": [
+    10,
+    11,
+    12
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [],
+  "disease_susceptibility": [
+    "Phytophthora",
+    "Root Rot"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [],
+  "health_hazard": [
+    "Allergy",
+    "Irritant"
+  ],
+  "attracts_wildlife": [
+    "Bees",
+    "Birds"
+  ],
+  "fruit_value": [
+    "Wildlife use it"
+  ],
+  "fruiting_time": [
+    "Fall",
+    "Winter",
+    "Spring",
+    "Summer"
+  ],
+  "flower_time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower_color": [
+    "Pink",
+    "Purple",
+    "Yellow"
+  ],
+  "foliage_growth_color": [
+    "Light Green"
+  ],
+  "bark_texture": [
+    "Exfoliating"
+  ],
+  "tree_shape": [
+    "Rounded"
+  ],
+  "litter_type": [
+    "Dry Fruit"
+  ],
+  "climate_adapted_regions": [
+    "Inland Empire",
+    "Southern California Coast",
+    "Southwest Desert"
+  ],
+  "appraisal_text": "Suggested LCANT 24\" box, Group Rating 2, Approx. cross sectional area 2.24 sq. in.",
+  "app_grrating": "2",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Melaleuca_quinquenervia"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/120527-Melaleuca-quinquenervia"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:598073-1"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 2
+}

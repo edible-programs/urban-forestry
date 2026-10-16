@@ -1,0 +1,360 @@
+{
+  "tree_id": 177,
+  "family": "Ericaceae",
+  "memo": "Strawberry Tree is an attractive small evergreen shade tree, with its shiny dark green color and attractive bark and multi-trunk branching habit. The flowers and fruit are also attractive highlights during the year. Once established, it is a very durable tree. The fruit drop tends to be messy near drives or walkways. It may require regularly scheduled light top-trimming (but not necessarily shearing) of vigorous top shoots to maintain its height below 25. It is resistant to oak root fungus.",
+  "fragrance": 0,
+  "native_range": "Southern Europe and Ireland",
+  "photolocations": "Cal Poly State University - San Luis Obispo, CA, Huntington Botanical Gardens - San Marino, CA, Strybing Arboretum - San Francisco, CA, Huntington Botanical Gardens - San Marino, CA  and Santa Barbara City College",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 0,
+  "ethnobotanical_info": "",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 1,
+  "schoolyard_use_notes": "This tree has rough, reddish-brown bark that peels away in thin strips, providing a tactile experience for students. The glossy, evergreen leaves can be used in lessons on leaf structure and photosynthesis. It produces small, white to pink bell-shaped flowers that attract pollinators, offering a chance to study plant-pollinator interactions. The tree also bears round, red fruits that ripen in the fall, which can be used to explore topics like fruit development and seed dispersal.",
+  "soil_ph_low": 1,
+  "soil_ph_high": 5,
+  "planting_area": "4 to 7",
+  "shade_tolerant": 1,
+  "branch_strength_low": "Strong",
+  "branch_strength_high": "Strong",
+  "root_damage_potential": "Low",
+  "biogenic_emissions": "Low",
+  "deer_palatable": 1,
+  "height_high": 30,
+  "height_memo": null,
+  "width_high": 35,
+  "growth_rate_high": 24,
+  "water_use": "Medium",
+  "salt_tolerance": "High",
+  "fruit_size": "Medium",
+  "fruit_color": "Orange or Red",
+  "fruit_type": "Berry",
+  "flower_showiness": "Showy",
+  "bark_color": [
+    "Red Brown"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Oblong",
+  "foliage_fall_color": 0,
+  "foliage_type": "Evergreen",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": null,
+  "suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/77/original/177_current_suitability_map.png",
+  "future_suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/77/original/177_future_suitability_map.png",
+  "sex_explanation": null,
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 175,
+    "tree_id": 177,
+    "common": "STRAWBERRY MADRONE",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 0
+  },
+  "primary_taxon": {
+    "taxon_id": 175,
+    "genus": "Arbutus",
+    "species": "unedo",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Arbutus unedo"
+  },
+  "other_taxa": [],
+  "other_common": [
+    {
+      "common_id": 10735,
+      "tree_id": 177,
+      "common": "STRAWBERRY TREE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 0
+    },
+    {
+      "common_id": 10732,
+      "tree_id": 177,
+      "common": "ARBUTUS",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 1
+    },
+    {
+      "common_id": 10733,
+      "tree_id": 177,
+      "common": "WESTERN STRAWBERRY TREE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 10734,
+      "tree_id": 177,
+      "common": "IRISH STRAWBERRY TREE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 3
+    }
+  ],
+  "genericCommonNames": [
+    "MADRONE"
+  ],
+  "images": [
+    {
+      "photo_link_id": 1623,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/77/original/arbutus-unedo-tree-3.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "tree-3"
+    },
+    {
+      "photo_link_id": 1624,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/77/original/arbutus-unedo-tree-2.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 29485,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/77/original/Arbutus-unedo-(1).jpg",
+      "sequence": 3,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 1625,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/77/original/arbutus-unedo-tree-5.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "tree-5"
+    },
+    {
+      "photo_link_id": 1626,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/77/original/arbutus-unedo-tree.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 29486,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/77/original/Arbutus-unedo.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 1627,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/77/original/arbutus-unedo-tree-4.jpg",
+      "sequence": 7,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "tree-4"
+    },
+    {
+      "photo_link_id": 1630,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/77/original/arbutus-unedo-flowers-2.jpg",
+      "sequence": 8,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "flowers-2"
+    },
+    {
+      "photo_link_id": 1631,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/77/original/arbutus-unedo-flowers.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "flowers"
+    },
+    {
+      "photo_link_id": 1629,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/77/original/arbutus-unedo-foliage.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "foliage"
+    },
+    {
+      "photo_link_id": 1628,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/77/original/arbutus-unedo-leaves.jpg",
+      "sequence": 11,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 32904,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/77/original/Arbutus-unedo-9fd0c7d7-ccaf-4330-a450-45ed43cd43a9.jpg",
+      "sequence": 12,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 1632,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/77/original/arbutus-unedo-fruit.jpg",
+      "sequence": 13,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "fruit"
+    },
+    {
+      "photo_link_id": 1633,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/77/original/arbutus-unedo-fruit-2.jpg",
+      "sequence": 14,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "fruit-2"
+    },
+    {
+      "photo_link_id": 1634,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/77/original/arbutus-unedo-fruit-3.jpg",
+      "sequence": 15,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "fruit-3"
+    },
+    {
+      "photo_link_id": 1635,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/77/original/arbutus-unedo-fruit-green.jpg",
+      "sequence": 16,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "fruit-green"
+    },
+    {
+      "photo_link_id": 1636,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/77/original/arbutus-unedo-bark.jpg",
+      "sequence": 17,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "bark"
+    },
+    {
+      "photo_link_id": 1637,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/77/original/arbutus-unedo-bark-2.jpg",
+      "sequence": 18,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "bark-2"
+    }
+  ],
+  "landscape_application": [
+    "Screen Tree"
+  ],
+  "landscape_use": [],
+  "sunset_zone": [
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24"
+  ],
+  "formatted_sunset_zones": [
+    "4 - 24"
+  ],
+  "usda_zone": [
+    8,
+    9,
+    10,
+    11
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [
+    "Armillaria",
+    "Root Rot"
+  ],
+  "disease_susceptibility": [
+    "Anthracnose",
+    "Phytophthora",
+    "Root Rot",
+    "Rust"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [
+    "Scales",
+    "Thrip"
+  ],
+  "health_hazard": [
+    "Allergy"
+  ],
+  "attracts_wildlife": [
+    "Birds"
+  ],
+  "fruit_value": [
+    "Edible",
+    "Wildlife use it"
+  ],
+  "fruiting_time": [
+    "Fall",
+    "Winter"
+  ],
+  "flower_time": [
+    "Fall",
+    "Winter"
+  ],
+  "flower_color": [
+    "White"
+  ],
+  "foliage_growth_color": [
+    "Dark Green"
+  ],
+  "bark_texture": [
+    "Exfoliating",
+    "Smooth"
+  ],
+  "tree_shape": [
+    "Rounded",
+    "Vase"
+  ],
+  "litter_type": [
+    "Wet Fruit"
+  ],
+  "climate_adapted_regions": [],
+  "appraisal_text": "Suggested LCANT 24\" box, Group Rating 1, Approx. cross sectional area 2.09 sq. in.",
+  "app_grrating": "1",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Arbutus_unedo"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/82689-Arbutus-unedo"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:326526-1"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 0
+}

@@ -1,0 +1,242 @@
+{
+  "tree_id": 1304,
+  "family": "Salicaceae",
+  "memo": "Of the over 400 willow species worldwide, approximately 50 are native to California, the most prevalent of which is the arroyo willow. These fast-growing, deciduous shrubs or small trees are abundant along streams and have leaves with glossy, bright green tops and dull, pale undersides. The inconspicuous flowers appear in elongated clusters in winter before the new leaves emerge. Seed-forming female flowers and pollen-producing male flowers develop on separate plants. During the late spring, after pollination, the female flower clusters become a fuzzy mass of hairy seeds, which are light and easily carried great distances by flowing water and wind. Native Americans had many uses for this treeÕs pliable shoots, such as basketry and shelter construction. The bark, which was used for making rope, contains salicylic acid, the precursor to aspirin. Salix is the Latin name for a willow, and lasiolepis means woolly scale, referring to the scale-like leaves that protect the dormant buds.",
+  "fragrance": 0,
+  "native_range": "California and Southwestern United States",
+  "photolocations": "Santa Barbara Botanic Garden - Santa Barbara, CA, Quail Arboretum - Encinitas, CA and Regional Parks Botanic Garden, Tilden Regional Park - Berkeley, CA",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 1,
+  "ethnobotanical_info": "",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 0,
+  "schoolyard_use_notes": null,
+  "soil_ph_low": 1,
+  "soil_ph_high": 7,
+  "planting_area": "4 to 7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Weak",
+  "branch_strength_high": "Weak",
+  "root_damage_potential": "High",
+  "biogenic_emissions": "High",
+  "deer_palatable": null,
+  "height_high": 40,
+  "height_memo": null,
+  "width_high": 20,
+  "growth_rate_high": 36,
+  "water_use": "High",
+  "salt_tolerance": "Moderate",
+  "fruit_size": "Very Small",
+  "fruit_color": "Brown",
+  "fruit_type": "Capsule",
+  "flower_showiness": "Inconspicuous",
+  "sex": "Dioecious",
+  "bark_color": [
+    "Dark Brown or Dark Gray"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Oblanceolate",
+  "foliage_fall_color": 1,
+  "foliage_type": "Deciduous",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": null,
+  "suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/04/original/1304_current_suitability_map.png",
+  "future_suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/04/original/1304_future_suitability_map.png",
+  "sex_explanation": "Has either male or female reproductive parts (dioecious)",
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 1285,
+    "tree_id": 1304,
+    "common": "ARROYO WILLOW",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 1
+  },
+  "primary_taxon": {
+    "taxon_id": 1285,
+    "genus": "Salix",
+    "species": "lasiolepis",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Salix lasiolepis"
+  },
+  "other_taxa": [],
+  "other_common": [],
+  "genericCommonNames": [
+    "WILLOW"
+  ],
+  "images": [
+    {
+      "photo_link_id": 12018,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/04/original/salix-lasiolepis-tree.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 12019,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/04/original/salix-lasiolepis-canopy.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "canopy"
+    },
+    {
+      "photo_link_id": 12020,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/04/original/salix-lasiolepis-leaves-4.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "leaves-4"
+    },
+    {
+      "photo_link_id": 12021,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/04/original/salix-lasiolepis-leaves-3.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "leaves-3"
+    },
+    {
+      "photo_link_id": 12022,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/04/original/salix-lasiolepis-leaves-2.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "leaves-2"
+    },
+    {
+      "photo_link_id": 12023,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/04/original/salix-lasiolepis-leaves.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 12024,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/04/original/salix-lasiolepis-bark-2.jpg",
+      "sequence": 7,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "bark-2"
+    },
+    {
+      "photo_link_id": 12025,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/04/original/salix-lasiolepis-bark.jpg",
+      "sequence": 8,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "bark"
+    }
+  ],
+  "landscape_application": [
+    "Riparian",
+    "Screen Tree"
+  ],
+  "landscape_use": [],
+  "sunset_zone": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "14",
+    "15",
+    "16",
+    "17",
+    "22",
+    "23",
+    "24"
+  ],
+  "formatted_sunset_zones": [
+    "1 - 9",
+    "14 - 17",
+    "22 - 24"
+  ],
+  "usda_zone": [],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [
+    "Verticillium"
+  ],
+  "disease_susceptibility": [
+    "Anthracnose",
+    "Willow Blight",
+    "Armillaria",
+    "Phytophthora",
+    "Root Rot"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [
+    "Invasive Shot Hole Borer",
+    "Aphids",
+    "Beetle Borers",
+    "Caterpillars"
+  ],
+  "health_hazard": [
+    "Allergy"
+  ],
+  "attracts_wildlife": [],
+  "fruit_value": [],
+  "fruiting_time": [
+    "Summer"
+  ],
+  "flower_time": [
+    "Winter",
+    "Spring"
+  ],
+  "flower_color": [],
+  "foliage_growth_color": [
+    "Green"
+  ],
+  "bark_texture": [
+    "Furrowed",
+    "Smooth"
+  ],
+  "tree_shape": [
+    "Rounded"
+  ],
+  "litter_type": [
+    "Dry Fruit"
+  ],
+  "climate_adapted_regions": [
+    "Northern California Coast"
+  ],
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Salix_lasiolepis"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/53452-Salix-lasiolepis"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:301954-2"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 2
+}

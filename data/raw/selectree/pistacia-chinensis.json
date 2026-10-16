@@ -1,0 +1,362 @@
+{
+  "tree_id": 1086,
+  "family": "Anacardiaceae",
+  "memo": "&lt;em&gt;Pistacia chinensis&lt;/em&gt; is known for its striking fall foliage, which transforms into vibrant shades of red, orange, and yellow, creating a stunning display in urban landscapes. It has a rounded canopy that provides ample shade, making it a popular choice for parks and streets. The tree is drought-tolerant and can thrive in a variety of soil types, which adds to its versatility in different environments. Its small, inconspicuous flowers give way to clusters of small, red fruits that add visual interest. Additionally, it has a relatively low maintenance requirement, making it an attractive option for those seeking a resilient and beautiful tree for their urban setting.",
+  "fragrance": 1,
+  "native_range": "China",
+  "photolocations": "Dallas Arboretum - Dallas, TX, Bakersfield, CA, River Banks Botanical Garden - Columbia, SC, Ukiah, CA, Palo Alto, CA and Saratagoa, CA",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 0,
+  "ethnobotanical_info": "",
+  "pi_invasive": 0,
+  "invasive_text": "This plant is classified as potentially invasive in specific areas of California by the California Invasive Plant Council (California Invasive Plant Council) lists this plant as unknown potentially invasive in specific areas of Californianess.",
+  "ca_invasive": 0,
+  "schoolyard": 1,
+  "schoolyard_use_notes": "Chinese Pistache features pinnate leaves that turn vibrant shades of red, orange, and yellow in the fall, making it ideal for lessons on seasonal changes and plant pigmentation. The small, clustered fruits can be used to discuss seed development and dispersal methods. Its drought tolerance provides a practical example of plant adaptation to different environmental conditions. The tree's canopy offers a pleasant shade, making outdoor learning sessions more comfortable.",
+  "soil_ph_low": 3,
+  "soil_ph_high": 7,
+  "planting_area": "4 to 7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Strong",
+  "branch_strength_high": "Strong",
+  "root_damage_potential": "Low",
+  "biogenic_emissions": "Moderate",
+  "deer_palatable": null,
+  "height_high": 40,
+  "height_memo": null,
+  "width_high": 35,
+  "growth_rate_high": 24,
+  "water_use": "Low",
+  "salt_tolerance": "Low",
+  "fruit_size": "Medium",
+  "fruit_color": "Red or Mostly Blue",
+  "fruit_type": "Drupe",
+  "flower_showiness": "Inconspicuous",
+  "bark_color": [
+    "Dark Brown",
+    "Light Gray or Light Green"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Pinnately Compound",
+  "leaflet_shape": "Oblong",
+  "foliage_fall_color": 1,
+  "foliage_type": "Deciduous",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": "Medium High",
+  "suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/86/original/1086_current_suitability_map.png",
+  "future_suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/86/original/1086_future_suitability_map.png",
+  "sex_explanation": null,
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 1070,
+    "tree_id": 1086,
+    "common": "CHINESE PISTACHE",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 0
+  },
+  "primary_taxon": {
+    "taxon_id": 1070,
+    "genus": "Pistacia",
+    "species": "chinensis",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Pistacia chinensis"
+  },
+  "other_taxa": [],
+  "other_common": [
+    {
+      "common_id": 12042,
+      "tree_id": 1086,
+      "common": "CHINESE PISTACHIO",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 1
+    }
+  ],
+  "genericCommonNames": [
+    "PISTACHE"
+  ],
+  "images": [
+    {
+      "photo_link_id": 10030,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/86/original/pistacia-chinensis-tree-4.jpg",
+      "sequence": 1,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "tree-4"
+    },
+    {
+      "photo_link_id": 10031,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/86/original/pistacia-chinensis-tree.jpg",
+      "sequence": 2,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 10032,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/86/original/pistacia-chinensis-tree-2.jpg",
+      "sequence": 3,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 10033,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/86/original/pistacia-chinensis-tree-3.jpg",
+      "sequence": 4,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "tree-3"
+    },
+    {
+      "photo_link_id": 30623,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/86/original/Pistacia-chinesis.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 10034,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/86/original/pistacia-chinensis-trees.jpg",
+      "sequence": 6,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "trees"
+    },
+    {
+      "photo_link_id": 10035,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/86/original/pistacia-chinensis-tree-6.jpg",
+      "sequence": 7,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "tree-6"
+    },
+    {
+      "photo_link_id": 10036,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/86/original/pistacia-chinensis-tree-5.jpg",
+      "sequence": 8,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "tree-5"
+    },
+    {
+      "photo_link_id": 30621,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/86/original/Pistacia-chinesis-(1).jpg",
+      "sequence": 9,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 10037,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/86/original/pistacia-chinensis-leaves.jpg",
+      "sequence": 10,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 10038,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/86/original/pistacia-chinensis-leaf.jpg",
+      "sequence": 11,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "leaf"
+    },
+    {
+      "photo_link_id": 19689,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/86/original/Pistacia-chinensis-(3).jpg",
+      "sequence": 12,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 10039,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/86/original/pistacia-chinensis-leaves-fall.jpg",
+      "sequence": 13,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "leaves-fall"
+    },
+    {
+      "photo_link_id": 30622,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/86/original/Pistacia-chinensis-3a616e2b-2fda-41ec-81c8-f71ffda6e565.jpg",
+      "sequence": 14,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25370,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/86/original/Pistacia-chinensis-2a7eaf03-74a2-41b0-853f-81b8c8df1d0f.jpg",
+      "sequence": 15,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 10040,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/86/original/pistacia-chinensis-flowers-male.jpg",
+      "sequence": 16,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "flowers-male"
+    },
+    {
+      "photo_link_id": 10041,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/86/original/pistacia-chinensis-fruit.jpg",
+      "sequence": 17,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "fruit"
+    },
+    {
+      "photo_link_id": 10042,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/86/original/pistacia-chinensis-fruit-2.jpg",
+      "sequence": 18,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "fruit-2"
+    },
+    {
+      "photo_link_id": 19688,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/86/original/Pistacia-chinensis-(2).jpg",
+      "sequence": 19,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 19691,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/86/original/Pistacia-chinensis-(1).jpg",
+      "sequence": 20,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 10043,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/86/original/pistacia-chinensis-fruit-close-up.jpg",
+      "sequence": 21,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "fruit-close-up"
+    },
+    {
+      "photo_link_id": 19690,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/86/original/Pistacia-chinensis.jpg",
+      "sequence": 22,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 10044,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/86/original/pistacia-chinensis-bark-2.jpg",
+      "sequence": 23,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "bark-2"
+    }
+  ],
+  "landscape_application": [
+    "Street Tree",
+    "Park Tree",
+    "Screen Tree"
+  ],
+  "landscape_use": [],
+  "sunset_zone": [
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23"
+  ],
+  "formatted_sunset_zones": [
+    "4 - 23"
+  ],
+  "usda_zone": [
+    6,
+    7,
+    8,
+    9
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [
+    "Armillaria"
+  ],
+  "disease_susceptibility": [
+    "Verticillium",
+    "Root Rot"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [],
+  "health_hazard": [
+    "Allergy"
+  ],
+  "attracts_wildlife": [
+    "Birds"
+  ],
+  "fruit_value": [],
+  "fruiting_time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower_time": [
+    "Spring"
+  ],
+  "flower_color": [],
+  "foliage_growth_color": [
+    "Green"
+  ],
+  "bark_texture": [
+    "Furrowed",
+    "Scaly"
+  ],
+  "tree_shape": [
+    "Rounded"
+  ],
+  "litter_type": [],
+  "climate_adapted_regions": [
+    "Inland Empire",
+    "Inland Valleys",
+    "Southern California Coast"
+  ],
+  "appraisal_text": "Suggested LCANT 24\" box, Group Rating 2, Approx. cross sectional area 2.24 sq. in.",
+  "app_grrating": "2",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Pistacia_chinensis"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/143792-Pistacia-chinensis"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:70242-1"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 1
+}

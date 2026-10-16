@@ -1,0 +1,475 @@
+{
+  "id": "tkzw-k3nq",
+  "name": "San Francisco Street Tree Inventory",
+  "assetType": "dataset",
+  "attribution": "San Francisco Public Works",
+  "attributionLink": "http://www.sfdpw.org",
+  "averageRating": 0,
+  "category": "City Infrastructure",
+  "createdAt": 1787780954,
+  "description": "<strong><i>Note 9/9/2026: This dataset was updated in place to correct outstanding data issues, following our migration to a new asset management system in December 2024. You can access the previous version of the dataset <u><a href=\"https://data.sf.gov/City-Infrastructure/-ARCHIVED-Street-Tree-List/uzd4-f6yf/about_data\">here</a></u>.</i></strong>\n\n<strong>A. SUMMARY</strong>\nThis dataset contains all street trees recorded in the City’s street tree inventory. Each row represents a single street tree. The dataset is filtered from a broader asset inventory and includes only assets designated specifically as trees (excluding empty basins, landscaping areas, and potential planting sites). It does not include Street Trees that have been removed. You can find most trees that have been removed in the <u><a href=\"https://data.sfgov.org/d/qrwx-q4gg\">Street Tree Removal Notifications dataset</a></u>.\n\n<strong>B. HOW THE DATASET IS CREATED</strong>\nThe dataset is extracted from the Public Works asset management system (CMMS) and filtered to include only assets classified as street trees. Non‑tree assets such as empty basins, landscaping areas, and potential planting sites are excluded to ensure each record represents a single street tree.\n\n<strong>C. UPDATE PROCESS</strong>\nThe dataset is updated on a daily basis by automatically extracting the latest street tree records from the Public Works asset management system.\n\n<strong>D. HOW TO USE THIS DATASET</strong>\nNot all street trees in the dataset have coordinates; for records that do include coordinates, the precision may vary, so users should review spatial accuracy before performing location‑based analysis. Tree information is updated as part of normal operational workflows: typically when inspectors or field staff interact with a tree for maintenance, inspection, or other actions. As a result, while the dataset is refreshed on a scheduled basis, individual tree records may not always reflect the most current conditions.\n\nPlease note that trees removed on an emergency basis (e.g. storm or life hazard) may not appear in this dataset or in the Street Trees Removal Notifications dataset. The Street Trees Removal Notifications dataset is only for the formal removal process where a tree removal permit is issued and the tree was recommended for removal.\n\n<strong>E. RELATED DATASETS</strong>\n<u><a href=\"https://data.sfgov.org/d/qrwx-q4gg\">Street Tree Removal Notifications</a></u>",
+  "diciBackend": false,
+  "displayType": "table",
+  "domainCName": "data.sf.gov",
+  "downloadCount": 26875,
+  "hideFromCatalog": false,
+  "hideFromDataJson": false,
+  "licenseId": "PDDL",
+  "locked": false,
+  "newBackend": true,
+  "numberOfComments": 0,
+  "oid": 42491022,
+  "provenance": "official",
+  "publicationAppendEnabled": false,
+  "publicationDate": 1789058859,
+  "publicationGroup": 20545429,
+  "publicationStage": "published",
+  "rowsUpdatedAt": 1792168998,
+  "rowsUpdatedBy": "dbag-6qd9",
+  "tableId": 20575513,
+  "totalTimesRated": 0,
+  "viewCount": 59780,
+  "viewLastModified": 1792168976,
+  "viewType": "tabular",
+  "approvals": [
+    {
+      "reviewedAt": 1464988035,
+      "reviewedAutomatically": true,
+      "state": "approved",
+      "submissionId": 7680404,
+      "submissionObject": "public_audience_request",
+      "submissionOutcome": "change_audience",
+      "submittedAt": 1464988035,
+      "targetAudience": "public",
+      "workflowId": 2546,
+      "submissionDetails": {
+        "permissionType": "READ"
+      },
+      "submissionOutcomeApplication": {
+        "failureCount": 0,
+        "status": "success"
+      },
+      "submitter": {
+        "id": "rcpp-nrjq",
+        "displayName": "Public Works"
+      }
+    },
+    {
+      "message": "The `strict_permissions` flag must be on to enable internal approvals.",
+      "state": "unsubmittable",
+      "targetAudience": "internal",
+      "workflowId": 5264
+    }
+  ],
+  "clientContext": {
+    "clientContextVariables": [],
+    "inheritedVariables": {}
+  },
+  "columns": [
+    {
+      "id": 643673428,
+      "name": "treeid",
+      "dataTypeName": "number",
+      "description": "Street tree asset unique ID",
+      "fieldName": "treeid",
+      "position": 1,
+      "renderTypeName": "number",
+      "tableColumnId": 170863217,
+      "format": {
+        "decimalSeparator": ".",
+        "noCommas": "true"
+      }
+    },
+    {
+      "id": 643673429,
+      "name": "legalstatus",
+      "dataTypeName": "text",
+      "description": "Legal status: DPW Maintained, Significant Tree, etc.",
+      "fieldName": "legalstatus",
+      "position": 2,
+      "renderTypeName": "text",
+      "tableColumnId": 170863215,
+      "format": {}
+    },
+    {
+      "id": 643673430,
+      "name": "species",
+      "dataTypeName": "text",
+      "description": "Species of tree",
+      "fieldName": "species",
+      "position": 3,
+      "renderTypeName": "text",
+      "tableColumnId": 170863214,
+      "format": {}
+    },
+    {
+      "id": 643673431,
+      "name": "description",
+      "dataTypeName": "text",
+      "description": "Description of tree location (typically address)",
+      "fieldName": "description",
+      "position": 4,
+      "renderTypeName": "text",
+      "tableColumnId": 170863213,
+      "format": {}
+    },
+    {
+      "id": 643673432,
+      "name": "siteorder",
+      "dataTypeName": "number",
+      "description": "Order of tree at address where multiple trees are at the same address",
+      "fieldName": "siteorder",
+      "position": 5,
+      "renderTypeName": "number",
+      "tableColumnId": 170863212,
+      "format": {
+        "decimalSeparator": ".",
+        "groupSeparator": ","
+      }
+    },
+    {
+      "id": 643673433,
+      "name": "siteinfo",
+      "dataTypeName": "text",
+      "description": "Description of location of tree",
+      "fieldName": "siteinfo",
+      "position": 6,
+      "renderTypeName": "text",
+      "tableColumnId": 170863211,
+      "format": {}
+    },
+    {
+      "id": 643673434,
+      "name": "planttype",
+      "dataTypeName": "text",
+      "description": "Description of location of tree",
+      "fieldName": "planttype",
+      "position": 7,
+      "renderTypeName": "text",
+      "tableColumnId": 170863210,
+      "format": {}
+    },
+    {
+      "id": 643673435,
+      "name": "planter",
+      "dataTypeName": "text",
+      "description": "Agency that planted tree, where applicable",
+      "fieldName": "planter",
+      "position": 8,
+      "renderTypeName": "text",
+      "tableColumnId": 170863209,
+      "format": {}
+    },
+    {
+      "id": 643673436,
+      "name": "waterresponsibility",
+      "dataTypeName": "text",
+      "description": "Agency that is responsible for watering tree, where applicable",
+      "fieldName": "waterresponsibility",
+      "position": 9,
+      "renderTypeName": "text",
+      "tableColumnId": 170863208,
+      "format": {}
+    },
+    {
+      "id": 643673465,
+      "name": "planteddate",
+      "dataTypeName": "text",
+      "description": "Date tree was planted",
+      "fieldName": "planteddate",
+      "position": 11,
+      "renderTypeName": "text",
+      "tableColumnId": 171291101,
+      "format": {
+        "view": "date_ymd_time"
+      }
+    },
+    {
+      "id": 643673464,
+      "name": "mapdbh",
+      "dataTypeName": "text",
+      "description": "Diameter at breast height",
+      "fieldName": "mapdbh",
+      "position": 12,
+      "renderTypeName": "text",
+      "tableColumnId": 171291100,
+      "format": {
+        "decimalSeparator": ".",
+        "groupSeparator": ","
+      }
+    },
+    {
+      "id": 643673440,
+      "name": "plotsize",
+      "dataTypeName": "text",
+      "description": "Dimensions of tree plot",
+      "fieldName": "plotsize",
+      "position": 13,
+      "renderTypeName": "text",
+      "tableColumnId": 170863204,
+      "format": {}
+    },
+    {
+      "id": 643673441,
+      "name": "xcoord",
+      "dataTypeName": "number",
+      "description": "NAD83 / California zone 3 (ftUS)",
+      "fieldName": "xcoord",
+      "position": 14,
+      "renderTypeName": "number",
+      "tableColumnId": 170863218,
+      "format": {
+        "decimalSeparator": ".",
+        "noCommas": "true"
+      }
+    },
+    {
+      "id": 643673442,
+      "name": "ycoord",
+      "dataTypeName": "number",
+      "description": "NAD83 / California zone 3 (ftUS)",
+      "fieldName": "ycoord",
+      "position": 15,
+      "renderTypeName": "number",
+      "tableColumnId": 170863219,
+      "format": {
+        "decimalSeparator": ".",
+        "noCommas": "true"
+      }
+    },
+    {
+      "id": 643673443,
+      "name": "latitude",
+      "dataTypeName": "number",
+      "description": "WGS84",
+      "fieldName": "latitude",
+      "position": 16,
+      "renderTypeName": "number",
+      "tableColumnId": 170863203,
+      "format": {
+        "decimalSeparator": ".",
+        "groupSeparator": ","
+      }
+    },
+    {
+      "id": 643673444,
+      "name": "longitude",
+      "dataTypeName": "number",
+      "description": "WGS84",
+      "fieldName": "longitude",
+      "position": 17,
+      "renderTypeName": "number",
+      "tableColumnId": 170863202,
+      "format": {
+        "decimalSeparator": ".",
+        "groupSeparator": ","
+      }
+    },
+    {
+      "id": 643673463,
+      "name": "point",
+      "dataTypeName": "text",
+      "description": "WGS84",
+      "fieldName": "point",
+      "position": 18,
+      "renderTypeName": "text",
+      "tableColumnId": 171291099,
+      "format": {}
+    },
+    {
+      "id": 643673462,
+      "name": "supervisordistrict",
+      "dataTypeName": "text",
+      "description": "BOS Supervisor District",
+      "fieldName": "supervisordistrict",
+      "position": 19,
+      "renderTypeName": "text",
+      "tableColumnId": 171291098,
+      "format": {
+        "decimalSeparator": ".",
+        "groupSeparator": ","
+      }
+    },
+    {
+      "id": 643673447,
+      "name": "analysis_neighborhood",
+      "dataTypeName": "text",
+      "description": "Analysis Neighborhood",
+      "fieldName": "analysis_neighborhood",
+      "position": 20,
+      "renderTypeName": "text",
+      "tableColumnId": 170863199,
+      "format": {}
+    },
+    {
+      "id": 643673461,
+      "name": "dbhrange",
+      "dataTypeName": "text",
+      "description": "DBH range used for map symbologies",
+      "fieldName": "dbhrange",
+      "position": 21,
+      "renderTypeName": "text",
+      "tableColumnId": 171291097,
+      "format": {
+        "decimalSeparator": ".",
+        "groupSeparator": ","
+      }
+    },
+    {
+      "id": 643673460,
+      "name": "cnn",
+      "dataTypeName": "text",
+      "description": "CNN of street where tree is located",
+      "fieldName": "cnn",
+      "position": 22,
+      "renderTypeName": "text",
+      "tableColumnId": 171291096,
+      "format": {
+        "decimalSeparator": ".",
+        "noCommas": "true"
+      }
+    },
+    {
+      "id": 643673450,
+      "name": "roadwaydescription",
+      "dataTypeName": "text",
+      "description": "Text description of CNN where tree is located",
+      "fieldName": "roadwaydescription",
+      "position": 23,
+      "renderTypeName": "text",
+      "tableColumnId": 170863197,
+      "format": {}
+    },
+    {
+      "id": 643673451,
+      "name": "onstreet",
+      "dataTypeName": "text",
+      "description": "Street name where tree is located",
+      "fieldName": "onstreet",
+      "position": 24,
+      "renderTypeName": "text",
+      "tableColumnId": 170863196,
+      "format": {}
+    },
+    {
+      "id": 643673452,
+      "name": "crossstreet",
+      "dataTypeName": "text",
+      "description": "First cross street for CNN associated with tree",
+      "fieldName": "crossstreet",
+      "position": 25,
+      "renderTypeName": "text",
+      "tableColumnId": 170863195,
+      "format": {}
+    },
+    {
+      "id": 643673459,
+      "name": "zip_code",
+      "dataTypeName": "text",
+      "description": "Zip code where tree is located",
+      "fieldName": "zip_code",
+      "position": 26,
+      "renderTypeName": "text",
+      "tableColumnId": 171291095,
+      "format": {
+        "decimalSeparator": ".",
+        "noCommas": "true"
+      }
+    },
+    {
+      "id": 643673458,
+      "name": "data_as_of",
+      "dataTypeName": "text",
+      "description": "Timestamp when the record (row) was last updated in the source system.",
+      "fieldName": "data_as_of",
+      "position": 28,
+      "renderTypeName": "text",
+      "tableColumnId": 171291094,
+      "format": {
+        "view": "date_ymd_time"
+      }
+    },
+    {
+      "id": 643673457,
+      "name": "data_loaded_at",
+      "dataTypeName": "text",
+      "description": "Timestamp the data was uploaded to the open data portal.",
+      "fieldName": "data_loaded_at",
+      "position": 29,
+      "renderTypeName": "text",
+      "tableColumnId": 171291093,
+      "format": {
+        "view": "date_ymd_time"
+      }
+    }
+  ],
+  "grants": [
+    {
+      "inherited": false,
+      "type": "viewer",
+      "flags": [
+        "public"
+      ]
+    }
+  ],
+  "license": {
+    "name": "Open Data Commons Public Domain Dedication and License",
+    "termsLink": "http://opendatacommons.org/licenses/pddl/1.0/"
+  },
+  "metadata": {
+    "custom_fields": {
+      "Department Metrics": {
+        "Publishing Department": "Public Works"
+      },
+      "Internal Management": {
+        "Inventory ID": "DPW-0019"
+      },
+      "Detailed Descriptive": {
+        "Geographic unit": "Latitude/longitude"
+      },
+      "Publishing Details": {
+        "Data change frequency": "Daily",
+        "Publishing frequency": "Daily"
+      }
+    },
+    "rowLabel": "Street tree",
+    "availableDisplayTypes": [
+      "table",
+      "fatrow",
+      "page"
+    ]
+  },
+  "owner": {
+    "id": "dbag-6qd9",
+    "displayName": "OpenData",
+    "screenName": "OpenData",
+    "type": "interactive",
+    "flags": [
+      "acceptedEula"
+    ]
+  },
+  "query": {},
+  "rights": [
+    "read"
+  ],
+  "tableAuthor": {
+    "id": "dbag-6qd9",
+    "displayName": "OpenData",
+    "screenName": "OpenData",
+    "type": "interactive",
+    "flags": [
+      "acceptedEula"
+    ]
+  },
+  "tags": [
+    "trees"
+  ],
+  "flags": [
+    "default",
+    "federated",
+    "internalToPublicFederatedView",
+    "ownerMayBeContacted",
+    "restorable",
+    "restorePossibleForType"
+  ]
+}

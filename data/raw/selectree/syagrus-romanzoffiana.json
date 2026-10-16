@@ -1,0 +1,375 @@
+{
+  "tree_id": 1361,
+  "family": "Arecaceae",
+  "memo": "&lt;em&gt;Syagrus romanzoffiana &lt;/em&gt;is a subtropical to tropical feather palm native to the woodlands of South America. Its elegant, arching, and dark green crown is supported by a slender and gray trunk. Bright orange drupes are produced in abundance, enjoyed by birds and small mammals. With its tolerance of light frost, drought, and heat, this is one of the hardiest tropical palms. Its fallen fruits can make a mess of the ground. Otherwise, this fast-grower has become very popular in cultivation.",
+  "fragrance": 0,
+  "native_range": "Southern Brazil and Northern Argentina",
+  "photolocations": "San Diego State University - San Diego, CA, San Luis Obispo, CA, Los Angeles County Arboretum - Arcadia, CA, UC Berkeley Botanical Garden - Berkeley, CA and Alameda Plazas and Alice Keck Park Memorial Garden - Santa Barbara, CA",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 0,
+  "ethnobotanical_info": "The fruits of the Queen Palm are edible and processed into wines or syrups. Its young apical buds are also edible, but their removal kills the tree. Its leaves are a source of fiber for baskets and hats, while its salt-resistant trunks are used for water pipes and construction.&nbsp;&nbsp;",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 0,
+  "schoolyard_use_notes": null,
+  "soil_ph_low": 2,
+  "soil_ph_high": 5,
+  "planting_area": "4 to 7",
+  "shade_tolerant": 0,
+  "branch_strength_low": null,
+  "branch_strength_high": null,
+  "root_damage_potential": "Low",
+  "biogenic_emissions": "",
+  "deer_palatable": null,
+  "height_high": 50,
+  "height_memo": null,
+  "width_high": 30,
+  "growth_rate_high": 36,
+  "water_use": "Medium",
+  "salt_tolerance": "Moderate",
+  "fruit_size": "Medium",
+  "fruit_color": "Orange",
+  "fruit_type": "Drupe",
+  "flower_showiness": "Inconspicuous",
+  "sex": "Monoecious",
+  "bark_color": [
+    "Light Gray",
+    "Green"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Pinnately Compound",
+  "leaflet_shape": "",
+  "foliage_fall_color": 0,
+  "foliage_type": "Evergreen",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": "Medium High",
+  "suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/61/original/1361_current_suitability_map.png",
+  "future_suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/61/original/1361_future_suitability_map.png",
+  "sex_explanation": "Has separate male and female reproductive parts on the same tree (monoecious)",
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 1342,
+    "tree_id": 1361,
+    "common": "QUEEN PALM",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 1
+  },
+  "primary_taxon": {
+    "taxon_id": 1342,
+    "genus": "Syagrus",
+    "species": "romanzoffiana",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Syagrus romanzoffiana"
+  },
+  "other_taxa": [
+    {
+      "taxon_id": 2457,
+      "genus": "Arecastrum",
+      "species": "romanzoffianum",
+      "hybrid_alt_species": "",
+      "subspecies": "",
+      "variety": "",
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 2,
+      "name_concat": "Arecastrum romanzoffianum"
+    },
+    {
+      "taxon_id": 5904,
+      "genus": "Calappa",
+      "species": "romanzoffiana",
+      "hybrid_alt_species": null,
+      "subspecies": null,
+      "variety": null,
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 3,
+      "name_concat": "Calappa romanzoffiana"
+    },
+    {
+      "taxon_id": 5905,
+      "genus": "Cocos",
+      "species": "romanzoffiana",
+      "hybrid_alt_species": null,
+      "subspecies": null,
+      "variety": null,
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 4,
+      "name_concat": "Cocos romanzoffiana"
+    }
+  ],
+  "other_common": [
+    {
+      "common_id": 12439,
+      "tree_id": 1361,
+      "common": "GIRIBA PALM",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    }
+  ],
+  "genericCommonNames": [
+    "PALM"
+  ],
+  "images": [
+    {
+      "photo_link_id": 12517,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/61/original/syagrus-romanzoffiana-trees-3.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "trees-3"
+    },
+    {
+      "photo_link_id": 12518,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/61/original/syagrus-romanzoffiana-trees-2.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "trees-2"
+    },
+    {
+      "photo_link_id": 12519,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/61/original/syagrus-romanzoffiana-trees.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "trees"
+    },
+    {
+      "photo_link_id": 12520,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/61/original/syagrus-romanzoffiana-tree-young.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-young"
+    },
+    {
+      "photo_link_id": 19692,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/61/original/Syagrus-romanzoffiana.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 12521,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/61/original/syagrus-romanzoffiana-tree-canopy-2.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-canopy-2"
+    },
+    {
+      "photo_link_id": 12522,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/61/original/syagrus-romanzoffiana-tree-canopy.jpg",
+      "sequence": 7,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-canopy"
+    },
+    {
+      "photo_link_id": 12523,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/61/original/syagrus-romanzoffiana-leaves.jpg",
+      "sequence": 8,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 12524,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/61/original/syagrus-romanzoffiana-leaves-2.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves-2"
+    },
+    {
+      "photo_link_id": 12525,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/61/original/syagrus-romanzoffiana-flowers.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "flowers"
+    },
+    {
+      "photo_link_id": 32956,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/61/original/Syagrus-romanzoffiana-d4e4db61-b758-4b55-9502-d484391bfbe7.jpg",
+      "sequence": 11,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 12526,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/61/original/syagrus-romanzoffiana-fruit-2.jpg",
+      "sequence": 12,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit-2"
+    },
+    {
+      "photo_link_id": 12527,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/61/original/syagrus-romanzoffiana-fruit-3.jpg",
+      "sequence": 13,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit-3"
+    },
+    {
+      "photo_link_id": 24138,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/61/original/Syagrus-romanzoffiana-fd3cbcbc-65ed-4736-b49b-11a82c2c14e7.jpg",
+      "sequence": 14,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 12528,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/61/original/syagrus-romanzoffiana-fruit.jpg",
+      "sequence": 15,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit"
+    },
+    {
+      "photo_link_id": 12529,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/61/original/syagrus-romanzoffiana-fruit-close-up.jpg",
+      "sequence": 16,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit-close-up"
+    },
+    {
+      "photo_link_id": 12530,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/61/original/syagrus-romanzoffiana-bark-2.jpg",
+      "sequence": 17,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "bark-2"
+    },
+    {
+      "photo_link_id": 12531,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/61/original/syagrus-romanzoffiana-bark.jpg",
+      "sequence": 18,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "bark"
+    }
+  ],
+  "landscape_application": [
+    "Specimen",
+    "Buffer Strip",
+    "Street Tree"
+  ],
+  "landscape_use": [],
+  "sunset_zone": [
+    "12",
+    "13",
+    "15",
+    "16",
+    "17",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "H1",
+    "H2"
+  ],
+  "formatted_sunset_zones": [
+    "12 - 13",
+    "15 - 17",
+    "19 - 24",
+    "H1",
+    "H2"
+  ],
+  "usda_zone": [
+    10,
+    11,
+    9
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [
+    "Texas Root Rot"
+  ],
+  "disease_susceptibility": [
+    "Butt Rot",
+    "Armillaria",
+    "Root Rot",
+    "Trunk Rot"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [
+    "Scales",
+    "Spider Mites",
+    "Red Palm Weevils (Rhynchophorus ferrugineus)"
+  ],
+  "health_hazard": [],
+  "attracts_wildlife": [
+    "Birds",
+    "Mammals"
+  ],
+  "fruit_value": [
+    "Wildlife use it",
+    "Edible"
+  ],
+  "fruiting_time": [
+    "Fall",
+    "Winter",
+    "Spring",
+    "Summer"
+  ],
+  "flower_time": [
+    "Fall",
+    "Winter",
+    "Spring",
+    "Summer"
+  ],
+  "flower_color": [
+    "White"
+  ],
+  "foliage_growth_color": [
+    "Green"
+  ],
+  "bark_texture": [
+    "Smooth",
+    "Ridged"
+  ],
+  "tree_shape": [
+    "Palm"
+  ],
+  "litter_type": [
+    "Leaves",
+    "Wet Fruit"
+  ],
+  "climate_adapted_regions": [],
+  "appraisal_text": "$/BTF, Approx. cross sectional area not applicable",
+  "app_grrating": "$/BTF",
+  "app_lcant": "Use BTF",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Syagrus_romanzoffiana"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/79291-Syagrus-romanzoffiana"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:246966-2"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 2
+}

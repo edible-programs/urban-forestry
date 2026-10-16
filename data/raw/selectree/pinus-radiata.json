@@ -1,0 +1,362 @@
+{
+  "tree_id": 1071,
+  "family": "Pinaceae",
+  "memo": "The Monterey pine is rare in the wild, occurring only in three isolated mainland stands along the California coast in Cambria, on the Monterey Peninsula, and along the coast north of Santa Cruz. Small populations also exist on Guadalupe and Cedros Islands off the coast of Baja, California. It has been planted as an ornamental in many areas along the California coast. Away from its California home, it is one of the world's most important plantation timber trees, having been extensively planted in the Southern Hemisphere, where it is often weedy. Monterey pine has gray bark, dark green needles, usually in clusters of three, and knobby light brown, lopsided cones that persist on the trunk and branches. Although it is a closed-cone species, like its relatives knobcone pine (&lt;em&gt;Pinus attenuata&lt;/em&gt;) and bishop pine (&lt;em&gt;Pinus muricata&lt;/em&gt;), it takes less heat to open the cones; sometimes, on a hot day, a loud crack signals that a cone has popped open.\n",
+  "fragrance": 0,
+  "native_range": "California",
+  "photolocations": "Tilden Regional Parks Botanical Garden - Berkeley, CA, Strybing Arboretum - San Francisco, CA, Santa Cruz, CA, Lotusland - Santa Barbara, CA, Cal Poly Campus - San Luis Obispo, CA and Santa Maria, CA",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 1,
+  "ethnobotanical_info": "",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 0,
+  "schoolyard_use_notes": null,
+  "soil_ph_low": 1,
+  "soil_ph_high": 5,
+  "planting_area": ">7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Medium Weak",
+  "branch_strength_high": "Medium Weak",
+  "root_damage_potential": "Moderate",
+  "biogenic_emissions": "Low",
+  "deer_palatable": 0,
+  "height_high": 90,
+  "height_memo": null,
+  "width_high": 35,
+  "growth_rate_high": 36,
+  "water_use": "Medium",
+  "salt_tolerance": "High",
+  "fruit_size": "Very Large",
+  "fruit_color": "Brown",
+  "fruit_type": "Cone",
+  "flower_showiness": "",
+  "bark_color": [
+    "Light Gray or Red Brown"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Needle",
+  "foliage_fall_color": 0,
+  "foliage_type": "Evergreen",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": null,
+  "suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/71/original/1071_current_suitability_map.png",
+  "future_suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/71/original/1071_future_suitability_map.png",
+  "sex_explanation": null,
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 1055,
+    "tree_id": 1071,
+    "common": "MONTEREY PINE",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 0
+  },
+  "primary_taxon": {
+    "taxon_id": 1055,
+    "genus": "Pinus",
+    "species": "radiata",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Pinus radiata"
+  },
+  "other_taxa": [],
+  "other_common": [
+    {
+      "common_id": 12011,
+      "tree_id": 1071,
+      "common": "RADIATA PINE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 12012,
+      "tree_id": 1071,
+      "common": "GUADALUPE ISLAND PINE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 3
+    },
+    {
+      "common_id": 12013,
+      "tree_id": 1071,
+      "common": "INSIGNIS PINE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 4
+    },
+    {
+      "common_id": 12014,
+      "tree_id": 1071,
+      "common": "CEDROS ISLAND PINE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 5
+    }
+  ],
+  "genericCommonNames": [
+    "PINE"
+  ],
+  "images": [
+    {
+      "photo_link_id": 9878,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/71/original/pinus-radiata-tree.jpg",
+      "sequence": 1,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 9879,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/71/original/pinus-radiata-tree-2.jpg",
+      "sequence": 2,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 9880,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/71/original/pinus-radiata-tree-flowering.jpg",
+      "sequence": 3,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "tree-flowering"
+    },
+    {
+      "photo_link_id": 25314,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/71/original/Pinus-radiata-387b61a8-cbfc-403a-8537-497ff4f6ae0f.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20310,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/71/original/Pinus-radiata.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 27108,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/71/original/Pinus-radiata-65393569-497f-4c15-808f-2429a0bd2a3d.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 27107,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/71/original/Pinus-radiata-(1)-b008cba3-fb06-4a1f-92e7-23daf700745c.jpg",
+      "sequence": 7,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25315,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/71/original/Pinus-radiata-(1).jpg",
+      "sequence": 8,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 9881,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/71/original/pinus-radiata-tree-shaped.jpg",
+      "sequence": 9,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "tree-shaped"
+    },
+    {
+      "photo_link_id": 9882,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/71/original/pinus-radiata-leaves-2.jpg",
+      "sequence": 10,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "leaves-2"
+    },
+    {
+      "photo_link_id": 9883,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/71/original/pinus-radiata-leaves.jpg",
+      "sequence": 11,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 9884,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/71/original/pinus-radiata-leaves-3.jpg",
+      "sequence": 12,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "leaves-3"
+    },
+    {
+      "photo_link_id": 9885,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/71/original/pinus-radiata-needles.jpg",
+      "sequence": 13,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "needles"
+    },
+    {
+      "photo_link_id": 9886,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/71/original/pinus-radiata-fascicle.jpg",
+      "sequence": 14,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "fascicle"
+    },
+    {
+      "photo_link_id": 9887,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/71/original/pinus-radiata-cones-male.jpg",
+      "sequence": 15,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "cones-male"
+    },
+    {
+      "photo_link_id": 9888,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/71/original/pinus-radiata-cones-male-2.jpg",
+      "sequence": 16,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "cones-male-2"
+    },
+    {
+      "photo_link_id": 9889,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/71/original/pinus-radiata-cone.jpg",
+      "sequence": 17,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "cone"
+    },
+    {
+      "photo_link_id": 9890,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/71/original/pinus-radiata-cone-2.jpg",
+      "sequence": 18,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "cone-2"
+    },
+    {
+      "photo_link_id": 9891,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/71/original/pinus-radiata-pitchcanker-crown.jpg",
+      "sequence": 19,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "pitchcanker-crown"
+    },
+    {
+      "photo_link_id": 9892,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/71/original/pinus-radiata-bark.jpg",
+      "sequence": 20,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "bark"
+    }
+  ],
+  "landscape_application": [],
+  "landscape_use": [],
+  "sunset_zone": [
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "H1"
+  ],
+  "formatted_sunset_zones": [
+    "14 - 24",
+    "H1"
+  ],
+  "usda_zone": [
+    7,
+    8,
+    9,
+    10
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand"
+  ],
+  "disease_resistant": [
+    "Verticillium"
+  ],
+  "disease_susceptibility": [
+    "Armillaria",
+    "Leaf Blight",
+    "Phytophthora",
+    "Root Rot"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [
+    "Aphids",
+    "Beetle Borers",
+    "California Five Spined Engraver Beetle",
+    "IPS"
+  ],
+  "health_hazard": [
+    "Allergy"
+  ],
+  "attracts_wildlife": [
+    "Birds",
+    "Squirrels"
+  ],
+  "fruit_value": [],
+  "fruiting_time": [
+    "Fall",
+    "Winter"
+  ],
+  "flower_time": [
+    "Winter",
+    "Spring"
+  ],
+  "flower_color": [],
+  "foliage_growth_color": [
+    "Dark Green"
+  ],
+  "bark_texture": [
+    "Furrowed"
+  ],
+  "tree_shape": [
+    "Conical",
+    "Rounded",
+    "Vase"
+  ],
+  "litter_type": [
+    "Dry Fruit"
+  ],
+  "climate_adapted_regions": [
+    "Northern California Coast"
+  ],
+  "appraisal_text": "Suggested LCANT 24\" box, Group Rating 4, Approx. cross sectional area 4.75 sq. in.",
+  "app_grrating": "4",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Pinus_radiata"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/53421-Pinus-radiata"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:30020085-2"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 0
+}

@@ -1,0 +1,333 @@
+{
+  "tree_id": 241,
+  "family": "Myrtaceae",
+  "memo": "This tree features gracefully drooping branches that create a weeping effect, making it a striking addition to urban landscapes. Its vibrant red, bottlebrush-like flowers bloom profusely, attracting hummingbirds and other pollinators. The narrow, lance-shaped leaves are aromatic when crushed, adding another sensory dimension. It thrives in sunny locations and can tolerate a range of soil types, including those that are less fertile. This tree is also relatively drought-resistant once established, making it a low-maintenance choice for gardens and streetscapes.",
+  "fragrance": 1,
+  "native_range": "Eastern Australia",
+  "photolocations": "Waimea, HI, Quail Botanical Gardens - Encinitas, CA, Santa Barbara, CA and Santa Maria, CA",
+  "display": 1,
+  "pacific_island": 1,
+  "california_native": 0,
+  "ethnobotanical_info": "The essential oil from this tree is used as insecticide and fungicide. In traditional Chinese medicine it is used to treat hemorrhoids, while in Jamaica a tea is made to treat gastro-enteritis and skin infection. Across &lt;i&gt;C. &lt;/i&gt;&lt;i&gt;viminalis&lt;/i&gt;&lt;i&gt;’&lt;/i&gt; native range in Australia, it is used for a variety of traditional medicine applications. The ‘bottlebrush’ is a common ornamental street tree throughout the tropics and subtropics. (Salem et al., 2017)",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 1,
+  "schoolyard_use_notes": "This tree has narrow, drooping leaves and vibrant, bottlebrush-like flowers that capture attention. The flowers attract bees and birds, making it a great subject for studying pollination and ecosystems. Its evergreen foliage provides year-round greenery, useful for lessons on plant life cycles. The tree&#x27;s bark is textured and peeling, which can be used to discuss plant growth and adaptation.",
+  "soil_ph_low": 3,
+  "soil_ph_high": 7,
+  "planting_area": "2 to 4",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Medium",
+  "branch_strength_high": "Medium",
+  "root_damage_potential": "Low",
+  "biogenic_emissions": "High",
+  "deer_palatable": -1,
+  "height_high": 20,
+  "height_memo": null,
+  "width_high": 20,
+  "growth_rate_high": 36,
+  "water_use": "Low",
+  "salt_tolerance": "moderate",
+  "fruit_size": "Small",
+  "fruit_color": "Brown",
+  "fruit_type": "Capsule",
+  "flower_showiness": "Showy",
+  "bark_color": [
+    "Dark Gray"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Spear Shaped",
+  "foliage_fall_color": 0,
+  "foliage_type": "Evergreen",
+  "redirect_tree_id": null,
+  "utility_friendly": 1,
+  "wind_resistance": "Medium Low",
+  "suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/41/original/241_current_suitability_map.png",
+  "future_suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/41/original/241_future_suitability_map.png",
+  "sex_explanation": null,
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 9345,
+    "tree_id": 241,
+    "common": "WEEPING BOTTLEBRUSH",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 0
+  },
+  "primary_taxon": {
+    "taxon_id": 239,
+    "genus": "Callistemon",
+    "species": "viminalis",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Callistemon viminalis"
+  },
+  "other_taxa": [
+    {
+      "taxon_id": 2123,
+      "genus": "Melaleuca",
+      "species": "viminalis",
+      "hybrid_alt_species": "",
+      "subspecies": "",
+      "variety": "",
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 2,
+      "name_concat": "Melaleuca viminalis"
+    }
+  ],
+  "other_common": [
+    {
+      "common_id": 7464,
+      "tree_id": 241,
+      "common": "CREEK BOTTLEBRUSH",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 1
+    },
+    {
+      "common_id": 10834,
+      "tree_id": 241,
+      "common": "DROOPING BOTTLEBRUSH",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 10835,
+      "tree_id": 241,
+      "common": "RED BOTTLEBRUSH",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 3
+    }
+  ],
+  "genericCommonNames": [
+    "BOTTLEBRUSH"
+  ],
+  "images": [
+    {
+      "photo_link_id": 2319,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/41/original/callistemon-viminalis-tree-flowering.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-flowering"
+    },
+    {
+      "photo_link_id": 2320,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/41/original/callistemon-viminalis-tree-2.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 2321,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/41/original/callistemon-viminalis-tree.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 2322,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/41/original/callistemon-viminalis-leaves.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 2323,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/41/original/callistemon-viminalis-flowers.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "flowers"
+    },
+    {
+      "photo_link_id": 2324,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/41/original/callistemon-viminalis-flower-2.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "flower-2"
+    },
+    {
+      "photo_link_id": 2325,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/41/original/callistemon-viminalis-flower.jpg",
+      "sequence": 7,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "flower"
+    },
+    {
+      "photo_link_id": 2326,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/41/original/callistemon-viminalis-flowers-stamens.jpg",
+      "sequence": 8,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "flowers-stamens"
+    },
+    {
+      "photo_link_id": 2327,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/41/original/callistemon-viminalis-flower-close-up.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "flower-close-up"
+    },
+    {
+      "photo_link_id": 2328,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/41/original/callistemon-viminalis-flower-buds.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "flower-buds"
+    },
+    {
+      "photo_link_id": 2329,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/41/original/callistemon-viminalis-foliage.jpg",
+      "sequence": 11,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "foliage"
+    },
+    {
+      "photo_link_id": 2330,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/41/original/callistemon-viminalis-fruit-2.jpg",
+      "sequence": 12,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit-2"
+    },
+    {
+      "photo_link_id": 2331,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/41/original/callistemon-viminalis-fruit.jpg",
+      "sequence": 13,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit"
+    },
+    {
+      "photo_link_id": 2332,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/41/original/callistemon-viminalis-bark.jpg",
+      "sequence": 14,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "bark"
+    }
+  ],
+  "landscape_application": [
+    "Street Tree",
+    "Screen Tree"
+  ],
+  "landscape_use": [
+    "Hedged"
+  ],
+  "sunset_zone": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24"
+  ],
+  "formatted_sunset_zones": [
+    "6 - 9",
+    "12 - 24"
+  ],
+  "usda_zone": [
+    9,
+    10,
+    11
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [
+    "Armillaria",
+    "Root Rot"
+  ],
+  "disease_susceptibility": [
+    "Armillaria",
+    "Root Rot"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [],
+  "health_hazard": [
+    "Allergy"
+  ],
+  "attracts_wildlife": [
+    "Bees",
+    "Birds"
+  ],
+  "fruit_value": [
+    "Wildlife use it"
+  ],
+  "fruiting_time": [
+    "Fall"
+  ],
+  "flower_time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower_color": [
+    "Red"
+  ],
+  "foliage_growth_color": [
+    "Green"
+  ],
+  "bark_texture": [
+    "Exfoliating",
+    "Striated"
+  ],
+  "tree_shape": [
+    "Rounded"
+  ],
+  "litter_type": [
+    "Dry Fruit"
+  ],
+  "climate_adapted_regions": [
+    "Inland Empire",
+    "Southern California Coast",
+    "Southwest Desert"
+  ],
+  "appraisal_text": "Suggested LCANT 24\" box, Group Rating 1, Approx. cross sectional area 2.09 sq. in.",
+  "app_grrating": "1",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Melaleuca_viminalis"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/77977-Melaleuca-viminalis"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:591427-1"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 2
+}

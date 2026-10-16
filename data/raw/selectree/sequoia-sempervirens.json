@@ -1,0 +1,454 @@
+{
+  "tree_id": 1325,
+  "family": "Cupressaceae",
+  "memo": "California's official state tree is among the world's most magnificent and revered organisms. Like many of the state's conifers, they are surviving relics from a time when great forests flourished across the Northern Hemisphere. They now occur only in the mild climatic conditions of coastal central and northern California, receiving water from condensed fog during the dry summers. Redwoods are the tallest trees on Earth, with many individuals over 350 feet tall. The economic value of the durable lumber incentivized ruthless logging of the original two million acres of old growth stands, and now less than four percent remains. The oldest redwoods are estimated at 2,500 to 3,000 years old. The fire-resistant, cinnamon-colored bark is thick and spongy.",
+  "fragrance": 1,
+  "native_range": "California",
+  "photolocations": "Cal Poly Campus - San Luis Obispo, CA, Los Angeles County Arboretum - Arcadia, CA, The National Arboretum - Washington, DC, UC Santa Cruz, CA, Los Gatos, CA, Sacramento, CA and Lotusland - Santa Barbara, CA",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 1,
+  "ethnobotanical_info": "",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 1,
+  "schoolyard_use_notes": "This towering tree has thick, reddish-brown bark that can be used to discuss bark texture and fire resistance. Its needle-like leaves are evergreen and arranged in flat sprays, providing a year-round example of photosynthesis. The tree produces small, woody cones that can be used to illustrate seed dispersal and growth cycles. Its impressive height and longevity make it ideal for lessons on forest ecosystems and the importance of conservation.",
+  "soil_ph_low": 1,
+  "soil_ph_high": 5,
+  "planting_area": ">7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Strong",
+  "branch_strength_high": "Strong",
+  "root_damage_potential": "Moderate",
+  "biogenic_emissions": "Moderate",
+  "deer_palatable": null,
+  "height_high": 120,
+  "height_memo": "In the wild may reach 365 feet.",
+  "width_high": 75,
+  "growth_rate_high": 36,
+  "water_use": "High",
+  "salt_tolerance": "High",
+  "fruit_size": "Medium",
+  "fruit_color": "Brown",
+  "fruit_type": "Cone",
+  "flower_showiness": "",
+  "bark_color": [
+    "Red Brown"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Linear",
+  "foliage_fall_color": 0,
+  "foliage_type": "Evergreen",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": null,
+  "suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/25/original/1325_current_suitability_map.png",
+  "future_suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/25/original/1325_future_suitability_map.png",
+  "sex_explanation": null,
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 1306,
+    "tree_id": 1325,
+    "common": "COAST REDWOOD",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 0
+  },
+  "primary_taxon": {
+    "taxon_id": 1306,
+    "genus": "Sequoia",
+    "species": "sempervirens",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Sequoia sempervirens"
+  },
+  "other_taxa": [],
+  "other_common": [
+    {
+      "common_id": 6691,
+      "tree_id": 1325,
+      "common": "REDWOOD",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 1
+    },
+    {
+      "common_id": 6692,
+      "tree_id": 1325,
+      "common": "CALIFORNIA REDWOOD",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 12389,
+      "tree_id": 1325,
+      "common": "HUMBOLDT REDWOOD",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 3
+    },
+    {
+      "common_id": 12390,
+      "tree_id": 1325,
+      "common": "COASTAL REDWOOD",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 4
+    }
+  ],
+  "genericCommonNames": [
+    "REDWOOD"
+  ],
+  "images": [
+    {
+      "photo_link_id": 12192,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/25/original/sequoia-sempervirens-tree.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 27130,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/25/original/Sequoia-sempervirens_Filoli6.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 12193,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/25/original/sequoia-sempervirens-tree-4.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-4"
+    },
+    {
+      "photo_link_id": 12194,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/25/original/sequoia-sempervirens-tree-2.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 12195,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/25/original/sequoia-sempervirens-tree-5.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-5"
+    },
+    {
+      "photo_link_id": 20014,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/25/original/Sequoia-sempervirens.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 32951,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/25/original/Sequoia-sempervirens-da07deab-d946-4524-aee6-04e1f9794612.jpg",
+      "sequence": 7,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25781,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/25/original/Sequoia-sempervirens-(2).jpg",
+      "sequence": 8,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 31968,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/25/original/Sequoia-sempervirens-af1367c1-b55f-4826-a4be-99f55a5af5b0.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 31967,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/25/original/Sequoia-sempervirens-(1)-f8a76047-f1f0-4f5c-bac5-7bedeaf410b0.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 12196,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/25/original/sequoia-sempervirens-trees-cathedral.jpg",
+      "sequence": 11,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "trees-cathedral"
+    },
+    {
+      "photo_link_id": 18709,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/25/original/Sequoia-sempervirens_4411.jpg",
+      "sequence": 12,
+      "credit": "C. Stubler and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 12197,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/25/original/sequoia-sempervirens-tree-bonsai.jpg",
+      "sequence": 13,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-bonsai"
+    },
+    {
+      "photo_link_id": 24306,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/25/original/Sequoia-sempervirens-f813fdde-9127-44ae-b7d2-f6aa241c8e34.jpg",
+      "sequence": 14,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 27129,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/25/original/Sequoia-sempervirens_Filoli1.jpg",
+      "sequence": 15,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 27132,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/25/original/Sequoia-sempervirens_Filoli2.jpg",
+      "sequence": 16,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 12198,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/25/original/sequoia-sempervirens-leaves.jpg",
+      "sequence": 17,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 12199,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/25/original/sequoia-sempervirens-leaves-close-up.jpg",
+      "sequence": 18,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves-close-up"
+    },
+    {
+      "photo_link_id": 27131,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/25/original/Sequoia-sempervirens_Filoli3.jpg",
+      "sequence": 19,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 27134,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/25/original/Sequoia-sempervirens_Filoli5.jpg",
+      "sequence": 20,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 12200,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/25/original/sequoia-sempervirens-flowers-male.jpg",
+      "sequence": 21,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "flowers-male"
+    },
+    {
+      "photo_link_id": 12202,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/25/original/sequoia-sempervirens-cone.jpg",
+      "sequence": 22,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "cone"
+    },
+    {
+      "photo_link_id": 12203,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/25/original/sequoia-sempervirens-leaves-and-cones.jpg",
+      "sequence": 23,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "cones"
+    },
+    {
+      "photo_link_id": 12204,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/25/original/sequoia-sempervirens-cones-2.jpg",
+      "sequence": 24,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "cones-2"
+    },
+    {
+      "photo_link_id": 25779,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/25/original/Sequoia-sempervirens-586a144d-3585-4122-a406-c60aa657de8b.jpg",
+      "sequence": 25,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25778,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/25/original/Sequoia-sempervirens-(1).jpg",
+      "sequence": 26,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 33681,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/25/original/Sequioia-sempervirens.jpg",
+      "sequence": 27,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 32952,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/25/original/Sequoia-sempervirens-(1)-4a42a2de-4906-440e-a1e1-868e48db31f6.jpg",
+      "sequence": 28,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 33682,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/25/original/Sequoia-sempervirens-8bb41221-e514-4ee2-88de-c23e06af0ebe.jpg",
+      "sequence": 29,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25780,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/25/original/Sequoia-sempervirens-(3).jpg",
+      "sequence": 30,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 27133,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/25/original/Sequoia-sempervirens_Filoli4.jpg",
+      "sequence": 31,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 12205,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/25/original/sequoia-sempervirens-bark-2.jpg",
+      "sequence": 32,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "bark-2"
+    },
+    {
+      "photo_link_id": 12206,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/25/original/sequoia-sempervirens-bark.jpg",
+      "sequence": 33,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "bark"
+    }
+  ],
+  "landscape_application": [],
+  "landscape_use": [],
+  "sunset_zone": [
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24"
+  ],
+  "formatted_sunset_zones": [
+    "4 - 9",
+    "14 - 24"
+  ],
+  "usda_zone": [
+    8,
+    9,
+    10
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [
+    "Phytophthora kernoviae (Sudden Oak Death)"
+  ],
+  "disease_susceptibility": [
+    "Armillaria",
+    "Phytophthora",
+    "Cypress Canker",
+    "Root Rot"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [
+    "Beetle Borers",
+    "Redwood Bark Beetle"
+  ],
+  "health_hazard": [
+    "Allergy"
+  ],
+  "attracts_wildlife": [
+    "Birds"
+  ],
+  "fruit_value": [],
+  "fruiting_time": [
+    "Fall",
+    "Winter"
+  ],
+  "flower_time": [
+    "Winter",
+    "Spring"
+  ],
+  "flower_color": [],
+  "foliage_growth_color": [
+    "Green"
+  ],
+  "bark_texture": [
+    "Fibrous",
+    "Furrowed"
+  ],
+  "tree_shape": [
+    "Conical"
+  ],
+  "litter_type": [
+    "Dry Fruit"
+  ],
+  "climate_adapted_regions": [
+    "Northern California Coast"
+  ],
+  "appraisal_text": "Suggested LCANT 24\" box, Group Rating 4, Approx. cross sectional area 4.75 sq. in.",
+  "app_grrating": "4",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Sequoia_sempervirens"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/47372-Sequoia-sempervirens"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:263741-1"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "/coast-redwood/"
+    }
+  ],
+  "champ_count": 2
+}

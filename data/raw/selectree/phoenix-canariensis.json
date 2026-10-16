@@ -1,0 +1,426 @@
+{
+  "tree_id": 1001,
+  "family": "Arecaceae",
+  "memo": "&lt;strong&gt;This plant is weedy. We do not recommend planting it in Hawai‘i. &lt;/strong&gt;&lt;br&gt; The native home of this date palm, the Canary Islands, is a small archipelago off the western coast of Morocco. The Canary Island date palm can be identified by its thick trunk covered in diamond-shaped leaf scars, splays of inedible, orange fruits, and resplendent crown of over one hundred feather-shaped fronds. The lower leaflets grow into stout spines. A close relative, the date palm (&lt;em&gt;P. dactylifera&lt;/em&gt;), the source of commercial dates, can be distinguished by its more slender trunk and more upright, bluish gray leaves. It is one of the most commonly grown palms in California.&amp;nbsp;&lt;em&gt;Phoenix canariensis&lt;/em&gt;&amp;nbsp;has a HPWRA (Hawai‘i Pacific Weed Risk Assessment) score of 17 (High Risk).",
+  "fragrance": 0,
+  "native_range": "Canary Islands",
+  "photolocations": "Hearst Castle - San Simeon, CA, Cal Poly State University - San Luis Obispo, CA, Los Angeles County Arboretum - Arcadia, CA, UC Berkeley Botanic Garden - Berkeley, CA, Beverly Hills, CA, San Luis Obispo, CA, Santa Barbara, CA, Arnold Arboretum - Boston, MA, and New Zealand",
+  "display": 1,
+  "pacific_island": 1,
+  "california_native": 0,
+  "ethnobotanical_info": "This imposing palm is endemic to the Canary Islands, where it grows in the Mediterranean subxeric forest. Called the ʻCanary Island date palm’, this species is not the true commercial producer of dates (&lt;i&gt;P. dactylifera&lt;/i&gt;), but rather rose to horticultural fame through intensive planting in European and American boulevards, botanical gardens, private homes, and its association with imperialism, wealth, and privilege. It is now one of the most common ornamental palms planted throughout tropics and temperate regions of the world. (Sosa et al., 2021; Zona, 2008)",
+  "pi_invasive": 0,
+  "invasive_text": "This plant is classified as potentially invasive in specific areas of California by the California Invasive Plant Council (&lt;a href=&quot;http://www.cal-ipc.org/&quot;&gt;Cal-IPC&lt;/a&gt;).",
+  "ca_invasive": 1,
+  "schoolyard": 0,
+  "schoolyard_use_notes": null,
+  "soil_ph_low": 3,
+  "soil_ph_high": 7,
+  "planting_area": "4 to 7",
+  "shade_tolerant": 0,
+  "branch_strength_low": null,
+  "branch_strength_high": null,
+  "root_damage_potential": "Moderate",
+  "biogenic_emissions": "High",
+  "deer_palatable": null,
+  "height_high": 60,
+  "height_memo": null,
+  "width_high": 40,
+  "growth_rate_high": 24,
+  "water_use": "Low",
+  "salt_tolerance": "moderate",
+  "fruit_size": "Medium",
+  "fruit_color": "Orange or Yellow",
+  "fruit_type": "Drupe",
+  "flower_showiness": "",
+  "bark_color": [
+    "Light Green"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Pinnately Compound",
+  "leaflet_shape": "",
+  "foliage_fall_color": 0,
+  "foliage_type": "Evergreen",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": null,
+  "suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/01/original/1001_current_suitability_map.png",
+  "future_suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/01/original/1001_future_suitability_map.png",
+  "sex_explanation": null,
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 985,
+    "tree_id": 1001,
+    "common": "CANARY ISLAND DATE PALM",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 0
+  },
+  "primary_taxon": {
+    "taxon_id": 985,
+    "genus": "Phoenix",
+    "species": "canariensis",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Phoenix canariensis"
+  },
+  "other_taxa": [],
+  "other_common": [
+    {
+      "common_id": 11858,
+      "tree_id": 1001,
+      "common": "CANARY PALM",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 1
+    },
+    {
+      "common_id": 11859,
+      "tree_id": 1001,
+      "common": "CANARY ISLAND PALM",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 11860,
+      "tree_id": 1001,
+      "common": "CANARY DATE PALM",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 3
+    },
+    {
+      "common_id": 11861,
+      "tree_id": 1001,
+      "common": "PINEAPPLE PALM",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 4
+    }
+  ],
+  "genericCommonNames": [
+    "PALM"
+  ],
+  "images": [
+    {
+      "photo_link_id": 9153,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/01/original/phoenix-canariensis-tree-4.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-4"
+    },
+    {
+      "photo_link_id": 9154,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/01/original/phoenix-canariensis-trees.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "trees"
+    },
+    {
+      "photo_link_id": 9155,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/01/original/phoenix-canariensis-trees-2.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "trees-2"
+    },
+    {
+      "photo_link_id": 9156,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/01/original/phoenix-canariensis-tree-5.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-5"
+    },
+    {
+      "photo_link_id": 24837,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/01/original/Phoenix-canariensis-53b22de1-c84e-4ef0-b9a0-a1b74d85f044.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20973,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/01/original/Phoenix-canariensis-accc5423-eda6-4816-b945-e552c33cbcac.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 9157,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/01/original/phoenix-canariensis-tree-2.jpg",
+      "sequence": 7,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 9158,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/01/original/phoenix-canariensis-tree-canopy-2.jpg",
+      "sequence": 8,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-canopy-2"
+    },
+    {
+      "photo_link_id": 9159,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/01/original/phoenix-canariensis-tree-canopy.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-canopy"
+    },
+    {
+      "photo_link_id": 32654,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/01/original/Phoenix-canariensis-185cda2b-8dc8-4f28-b723-7a01675c2b00.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 24292,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/01/original/Phoenix-canariensis-6f15d58e-58f9-4957-8d5a-1620c682918a.jpg",
+      "sequence": 11,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 9160,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/01/original/phoenix-canariensis-spines.jpg",
+      "sequence": 12,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "spines"
+    },
+    {
+      "photo_link_id": 9161,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/01/original/phoenix-canariensis-canopy-fruit.jpg",
+      "sequence": 13,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit"
+    },
+    {
+      "photo_link_id": 20307,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/01/original/Phoenix-canariensis-(1).jpg",
+      "sequence": 14,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 17175,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/01/original/Phoenix-canariensis-Upsala.jpg",
+      "sequence": 15,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20308,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/01/original/Phoenix-canariensis.jpg",
+      "sequence": 16,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20309,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/01/original/Phoenix-canariensis-(2).jpg",
+      "sequence": 17,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 23536,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/01/original/Phoenix-canariensis-83536a44-9d2f-42df-80a2-a69f71452943.jpg",
+      "sequence": 18,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 30607,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/01/original/Phoenix-canariensis-2338a48c-db3e-4b01-aa77-ab81c729d424.jpg",
+      "sequence": 19,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 30608,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/01/original/Phoenix-canariensis-(3).jpg",
+      "sequence": 20,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 30605,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/01/original/Phoenix-canariensis-(2)-3144e7f0-c5d2-484b-8cc4-a69e17ac50e3.jpg",
+      "sequence": 21,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 30606,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/01/original/Phoenix-canariensis-(1)-af6d15b8-d7cc-4983-9a90-72fea099681b.jpg",
+      "sequence": 22,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 9162,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/01/original/phoenix-canariensis-fruit-green.jpg",
+      "sequence": 23,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit-green"
+    },
+    {
+      "photo_link_id": 9163,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/01/original/phoenix-canariensis-fruit-2.jpg",
+      "sequence": 24,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit-2"
+    },
+    {
+      "photo_link_id": 9164,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/01/original/phoenix-canariensis-fruit-3.jpg",
+      "sequence": 25,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit-3"
+    },
+    {
+      "photo_link_id": 9165,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/01/original/phoenix-canariensis-fruit-stalk.jpg",
+      "sequence": 26,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit-stalk"
+    },
+    {
+      "photo_link_id": 9166,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/01/original/phoenix-canariensis-bark-2.jpg",
+      "sequence": 27,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "bark-2"
+    },
+    {
+      "photo_link_id": 9167,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/01/original/phoenix-canariensis-bark.jpg",
+      "sequence": 28,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "bark"
+    },
+    {
+      "photo_link_id": 32864,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/01/original/Screenshot 2026-02-08 at 6.57",
+      "sequence": 29,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    }
+  ],
+  "landscape_application": [],
+  "landscape_use": [],
+  "sunset_zone": [
+    "8",
+    "9",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "H1",
+    "H2"
+  ],
+  "formatted_sunset_zones": [
+    "8 - 9",
+    "12 - 24",
+    "H1",
+    "H2"
+  ],
+  "usda_zone": [
+    9,
+    10,
+    11
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand"
+  ],
+  "disease_resistant": [
+    "Texas Root Rot"
+  ],
+  "disease_susceptibility": [
+    "Fusarium",
+    "Root Rot"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [
+    "Red Palm Weevil (Rhynchophorus ferrugineus)"
+  ],
+  "health_hazard": [
+    "Allergy"
+  ],
+  "attracts_wildlife": [
+    "Birds"
+  ],
+  "fruit_value": [],
+  "fruiting_time": [
+    "Fall"
+  ],
+  "flower_time": [
+    "Spring"
+  ],
+  "flower_color": [
+    "Yellow"
+  ],
+  "foliage_growth_color": [
+    "Green"
+  ],
+  "bark_texture": [
+    "Fibrous"
+  ],
+  "tree_shape": [
+    "Palm"
+  ],
+  "litter_type": [
+    "Dry Fruit",
+    "Leaves"
+  ],
+  "climate_adapted_regions": [
+    "Inland Empire",
+    "Inland Valleys",
+    "Southern California Coast"
+  ],
+  "appraisal_text": "$/BTF, Approx. cross sectional area not applicable",
+  "app_grrating": "$/BTF",
+  "app_lcant": "Use BTF",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Phoenix_canariensis"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/78554-Phoenix-canariensis"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:668909-1"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 2
+}

@@ -1,0 +1,434 @@
+{
+  "tree_id": 1113,
+  "family": "Podocarpaceae",
+  "memo": "This tree has a distinctive, upright form with dense, dark green foliage that creates a lush, evergreen canopy. Its leaves are narrow and needle-like, giving it a somewhat feathery appearance. The bark is smooth and grayish-brown, often developing a textured pattern with age. It grows relatively fast and can reach impressive heights, making it a striking focal point in urban landscapes. This tree is well-suited for both large gardens and public parks, offering year-round greenery and a touch of elegance. Its resilience to various environmental conditions adds to its appeal for city settings.&lt;br&gt;&lt;br&gt;Afrocarpus comprises 1–4 species, depending on who's taxonomy you agree with, and is restricted to tropical eastern and southern Africa. It was separated from Podocarpus in 1988, mainly based on the absence of a fleshy receptacle at the base of the seed cone, and stomata on both sides of the leaves vs. only on the underside (abaxial surface) in Podocarpus. On the basis of more slender leaves and a more oval, egg-shaped seed Afrocarpus gracilior (Pilg.) C.N.Page from higher elevation wet forests of Kenya and Ethiopia is sometimes kept separate from Afrocarpus falcatus, which would then be considered to be restricted to southern Africa (Southern Cape). In my research of the literature, I realized that as far back as 1935 (Robyns, Bull. Inst. Roy. Colon. Belge, 6, 237, 1935) some experts have considered that all Afrocarpus (at that time called small leaved African podocarps) are so closely related with overlapping, intergrading characters, that all four species can arguably be treated as geographical varieties of a single species. If you take this view, which many South African taxonomist do, then all species should be called A. falcatus, which was named first and takes precedence.  All the material we have in California (that I have seen) has the characteristics of A. falcatus, sensu strictu. The seed cones that I've seen on this species in California are nearly spherical (A. falcatus sensu strictu) and not oval or elongate (A. gracilior sensu strictu). The seed surfaces of the California material are rough (verrucose) and the leaves tend to be smaller than any written description of A. gracilior sensu strictu.",
+  "fragrance": 0,
+  "native_range": "Eastern South Africa, Swaziland, Mozambique, and Zimbabwe",
+  "photolocations": "San Francisco, CA, Hilo, Hawaii, Balboa Park - San Diego, CA, Cal Poly State University - San Luis Obispo, CA, Nipomo, CA and Los Angeles County Arboretum - Arcadia, CA",
+  "display": 1,
+  "pacific_island": 1,
+  "california_native": 0,
+  "ethnobotanical_info": "In Ethiopia, this species has deep religious significance; it is an indispensable canopy component of natural sacred forests, an element of ancestral tree-based ritual and ceremony, and planted as totemic trees in front of households. Throughout its native distribution in Africa, the bark of &lt;i&gt;A. &lt;/i&gt;&lt;i&gt;falcatus&lt;/i&gt; is used in traditional magic practices, and the wood is used for boat construction. (Abdillahi et al., 2010; Doda, 2019)",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 1,
+  "schoolyard_use_notes": "This tree has dense, needle-like leaves that can be used to teach about evergreen foliage and water conservation in plants. Its foliage is a deep green, providing a year-round backdrop for lessons on photosynthesis. The seeds are encased in fleshy, berry-like structures, which can be used to discuss seed dispersal mechanisms. Additionally, the tree&#x27;s wood is known for its durability, making it a good example for lessons on plant material uses.",
+  "soil_ph_low": 2,
+  "soil_ph_high": 2,
+  "planting_area": ">7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Medium",
+  "branch_strength_high": "Medium",
+  "root_damage_potential": "Low",
+  "biogenic_emissions": "Low",
+  "deer_palatable": 0,
+  "height_high": 50,
+  "height_memo": null,
+  "width_high": 50,
+  "growth_rate_high": 36,
+  "water_use": "Medium",
+  "salt_tolerance": "Moderate",
+  "fruit_size": "Small",
+  "fruit_color": "Green to Purple",
+  "fruit_type": "Cone",
+  "flower_showiness": "Inconspicuous",
+  "bark_color": [
+    "Light Gray"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Linear",
+  "foliage_fall_color": 0,
+  "foliage_type": "Evergreen",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": null,
+  "suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/13/original/1113_current_suitability_map.png",
+  "future_suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/13/original/1113_future_suitability_map.png",
+  "sex_explanation": null,
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 9314,
+    "tree_id": 1113,
+    "common": "AFRICAN FERN PINE",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 0
+  },
+  "primary_taxon": {
+    "taxon_id": 1097,
+    "genus": "Afrocarpus",
+    "species": "falcatus",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Afrocarpus falcatus"
+  },
+  "other_taxa": [
+    {
+      "taxon_id": 2378,
+      "genus": "Afrocarpus",
+      "species": "gracilior",
+      "hybrid_alt_species": "",
+      "subspecies": "",
+      "variety": "",
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 2,
+      "name_concat": "Afrocarpus gracilior"
+    },
+    {
+      "taxon_id": 3153,
+      "genus": "Podocarpus",
+      "species": "gracilior",
+      "hybrid_alt_species": "",
+      "subspecies": "",
+      "variety": "",
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 3,
+      "name_concat": "Podocarpus gracilior"
+    },
+    {
+      "taxon_id": 3328,
+      "genus": "Taxus",
+      "species": "falcatus",
+      "hybrid_alt_species": null,
+      "subspecies": null,
+      "variety": null,
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 4,
+      "name_concat": "Taxus falcatus"
+    }
+  ],
+  "other_common": [
+    {
+      "common_id": 13569,
+      "tree_id": 1113,
+      "common": "PODOCARPUS",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 1
+    },
+    {
+      "common_id": 7278,
+      "tree_id": 1113,
+      "common": "OUTENIQUA YELLOWWOOD",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 7279,
+      "tree_id": 1113,
+      "common": "COMMON YELLOWWOOD",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 3
+    },
+    {
+      "common_id": 12097,
+      "tree_id": 1113,
+      "common": "CONIFER",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 4
+    },
+    {
+      "common_id": 7280,
+      "tree_id": 1113,
+      "common": "SICKLE LEAVED YELLOWWOOD",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 5
+    },
+    {
+      "common_id": 7281,
+      "tree_id": 1113,
+      "common": "BASTARD YELLOWWOOD",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 6
+    },
+    {
+      "common_id": 7283,
+      "tree_id": 1113,
+      "common": "YELLOW WOOD",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 7
+    },
+    {
+      "common_id": 7282,
+      "tree_id": 1113,
+      "common": "OUTENIEKWAGEELHOUT",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 8
+    },
+    {
+      "common_id": 7284,
+      "tree_id": 1113,
+      "common": "INKOBA",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 9
+    }
+  ],
+  "genericCommonNames": [
+    "PODOCARPUS"
+  ],
+  "images": [
+    {
+      "photo_link_id": 17871,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/13/original/Afrocarpus-falcatus.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 10295,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/13/original/afrocarpus-falcatus-trees.jpg",
+      "sequence": 2,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "trees"
+    },
+    {
+      "photo_link_id": 10294,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/13/original/afrocarpus-falcatus-tree-2.jpg",
+      "sequence": 3,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 10296,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/13/original/afrocarpus-falcatus-tree.jpg",
+      "sequence": 4,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 29483,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/13/original/Afrocarpus-falcatus-6bad670a-c6bd-4f32-aa84-4191f6ddecbf.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 10297,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/13/original/afrocarpus-falcatus-tree-3.jpg",
+      "sequence": 6,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "tree-3"
+    },
+    {
+      "photo_link_id": 10298,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/13/original/afrocarpus-falcatus-trees-2.jpg",
+      "sequence": 7,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "trees-2"
+    },
+    {
+      "photo_link_id": 10299,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/13/original/afrocarpus-falcatus-tree-4.jpg",
+      "sequence": 8,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "tree-4"
+    },
+    {
+      "photo_link_id": 30372,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/13/original/Afrocarpus-falcatus-b28f84c3-7c6c-4840-83f8-b0ce2e57fb2d.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 10300,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/13/original/afrocarpus-falcatus-leaves.jpg",
+      "sequence": 10,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 30371,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/13/original/Afrocarpus-falcatus-(1)-ffaf5c0e-46d7-4542-8c92-581eb66e8833.jpg",
+      "sequence": 11,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 10303,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/13/original/afrocarpus-falcatus-leaves-and-flowers.jpg",
+      "sequence": 12,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "flowers"
+    },
+    {
+      "photo_link_id": 10301,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/13/original/afrocarpus-falcatus-leaves-3.jpg",
+      "sequence": 13,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "leaves-3"
+    },
+    {
+      "photo_link_id": 10305,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/13/original/afrocarpus-falcatus-leaves-and-cones.jpg",
+      "sequence": 14,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "cones"
+    },
+    {
+      "photo_link_id": 10306,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/13/original/afrocarpus-falcatus-cones-close-up.jpg",
+      "sequence": 15,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "cones-close-up"
+    },
+    {
+      "photo_link_id": 16572,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/13/original/Afrocarpus-falcatus-(1).jpg",
+      "sequence": 16,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 16574,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/13/original/Afrocarpus-falcatus-(2).jpg",
+      "sequence": 17,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 10307,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/13/original/afrocarpus-falcatus-bark.jpg",
+      "sequence": 18,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "bark"
+    },
+    {
+      "photo_link_id": 10308,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/13/original/afrocarpus-falcatus-bark-2.jpg",
+      "sequence": 19,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "bark-2"
+    },
+    {
+      "photo_link_id": 26100,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/13/original/Afrocarpus-falcatus-08eac8ea-a221-47cc-927e-b7ab9c539822.jpg",
+      "sequence": 20,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    }
+  ],
+  "landscape_application": [
+    "Specimen",
+    "Buffer Strip"
+  ],
+  "landscape_use": [
+    "Espalier",
+    "Hedged",
+    "Topiary"
+  ],
+  "sunset_zone": [
+    "8",
+    "9",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "H1",
+    "H2"
+  ],
+  "formatted_sunset_zones": [
+    "8 - 9",
+    "13 - 24",
+    "H1",
+    "H2"
+  ],
+  "usda_zone": [
+    9,
+    10,
+    11
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [],
+  "disease_susceptibility": [],
+  "pest_resistant": [],
+  "pest_susceptibility": [],
+  "health_hazard": [
+    "None Known"
+  ],
+  "attracts_wildlife": [],
+  "fruit_value": [],
+  "fruiting_time": [
+    "Fall"
+  ],
+  "flower_time": [
+    "Spring"
+  ],
+  "flower_color": [],
+  "foliage_growth_color": [
+    "Bluish Green",
+    "Silver",
+    "Gray Green"
+  ],
+  "bark_texture": [
+    "Furrowed",
+    "Smooth"
+  ],
+  "tree_shape": [
+    "Rounded"
+  ],
+  "litter_type": [
+    "Dry Fruit"
+  ],
+  "climate_adapted_regions": [],
+  "appraisal_text": "Suggested LCANT 24\" box, Group Rating 2, Approx. cross sectional area 2.24 sq. in.",
+  "app_grrating": "2",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Afrocarpus_falcatus"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/136323-Afrocarpus-falcatus"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:946473-1"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 3
+}

@@ -1,0 +1,42 @@
+{
+  "retrievedAt": "2026-10-16",
+  "limitations": [
+    "Stories describe documented sites and dedications; they have not been matched to individual inventory TREEIDs.",
+    "Dedication years do not establish the ages or present survival of the trees.",
+    "Landmark locations include private property and groups; designation does not mean public access.",
+    "The official landmark map has 25 points. The Public Works list has 26 entries and is not identical. The map still includes two trees the list records as removed."
+  ],
+  "stories": [
+    {
+      "id": "mary-ellen-pleasant",
+      "type": "landmark-history",
+      "title": "Mary Ellen Pleasant's living legacy",
+      "location": "Octavia Street at Bush Street / 1801 Bush Street",
+      "scientificName": "Eucalyptus globulus",
+      "text": "The landmark blue gums stand at the site of Mary Ellen Pleasant's former home. San Francisco Environment identifies them as trees she planted and celebrated their designation in 2008, connecting the grove with her civil-rights legacy.",
+      "source": "https://www.sfenvironment.org/press/supervisors-celebrate-landmark-trees-planted-cas-mother-civil-rights",
+      "sourceDate": "2008-02-26"
+    },
+    {"id":"signature-ferlinghetti","type":"signature-tree","year":2019,"title":"Lawrence Ferlinghetti","location":"576 Union Street, across from Via Ferlinghetti","commonName":"Olive","text":"An olive honors the poet and City Lights co-founder.","source":"https://sfpublicworks.org/node/22070"},
+    {"id":"signature-ed-lee","type":"signature-tree","year":2018,"title":"Mayor Edwin M. Lee","location":"Fulton Street, across from Civic Center Plaza","commonName":"St. Mary's magnolia","text":"A magnolia commemorates San Francisco's first Chinese-American mayor.","source":"https://sfpublicworks.org/node/22070"},
+    {"id":"signature-rose-pak","type":"signature-tree","year":2017,"title":"Rose Pak","location":"St. Mary's Square, Chinatown","scientificName":"Ginkgo biloba","text":"A ginkgo recognizes the Chinatown civic leader.","source":"https://sfpublicworks.org/node/22070"},
+    {"id":"signature-crescio","type":"signature-tree","year":2016,"title":"Irene Crescio","location":"Mansell Street median","scientificName":"Quercus suber","text":"A cork oak honors the Portola neighborhood advocate.","source":"https://sfpublicworks.org/node/22070"},
+    {"id":"signature-jackson","type":"signature-tree","year":2016,"title":"Dr. Espanola Jackson","location":"Evans Avenue median","scientificName":"Quercus agrifolia","text":"A coast live oak honors the Bayview-Hunters Point activist.","source":"https://sfpublicworks.org/node/22070"},
+    {"id":"signature-marian-brown","type":"signature-tree","year":2015,"title":"Marian Brown","location":"Sloat Boulevard greenspace","scientificName":"Calocedrus decurrens","text":"An incense cedar joins sister Vivian's memorial tree.","source":"https://sfpublicworks.org/node/22070"},
+    {"id":"signature-cuadra","type":"signature-tree","year":2014,"title":"Sandra (Sandy) Cuadra","location":"24th Street at Harrison Street","scientificName":"Arbutus marina","text":"A strawberry tree stands near her memorial mural.","source":"https://sfpublicworks.org/node/22070"},
+    {"id":"signature-mandela","type":"signature-tree","year":2014,"title":"Nelson Mandela","location":"Ella Hill Hutch Community Center, 1050 McAllister Street","scientificName":"Quercus agrifolia","text":"A coast live oak honors the human-rights leader.","source":"https://sfpublicworks.org/node/22070"},
+    {"id":"signature-vivian-brown","type":"signature-tree","year":2013,"title":"Vivian A. Brown","location":"Sloat Boulevard greenspace","scientificName":"Calocedrus decurrens","text":"An incense cedar commemorates the celebrated San Francisco twin.","source":"https://sfpublicworks.org/node/22070"},
+    {"id":"signature-maathai","type":"signature-tree","year":2012,"title":"Wangari Muta Maathai","location":"Brotherhood Way open space","scientificName":"Rhus lancea","text":"An African sumac honors the Green Belt Movement founder.","source":"https://sfpublicworks.org/node/22070"},
+    {"id":"signature-starbuck","type":"signature-tree","year":2011,"title":"Charlie Starbuck","location":"Geary Boulevard median","scientificName":"Quercus suber","text":"His cork oak is named Buffy, honoring the forestry bureau.","source":"https://sfpublicworks.org/node/22070"},
+    {"id":"signature-woldow","type":"signature-tree","year":2010,"title":"Dana Woldow","location":"Balboa High School","commonName":"Fruit-tree grove","text":"Persimmons, quinces and apples recognize her school-food advocacy.","source":"https://sfpublicworks.org/node/22070"},
+    {"id":"signature-wolfe","type":"signature-tree","year":2009,"title":"Ellen Wolfe","location":"South Van Ness Avenue at 12th Street median","commonName":"Evergreen pear","text":"A tree commemorates the public-health advocate.","source":"https://sfpublicworks.org/node/22070"},
+    {"id":"signature-asawa","type":"signature-tree","year":2008,"title":"Ruth Asawa","location":"Webster Street at Grove Street median","scientificName":"Prunus yedoensis 'Akebono'","text":"A cherry tree honors the artist and arts-education advocate.","source":"https://sfpublicworks.org/node/22070"},
+    {"id":"signature-chavez","type":"signature-tree","year":2007,"title":"Cesar Chavez","location":"Cesar Chavez Street median","scientificName":"Magnolia grandiflora 'Samuel Sommers'","text":"A magnolia recognizes the farmworker and civil-rights leader.","source":"https://sfpublicworks.org/node/22070"},
+    {"id":"signature-parks","type":"signature-tree","year":2006,"title":"Rosa Parks","location":"Van Ness Avenue at Jackson Street median","scientificName":"Quercus suber","text":"A cork oak commemorates the civil-rights activist.","source":"https://sfpublicworks.org/node/22070"}
+  ],
+  "programTimeline": [
+    {"date":"2006","title":"Landmark Tree Program codified","text":"The city formalized protection for exceptional trees under Public Works Code Article 16, Section 810.","source":"https://www.sfenvironment.org/landmark-tree-program"},
+    {"date":"2016-11","title":"Voters approve Proposition E","text":"Voters authorized a dedicated maintenance program and transfer of street-tree care to Public Works.","source":"https://sfpublicworks.org/services/streettreesf-faq"},
+    {"date":"2017-07-01","title":"StreetTreeSF begins","text":"Citywide maintenance responsibility transfers to Public Works.","source":"https://sfpublicworks.org/streettreesf"}
+  ]
+}

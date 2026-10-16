@@ -1,0 +1,446 @@
+{
+  "tree_id": 799,
+  "family": "Malvaceae",
+  "memo": "Norfolk Island Hibiscus is best known for its striking, bell-shaped pink to mauve flowers, which fade to white over time. This evergreen tree boasts a dense, rounded canopy with olive-green leaves. Its bark is smooth and gray, often becoming furrowed with age. Its brown seed capsules can be quite messy, releasing fluffy fibers that irritate the skin. This tree is well-suited for seaside and urban conditions, as it is highly tolerant of salt and wind, adding a splash of color to these landscapes. It also attracts various pollinators, enhancing the local ecosystem. This species is listed as Near Threatened by the IUCN.&nbsp;",
+  "fragrance": 0,
+  "native_range": "Norfolk Island and eastern Australia",
+  "photolocations": "UC Berkeley Botanic Garden - Berkeley, CA, San Luis Obispo, CA, Quail Arboretum - Encinitas, CA, San Marcos Growers - Santa Barbara, CA and Santa Barbara City College",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 0,
+  "ethnobotanical_info": "",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 1,
+  "schoolyard_use_notes": "This tree features glossy, dark green leaves that are thick and leathery, perfect for lessons on leaf structure and water retention. Its pink to mauve flowers bloom in clusters, offering a chance to explore pollination and flower anatomy. The tree produces woody seed capsules that can be used to discuss seed dispersal and plant reproduction. Its tolerance to coastal conditions makes it a good example for studies on plant adaptation to different environments.",
+  "soil_ph_low": 2,
+  "soil_ph_high": 5,
+  "planting_area": "4 to 7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Medium",
+  "branch_strength_high": "Medium",
+  "root_damage_potential": "Low",
+  "biogenic_emissions": "",
+  "deer_palatable": null,
+  "height_high": 50,
+  "height_memo": null,
+  "width_high": 20,
+  "growth_rate_high": 36,
+  "water_use": "Medium",
+  "salt_tolerance": "Moderate",
+  "fruit_size": "Medium",
+  "fruit_color": "Brown, Green",
+  "fruit_type": "Capsule",
+  "flower_showiness": "Showy",
+  "sex": "Perfect Flowers",
+  "bark_color": [
+    "Dark Gray",
+    "Light Gray",
+    "Green"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Oval",
+  "foliage_fall_color": 0,
+  "foliage_type": "Evergreen",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": "Medium High",
+  "suitability_map": null,
+  "future_suitability_map": null,
+  "sex_explanation": "Has male and female reproductive parts in each flower (perfect)",
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 784,
+    "tree_id": 799,
+    "common": "NORFOLK ISLAND HIBISCUS",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 0
+  },
+  "primary_taxon": {
+    "taxon_id": 784,
+    "genus": "Lagunaria",
+    "species": "patersonia",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Lagunaria patersonia"
+  },
+  "other_taxa": [
+    {
+      "taxon_id": 2267,
+      "genus": "Lagunaria",
+      "species": "patersonii",
+      "hybrid_alt_species": "",
+      "subspecies": "",
+      "variety": "",
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 2,
+      "name_concat": "Lagunaria patersonii"
+    },
+    {
+      "taxon_id": 6373,
+      "genus": "Hibiscus",
+      "species": "patersonius",
+      "hybrid_alt_species": null,
+      "subspecies": null,
+      "variety": null,
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 3,
+      "name_concat": "Hibiscus patersonius"
+    },
+    {
+      "taxon_id": 6374,
+      "genus": "Laguna",
+      "species": "squamea",
+      "hybrid_alt_species": null,
+      "subspecies": null,
+      "variety": null,
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 4,
+      "name_concat": "Laguna squamea"
+    },
+    {
+      "taxon_id": 6375,
+      "genus": "Solandra",
+      "species": "squamea",
+      "hybrid_alt_species": null,
+      "subspecies": null,
+      "variety": null,
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 5,
+      "name_concat": "Solandra squamea"
+    }
+  ],
+  "other_common": [
+    {
+      "common_id": 11626,
+      "tree_id": 799,
+      "common": "WHITE OAK",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 1
+    },
+    {
+      "common_id": 3397,
+      "tree_id": 799,
+      "common": "COW ITCH TREE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 11624,
+      "tree_id": 799,
+      "common": "SALLYWOOD",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 4
+    },
+    {
+      "common_id": 11625,
+      "tree_id": 799,
+      "common": "WHITEWOOD",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 5
+    },
+    {
+      "common_id": 11627,
+      "tree_id": 799,
+      "common": "PYRAMID TREE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 6
+    }
+  ],
+  "genericCommonNames": [
+    "PRIMROSE TREE"
+  ],
+  "images": [
+    {
+      "photo_link_id": 26887,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/99/original/Lagunaria-patersonia-11a607db-5b06-4eab-982d-8c820d6ac8e8.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 19782,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/99/original/Lagunaria-patersonia.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 7306,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/99/original/lagunaria-patersonia-tree.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter, J. Reimer and C. Stubler",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 7307,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/99/original/lagunaria-patersonia-tree-2.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter, J. Reimer and C. Stubler",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 30588,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/99/original/Lagunaria-patersonia-2ea4f85b-ad64-4928-8ca6-d4f144a74318.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 7308,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/99/original/lagunaria-patersonia-tree-3.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter, J. Reimer and C. Stubler",
+      "attribute_name": "tree-3"
+    },
+    {
+      "photo_link_id": 24101,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/99/original/Lagunaria-patersonia-f3ebeb74-db0e-4690-bac9-ca6a65ce0e68.jpg",
+      "sequence": 7,
+      "credit": "M. Ritter ",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 7309,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/99/original/lagunaria-patersonia-leaves.jpg",
+      "sequence": 8,
+      "credit": "M. Ritter, J. Reimer and C. Stubler",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 29349,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/99/original/Lagunaria-patersonia-(2)-3498b3cc-5606-495c-ac7e-942bd717abc1.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 7310,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/99/original/lagunaria-patersonia-flower.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter, J. Reimer and C. Stubler",
+      "attribute_name": "flower"
+    },
+    {
+      "photo_link_id": 29350,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/99/original/Lagunaria-patersonia-(1)-a783f0ca-14e4-4fd2-967f-3bb1f7c267a3.jpg",
+      "sequence": 11,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 29351,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/99/original/Lagunaria-patersonia-ef511a5f-3c5a-4c08-84e6-eae4be821166.jpg",
+      "sequence": 12,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 7311,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/99/original/lagunaria-patersonia-flower-close-up.jpg",
+      "sequence": 13,
+      "credit": "M. Ritter, J. Reimer and C. Stubler",
+      "attribute_name": "flower-close-up"
+    },
+    {
+      "photo_link_id": 7312,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/99/original/lagunaria-patersonia-flower-2.jpg",
+      "sequence": 14,
+      "credit": "M. Ritter, J. Reimer and C. Stubler",
+      "attribute_name": "flower-2"
+    },
+    {
+      "photo_link_id": 7313,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/99/original/lagunaria-patersonia-flower-3.jpg",
+      "sequence": 15,
+      "credit": "M. Ritter, J. Reimer and C. Stubler",
+      "attribute_name": "flower-3"
+    },
+    {
+      "photo_link_id": 26886,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/99/original/Lagunaria-patersonia-(2).jpg",
+      "sequence": 16,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 7314,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/99/original/lagunaria-patersonia-leavs-and-fruit-3.jpg",
+      "sequence": 17,
+      "credit": "M. Ritter, J. Reimer and C. Stubler",
+      "attribute_name": "leavs-and-fruit-3"
+    },
+    {
+      "photo_link_id": 7317,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/99/original/lagunaria-patersonia-leaves-and-fruit.jpg",
+      "sequence": 18,
+      "credit": "M. Ritter, J. Reimer and C. Stubler",
+      "attribute_name": "fruit"
+    },
+    {
+      "photo_link_id": 23514,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/99/original/Lagunaria-patersonia-4ee65a1a-bdb0-43fb-9af0-064fec11064e.jpg",
+      "sequence": 19,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 23513,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/99/original/Lagunaria-patersonia-(1).jpg",
+      "sequence": 20,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 7318,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/99/original/lagunaria-patersonia-fruit-2.jpg",
+      "sequence": 21,
+      "credit": "M. Ritter, J. Reimer and C. Stubler",
+      "attribute_name": "fruit-2"
+    },
+    {
+      "photo_link_id": 7319,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/99/original/lagunaria-patersonia-bark-2.jpg",
+      "sequence": 22,
+      "credit": "M. Ritter, J. Reimer and C. Stubler",
+      "attribute_name": "bark-2"
+    },
+    {
+      "photo_link_id": 7320,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/99/original/lagunaria-patersonia-bark.jpg",
+      "sequence": 23,
+      "credit": "M. Ritter, J. Reimer and C. Stubler",
+      "attribute_name": "bark"
+    },
+    {
+      "photo_link_id": 26888,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/99/original/Lagunaria-patersonia-(1)-04674c41-e7ab-41c1-9050-733176287fdc.jpg",
+      "sequence": 24,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    }
+  ],
+  "landscape_application": [
+    "Screen Tree"
+  ],
+  "landscape_use": [],
+  "sunset_zone": [
+    "13",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24"
+  ],
+  "formatted_sunset_zones": [
+    "13",
+    "15 - 24"
+  ],
+  "usda_zone": [
+    9,
+    10,
+    11
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [],
+  "disease_susceptibility": [
+    "Phytophthora",
+    "Root Rot"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [],
+  "health_hazard": [
+    "Irritant"
+  ],
+  "attracts_wildlife": [],
+  "fruit_value": [
+    "Wildlife use it"
+  ],
+  "fruiting_time": [
+    "Fall"
+  ],
+  "flower_time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower_color": [
+    "Pink",
+    "Rose",
+    "White"
+  ],
+  "foliage_growth_color": [
+    "Bluish Green",
+    "Silver",
+    "Gray Green"
+  ],
+  "bark_texture": [
+    "Furrowed",
+    "Rough"
+  ],
+  "tree_shape": [
+    "Rounded"
+  ],
+  "litter_type": [
+    "Dry Fruit"
+  ],
+  "climate_adapted_regions": [
+    "Inland Empire",
+    "Southern California Coast"
+  ],
+  "appraisal_text": "Suggested LCANT 24\" box, Group Rating 2, Approx. cross sectional area 2.24 sq. in.",
+  "app_grrating": "2",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Lagunaria_patersonia"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/77622-Lagunaria-patersonia"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:561145-1"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 2
+}

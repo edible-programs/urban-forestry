@@ -1,0 +1,406 @@
+{
+  "tree_id": 175,
+  "family": "Ericaceae",
+  "memo": "Madrone is an iconic evergreen tree native to the Pacific Coast of North America, ranging from Southern California to Vancouver and inland through the Cascade Range and Sierra Nevada. It occurs in patchy stands in dry, rocky soils, on coastal bluffs, and in mixed evergreen forests and woodlands. Of the approximately twenty species in the genus &lt;em&gt;Arbutus&lt;/em&gt;, only &lt;em&gt;A. menziesii&lt;/em&gt; is native to California.&lt;br&gt;Madrone is easily recognized by its smooth, orangish-red bark, which exfoliates in thin, curly sheets to reveal a cool, greenish layer beneath, as well as its glossy, two-toned leaves. In spring, small, white, lantern-shaped flowers emerge and develop into red, warty fruits when pollinated. Beyond its ecological role, madrone is also cultivated as an ornamental tree. It grows best in full sun and well-draining soils with minimal summer water.",
+  "fragrance": 1,
+  "native_range": "Western North America",
+  "photolocations": "Descanso Gardens - La Canada Flintridge, CA, Matthews Creek, CA, Hoyt Arboretum - Portland, OR, Strybing Arboretum - San Francisco, CA and Reagan Ranch - Santa Barbara, CA",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 1,
+  "ethnobotanical_info": "Indigenous peoples of the Pacific Northwest used madrone bark and leaves to prepare medicines for a variety of ailments. The wood was used to make small tools, while the berries were sometimes eaten fresh or used to prepare beverages. The tree also holds cultural significance, with regional stories and traditions connecting madrone to the people who have historically lived in the landscapes where it grows.",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 0,
+  "schoolyard_use_notes": "",
+  "soil_ph_low": 1,
+  "soil_ph_high": 4,
+  "planting_area": ">7",
+  "shade_tolerant": 1,
+  "branch_strength_low": "Strong",
+  "branch_strength_high": "Strong",
+  "root_damage_potential": "Low",
+  "biogenic_emissions": "Low",
+  "deer_palatable": 0,
+  "height_high": 70,
+  "height_memo": null,
+  "width_high": 50,
+  "growth_rate_high": 24,
+  "water_use": "Low",
+  "salt_tolerance": "Moderate",
+  "fruit_size": "Small",
+  "fruit_color": "Orange or Red",
+  "fruit_type": "Berry",
+  "flower_showiness": "Showy",
+  "sex": "Perfect Flowers",
+  "bark_color": [
+    "Orange Red"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Elliptic",
+  "foliage_fall_color": 0,
+  "foliage_type": "Evergreen",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": null,
+  "suitability_map": null,
+  "future_suitability_map": null,
+  "sex_explanation": "Has male and female reproductive parts in each flower (perfect)",
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 173,
+    "tree_id": 175,
+    "common": "MADRONE",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 0
+  },
+  "primary_taxon": {
+    "taxon_id": 173,
+    "genus": "Arbutus",
+    "species": "menziesii",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Arbutus menziesii"
+  },
+  "other_taxa": [],
+  "other_common": [
+    {
+      "common_id": 2342,
+      "tree_id": 175,
+      "common": "MADRONA",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 1
+    },
+    {
+      "common_id": 10728,
+      "tree_id": 175,
+      "common": "OREGON LAUREL",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 10729,
+      "tree_id": 175,
+      "common": "PACIFIC ARBUTUS",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 3
+    },
+    {
+      "common_id": 10730,
+      "tree_id": 175,
+      "common": "PACIFIC MADRONE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 4
+    },
+    {
+      "common_id": 10731,
+      "tree_id": 175,
+      "common": "LAURELWOOD",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 5
+    }
+  ],
+  "genericCommonNames": [
+    "MADRONE"
+  ],
+  "images": [
+    {
+      "photo_link_id": 1596,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/75/original/arbutus-menziesii-tree-2.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 27266,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/75/original/Arbutus-menziesii-7fa2c320-5de3-4970-a9b7-1ae4f14af0e1.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 1597,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/75/original/arbutus-menziesii-tree-young.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-young"
+    },
+    {
+      "photo_link_id": 18942,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/75/original/Arbutus-menziesii.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25025,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/75/original/Arbutus-menziesii-(1).jpg",
+      "sequence": 5,
+      "credit": "M. Ritter ",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25024,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/75/original/Arbutus-menziesii-(2).jpg",
+      "sequence": 6,
+      "credit": "M. Ritter ",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 1598,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/75/original/arbutus-menziesii-tree.jpg",
+      "sequence": 7,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 1599,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/75/original/arbutus-menziesii-leaves.jpg",
+      "sequence": 8,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 1600,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/75/original/arbutus-menziesii-leaves-2.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves-2"
+    },
+    {
+      "photo_link_id": 1601,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/75/original/arbutus-menziesii-leaves-3.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves-3"
+    },
+    {
+      "photo_link_id": 1602,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/75/original/arbutus-menziesii-leaves-4.jpg",
+      "sequence": 11,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves-4"
+    },
+    {
+      "photo_link_id": 1603,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/75/original/arbutus-menziesii-leaves-5.jpg",
+      "sequence": 12,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves-5"
+    },
+    {
+      "photo_link_id": 25022,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/75/original/Arbutus-menziesii-92b0d5a0-0187-4be6-84ed-9dfd6c32371c.jpg",
+      "sequence": 13,
+      "credit": "M. Ritter ",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 1604,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/75/original/arbutus-menziesii-flowers.jpg",
+      "sequence": 14,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "flowers"
+    },
+    {
+      "photo_link_id": 1605,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/75/original/arbutus-menziesii-fruit.jpg",
+      "sequence": 15,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit"
+    },
+    {
+      "photo_link_id": 31744,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/75/original/Arbutus-menziesii-ba4e92ea-1caa-4042-8682-30b8d5253fc4.jpg",
+      "sequence": 16,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 31745,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/75/original/Arbutus-menziesii-(1)-974f8c03-0686-4a43-b4c1-3ac9281cdf8e.jpg",
+      "sequence": 17,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 27269,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/75/original/Arbutus-menziesii-(1)-f3c8ffdc-08aa-42ea-bfbe-cc6a4b836128.jpg",
+      "sequence": 18,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 27270,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/75/original/Arbutus-menziesii-(2)-1d5b9b4a-e50a-4fb9-a4f1-8e11dfdd659c.jpg",
+      "sequence": 19,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 27268,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/75/original/Arbutus-menziesii-(3)-aeb1721c-fea7-49e3-b436-ac76b2376137.jpg",
+      "sequence": 20,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 27267,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/75/original/Arbutus-menziesii-(4).jpg",
+      "sequence": 21,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 1606,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/75/original/arbutus-menziesii-bark.jpg",
+      "sequence": 22,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "bark"
+    },
+    {
+      "photo_link_id": 1607,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/75/original/arbutus-menziesii-bark-2.jpg",
+      "sequence": 23,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "bark-2"
+    },
+    {
+      "photo_link_id": 25023,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/75/original/Arbutus-menziesii-(3).jpg",
+      "sequence": 24,
+      "credit": "M. Ritter ",
+      "attribute_name": null
+    }
+  ],
+  "landscape_application": [
+    "Specimen"
+  ],
+  "landscape_use": [],
+  "sunset_zone": [
+    "4",
+    "5",
+    "6",
+    "7",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19"
+  ],
+  "formatted_sunset_zones": [
+    "4 - 7",
+    "14 - 19"
+  ],
+  "usda_zone": [
+    7,
+    8,
+    9
+  ],
+  "soil_texture": [
+    "Loam",
+    "Clay"
+  ],
+  "disease_resistant": [
+    "Armillaria",
+    "Root Rot"
+  ],
+  "disease_susceptibility": [
+    "Needle Cast",
+    "Sudden Oak Death",
+    "Anthracnose",
+    "Phytophthora"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [
+    "Caterpillars",
+    "Scales",
+    "Thrip",
+    "Aphids"
+  ],
+  "health_hazard": [
+    "Allergy"
+  ],
+  "attracts_wildlife": [
+    "Bees",
+    "Birds"
+  ],
+  "fruit_value": [
+    "Edible",
+    "Wildlife use it"
+  ],
+  "fruiting_time": [
+    "Fall",
+    "Winter",
+    "Summer"
+  ],
+  "flower_time": [
+    "Spring"
+  ],
+  "flower_color": [
+    "Pink",
+    "White"
+  ],
+  "foliage_growth_color": [
+    "Green"
+  ],
+  "bark_texture": [
+    "Exfoliating",
+    "Scaly",
+    "Smooth"
+  ],
+  "tree_shape": [
+    "Rounded"
+  ],
+  "litter_type": [
+    "Bark",
+    "Wet Fruit"
+  ],
+  "climate_adapted_regions": [
+    "Northern California Coast"
+  ],
+  "appraisal_text": "Suggested LCANT 24\" box, Group Rating 2, Approx. cross sectional area 2.24 sq. in.",
+  "app_grrating": "2",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Arbutus_menziesii"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/51046-Arbutus-menziesii"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:326479-1"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "/madrone/"
+    }
+  ],
+  "champ_count": 1
+}

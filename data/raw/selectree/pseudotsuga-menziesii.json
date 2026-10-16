@@ -1,0 +1,447 @@
+{
+  "tree_id": 1199,
+  "family": "Pinaceae",
+  "memo": "The Douglas fir is North America's most important timber producer and one of the world's most impressive trees. It grows throughout the western U.S., from Central California to British Columbia. In California, it covers the Klamath, North Coast Ranges, Cascade, and the northern Sierra Nevada. This long-lived conifer is surpassed in height only by the coast redwood (Sequoia sempervirens); the tallest known is over 325 feet. The spirally arranged needles twist where they attach, causing them to lay flat along two sides of the branchlets.",
+  "fragrance": 1,
+  "native_range": "Western North America",
+  "photolocations": "Rochester, NY, Swanton Pacific Ranch - Davenport, CA, Matthews Creek, CA, Hoyt Arboretum - Portland, OR, Santa Barbara Botanic Garden - Santa Barbara, CA, and New Zealand",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 1,
+  "ethnobotanical_info": "",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 0,
+  "schoolyard_use_notes": null,
+  "soil_ph_low": 1,
+  "soil_ph_high": 5,
+  "planting_area": ">7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Strong",
+  "branch_strength_high": "Strong",
+  "root_damage_potential": "Moderate",
+  "biogenic_emissions": "Moderate",
+  "deer_palatable": null,
+  "height_high": 90,
+  "height_memo": null,
+  "width_high": 60,
+  "growth_rate_high": 24,
+  "water_use": "Medium",
+  "salt_tolerance": "Moderate",
+  "fruit_size": "Very Large",
+  "fruit_color": "Brown",
+  "fruit_type": "Cone",
+  "flower_showiness": "",
+  "bark_color": [
+    "Red Brown"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Needle",
+  "foliage_fall_color": 0,
+  "foliage_type": "Evergreen",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": null,
+  "suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/99/original/1199_current_suitability_map.png",
+  "future_suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/99/original/1199_future_suitability_map.png",
+  "sex_explanation": null,
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 1182,
+    "tree_id": 1199,
+    "common": "DOUGLAS-FIR",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 0
+  },
+  "primary_taxon": {
+    "taxon_id": 1182,
+    "genus": "Pseudotsuga",
+    "species": "menziesii",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Pseudotsuga menziesii"
+  },
+  "other_taxa": [
+    {
+      "taxon_id": 2406,
+      "genus": "Pseudotsuga",
+      "species": "menziesii",
+      "hybrid_alt_species": "",
+      "subspecies": "",
+      "variety": "menziesii",
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 2,
+      "name_concat": "Pseudotsuga menziesii var. menziesii"
+    }
+  ],
+  "other_common": [
+    {
+      "common_id": 12211,
+      "tree_id": 1199,
+      "common": "BRITISH COLUMBIA FIR",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 1
+    },
+    {
+      "common_id": 12212,
+      "tree_id": 1199,
+      "common": "DOUGLAS FIR",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 12213,
+      "tree_id": 1199,
+      "common": "DOUGLAS SPRUCE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 3
+    },
+    {
+      "common_id": 12214,
+      "tree_id": 1199,
+      "common": "OREGON PINE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 4
+    }
+  ],
+  "genericCommonNames": [
+    "DOUGLAS-FIR"
+  ],
+  "images": [
+    {
+      "photo_link_id": 10974,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/99/original/pseudotsuga-menziesii-tree-3.jpg",
+      "sequence": 1,
+      "credit": "J. Reimer and M. Ritter",
+      "attribute_name": "tree-3"
+    },
+    {
+      "photo_link_id": 10975,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/99/original/pseudotsuga-menziesii-tree-4.jpg",
+      "sequence": 2,
+      "credit": "J. Reimer and M. Ritter",
+      "attribute_name": "tree-4"
+    },
+    {
+      "photo_link_id": 10976,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/99/original/pseudotsuga-menziesii-tree.jpg",
+      "sequence": 3,
+      "credit": "J. Reimer and M. Ritter",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 10977,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/99/original/pseudotsuga-menziesii-tree-2.jpg",
+      "sequence": 4,
+      "credit": "J. Reimer and M. Ritter",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 29003,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/99/original/Pseudotsuga-menziesii-(2)-7de5a826-4e38-4434-abd1-5003b6eace87.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 29002,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/99/original/Pseudotsuga-menziesii-(1)-7d3f4088-09e8-4a61-bd65-9fd0d8153047.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 24872,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/99/original/Pseudotsuga-menziesii-(6).jpg",
+      "sequence": 7,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25386,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/99/original/Pseudostuga-menziesii.jpg",
+      "sequence": 8,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 10978,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/99/original/pseudotsuga-menziesii-leaves-2.jpg",
+      "sequence": 9,
+      "credit": "J. Reimer and M. Ritter",
+      "attribute_name": "leaves-2"
+    },
+    {
+      "photo_link_id": 29004,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/99/original/Pseudotsuga-menziesii-62bf1bed-2583-4566-89cc-855dca9fe378.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 10979,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/99/original/pseudotsuga-menziesii-leaves.jpg",
+      "sequence": 11,
+      "credit": "J. Reimer and M. Ritter",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 32063,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/99/original/Pseudotsuga-menziesii-(2)-ce4816b8-4162-45a5-9e1e-5d7f7353e854.jpg",
+      "sequence": 12,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 32062,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/99/original/Pseudotsuga-menziesii-(1)-d116f934-96d3-4efd-9998-8bb08fdf071c.jpg",
+      "sequence": 13,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 32064,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/99/original/Pseudotsuga-menziesii-3baa144f-ae67-4b6c-a80f-a08cbb683a8b.jpg",
+      "sequence": 14,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25385,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/99/original/Pseudostuga-menziesii-(1).jpg",
+      "sequence": 15,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 24867,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/99/original/Pseudotsuga-menziesii-(3).jpg",
+      "sequence": 16,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 10980,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/99/original/pseudotsuga-menziesii-cone-young-2.jpg",
+      "sequence": 17,
+      "credit": "J. Reimer and M. Ritter",
+      "attribute_name": "cone-young-2"
+    },
+    {
+      "photo_link_id": 10981,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/99/original/pseudotsuga-menziesii-cone-young.jpg",
+      "sequence": 18,
+      "credit": "J. Reimer and M. Ritter",
+      "attribute_name": "cone-young"
+    },
+    {
+      "photo_link_id": 24871,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/99/original/Pseudotsuga-menziesii-(1).jpg",
+      "sequence": 19,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 32724,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/99/original/Pseudotsuga-menziesii-(1)-3ca7928d-3bf4-45bd-b866-d3470fd50788.jpg",
+      "sequence": 20,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 24869,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/99/original/Pseudotsuga-menziesii-(5).jpg",
+      "sequence": 21,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 24868,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/99/original/Pseudotsuga-menziesii.jpg",
+      "sequence": 22,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 24873,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/99/original/Pseudotsuga-menziesii-(4).jpg",
+      "sequence": 23,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 24870,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/99/original/Pseudotsuga-menziesii-(2).jpg",
+      "sequence": 24,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 32725,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/99/original/Pseudotsuga-menziesii-d5012580-1716-4fe3-9f6a-d3d99adf6405.jpg",
+      "sequence": 25,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 10982,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/99/original/pseudotsuga-menziesii-cone-2.jpg",
+      "sequence": 26,
+      "credit": "J. Reimer and M. Ritter",
+      "attribute_name": "cone-2"
+    },
+    {
+      "photo_link_id": 10983,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/99/original/pseudotsuga-menziesii-cones.jpg",
+      "sequence": 27,
+      "credit": "J. Reimer and M. Ritter",
+      "attribute_name": "cones"
+    },
+    {
+      "photo_link_id": 10984,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/99/original/pseudotsuga-menziesii-cone.jpg",
+      "sequence": 28,
+      "credit": "J. Reimer and M. Ritter",
+      "attribute_name": "cone"
+    },
+    {
+      "photo_link_id": 10985,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/99/original/pseudotsuga-menziesii-bark.jpg",
+      "sequence": 29,
+      "credit": "J. Reimer and M. Ritter",
+      "attribute_name": "bark"
+    }
+  ],
+  "landscape_application": [],
+  "landscape_use": [
+    "Hedged"
+  ],
+  "sunset_zone": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "14",
+    "15",
+    "16",
+    "17",
+    "A2",
+    "A3"
+  ],
+  "formatted_sunset_zones": [
+    "1 - 10",
+    "14 - 17",
+    "A2",
+    "A3"
+  ],
+  "usda_zone": [
+    5,
+    6,
+    7
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [
+    "Phytophthora kernoviae (Sudden Oak Death)"
+  ],
+  "disease_susceptibility": [
+    "Sudden Oak Death",
+    "Phytophthora",
+    "Root Rot",
+    "Armillaria",
+    "Phytophthora ramorum (Sudden Oak Death)"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [
+    "Beetle Borers",
+    "Western Spruce Budworm",
+    "Douglas Fir Beetle",
+    "Black Pineleaf Scale"
+  ],
+  "health_hazard": [
+    "Allergy"
+  ],
+  "attracts_wildlife": [
+    "Birds",
+    "Squirrels"
+  ],
+  "fruit_value": [],
+  "fruiting_time": [
+    "Winter",
+    "Summer"
+  ],
+  "flower_time": [
+    "Spring"
+  ],
+  "flower_color": [],
+  "foliage_growth_color": [
+    "Bluish Green",
+    "Silver",
+    "Gray Green"
+  ],
+  "bark_texture": [
+    "Furrowed"
+  ],
+  "tree_shape": [
+    "Conical"
+  ],
+  "litter_type": [
+    "Dry Fruit"
+  ],
+  "climate_adapted_regions": [
+    "Interior West",
+    "Northern California Coast"
+  ],
+  "appraisal_text": "Suggested LCANT 24\" box, Group Rating 4, Approx. cross sectional area 4.75 sq. in.",
+  "app_grrating": "4",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Douglas_fir"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/48256-Pseudotsuga-menziesii"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:677141-1"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "/douglas-fir/"
+    }
+  ],
+  "champ_count": 2
+}

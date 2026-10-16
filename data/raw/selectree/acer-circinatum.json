@@ -1,0 +1,274 @@
+{
+  "tree_id": 45,
+  "family": "Sapindaceae",
+  "memo": "This tree is known for its dense, rounded canopy that provides ample shade. Its dark green, glossy leaves are pinnate and create a lush, tropical appearance. During the warmer months, it produces small, inconspicuous flowers that give way to clusters of bright red, edible fruits. The bark is smooth and grey, adding to its ornamental appeal. This tree is often planted in urban areas for its hardiness and ability to thrive in a variety of soil types. It is also relatively drought-tolerant once established, making it a practical choice for low-maintenance landscaping.",
+  "fragrance": 0,
+  "native_range": "California",
+  "photolocations": "Regional Parks Botanic Garden, Tilden Regional Park - Berkeley, CA, Hoyt Arboretum - Portland, OR and San Diego, CA.",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 1,
+  "ethnobotanical_info": "",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 0,
+  "schoolyard_use_notes": null,
+  "soil_ph_low": 1,
+  "soil_ph_high": 4,
+  "planting_area": "4 to 7",
+  "shade_tolerant": 1,
+  "branch_strength_low": "Medium",
+  "branch_strength_high": "Medium",
+  "root_damage_potential": "Low",
+  "biogenic_emissions": "Moderate",
+  "deer_palatable": 0,
+  "height_high": 30,
+  "height_memo": null,
+  "width_high": 20,
+  "growth_rate_high": 24,
+  "water_use": "High",
+  "salt_tolerance": "Moderate",
+  "fruit_size": "Medium",
+  "fruit_color": "Red or Rose",
+  "fruit_type": "Samara",
+  "flower_showiness": "Inconspicuous",
+  "sex": "Dioecious",
+  "bark_color": [
+    "Red Brown"
+  ],
+  "leaf_arrangement": "Opposite",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Palmately Lobed",
+  "foliage_fall_color": 1,
+  "foliage_type": "Deciduous",
+  "redirect_tree_id": null,
+  "utility_friendly": 1,
+  "wind_resistance": null,
+  "suitability_map": null,
+  "future_suitability_map": null,
+  "sex_explanation": "Has either male or female reproductive parts (dioecious)",
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 45,
+    "tree_id": 45,
+    "common": "VINE MAPLE",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 1
+  },
+  "primary_taxon": {
+    "taxon_id": 45,
+    "genus": "Acer",
+    "species": "circinatum",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Acer circinatum"
+  },
+  "other_taxa": [],
+  "other_common": [],
+  "genericCommonNames": [
+    "MAPLE"
+  ],
+  "images": [
+    {
+      "photo_link_id": 480,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/45/original/acer-circinatum-tree-young-fall.jpg",
+      "sequence": 1,
+      "credit": "J. Reimer",
+      "attribute_name": "tree-young-fall"
+    },
+    {
+      "photo_link_id": 481,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/45/original/acer-circinatum-tree.jpg",
+      "sequence": 2,
+      "credit": "J. Reimer",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 482,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/45/original/acer-circinatum-leaves.jpg",
+      "sequence": 3,
+      "credit": "J. Reimer",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 483,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/45/original/acer-circinatum-leaves-2.jpg",
+      "sequence": 4,
+      "credit": "J. Reimer",
+      "attribute_name": "leaves-2"
+    },
+    {
+      "photo_link_id": 484,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/45/original/acer-circinatum-leaves-and-fruit.jpg",
+      "sequence": 5,
+      "credit": "J. Reimer",
+      "attribute_name": "leaves-and-fruit"
+    },
+    {
+      "photo_link_id": 485,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/45/original/acer-circinatum-leavs-and-fruit-3.jpg",
+      "sequence": 6,
+      "credit": "J. Reimer",
+      "attribute_name": "leavs-and-fruit-3"
+    },
+    {
+      "photo_link_id": 16646,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/45/original/Acer-circinatum-(2).jpg",
+      "sequence": 7,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 16647,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/45/original/Acer-circinatum-(5).jpg",
+      "sequence": 8,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 16648,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/45/original/Acer-circinatum-(1).jpg",
+      "sequence": 9,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 16649,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/45/original/Acer-circinatum.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 16650,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/45/original/Acer-circinatum-(4).jpg",
+      "sequence": 11,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 16651,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/45/original/Acer-circinatum-(3).jpg",
+      "sequence": 12,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 486,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/45/original/acer-circinatum-bark.jpg",
+      "sequence": 13,
+      "credit": "J. Reimer",
+      "attribute_name": "bark"
+    }
+  ],
+  "landscape_application": [
+    "Screen Tree"
+  ],
+  "landscape_use": [
+    "Bonsai",
+    "Espalier"
+  ],
+  "sunset_zone": [
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "14",
+    "15",
+    "16",
+    "17"
+  ],
+  "formatted_sunset_zones": [
+    "2 - 6",
+    "14 - 17"
+  ],
+  "usda_zone": [
+    6,
+    7,
+    8,
+    9
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand"
+  ],
+  "disease_resistant": [],
+  "disease_susceptibility": [
+    "Armillaria",
+    "Root Rot",
+    "Verticillium"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [
+    "Aphids"
+  ],
+  "health_hazard": [
+    "Allergy"
+  ],
+  "attracts_wildlife": [],
+  "fruit_value": [],
+  "fruiting_time": [
+    "Summer"
+  ],
+  "flower_time": [
+    "Spring"
+  ],
+  "flower_color": [
+    "Purple",
+    "Red"
+  ],
+  "foliage_growth_color": [
+    "Light Green"
+  ],
+  "bark_texture": [
+    "Smooth"
+  ],
+  "tree_shape": [
+    "Rounded",
+    "Vase"
+  ],
+  "litter_type": [
+    "Dry Fruit"
+  ],
+  "climate_adapted_regions": [
+    "Northern California Coast"
+  ],
+  "appraisal_text": "Group 2, Approx. cross sectional area 2.24 sq. in.",
+  "app_grrating": "2",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Acer_circinatum"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/48258-Acer-circinatum"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:317375-2"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 0
+}

@@ -1,0 +1,378 @@
+{
+  "tree_id": 950,
+  "family": "Myricaceae",
+  "memo": "Morella californica, native to California, is a distinctive shrub characterized by its unique appearance. Its leaves are typically elongated and have a glossy, dark green hue, which adds to its visual appeal. During the flowering season, this shrub produces small, inconspicuous flowers, which are usually of a greenish color. While not particularly showy, these flowers are essential for its reproductive cycle and support local wildlife as a source of food. Morella californica is well-adapted to the specific environmental conditions of California and plays a valuable role in regional ecosystems.",
+  "fragrance": 0,
+  "native_range": "Western North America",
+  "photolocations": "Rancho Santa Ana Botanic Garden - Claremont, CA, Quail Botanical Gardens - Encinitas, CA and Mendocino Botanical Garden - Fort Bragg, CA",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 1,
+  "ethnobotanical_info": "",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 1,
+  "schoolyard_use_notes": "This evergreen tree features small, glossy leaves that are aromatic when crushed, making it a great specimen for lessons on plant scents and oils. The dense foliage provides excellent cover for birds and insects, offering opportunities to study local wildlife interactions. Its small, waxy berries can be used to discuss seed dispersal and the role of plants in the food chain. The tree&#x27;s ability to thrive in various soil types and conditions can be a practical example of plant adaptability and resilience.",
+  "soil_ph_low": 1,
+  "soil_ph_high": 5,
+  "planting_area": "4 to 7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Strong",
+  "branch_strength_high": "Strong",
+  "root_damage_potential": "Low",
+  "biogenic_emissions": "High",
+  "deer_palatable": 0,
+  "height_high": 30,
+  "height_memo": null,
+  "width_high": 30,
+  "growth_rate_high": 24,
+  "water_use": "Medium",
+  "salt_tolerance": "High",
+  "fruit_size": "Small",
+  "fruit_color": "Gray or Purple",
+  "fruit_type": "Berry",
+  "flower_showiness": "Inconspicuous",
+  "bark_color": [
+    "Dark Gray",
+    "Light Gray or Light Green"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Oblong",
+  "foliage_fall_color": 0,
+  "foliage_type": "Evergreen",
+  "redirect_tree_id": null,
+  "utility_friendly": 1,
+  "wind_resistance": null,
+  "suitability_map": null,
+  "future_suitability_map": null,
+  "sex_explanation": null,
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 934,
+    "tree_id": 950,
+    "common": "PACIFIC WAX MYRTLE",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 1
+  },
+  "primary_taxon": {
+    "taxon_id": 934,
+    "genus": "Morella",
+    "species": "californica",
+    "hybrid_alt_species": null,
+    "subspecies": null,
+    "variety": null,
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Morella californica"
+  },
+  "other_taxa": [
+    {
+      "taxon_id": 2336,
+      "genus": "Myrica",
+      "species": "californica",
+      "hybrid_alt_species": "",
+      "subspecies": "",
+      "variety": "",
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 2,
+      "name_concat": "Myrica californica"
+    }
+  ],
+  "other_common": [
+    {
+      "common_id": 3649,
+      "tree_id": 950,
+      "common": "CALIFORNIA WAX MYRTLE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 13071,
+      "tree_id": 950,
+      "common": "CALIFORNIA BAYBERRY",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 13072,
+      "tree_id": 950,
+      "common": "WESTERN WAX MYRTLE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 3
+    },
+    {
+      "common_id": 13073,
+      "tree_id": 950,
+      "common": "PACIFIC BAYBERRY",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 4
+    }
+  ],
+  "genericCommonNames": [
+    "WAX MYRTLE"
+  ],
+  "images": [
+    {
+      "photo_link_id": 21307,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/50/original/Morella-californica.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 8689,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/50/original/morella-californica-tree-2.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 8690,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/50/original/morella-californica-leaves-2.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves-2"
+    },
+    {
+      "photo_link_id": 8691,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/50/original/morella-californica-leaves.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 8692,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/50/original/morella-californica-leaves-young.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves-young"
+    },
+    {
+      "photo_link_id": 8694,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/50/original/morella-californica-flowers-young.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "flowers-young"
+    },
+    {
+      "photo_link_id": 21303,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/50/original/Morella-californica-(2).jpg",
+      "sequence": 7,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 21304,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/50/original/Morella-californica-(3).jpg",
+      "sequence": 8,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 21305,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/50/original/Morella-californica-(4).jpg",
+      "sequence": 9,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 21306,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/50/original/Morella-californica-(1).jpg",
+      "sequence": 10,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25170,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/50/original/Morella-californica-(1)-499735db-28c4-4cc3-be3a-b80155cc1dd5.jpg",
+      "sequence": 11,
+      "credit": "M. Ritter ",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25168,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/50/original/Morella-californica-(5).jpg",
+      "sequence": 12,
+      "credit": "M. Ritter ",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25167,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/50/original/Morella-californica-(2)-d032a9a9-4d8b-4b7b-8266-c456c7142ea2.jpg",
+      "sequence": 13,
+      "credit": "M. Ritter ",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 8693,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/50/original/morella-californica-flowers-young-2.jpg",
+      "sequence": 14,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "flowers-young-2"
+    },
+    {
+      "photo_link_id": 8696,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/50/original/morella-californica-leaves-and-fruit.jpg",
+      "sequence": 15,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit"
+    },
+    {
+      "photo_link_id": 8697,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/50/original/morella-californica-bark.jpg",
+      "sequence": 16,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "bark"
+    },
+    {
+      "photo_link_id": 8698,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/50/original/morella-californica-bark-2.jpg",
+      "sequence": 17,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "bark-2"
+    },
+    {
+      "photo_link_id": 25172,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/50/original/Morella-californica-(7).jpg",
+      "sequence": 18,
+      "credit": "M. Ritter ",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25173,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/50/original/Morella-californica-(4)-993aa99d-1e29-4535-bf17-290b01c8420a.jpg",
+      "sequence": 19,
+      "credit": "M. Ritter ",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25169,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/50/original/Morella-californica-(3)-4ff2a749-99f2-4b21-a43f-eae85cb385dd.jpg",
+      "sequence": 20,
+      "credit": "M. Ritter ",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25171,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/50/original/Morella-californica-(6).jpg",
+      "sequence": 21,
+      "credit": "M. Ritter ",
+      "attribute_name": null
+    }
+  ],
+  "landscape_application": [
+    "Screen Tree"
+  ],
+  "landscape_use": [
+    "Hedged"
+  ],
+  "sunset_zone": [
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "14",
+    "15",
+    "16",
+    "17",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24"
+  ],
+  "formatted_sunset_zones": [
+    "4 - 9",
+    "14 - 17",
+    "20 - 24"
+  ],
+  "usda_zone": [
+    7,
+    8,
+    9,
+    10
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [],
+  "disease_susceptibility": [],
+  "pest_resistant": [],
+  "pest_susceptibility": [],
+  "health_hazard": [
+    "Allergy"
+  ],
+  "attracts_wildlife": [
+    "Birds"
+  ],
+  "fruit_value": [],
+  "fruiting_time": [
+    "Fall"
+  ],
+  "flower_time": [
+    "Spring"
+  ],
+  "flower_color": [
+    "Purple",
+    "Red",
+    "Yellow"
+  ],
+  "foliage_growth_color": [
+    "Dark Green"
+  ],
+  "bark_texture": [
+    "Smooth"
+  ],
+  "tree_shape": [
+    "Conical",
+    "Rounded"
+  ],
+  "litter_type": [
+    "Dry Fruit"
+  ],
+  "climate_adapted_regions": [
+    "Inland Empire",
+    "Inland Valleys",
+    "Northern California Coast"
+  ],
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Myrica_californica"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/61039-Morella-californica"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:1113865-2"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 1
+}

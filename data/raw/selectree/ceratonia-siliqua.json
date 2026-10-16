@@ -1,0 +1,361 @@
+{
+  "tree_id": 306,
+  "family": "Fabaceae",
+  "memo": "The drought-tolerant tree has pairs of nearly round leaflets and shiny, lavender-brown,flattened legumes, found only on female trees. The fruits, which have a pulpy texture on the inside (similar to tamarind), are high in sugar and protein. The seeds, which are exceptionally uniform in size and weight (about 5 seeds per gram), were the original jeweler's carat weight standard. The fruit is processed into flour that is used as a chocolate substitute in candy and baked goods, as well as a stabilizer and texturing agent in many cosmetics, pharmaceuticals, and processed foods.",
+  "fragrance": 1,
+  "native_range": "Middle East",
+  "photolocations": "Palo Alto, CA, Cal Poly Campus - San Luis Obispo, CA and Santa Barbara City College",
+  "display": 1,
+  "pacific_island": 1,
+  "california_native": 0,
+  "ethnobotanical_info": "Carob has been a nutritional food source for humans for millennia, with earliest evidence of use dating to 8000 B.C. The seed pods are edible raw or cooked, and are eaten in traditional dishes across Mediterranean basin. Processed carob pods are commercially sold as a sugar product, substitute for chocolate, and liquor. Medicinal uses of the leaves, bark, and fruit include treatments for indigestion, anti-bacterial, and anti-diabetic. The seedpods are used in the industrial production of locust bean gum, used extensively in processed foods. (Ramón-Laca & Mabberley, 2004; Silaev, 2017)",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 1,
+  "schoolyard_use_notes": "This tree has thick, leathery leaves that provide shade and can be used to teach about leaf structure and water conservation in plants. Its small, fragrant flowers attract pollinators, making it a good subject for lessons on plant-pollinator interactions. The long, brown pods that follow are edible and can be incorporated into discussions about food sources and nutrition. The tree&#x27;s resilience to drought conditions can also be used to explore topics related to climate adaptation and sustainable landscaping.",
+  "soil_ph_low": 3,
+  "soil_ph_high": 7,
+  "planting_area": "4 to 7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Medium",
+  "branch_strength_high": "Medium",
+  "root_damage_potential": "High",
+  "biogenic_emissions": "Moderate",
+  "deer_palatable": null,
+  "height_high": 40,
+  "height_memo": null,
+  "width_high": 40,
+  "growth_rate_high": 24,
+  "water_use": "Low",
+  "salt_tolerance": "Moderate",
+  "fruit_size": "Very Large",
+  "fruit_color": "Brown",
+  "fruit_type": "Legume",
+  "flower_showiness": "",
+  "bark_color": [
+    "Dark Brown"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Pinnately Compound",
+  "leaflet_shape": "Oval",
+  "foliage_fall_color": 0,
+  "foliage_type": "Evergreen",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": null,
+  "suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/0300/06/original/306_current_suitability_map.png",
+  "future_suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/0300/06/original/306_future_suitability_map.png",
+  "sex_explanation": null,
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 9362,
+    "tree_id": 306,
+    "common": "CAROB TREE",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 0
+  },
+  "primary_taxon": {
+    "taxon_id": 303,
+    "genus": "Ceratonia",
+    "species": "siliqua",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Ceratonia siliqua"
+  },
+  "other_taxa": [],
+  "other_common": [
+    {
+      "common_id": 7585,
+      "tree_id": 306,
+      "common": "ST. JOHN'S BREAD",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 1
+    },
+    {
+      "common_id": 10982,
+      "tree_id": 306,
+      "common": "LOCUST BEAN",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 10983,
+      "tree_id": 306,
+      "common": "CAROB",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 3
+    }
+  ],
+  "genericCommonNames": [
+    "CAROB"
+  ],
+  "images": [
+    {
+      "photo_link_id": 3014,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0300/06/original/ceratonia-siliqua-tree.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter, J. Reimer and C. Stubler",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 3015,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0300/06/original/ceratonia-siliqua-tree-3.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter, J. Reimer and C. Stubler",
+      "attribute_name": "tree-3"
+    },
+    {
+      "photo_link_id": 3016,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0300/06/original/ceratonia-siliqua-tree-2.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter, J. Reimer and C. Stubler",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 3017,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0300/06/original/ceratonia-siliqua-tree-4.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter, J. Reimer and C. Stubler",
+      "attribute_name": "tree-4"
+    },
+    {
+      "photo_link_id": 33018,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0300/06/original/Ceratonia-siliqua-57ec754f-dc7e-4d66-a943-d8e08bb64b61.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 33019,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0300/06/original/Ceratonia-siliqua-(1)-c7d85eed-db12-4dfd-a92a-2c1aa2ae23a3.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 29295,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0300/06/original/Ceratonia-siliqua.jpg",
+      "sequence": 7,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 29296,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0300/06/original/Ceratonia-siliqua-(1).jpg",
+      "sequence": 8,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 3018,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0300/06/original/ceratonia-siliqua-leaves.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter, J. Reimer and C. Stubler",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 3019,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0300/06/original/ceratonia-siliqua-flowers-5.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter, J. Reimer and C. Stubler",
+      "attribute_name": "flowers-5"
+    },
+    {
+      "photo_link_id": 3020,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0300/06/original/ceratonia-siliqua-flowers-4.jpg",
+      "sequence": 11,
+      "credit": "M. Ritter, J. Reimer and C. Stubler",
+      "attribute_name": "flowers-4"
+    },
+    {
+      "photo_link_id": 3021,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0300/06/original/ceratonia-siliqua-flowers.jpg",
+      "sequence": 12,
+      "credit": "M. Ritter, J. Reimer and C. Stubler",
+      "attribute_name": "flowers"
+    },
+    {
+      "photo_link_id": 3022,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0300/06/original/ceratonia-siliqua-flowers-2.jpg",
+      "sequence": 13,
+      "credit": "M. Ritter, J. Reimer and C. Stubler",
+      "attribute_name": "flowers-2"
+    },
+    {
+      "photo_link_id": 3023,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0300/06/original/ceratonia-siliqua-flowers-3.jpg",
+      "sequence": 14,
+      "credit": "M. Ritter, J. Reimer and C. Stubler",
+      "attribute_name": "flowers-3"
+    },
+    {
+      "photo_link_id": 3024,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0300/06/original/ceratonia-siliqua-fruit.jpg",
+      "sequence": 15,
+      "credit": "M. Ritter, J. Reimer and C. Stubler",
+      "attribute_name": "fruit"
+    },
+    {
+      "photo_link_id": 3025,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0300/06/original/ceratonia-siliqua-fruit-2.jpg",
+      "sequence": 16,
+      "credit": "M. Ritter, J. Reimer and C. Stubler",
+      "attribute_name": "fruit-2"
+    },
+    {
+      "photo_link_id": 3026,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0300/06/original/ceratonia-siliqua-fruit-3.jpg",
+      "sequence": 17,
+      "credit": "M. Ritter, J. Reimer and C. Stubler",
+      "attribute_name": "fruit-3"
+    },
+    {
+      "photo_link_id": 33017,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0300/06/original/Ceratonia-siliqua-(2).jpg",
+      "sequence": 18,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 3027,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0300/06/original/ceratonia-siliqua-trunk.jpg",
+      "sequence": 19,
+      "credit": "M. Ritter, J. Reimer and C. Stubler",
+      "attribute_name": "trunk"
+    },
+    {
+      "photo_link_id": 3028,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0300/06/original/ceratonia-siliqua-bark.jpg",
+      "sequence": 20,
+      "credit": "M. Ritter, J. Reimer and C. Stubler",
+      "attribute_name": "bark"
+    },
+    {
+      "photo_link_id": 32827,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0300/06/original/Ceratonia-silqua.jpg",
+      "sequence": 21,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    }
+  ],
+  "landscape_application": [
+    "Screen Tree"
+  ],
+  "landscape_use": [
+    "Hedged"
+  ],
+  "sunset_zone": [
+    "9",
+    "13",
+    "14",
+    "15",
+    "16",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "H1"
+  ],
+  "formatted_sunset_zones": [
+    "9",
+    "13 - 16",
+    "18 - 24",
+    "H1"
+  ],
+  "usda_zone": [
+    9,
+    10,
+    11
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [],
+  "disease_susceptibility": [
+    "Armillaria",
+    "Root Rot"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [],
+  "health_hazard": [
+    "None Known"
+  ],
+  "attracts_wildlife": [
+    "Birds"
+  ],
+  "fruit_value": [
+    "Edible"
+  ],
+  "fruiting_time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower_time": [
+    "Spring"
+  ],
+  "flower_color": [
+    "Red"
+  ],
+  "foliage_growth_color": [
+    "Dark Green"
+  ],
+  "bark_texture": [
+    "Scaly"
+  ],
+  "tree_shape": [
+    "Rounded"
+  ],
+  "litter_type": [
+    "Dry Fruit"
+  ],
+  "climate_adapted_regions": [
+    "Inland Empire",
+    "Southern California Coast",
+    "Southwest Desert"
+  ],
+  "appraisal_text": "Suggested LCANT 24\" box, Group Rating 3, Approx. cross sectional area 3.80 sq. in.",
+  "app_grrating": "3",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Carob"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/82742-Ceratonia-siliqua"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:485647-1"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 1
+}

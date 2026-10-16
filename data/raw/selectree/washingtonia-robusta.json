@@ -1,0 +1,507 @@
+{
+  "tree_id": 1471,
+  "family": "Arecaceae",
+  "memo": "&lt;strong&gt;This plant is weedy. We do not recommend planting it in Hawai‘i. &lt;/strong&gt;\nThere are currently two species recognized in the genus Washingtonia, though some evidence suggests that Washingtonia is composed of one highly variable species and that local differentiation of populations is related to environmental gradients. The plant material in cultivation can be difficult to distinguish, and all kinds of supposed hybrids exist. In general, the two currently-recognized species can be distinguished, at least at their extremes, this way: W. filifera is shorter, with a stouter trunk, more hair-like fibers on the leaf tips, and a less compact crown with longer leaf stalks (petioles) than W. robusta. The Mexican fan palm is Southern California's most common palm species. In its native range of Baja and Sonora, Mexico, the leaves were used for roofs, baskets, and sandals, while the fiber was used in making cord. It is widely planted and often naturalized throughout the world. Washingtonia robusta has a HPWRA (Hawai‘i Pacific Weed Risk Assessment) score of 15 (High Risk).",
+  "fragrance": 0,
+  "native_range": "Northwestern Mexico",
+  "photolocations": "Kona, HI, Stanford, CA, UC Santa Barbara - Santa Barbara, CA, Cal Poly State University - San Luis Obispo, CA, Los Angeles County Arboretum - Arcadia, CA, Palo Alto, CA, Beverly Hills, CA and Venice, CA",
+  "display": 1,
+  "pacific_island": 1,
+  "california_native": 0,
+  "ethnobotanical_info": "An attractive palm native to the Baja Peninsula of Mexico, this palm is now a popular ornamental throughout the tropics. Recent research shows the pruning waste of the large fronds to be suitable for particleboard production. (Garcia-Ortuño et al., 2013)",
+  "pi_invasive": 0,
+  "invasive_text": "This plant is classified as potentially invasive in specific areas of California by the California Invasive Plant Council (&lt;a href=&quot;http://www.cal-ipc.org/&quot;&gt;Cal-IPC&lt;/a&gt;).",
+  "ca_invasive": 1,
+  "schoolyard": 0,
+  "schoolyard_use_notes": null,
+  "soil_ph_low": 3,
+  "soil_ph_high": 7,
+  "planting_area": "4 to 7",
+  "shade_tolerant": 0,
+  "branch_strength_low": null,
+  "branch_strength_high": null,
+  "root_damage_potential": "Moderate",
+  "biogenic_emissions": "Moderate",
+  "deer_palatable": null,
+  "height_high": 70,
+  "height_memo": null,
+  "width_high": 20,
+  "growth_rate_high": 36,
+  "water_use": "Low",
+  "salt_tolerance": "moderate",
+  "fruit_size": "Small",
+  "fruit_color": "Black",
+  "fruit_type": "Drupe",
+  "flower_showiness": "Inconspicuous",
+  "bark_color": [
+    "Red Brown"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Palmately Compound",
+  "leaflet_shape": "",
+  "foliage_fall_color": 0,
+  "foliage_type": "Evergreen",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": null,
+  "suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/71/original/1471_current_suitability_map.png",
+  "future_suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/71/original/1471_future_suitability_map.png",
+  "sex_explanation": null,
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 9529,
+    "tree_id": 1471,
+    "common": "MEXICAN FAN PALM",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 0
+  },
+  "primary_taxon": {
+    "taxon_id": 1451,
+    "genus": "Washingtonia",
+    "species": "robusta",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Washingtonia robusta"
+  },
+  "other_taxa": [],
+  "other_common": [
+    {
+      "common_id": 8382,
+      "tree_id": 1471,
+      "common": "FAN PALM",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 1
+    },
+    {
+      "common_id": 14385,
+      "tree_id": 1471,
+      "common": "AMERICAN FAN PALM",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 12629,
+      "tree_id": 1471,
+      "common": "THREAD PALM",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 3
+    },
+    {
+      "common_id": 12630,
+      "tree_id": 1471,
+      "common": "WASHINGTON FAN PALM",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 4
+    },
+    {
+      "common_id": 12631,
+      "tree_id": 1471,
+      "common": "MEXICAN WASHINGTONIA",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 5
+    },
+    {
+      "common_id": 12632,
+      "tree_id": 1471,
+      "common": "MEXICAN WASHINGTON PALM",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 6
+    }
+  ],
+  "genericCommonNames": [
+    "PALM"
+  ],
+  "images": [
+    {
+      "photo_link_id": 25795,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/71/original/Washingtonia-robusta-b05a04b5-f96a-43a9-a06b-2744bb3a3c3d.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 32107,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/71/original/Washingtonia-robusta-04d3d922-c4d2-4b2d-bc9b-5b90ab77e034.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20615,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/71/original/Washingtonia-robusta-76fa9373-2002-449d-9866-17e8cf9ff388.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 24141,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/71/original/Washingtonia-robusta-82dbdb2b-0c27-41d4-88b6-139e20bf24e0.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter ",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 32979,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/71/original/Washingtonia-robusta-a041fe63-5c8f-40fa-b9e4-354958712f1a.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 13522,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/71/original/washingtonia-robusta-trees-5.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "trees-5"
+    },
+    {
+      "photo_link_id": 13523,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/71/original/washingtonia-robusta-trees-6.jpg",
+      "sequence": 7,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "trees-6"
+    },
+    {
+      "photo_link_id": 19694,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/71/original/Washingtonia-robusta-(1).jpg",
+      "sequence": 8,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 21147,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/71/original/Washingtonia-robusta-3767076b-8aeb-4397-a747-b7b3e54f3979.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 27119,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/71/original/Washingtonia-robusta-b0b05e09-96a8-45ae-acc9-be8155496f2a.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 13524,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/71/original/washingtonia-robusta-trees-4.jpg",
+      "sequence": 11,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "trees-4"
+    },
+    {
+      "photo_link_id": 13526,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/71/original/washingtonia-robusta-trees-2.jpg",
+      "sequence": 12,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "trees-2"
+    },
+    {
+      "photo_link_id": 32356,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/71/original/Washingtonia-robusta-b2dabe71-4d38-4db7-980d-b9acfbb79d36.jpg",
+      "sequence": 13,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 24314,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/71/original/Washingtonia-robusta-76bf8866-34dd-40b6-82c2-ec4e07f80286.jpg",
+      "sequence": 14,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 13520,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/71/original/washingtonia-robusta-tree-4.jpg",
+      "sequence": 15,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-4"
+    },
+    {
+      "photo_link_id": 19941,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/71/original/Washingtonia-robusta-Kona.jpg",
+      "sequence": 16,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 18066,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/71/original/Washingtonia-robusta.jpg",
+      "sequence": 17,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 32978,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/71/original/Washingtonia-robusta-(1)-c25fdd9f-0ffa-4b78-9bfc-a7b2a97d8e07.jpg",
+      "sequence": 18,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 13521,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/71/original/washingtonia-robusta-tree-2.jpg",
+      "sequence": 19,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 32354,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/71/original/Washingtonia-robusta-(1)-d17cdf65-cfa6-4e93-9bad-6fdc8c4b5b96.jpg",
+      "sequence": 20,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 13525,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/71/original/washingtonia-robusta-tree.jpg",
+      "sequence": 21,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 32355,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/71/original/Washingtonia-robusta-(2)-d8a11c3d-4abf-45a6-a7d6-d133ddf509a4.jpg",
+      "sequence": 22,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 13527,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/71/original/washingtonia-robusta-tree-3.jpg",
+      "sequence": 23,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-3"
+    },
+    {
+      "photo_link_id": 30189,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/71/original/Washingtonia-robusta-b9f560fb-2dff-4362-9b55-0ea295c7cd41.jpg",
+      "sequence": 24,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 33311,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/71/original/Washingtonia-robusta-(1)-812ddaf1-271a-4c69-82a3-63615f5937c9.jpg",
+      "sequence": 25,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 33312,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/71/original/Washingtonia-robusta-8c264dae-0fd2-4656-9d8f-883b83b38dea.jpg",
+      "sequence": 26,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20616,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/71/original/Washingtonia-robusta copy.jpg",
+      "sequence": 27,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 32357,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/71/original/Washingtonia-robusta-(3).jpg",
+      "sequence": 28,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 29544,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/71/original/Washingtonia-robusta-2e199c3f-74b2-4410-81cf-765fd5fb30ea.jpg",
+      "sequence": 29,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 30191,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/71/original/Washingtonia-robusta-(1)-bb4c5c30-070e-4e4f-b8e2-62c6cc1b00b9.jpg",
+      "sequence": 30,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 13528,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/71/original/washingtonia-robusta-leaf.jpg",
+      "sequence": 31,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaf"
+    },
+    {
+      "photo_link_id": 13529,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/71/original/washingtonia-robusta-leaf-center.jpg",
+      "sequence": 32,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaf-center"
+    },
+    {
+      "photo_link_id": 30190,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/71/original/Washingtonia-robusta-(2).jpg",
+      "sequence": 33,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 13530,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/71/original/washingtonia-robusta-petioles-toothed.jpg",
+      "sequence": 34,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "petioles-toothed"
+    },
+    {
+      "photo_link_id": 13531,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/71/original/washingtonia-robusta-petiole-toothed.jpg",
+      "sequence": 35,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "petiole-toothed"
+    },
+    {
+      "photo_link_id": 13533,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/71/original/washingtonia-robusta-trunk-2.jpg",
+      "sequence": 36,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "trunk-2"
+    },
+    {
+      "photo_link_id": 13534,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/71/original/washingtonia-robusta-trunk.jpg",
+      "sequence": 37,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "trunk"
+    },
+    {
+      "photo_link_id": 32863,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/71/original/Screenshot 2026-02-08 at 6.57",
+      "sequence": 38,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 33532,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/71/original/Washingtonia species.png",
+      "sequence": 39,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    }
+  ],
+  "landscape_application": [],
+  "landscape_use": [],
+  "sunset_zone": [
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "H1",
+    "H2"
+  ],
+  "formatted_sunset_zones": [
+    "8 - 24",
+    "H1",
+    "H2"
+  ],
+  "usda_zone": [
+    9,
+    10,
+    11
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand"
+  ],
+  "disease_resistant": [
+    "Texas Root Rot"
+  ],
+  "disease_susceptibility": [],
+  "pest_resistant": [],
+  "pest_susceptibility": [
+    "Beetle Borers",
+    "Red Palm Weevil (Rhynchophorus ferrugineus)"
+  ],
+  "health_hazard": [
+    "Allergy"
+  ],
+  "attracts_wildlife": [],
+  "fruit_value": [
+    "Edible"
+  ],
+  "fruiting_time": [],
+  "flower_time": [],
+  "flower_color": [],
+  "foliage_growth_color": [
+    "Dark Green"
+  ],
+  "bark_texture": [
+    "Furrowed",
+    "Smooth"
+  ],
+  "tree_shape": [
+    "Palm"
+  ],
+  "litter_type": [
+    "Dry Fruit",
+    "Leaves"
+  ],
+  "climate_adapted_regions": [
+    "Inland Empire",
+    "Inland Valleys",
+    "Southern California Coast",
+    "Southwest Desert"
+  ],
+  "appraisal_text": "$/BTF, Approx. cross sectional area not applicable",
+  "app_grrating": "$/BTF",
+  "app_lcant": "Use BTF",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Washingtonia_robusta"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/79521-Washingtonia-robusta"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:670278-1"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 2
+}

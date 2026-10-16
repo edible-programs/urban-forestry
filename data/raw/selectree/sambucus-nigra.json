@@ -1,0 +1,408 @@
+{
+  "tree_id": 1314,
+  "family": "Viburnaceae",
+  "memo": "&lt;em&gt;Sambucus nigra&lt;/em&gt;, commonly known as elderberry, is a fast-growing deciduous shrub or small tree native to North America and Europe. This species commonly grows in moist, wet habitats with good drainage — such as streambanks, floodplains, and riparian corridors — and is used in landscapes for its ornamental clusters of white flowers and dark purple berries. &lt;em&gt;S. nigra&lt;/em&gt; is a widely distributed species with numerous subspecies and cultivars that are often very similar in appearance and can be difficult to distinguish from one another. Elderberry serves as the sole host plant for the endangered Valley Elderberry Longhorn Beetle (&lt;em&gt;Desmocerus californicus dimorphus&lt;/em&gt;), making it an important species for habitat conservation efforts.",
+  "fragrance": 0,
+  "native_range": "Western North America",
+  "photolocations": "BioPark Botanic Garden - Albuquerque, NM, Tilden Regional Parks Botanical Garden - Berkeley, CA, Los Angeles County Arboretum - Arcadia, CA and Santa Barbara Botanic Garden - Santa Barbara, CA",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 1,
+  "ethnobotanical_info": "",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 0,
+  "schoolyard_use_notes": null,
+  "soil_ph_low": 1,
+  "soil_ph_high": 5,
+  "planting_area": "4 to 7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Weak",
+  "branch_strength_high": "Weak",
+  "root_damage_potential": "Low",
+  "biogenic_emissions": "Low",
+  "deer_palatable": null,
+  "height_high": 30,
+  "height_memo": null,
+  "width_high": 20,
+  "growth_rate_high": 36,
+  "water_use": "Medium",
+  "salt_tolerance": "Moderate",
+  "fruit_size": "Very Small",
+  "fruit_color": "Black or Purple",
+  "fruit_type": "Berry",
+  "flower_showiness": "Showy",
+  "sex": "Perfect Flowers",
+  "bark_color": [
+    "Dark Brown",
+    "Dark Gray or Light Gray"
+  ],
+  "leaf_arrangement": "Opposite",
+  "leaf_form": "Pinnately Compound",
+  "leaflet_shape": "Spear Shaped",
+  "foliage_fall_color": 1,
+  "foliage_type": "Deciduous",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": null,
+  "suitability_map": null,
+  "future_suitability_map": null,
+  "sex_explanation": "Has male and female reproductive parts in each flower (perfect)",
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 1295,
+    "tree_id": 1314,
+    "common": "HAIRY BLUE ELDERBERRY",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 1
+  },
+  "primary_taxon": {
+    "taxon_id": 1295,
+    "genus": "Sambucus",
+    "species": "nigra",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Sambucus nigra"
+  },
+  "other_taxa": [
+    {
+      "taxon_id": 2440,
+      "genus": "Sambucus",
+      "species": "nigra",
+      "hybrid_alt_species": "",
+      "subspecies": "nigra",
+      "variety": "",
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 2,
+      "name_concat": "Sambucus nigra subsp. nigra"
+    },
+    {
+      "taxon_id": 3173,
+      "genus": "Sambucus",
+      "species": "graveolens",
+      "hybrid_alt_species": "",
+      "subspecies": "",
+      "variety": "",
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 3,
+      "name_concat": "Sambucus graveolens"
+    }
+  ],
+  "other_common": [
+    {
+      "common_id": 12358,
+      "tree_id": 1314,
+      "common": "COMMON ELDERBERRY",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 1
+    },
+    {
+      "common_id": 4234,
+      "tree_id": 1314,
+      "common": "BLACK ELDER",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 12352,
+      "tree_id": 1314,
+      "common": "BLACK ELDERBERRY",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 4235,
+      "tree_id": 1314,
+      "common": "EUROPEAN ELDERBERRY",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 3
+    },
+    {
+      "common_id": 12353,
+      "tree_id": 1314,
+      "common": "ELDERBERRY",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 3
+    },
+    {
+      "common_id": 12354,
+      "tree_id": 1314,
+      "common": "ELDER",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 4
+    },
+    {
+      "common_id": 12355,
+      "tree_id": 1314,
+      "common": "EUROPEAN BLACK ELDER",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 5
+    },
+    {
+      "common_id": 12356,
+      "tree_id": 1314,
+      "common": "WEST INDIAN ELDER",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 6
+    },
+    {
+      "common_id": 12357,
+      "tree_id": 1314,
+      "common": "EUROPEN ELDER",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 7
+    },
+    {
+      "common_id": 12359,
+      "tree_id": 1314,
+      "common": "EUROPEAN BLACK ELDERBERRY",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 9
+    }
+  ],
+  "genericCommonNames": [
+    "ELDERBERRY"
+  ],
+  "images": [
+    {
+      "photo_link_id": 12075,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/14/original/sambucus-nigra-tree-2.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 12076,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/14/original/sambucus-nigra-tree.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 12077,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/14/original/sambucus-nigra-canopy.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "canopy"
+    },
+    {
+      "photo_link_id": 12078,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/14/original/sambucus-nigra-leaves.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 12079,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/14/original/sambucus-nigra-leaves-2.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "leaves-2"
+    },
+    {
+      "photo_link_id": 12080,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/14/original/sambucus-nigra-leaves-3.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "leaves-3"
+    },
+    {
+      "photo_link_id": 12081,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/14/original/sambucus-nigra-leaves-4.jpg",
+      "sequence": 7,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "leaves-4"
+    },
+    {
+      "photo_link_id": 12082,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/14/original/sambucus-nigra-leaves-and-fruit.jpg",
+      "sequence": 8,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "leaves-and-fruit"
+    },
+    {
+      "photo_link_id": 12083,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/14/original/sambucus-nigra-fruit-2.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "fruit-2"
+    },
+    {
+      "photo_link_id": 12084,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/14/original/sambucus-nigra-leaves-and-flower-buds.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "leaves-and-flower-buds"
+    },
+    {
+      "photo_link_id": 12085,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/14/original/sambucus-nigra-flowers.jpg",
+      "sequence": 11,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "flowers"
+    },
+    {
+      "photo_link_id": 12086,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/14/original/sambucus-nigra-flowers-2.jpg",
+      "sequence": 12,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "flowers-2"
+    },
+    {
+      "photo_link_id": 23348,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/14/original/Sambucus-nigra.jpg",
+      "sequence": 13,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 12087,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/14/original/sambucus-nigra-bark-2.jpg",
+      "sequence": 14,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "bark-2"
+    }
+  ],
+  "landscape_application": [
+    "Riparian",
+    "Screen Tree"
+  ],
+  "landscape_use": [],
+  "sunset_zone": [
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24"
+  ],
+  "formatted_sunset_zones": [
+    "2 - 24"
+  ],
+  "usda_zone": [
+    7,
+    8,
+    9,
+    10
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [
+    "Texas Root Rot"
+  ],
+  "disease_susceptibility": [
+    "Root Rot",
+    "Verticillium"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [
+    "Beetle Borers"
+  ],
+  "health_hazard": [
+    "None Known"
+  ],
+  "attracts_wildlife": [
+    "Birds"
+  ],
+  "fruit_value": [
+    "Edible"
+  ],
+  "fruiting_time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower_time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower_color": [
+    "Cream",
+    "Yellow"
+  ],
+  "foliage_growth_color": [
+    "Light Green"
+  ],
+  "bark_texture": [
+    "Furrowed",
+    "Scaly"
+  ],
+  "tree_shape": [
+    "Rounded"
+  ],
+  "litter_type": [
+    "Wet Fruit"
+  ],
+  "climate_adapted_regions": [
+    "Interior West",
+    "Northern California Coast"
+  ],
+  "appraisal_text": "Suggested LCANT 24\" box, Group Rating 2, Approx. cross sectional area 2.24 sq. in.",
+  "app_grrating": "2",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Sambucus_nigra"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/765394-Sambucus-nigra"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:30122169-2"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 0
+}

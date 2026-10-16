@@ -1,0 +1,329 @@
+{
+  "tree_id": 1518,
+  "family": "Rosaceae",
+  "memo": "&lt;em&gt;Prunus serrulata &lt;/em&gt;is a popular, modestly-sized flowering tree native to south and east China, Japan, and Korea. Its delicate leaves have toothed margins, referred to by its epithet, &lt;em&gt;serrulata&lt;/em&gt;. Its pink to white blooms are exceptionally ornamental, blanketing the entire leafless canopy in spring. While the species itself is uncommon in cultivation, it has given rise to numerous cultivars and varieties that differ in canopy shape and bloom color. Aditionally, fall foliage varies from shades of yellow to bronze. This tree flowers best in full sun and requires good drainage to succeed.&nbsp;",
+  "fragrance": 1,
+  "native_range": "East Asia",
+  "photolocations": "Cal Poly State University - San Luis Obispo, CA, San Francisco, CA and Santa Cruz, CA",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 0,
+  "ethnobotanical_info": "The blossoms of Japenese Cherry are the national flower of Japan, symbolizing life, good health, and happiness.&nbsp;",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 0,
+  "schoolyard_use_notes": null,
+  "soil_ph_low": 1,
+  "soil_ph_high": 5,
+  "planting_area": "4 to 7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Medium",
+  "branch_strength_high": "Medium",
+  "root_damage_potential": "Low",
+  "biogenic_emissions": "",
+  "deer_palatable": 1,
+  "height_high": 25,
+  "height_memo": null,
+  "width_high": 25,
+  "growth_rate_high": 24,
+  "water_use": "Medium",
+  "salt_tolerance": "Moderate",
+  "fruit_size": "Small",
+  "fruit_color": "Black",
+  "fruit_type": "Drupe",
+  "flower_showiness": "Showy",
+  "sex": "Perfect Flowers",
+  "bark_color": [
+    "Dark Gray",
+    "Light Gray",
+    "Reddish"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Spear Shaped",
+  "foliage_fall_color": 1,
+  "foliage_type": "Deciduous",
+  "redirect_tree_id": null,
+  "utility_friendly": 1,
+  "wind_resistance": null,
+  "suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/18/original/1518_current_suitability_map.png",
+  "future_suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/18/original/1518_future_suitability_map.png",
+  "sex_explanation": "Has male and female reproductive parts in each flower (perfect)",
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 1497,
+    "tree_id": 1518,
+    "common": "JAPANESE FLOWERING CHERRY",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 1
+  },
+  "primary_taxon": {
+    "taxon_id": 1497,
+    "genus": "Prunus",
+    "species": "serrulata",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Prunus serrulata"
+  },
+  "other_taxa": [
+    {
+      "taxon_id": 6242,
+      "genus": "Cerasus",
+      "species": "serrulata",
+      "hybrid_alt_species": null,
+      "subspecies": null,
+      "variety": null,
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 2,
+      "name_concat": "Cerasus serrulata"
+    },
+    {
+      "taxon_id": 6243,
+      "genus": "Padus",
+      "species": "serrulata",
+      "hybrid_alt_species": null,
+      "subspecies": null,
+      "variety": null,
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 3,
+      "name_concat": "Padus serrulata"
+    },
+    {
+      "taxon_id": 6244,
+      "genus": "Prunus",
+      "species": "pseudocerasus",
+      "hybrid_alt_species": null,
+      "subspecies": null,
+      "variety": "serrulata",
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 4,
+      "name_concat": "Prunus pseudocerasus var. serrulata"
+    }
+  ],
+  "other_common": [
+    {
+      "common_id": 4543,
+      "tree_id": 1518,
+      "common": "JAPANESE CHERRY",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 12723,
+      "tree_id": 1518,
+      "common": "ORIENTAL CHERRY",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    }
+  ],
+  "genericCommonNames": [
+    "CHERRY"
+  ],
+  "images": [
+    {
+      "photo_link_id": 14063,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/18/original/prunus-serrulata-tree-flowering.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-flowering"
+    },
+    {
+      "photo_link_id": 14064,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/18/original/prunus-serrulata-tree-2.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 14065,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/18/original/prunus-serrulata-tree-3.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-3"
+    },
+    {
+      "photo_link_id": 14066,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/18/original/prunus-serrulata-tree-4.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-4"
+    },
+    {
+      "photo_link_id": 14067,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/18/original/prunus-serrulata-tree.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 14068,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/18/original/prunus-serrulata-leaves.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 14069,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/18/original/prunus-serrulata-leaves-2.jpg",
+      "sequence": 7,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves-2"
+    },
+    {
+      "photo_link_id": 14070,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/18/original/prunus-serrulata-flowers.jpg",
+      "sequence": 8,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "flowers"
+    },
+    {
+      "photo_link_id": 14071,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/18/original/prunus-serrulata-flowers-2.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "flowers-2"
+    },
+    {
+      "photo_link_id": 14072,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/18/original/prunus-serrulata-flowers-3.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "flowers-3"
+    },
+    {
+      "photo_link_id": 14073,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/18/original/prunus-serrulata-bark.jpg",
+      "sequence": 11,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "bark"
+    },
+    {
+      "photo_link_id": 14074,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/18/original/prunus-serrulata-bark-2.jpg",
+      "sequence": 12,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "bark-2"
+    }
+  ],
+  "landscape_application": [
+    "Screen Tree"
+  ],
+  "landscape_use": [],
+  "sunset_zone": [
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20"
+  ],
+  "formatted_sunset_zones": [
+    "2 - 7",
+    "14 - 20"
+  ],
+  "usda_zone": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [],
+  "disease_susceptibility": [
+    "Canker",
+    "Crown Rot",
+    "Armillaria",
+    "Phytophthora"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [
+    "Caterpillars"
+  ],
+  "health_hazard": [
+    "None Known"
+  ],
+  "attracts_wildlife": [
+    "Birds"
+  ],
+  "fruit_value": [],
+  "fruiting_time": [
+    "Fall",
+    "Winter",
+    "Summer"
+  ],
+  "flower_time": [
+    "Spring"
+  ],
+  "flower_color": [
+    "Pink",
+    "Rose"
+  ],
+  "foliage_growth_color": [
+    "Dark Green"
+  ],
+  "bark_texture": [
+    "Smooth",
+    "Mottled"
+  ],
+  "tree_shape": [
+    "Rounded"
+  ],
+  "litter_type": [
+    "Dry Fruit",
+    "Flowers"
+  ],
+  "climate_adapted_regions": [],
+  "appraisal_text": "Suggested LCANT 24\" box, Group Rating 3, Approx. cross sectional area 3.80 sq. in.",
+  "app_grrating": "3",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Prunus_serrulata"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/125742-Prunus-serrulata"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:730268-1"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 0
+}

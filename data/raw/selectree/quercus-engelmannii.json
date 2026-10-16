@@ -1,0 +1,491 @@
+{
+  "tree_id": 1238,
+  "family": "Fagaceae",
+  "memo": "Engelmann or mesa oak is a semi-evergreen species growing only in savannas and foothill woodlands of Southern California from northern Baja California to Pasadena. Its range is smaller than that of most California oaks, and suburban sprawl and development have displaced it in many areas. Thick trunks covered in furrowed grayish-brown bark support a low, broad canopy of leathery bluish-gray leaves with smooth, wavy edges.",
+  "fragrance": 0,
+  "native_range": "California",
+  "photolocations": "Pasadena, CA, Huntington Botanical Gardens - San Marino, CA, Pasadena, CA, Rancho Santa Ana Botanic Gardens - Claremont, CA, Los Angeles County Arboretum - Arcadia, CA and Santa Barbara Botanic Garden - Santa Barbara, CA",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 1,
+  "ethnobotanical_info": "",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 1,
+  "schoolyard_use_notes": "This tree is great for learning about leaf morphology and variation, ethnobotany, and and conservation biology. The waxy  leaves of this tree offer an interesting introduction to different surface textures of leaves. The leaves also vary widely in shape within one tree and among many trees; some are more deeply lobed while others may be entire.  The acorns are an important food resource for indigenous people and are still processed for cooking, baking,  and candies. The acorns and acorn cupules are also great materials for natural art projects. The tree is listed as endangered on the US Red List for Oaks as they have suffered from habitat loss and struggled to regenerate and reproduce naturally due to intense grazing, soil compaction, and habitat fragmentation.\n",
+  "soil_ph_low": 3,
+  "soil_ph_high": 5,
+  "planting_area": "4 to 7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Strong",
+  "branch_strength_high": "Strong",
+  "root_damage_potential": "Moderate",
+  "biogenic_emissions": "High",
+  "deer_palatable": -1,
+  "height_high": 70,
+  "height_memo": null,
+  "width_high": 75,
+  "growth_rate_high": 24,
+  "water_use": "Low",
+  "salt_tolerance": "High",
+  "fruit_size": "Medium",
+  "fruit_color": "Brown",
+  "fruit_type": "Cone",
+  "flower_showiness": "Inconspicuous",
+  "sex": "Perfect Flowers",
+  "bark_color": [
+    "Light Gray"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Oblong",
+  "foliage_fall_color": 1,
+  "foliage_type": "Partly Deciduous",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": null,
+  "suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/38/original/1238_current_suitability_map.png",
+  "future_suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/38/original/1238_future_suitability_map.png",
+  "sex_explanation": "Has male and female reproductive parts in each flower (perfect)",
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 1220,
+    "tree_id": 1238,
+    "common": "ENGELMANN OAK",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 0
+  },
+  "primary_taxon": {
+    "taxon_id": 1220,
+    "genus": "Quercus",
+    "species": "engelmannii",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Quercus engelmannii"
+  },
+  "other_taxa": [],
+  "other_common": [
+    {
+      "common_id": 4116,
+      "tree_id": 1238,
+      "common": "MESA OAK",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 1
+    },
+    {
+      "common_id": 4117,
+      "tree_id": 1238,
+      "common": "PASADENA OAK",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 12246,
+      "tree_id": 1238,
+      "common": "ENGELMANN'S OAK",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 3
+    }
+  ],
+  "genericCommonNames": [
+    "OAK"
+  ],
+  "images": [
+    {
+      "photo_link_id": 23310,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/38/original/Quercus-engelmannii-(7).jpg",
+      "sequence": 1,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 11358,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/38/original/quercus-engelmannii-tree-3.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "tree-3"
+    },
+    {
+      "photo_link_id": 23304,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/38/original/Quercus-engelmannii-(3).jpg",
+      "sequence": 3,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 23308,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/38/original/Quercus-engelmannii-(9).jpg",
+      "sequence": 4,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 23312,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/38/original/Quercus-engelmannii-(10).jpg",
+      "sequence": 5,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 23305,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/38/original/Quercus-engelmannii-(4).jpg",
+      "sequence": 6,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 23303,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/38/original/Quercus-engelmannii-(5).jpg",
+      "sequence": 7,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 23301,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/38/original/Quercus-engelmannii-(11).jpg",
+      "sequence": 8,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 11359,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/38/original/quercus-engelmannii-tree-2.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 11360,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/38/original/quercus-engelmannii-tree.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 23322,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/38/original/Quercus-engelmannii9.jpg",
+      "sequence": 11,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 27115,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/38/original/Quercus-engelmannii-5b2b166a-dddc-4929-985d-96f18d2435be.jpg",
+      "sequence": 12,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 23306,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/38/original/Quercus-engelmannii-(1).jpg",
+      "sequence": 13,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 23314,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/38/original/Quercus-engelmannii6.jpg",
+      "sequence": 14,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 23316,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/38/original/Quercus-engelmannii1.jpg",
+      "sequence": 15,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 23321,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/38/original/Quercus-engelmannii8.jpg",
+      "sequence": 16,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 11363,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/38/original/quercus-engelmannii-leaves-2.jpg",
+      "sequence": 17,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "leaves-2"
+    },
+    {
+      "photo_link_id": 23313,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/38/original/Quercus-engelmannii7.jpg",
+      "sequence": 18,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 11365,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/38/original/quercus-engelmannii-leaves-4.jpg",
+      "sequence": 19,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "leaves-4"
+    },
+    {
+      "photo_link_id": 11364,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/38/original/quercus-engelmannii-leaves-3.jpg",
+      "sequence": 20,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "leaves-3"
+    },
+    {
+      "photo_link_id": 11362,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/38/original/quercus-engelmannii-leaves.jpg",
+      "sequence": 21,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 11366,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/38/original/quercus-engelmannii-flowers-young.jpg",
+      "sequence": 22,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "flowers-young"
+    },
+    {
+      "photo_link_id": 11367,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/38/original/quercus-engelmannii-flowers.jpg",
+      "sequence": 23,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "flowers"
+    },
+    {
+      "photo_link_id": 23315,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/38/original/Quercus-engelmannii4.jpg",
+      "sequence": 24,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 23309,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/38/original/Quercus-engelmannii5.jpg",
+      "sequence": 25,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 23318,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/38/original/Quercus-engelmannii10.jpg",
+      "sequence": 26,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 23307,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/38/original/Quercus-engelmannii.jpg",
+      "sequence": 27,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 23300,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/38/original/Quercus-engelmannii-(2).jpg",
+      "sequence": 28,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 11368,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/38/original/quercus-engelmannii-acorn-young.jpg",
+      "sequence": 29,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "acorn-young"
+    },
+    {
+      "photo_link_id": 11370,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/38/original/quercus-engelmannii-acorn-2.jpg",
+      "sequence": 30,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "acorn-2"
+    },
+    {
+      "photo_link_id": 11369,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/38/original/quercus-engelmannii-acorn.jpg",
+      "sequence": 31,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "acorn"
+    },
+    {
+      "photo_link_id": 23311,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/38/original/Quercus-engelmannii-(6).jpg",
+      "sequence": 32,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 23302,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/38/original/Quercus-engelmannii-(8).jpg",
+      "sequence": 33,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 11361,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/38/original/quercus-engelmannii-canopy-2.jpg",
+      "sequence": 34,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "canopy-2"
+    },
+    {
+      "photo_link_id": 23317,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/38/original/Quercus-engelmannii2.jpg",
+      "sequence": 35,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 23320,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/38/original/Quercus-engelmannii3.jpg",
+      "sequence": 36,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 11371,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/38/original/quercus-engelmannii-bark-2.jpg",
+      "sequence": 37,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "bark-2"
+    },
+    {
+      "photo_link_id": 11372,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/38/original/quercus-engelmannii-bark.jpg",
+      "sequence": 38,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "bark"
+    }
+  ],
+  "landscape_application": [],
+  "landscape_use": [],
+  "sunset_zone": [
+    "7",
+    "8",
+    "9",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24"
+  ],
+  "formatted_sunset_zones": [
+    "7 - 9",
+    "14 - 24"
+  ],
+  "usda_zone": [
+    7,
+    8,
+    9,
+    10
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [
+    "Verticillium"
+  ],
+  "disease_susceptibility": [
+    "Armillaria",
+    "Crown Rot",
+    "Mistletoe",
+    "Root Rot"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [
+    "Invasive Shot Hole Borer",
+    "Coddling Moths",
+    "Insect Galls",
+    "Scales"
+  ],
+  "health_hazard": [
+    "Allergy",
+    "Poisonous"
+  ],
+  "attracts_wildlife": [
+    "Birds",
+    "Squirrels"
+  ],
+  "fruit_value": [
+    "Wildlife use it"
+  ],
+  "fruiting_time": [
+    "Fall",
+    "Winter"
+  ],
+  "flower_time": [
+    "Spring"
+  ],
+  "flower_color": [
+    "Yellow-Green",
+    "Yellow"
+  ],
+  "foliage_growth_color": [
+    "Green"
+  ],
+  "bark_texture": [
+    "Furrowed",
+    "Ridged",
+    "Scaly"
+  ],
+  "tree_shape": [
+    "Rounded"
+  ],
+  "litter_type": [
+    "Dry Fruit",
+    "Leaves"
+  ],
+  "climate_adapted_regions": [
+    "Inland Empire",
+    "Southern California Coast"
+  ],
+  "appraisal_text": "Suggested LCANT 24\" box, Group Rating 2, Approx. cross sectional area 2.24 sq. in.",
+  "app_grrating": "2",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Quercus_engelmannii"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/78804-Quercus-engelmannii"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:215821-2"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 2
+}

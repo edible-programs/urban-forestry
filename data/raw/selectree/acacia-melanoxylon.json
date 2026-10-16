@@ -1,0 +1,428 @@
+{
+  "tree_id": 28,
+  "family": "Fabaceae",
+  "memo": "This tree is known for its dense, dark green foliage and striking, smooth bark. It features elongated, oval leaves that provide ample shade, making it a popular choice for urban landscaping. In the spring, it produces small, creamy yellow flowers that add a subtle touch of color. Its wood is highly valued for its durability and attractive grain, often used in furniture making. This tree adapts well to a variety of soil types and requires minimal maintenance, thriving in both full sun and partial shade. Its robust nature and aesthetic appeal make it a versatile addition to parks and streetscapes.",
+  "fragrance": 0,
+  "native_range": "Eastern Australia",
+  "photolocations": "UC Davis Arboretum - Davis, CA, Cal Poly State University - San Luis Obispo, CA, San Francisco, CA, Milpitas, CA and Santa Barbara, CA",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 0,
+  "ethnobotanical_info": "",
+  "pi_invasive": 0,
+  "invasive_text": "This plant is classified as invasive by the California Invasive Plant Council (http://www.cal-ipc.org). Its rating is limited.",
+  "ca_invasive": 1,
+  "schoolyard": 1,
+  "schoolyard_use_notes": "This tree has elongated, dark green leaves that can be used to teach about leaf structure and function. It produces small, creamy-yellow flowers that offer a chance to discuss pollination and the role of flowers in plant reproduction. The wood is dense and durable, making it a good example for lessons on different types of timber and their uses. Its ability to thrive in various soil types can be explored in discussions about plant adaptability and soil science.",
+  "soil_ph_low": 3,
+  "soil_ph_high": 7,
+  "planting_area": "4 to 7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Weak",
+  "branch_strength_high": "Weak",
+  "root_damage_potential": "High",
+  "biogenic_emissions": "Moderate",
+  "deer_palatable": 0,
+  "height_high": 50,
+  "height_memo": null,
+  "width_high": 20,
+  "growth_rate_high": 36,
+  "water_use": "Low",
+  "salt_tolerance": "Moderate",
+  "fruit_size": "Very Large",
+  "fruit_color": "Brown or Purple",
+  "fruit_type": "Legume",
+  "flower_showiness": "Inconspicuous",
+  "bark_color": [
+    "Black or Dark Brown"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Oblanceolate",
+  "foliage_fall_color": 0,
+  "foliage_type": "Evergreen",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": null,
+  "suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/28/original/28_current_suitability_map.png",
+  "future_suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/28/original/28_future_suitability_map.png",
+  "sex_explanation": null,
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 9965,
+    "tree_id": 28,
+    "common": "BLACKWOOD ACACIA",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 0
+  },
+  "primary_taxon": {
+    "taxon_id": 28,
+    "genus": "Acacia",
+    "species": "melanoxylon",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Acacia melanoxylon"
+  },
+  "other_taxa": [],
+  "other_common": [
+    {
+      "common_id": 9966,
+      "tree_id": 28,
+      "common": "BLACK ACACIA",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 1
+    },
+    {
+      "common_id": 10556,
+      "tree_id": 28,
+      "common": "AUSTRALIAN BLACKWOOD",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 10557,
+      "tree_id": 28,
+      "common": "BLACKWOOD",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 3
+    },
+    {
+      "common_id": 10559,
+      "tree_id": 28,
+      "common": "SILVER WATTLE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 4
+    },
+    {
+      "common_id": 10560,
+      "tree_id": 28,
+      "common": "TASMANIAN BLACKWOOD",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 5
+    },
+    {
+      "common_id": 10561,
+      "tree_id": 28,
+      "common": "PALUMA BLACKWOOD",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 6
+    },
+    {
+      "common_id": 9967,
+      "tree_id": 28,
+      "common": "SALLY WATTLE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 8
+    },
+    {
+      "common_id": 10562,
+      "tree_id": 28,
+      "common": "BLACK WOOD",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 8
+    },
+    {
+      "common_id": 10558,
+      "tree_id": 28,
+      "common": "BLACK SALLY",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 9
+    }
+  ],
+  "genericCommonNames": [
+    "ACACIA"
+  ],
+  "images": [
+    {
+      "photo_link_id": 320,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/28/original/acacia-melanoxylon-tree-3.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter, J. Reimer and C. Stubler",
+      "attribute_name": "tree-3"
+    },
+    {
+      "photo_link_id": 321,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/28/original/acacia-melanoxylon-tree.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter, J. Reimer and C. Stubler",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 32687,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/28/original/Acacia-melanoxylon-ac2b62f3-d555-480e-8572-2d1eaf94e9c4.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 322,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/28/original/acacia-melanoxylon-tree-2.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter, J. Reimer and C. Stubler",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 30319,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/28/original/Acacia-melanoxylon-0b778112-98a4-4804-a235-e0f81b98d839.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 323,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/28/original/acacia-melanoxylon-tree-4.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter, J. Reimer and C. Stubler",
+      "attribute_name": "tree-4"
+    },
+    {
+      "photo_link_id": 18936,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/28/original/Acacia-melanoxylon.jpg",
+      "sequence": 7,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 18935,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/28/original/Acacia-melanoxylon-(1).jpg",
+      "sequence": 8,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 32892,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/28/original/Acacia-melanoxylon-c18354ac-1895-42f3-9544-9c5284890dd2.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 324,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/28/original/acacia-melanoxylon-leaves-2.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter, J. Reimer and C. Stubler",
+      "attribute_name": "leaves-2"
+    },
+    {
+      "photo_link_id": 326,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/28/original/acacia-melanoxylon-leaves-transition.jpg",
+      "sequence": 11,
+      "credit": "M. Ritter, J. Reimer and C. Stubler",
+      "attribute_name": "leaves-transition"
+    },
+    {
+      "photo_link_id": 327,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/28/original/acacia-melanoxylon-leaf-close-up.jpg",
+      "sequence": 12,
+      "credit": "M. Ritter, J. Reimer and C. Stubler",
+      "attribute_name": "leaf-close-up"
+    },
+    {
+      "photo_link_id": 25010,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/28/original/Acacia-melanoxylon-(2).jpg",
+      "sequence": 13,
+      "credit": "M. Ritter ",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25008,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/28/original/Acacia-melanoxylon-(1)-ade0436e-a466-4728-80f2-5914d2236645.jpg",
+      "sequence": 14,
+      "credit": "M. Ritter ",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 325,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/28/original/acacia-melanoxylon-leaves.jpg",
+      "sequence": 15,
+      "credit": "M. Ritter, J. Reimer and C. Stubler",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 330,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/28/original/acacia-melanoxylon-flowers-2.jpg",
+      "sequence": 16,
+      "credit": "M. Ritter, J. Reimer and C. Stubler",
+      "attribute_name": "flowers-2"
+    },
+    {
+      "photo_link_id": 25006,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/28/original/Acacia-melanoxylon-(5).jpg",
+      "sequence": 17,
+      "credit": "M. Ritter ",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 329,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/28/original/acacia-melanoxylon-flowers.jpg",
+      "sequence": 18,
+      "credit": "M. Ritter, J. Reimer and C. Stubler",
+      "attribute_name": "flowers"
+    },
+    {
+      "photo_link_id": 25005,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/28/original/Acacia-melanoxylon-(3).jpg",
+      "sequence": 19,
+      "credit": "M. Ritter ",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25007,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/28/original/Acacia-melanoxylon-(4).jpg",
+      "sequence": 20,
+      "credit": "M. Ritter ",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 328,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/28/original/acacia-melanoxylon-phyllodes.jpg",
+      "sequence": 21,
+      "credit": "M. Ritter, J. Reimer and C. Stubler",
+      "attribute_name": "phyllodes"
+    },
+    {
+      "photo_link_id": 331,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/28/original/acacia-melanoxylon-fruit.jpg",
+      "sequence": 22,
+      "credit": "M. Ritter, J. Reimer and C. Stubler",
+      "attribute_name": "fruit"
+    },
+    {
+      "photo_link_id": 332,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/28/original/acacia-melanoxylon-bark.jpg",
+      "sequence": 23,
+      "credit": "M. Ritter, J. Reimer and C. Stubler",
+      "attribute_name": "bark"
+    }
+  ],
+  "landscape_application": [],
+  "landscape_use": [
+    "Pollarding"
+  ],
+  "sunset_zone": [
+    "8",
+    "9",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24"
+  ],
+  "formatted_sunset_zones": [
+    "8 - 9",
+    "13 - 24"
+  ],
+  "usda_zone": [
+    9,
+    10,
+    11
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand"
+  ],
+  "disease_resistant": [
+    "Armillaria",
+    "Root Rot"
+  ],
+  "disease_susceptibility": [
+    "Phytophthora",
+    "Root Rot"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [
+    "Invasive Shot Hole Borer",
+    "Beetle Borers",
+    "Thrip"
+  ],
+  "health_hazard": [
+    "Allergy"
+  ],
+  "attracts_wildlife": [
+    "Birds"
+  ],
+  "fruit_value": [],
+  "fruiting_time": [
+    "Winter",
+    "Summer"
+  ],
+  "flower_time": [
+    "Winter",
+    "Spring"
+  ],
+  "flower_color": [
+    "Cream",
+    "White"
+  ],
+  "foliage_growth_color": [
+    "Bluish Green",
+    "Silver",
+    "Gray Green"
+  ],
+  "bark_texture": [
+    "Furrowed"
+  ],
+  "tree_shape": [
+    "Conical",
+    "Rounded"
+  ],
+  "litter_type": [
+    "Dry Fruit"
+  ],
+  "climate_adapted_regions": [
+    "Inland Empire",
+    "Southern California Coast"
+  ],
+  "appraisal_text": "Suggested LCANT 24\" box, Group Rating 3, Approx. cross sectional area 3.80 sq. in.",
+  "app_grrating": "3",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Acacia_melanoxylon"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/53344-Acacia-melanoxylon"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:470873-1"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 0
+}

@@ -1,0 +1,450 @@
+{
+  "tree_id": 1565,
+  "family": "Salicaceae",
+  "memo": "Red willow occurs on gravelly and sandy areas along streambanks throughout western California and the Sierra Nevada foothills. Outside the state, it occasionally grows in small populations in Nevada, Oregon, Arizona, New Mexico, and Baja California. It has dark, grayish-brown bark on slender, twisted trunks supporting an irregular crown. Flexible, reddish-maroon twigs bear lance-shaped to oval leaves that are shiny and dark green on the upper surface and dull, bluish-green below.",
+  "fragrance": 0,
+  "native_range": "California and Southwestern United States",
+  "photolocations": "Cal Poly State University - San Luis Obispo, CA",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 1,
+  "ethnobotanical_info": "Willows are a significant resource to many Indigenous Tribes of California. They serve as material for weaving baskets and constructing traditional houses, sweat lodges, fences, and arrow shafts. Medicinally, willow bark contains a bitter salicyclic acid used to treat fevers and headaches, reduce inflammation, and relieve pain. Aspirin is a commonly used synthetic derivative of this compound. A remedy of its roots is used to relieve diarrhoea.",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 0,
+  "schoolyard_use_notes": null,
+  "soil_ph_low": 3,
+  "soil_ph_high": 5,
+  "planting_area": ">7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Weak",
+  "branch_strength_high": "Weak",
+  "root_damage_potential": "High",
+  "biogenic_emissions": "High",
+  "deer_palatable": null,
+  "height_high": 50,
+  "height_memo": null,
+  "width_high": 35,
+  "growth_rate_high": 36,
+  "water_use": "High",
+  "salt_tolerance": "Moderate",
+  "fruit_size": "Very Small",
+  "fruit_color": "Brown",
+  "fruit_type": "Capsule",
+  "flower_showiness": "Inconspicuous",
+  "bark_color": [
+    "Dark Brown or Red"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Spear Shaped",
+  "foliage_fall_color": 1,
+  "foliage_type": "Deciduous",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": null,
+  "suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/65/original/1565_current_suitability_map.png",
+  "future_suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/65/original/1565_future_suitability_map.png",
+  "sex_explanation": null,
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 1544,
+    "tree_id": 1565,
+    "common": "RED WILLOW",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 0
+  },
+  "primary_taxon": {
+    "taxon_id": 1544,
+    "genus": "Salix",
+    "species": "laevigata",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Salix laevigata"
+  },
+  "other_taxa": [
+    {
+      "taxon_id": 2536,
+      "genus": "Salix",
+      "species": "congesta",
+      "hybrid_alt_species": "",
+      "subspecies": "",
+      "variety": "",
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 2,
+      "name_concat": "Salix congesta"
+    },
+    {
+      "taxon_id": 3206,
+      "genus": "Salix",
+      "species": "bonplandiana",
+      "hybrid_alt_species": "",
+      "subspecies": "",
+      "variety": "laevigata",
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 3,
+      "name_concat": "Salix bonplandiana var. laevigata"
+    }
+  ],
+  "other_common": [
+    {
+      "common_id": 4634,
+      "tree_id": 1565,
+      "common": "SMOOTH WILLOW",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 1
+    },
+    {
+      "common_id": 4635,
+      "tree_id": 1565,
+      "common": "POLISHED WILLOW",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    }
+  ],
+  "genericCommonNames": [
+    "WILLOW"
+  ],
+  "images": [
+    {
+      "photo_link_id": 33684,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/65/original/Salix-laevigata-25354c2f-7ec6-45d9-8337-d51495cd110d.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20588,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/65/original/Salix-laevigata.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25776,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/65/original/Salix-laevigata-(1)-e9ef8c60-ec4f-470a-9813-896bbe46ce41.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20586,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/65/original/Salix-laevigata-(7).jpg",
+      "sequence": 4,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25775,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/65/original/Salix-laevigata-(3)-cdf70ddd-5470-4ba0-a415-de277638ee7f.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 14539,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/65/original/salix-laevigata-tree-canopy.jpg",
+      "sequence": 6,
+      "credit": "J. Reimer",
+      "attribute_name": "tree-canopy"
+    },
+    {
+      "photo_link_id": 14540,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/65/original/salix-laevigata-foliage.jpg",
+      "sequence": 7,
+      "credit": "J. Reimer",
+      "attribute_name": "foliage"
+    },
+    {
+      "photo_link_id": 25777,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/65/original/Salix-laevigata-(2)-fbc2f3f9-d726-4710-bf17-b1fef0dfbb68.jpg",
+      "sequence": 8,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25774,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/65/original/Salix-laevigata-9bb31e22-4a9e-4bdb-964d-91d4560ce392.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 23580,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/65/original/Salix-laevigata-(1)-102ceceb-4b26-4fa4-8b0f-89b289946f6e.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 23581,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/65/original/Salix-laevigata-5f92bcd9-61ed-4174-9693-c3e9f216ce35.jpg",
+      "sequence": 11,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 14541,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/65/original/salix-laevigata-leaves.jpg",
+      "sequence": 12,
+      "credit": "J. Reimer",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 14542,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/65/original/salix-laevigata-leaves-2.jpg",
+      "sequence": 13,
+      "credit": "J. Reimer",
+      "attribute_name": "leaves-2"
+    },
+    {
+      "photo_link_id": 20587,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/65/original/Salix-laevigata-(3).jpg",
+      "sequence": 14,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20589,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/65/original/Salix-laevigata-(1).jpg",
+      "sequence": 15,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20590,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/65/original/Salix-laevigata-(2).jpg",
+      "sequence": 16,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20591,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/65/original/Salix-laevigata-(8).jpg",
+      "sequence": 17,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 14543,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/65/original/salix-laevigata-leaves-3.jpg",
+      "sequence": 18,
+      "credit": "J. Reimer",
+      "attribute_name": "leaves-3"
+    },
+    {
+      "photo_link_id": 29437,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/65/original/Salix-laevigata-d7b7f38e-0735-4051-90f8-b03f1ac39bca.jpg",
+      "sequence": 19,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 31698,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/65/original/Salix-laevigata-9ba29519-caae-4143-8ec1-96dcffc04a0d.jpg",
+      "sequence": 20,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20592,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/65/original/Salix-laevigata-(6).jpg",
+      "sequence": 21,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 14544,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/65/original/salix-laevigata-leaves-and-fruit.jpg",
+      "sequence": 22,
+      "credit": "J. Reimer",
+      "attribute_name": "leaves-and-fruit"
+    },
+    {
+      "photo_link_id": 14545,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/65/original/salix-laevigata-flowers-and-fruit.jpg",
+      "sequence": 23,
+      "credit": "J. Reimer",
+      "attribute_name": "flowers-and-fruit"
+    },
+    {
+      "photo_link_id": 14546,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/65/original/salix-laevigata-flowers-and-fruit-2.jpg",
+      "sequence": 24,
+      "credit": "J. Reimer",
+      "attribute_name": "flowers-and-fruit-2"
+    },
+    {
+      "photo_link_id": 14547,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/65/original/salix-laevigata-flowers-and-fruit-3.jpg",
+      "sequence": 25,
+      "credit": "J. Reimer",
+      "attribute_name": "flowers-and-fruit-3"
+    },
+    {
+      "photo_link_id": 20593,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/65/original/Salix-laevigata-(4).jpg",
+      "sequence": 26,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20594,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/65/original/Salix-laevigata-(5).jpg",
+      "sequence": 27,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 14548,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/65/original/salix-laevigata-base.jpg",
+      "sequence": 28,
+      "credit": "J. Reimer",
+      "attribute_name": "base"
+    },
+    {
+      "photo_link_id": 14549,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1500/65/original/salix-laevigata-bark.jpg",
+      "sequence": 29,
+      "credit": "J. Reimer",
+      "attribute_name": "bark"
+    }
+  ],
+  "landscape_application": [
+    "Buffer Strip",
+    "Riparian",
+    "Screen Tree",
+    "Erosion Control"
+  ],
+  "landscape_use": [],
+  "sunset_zone": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "14",
+    "15",
+    "16",
+    "17",
+    "22",
+    "23",
+    "24"
+  ],
+  "formatted_sunset_zones": [
+    "1 - 9",
+    "14 - 17",
+    "22 - 24"
+  ],
+  "usda_zone": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [
+    "Verticillium"
+  ],
+  "disease_susceptibility": [
+    "Anthracnose",
+    "Willow Blight",
+    "Armillaria",
+    "Phytophthora",
+    "Root Rot"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [
+    "Invasive Shot Hole Borer",
+    "Aphids",
+    "Beetle Borers",
+    "Caterpillars"
+  ],
+  "health_hazard": [
+    "Allergy"
+  ],
+  "attracts_wildlife": [
+    "Bees",
+    "Birds",
+    "Butterflies"
+  ],
+  "fruit_value": [
+    "Wildlife use it"
+  ],
+  "fruiting_time": [
+    "Summer"
+  ],
+  "flower_time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower_color": [
+    "Yellow"
+  ],
+  "foliage_growth_color": [
+    "Light Green"
+  ],
+  "bark_texture": [
+    "Rough",
+    "Ridged"
+  ],
+  "tree_shape": [
+    "Rounded"
+  ],
+  "litter_type": [
+    "Dry Fruit"
+  ],
+  "climate_adapted_regions": [],
+  "appraisal_text": "Suggested LCANT 24\" box, Group Rating 4, Approx. cross sectional area 4.75 sq. in.",
+  "app_grrating": "4",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Salix_laevigata"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/58319-Salix-laevigata"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:301346-2"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 2
+}

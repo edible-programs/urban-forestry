@@ -1,0 +1,365 @@
+{
+  "tree_id": 321,
+  "family": "Fabaceae",
+  "memo": "Western Redbud is a commonly used native shrub, commonly found in riparian canyons. It is usually sold as a multi-trunk shrub, rather than a single trunk tree standard, but can be trained into either a single or multi-trunk tree, where it is effective as a flowering accent. It tolerates dry conditions, but exhibits more vigorous, lush growth with regular deep watering. It blooms best in full sun. Otherwise, it is quite reliable once established, except for occasional tent caterpillar attacks, which can be controlled with spraying. It is resistant to oak root fungus.",
+  "fragrance": 0,
+  "native_range": "California, Arizona, and Utah",
+  "photolocations": "Leaning Pine Arboretum - Cal Poly San Luis Obispo, CA, Cal Poly State University - San Luis Obispo, CA, Santa Barbara Botanic Garden, Los Angeles County Arboretum - Arcadia, CA and UC Santa Cruz Arboretum - Santa Cruz, CA",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 1,
+  "ethnobotanical_info": "",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 1,
+  "schoolyard_use_notes": "This small tree features heart-shaped leaves that can be used to teach about leaf shapes and plant anatomy. Its vibrant, pea-like flowers bloom in clusters, providing a visual treat and an opportunity to discuss pollination and flower structure. The tree&#x27;s seed pods are flat and dry, making them useful for lessons on seed dispersal. The tree&#x27;s seasonal changes, from blossoms to leaf color shifts, can help illustrate the cycles of nature.",
+  "soil_ph_low": 1,
+  "soil_ph_high": 7,
+  "planting_area": "2 to 4",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Medium",
+  "branch_strength_high": "Medium",
+  "root_damage_potential": "Low",
+  "biogenic_emissions": "Low",
+  "deer_palatable": null,
+  "height_high": 30,
+  "height_memo": null,
+  "width_high": 20,
+  "growth_rate_high": 36,
+  "water_use": "Medium",
+  "salt_tolerance": "Moderate",
+  "fruit_size": "Large",
+  "fruit_color": "Brown or Purple",
+  "fruit_type": "Legume",
+  "flower_showiness": "Showy",
+  "bark_color": [
+    "Dark Brown or Red Brown"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Oval",
+  "foliage_fall_color": 1,
+  "foliage_type": "Deciduous",
+  "redirect_tree_id": null,
+  "utility_friendly": 1,
+  "wind_resistance": null,
+  "suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/0300/21/original/321_current_suitability_map.png",
+  "future_suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/0300/21/original/321_future_suitability_map.png",
+  "sex_explanation": null,
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 317,
+    "tree_id": 321,
+    "common": "WESTERN REDBUD",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 0
+  },
+  "primary_taxon": {
+    "taxon_id": 317,
+    "genus": "Cercis",
+    "species": "occidentalis",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Cercis occidentalis"
+  },
+  "other_taxa": [],
+  "other_common": [
+    {
+      "common_id": 10990,
+      "tree_id": 321,
+      "common": "CALIFORNIA REDBUD",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 1
+    }
+  ],
+  "genericCommonNames": [
+    "REDBUD"
+  ],
+  "images": [
+    {
+      "photo_link_id": 19975,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0300/21/original/Cercis-occidentalis.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 31675,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0300/21/original/Cercis-occidentalis-6e8dadd5-257d-4ba8-a0d0-99d734633bd6.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 3171,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0300/21/original/cercis-occidentalis-tree.jpg",
+      "sequence": 3,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 3172,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0300/21/original/cercis-occidentalis-tree-flowering.jpg",
+      "sequence": 4,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "tree-flowering"
+    },
+    {
+      "photo_link_id": 23627,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0300/21/original/Cercis-occidentalis_6432.jpg",
+      "sequence": 5,
+      "credit": "C. Stubler and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 3173,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0300/21/original/cercis-occidentalis-tree-2.jpg",
+      "sequence": 6,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 3174,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0300/21/original/cercis-occidentalis-leaves.jpg",
+      "sequence": 7,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 3181,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0300/21/original/cercis-occidentalis-leaves-and-fruit.jpg",
+      "sequence": 8,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "fruit"
+    },
+    {
+      "photo_link_id": 3175,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0300/21/original/cercis-occidentalis-leaves-turning.jpg",
+      "sequence": 9,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "leaves-turning"
+    },
+    {
+      "photo_link_id": 3176,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0300/21/original/cercis-occidentalis-leaf.jpg",
+      "sequence": 10,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "leaf"
+    },
+    {
+      "photo_link_id": 3177,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0300/21/original/cercis-occidentalis-flowers-3.jpg",
+      "sequence": 11,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "flowers-3"
+    },
+    {
+      "photo_link_id": 3178,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0300/21/original/cercis-occidentalis-flowers-2.jpg",
+      "sequence": 12,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "flowers-2"
+    },
+    {
+      "photo_link_id": 3179,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0300/21/original/cercis-occidentalis-flowers.jpg",
+      "sequence": 13,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "flowers"
+    },
+    {
+      "photo_link_id": 19973,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0300/21/original/Cercis-occidentalis-(1).jpg",
+      "sequence": 14,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 19974,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0300/21/original/Cercis-occidentalis-(3).jpg",
+      "sequence": 15,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 31674,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0300/21/original/Cercis-occidentalis-(1)-939249ac-e3b0-4eea-928a-362f424bbfaf.jpg",
+      "sequence": 16,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 19977,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0300/21/original/Cercis-occidentalis-(2).jpg",
+      "sequence": 17,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 31673,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0300/21/original/Cercis-occidentalis-(2)-1f1779ad-b274-41f1-825a-b80f060e7790.jpg",
+      "sequence": 18,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 19976,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0300/21/original/Cercis-occidentalis-(4).jpg",
+      "sequence": 19,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 3183,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0300/21/original/cercis-occidentalis-fruit-young.jpg",
+      "sequence": 20,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "fruit-young"
+    },
+    {
+      "photo_link_id": 3182,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0300/21/original/cercis-occidentalis-fruit-2.jpg",
+      "sequence": 21,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "fruit-2"
+    },
+    {
+      "photo_link_id": 3184,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0300/21/original/cercis-occidentalis-bark.jpg",
+      "sequence": 22,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "bark"
+    }
+  ],
+  "landscape_application": [
+    "Screen Tree"
+  ],
+  "landscape_use": [],
+  "sunset_zone": [
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24"
+  ],
+  "formatted_sunset_zones": [
+    "2 - 24"
+  ],
+  "usda_zone": [
+    7,
+    8,
+    9
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [
+    "Armillaria"
+  ],
+  "disease_susceptibility": [
+    "Crown Rot",
+    "Phytophthora",
+    "Root Rot",
+    "Armillaria*"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [
+    "Caterpillars",
+    "Scales"
+  ],
+  "health_hazard": [
+    "None Known"
+  ],
+  "attracts_wildlife": [
+    "Birds"
+  ],
+  "fruit_value": [],
+  "fruiting_time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower_time": [
+    "Spring"
+  ],
+  "flower_color": [
+    "Purple"
+  ],
+  "foliage_growth_color": [
+    "Bluish Green",
+    "Silver",
+    "Gray Green"
+  ],
+  "bark_texture": [
+    "Scaly"
+  ],
+  "tree_shape": [
+    "Rounded"
+  ],
+  "litter_type": [
+    "Dry Fruit"
+  ],
+  "climate_adapted_regions": [
+    "Inland Empire",
+    "Inland Valleys",
+    "Northern California Coast",
+    "Southern California Coast"
+  ],
+  "appraisal_text": "Suggested LCANT 24\" box, Group Rating 1, Approx. cross sectional area 2.09 sq. in.",
+  "app_grrating": "1",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Cercis_occidentalis"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/59556-Cercis-occidentalis"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:52663-2"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 2
+}

@@ -1,0 +1,300 @@
+{
+  "tree_id": 508,
+  "family": "Rosaceae",
+  "memo": "Bronze Loquat is more often planted than Japanese Loquat. Its shiny bronzy green new foliage with reddish highlights is quite attractive, and it rarely sets fruit. Large panicles of deep pink flowers are showy in the spring. It looks best with regular pruning to maintain its shape, and regular deep watering to promote healthy growth. It may require regularly scheduled light top-trimming (but not necessarily shearing) of vigorous top shoots to maintain its height below 25. It is not drought tolerant.",
+  "fragrance": 0,
+  "native_range": "Taiwan and Southern Vietnam",
+  "photolocations": "UC Santa Barbara - Santa Barbara, CA, Blake Garden - Kensington, CA, Los Angeles County Arboretum - Arcadia, CA, San Luis Obispo, CA and San Diego, CA",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 0,
+  "ethnobotanical_info": "",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 1,
+  "schoolyard_use_notes": "This tree has shiny, dark green leaves with a leathery texture, making it a good candidate for teaching about leaf structure and water conservation strategies. The leaves&#x27; glossy surface can illustrate how some plants reduce water loss. Small, white flowers appear in clusters and can be used to discuss pollination and flower anatomy. The tree produces small, round fruits that attract birds, providing opportunities to explore topics like seed dispersal and local wildlife interactions.",
+  "soil_ph_low": 1,
+  "soil_ph_high": 7,
+  "planting_area": "4 to 7",
+  "shade_tolerant": 0,
+  "branch_strength_low": null,
+  "branch_strength_high": null,
+  "root_damage_potential": "Low",
+  "biogenic_emissions": "Low",
+  "deer_palatable": null,
+  "height_high": 30,
+  "height_memo": null,
+  "width_high": 25,
+  "growth_rate_high": 36,
+  "water_use": "Medium",
+  "salt_tolerance": "Moderate",
+  "fruit_size": "Medium",
+  "fruit_color": "Yellow or Mostly Green",
+  "fruit_type": "Pome",
+  "flower_showiness": "Showy",
+  "bark_color": [
+    "Light Green"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Oblong",
+  "foliage_fall_color": 0,
+  "foliage_type": "Evergreen",
+  "redirect_tree_id": null,
+  "utility_friendly": 1,
+  "wind_resistance": null,
+  "suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/08/original/508_current_suitability_map.png",
+  "future_suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/08/original/508_future_suitability_map.png",
+  "sex_explanation": null,
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 503,
+    "tree_id": 508,
+    "common": "BRONZE LOQUAT",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 0
+  },
+  "primary_taxon": {
+    "taxon_id": 503,
+    "genus": "Eriobotrya",
+    "species": "deflexa",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Eriobotrya deflexa"
+  },
+  "other_taxa": [],
+  "other_common": [],
+  "genericCommonNames": [
+    "LOQUAT"
+  ],
+  "images": [
+    {
+      "photo_link_id": 4784,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/08/original/eriobotrya-deflexa-tree.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 4786,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/08/original/eriobotrya-deflexa-tree-2.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 29494,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/08/original/Eriobotrya-deflexa.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 4785,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/08/original/eriobotrya-deflexa-trees.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "trees"
+    },
+    {
+      "photo_link_id": 4787,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/08/original/eriobotrya-deflexa-leaves-2.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves-2"
+    },
+    {
+      "photo_link_id": 4788,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/08/original/eriobotrya-deflexa-foliage.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "foliage"
+    },
+    {
+      "photo_link_id": 4789,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/08/original/eriobotrya-deflexa-leaves.jpg",
+      "sequence": 7,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 29892,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/08/original/Eriobotrya-deflexa-5e16173d-bba8-4294-84b4-afbf430d0356.jpg",
+      "sequence": 8,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 4790,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/08/original/eriobotrya-deflexa-growth-new.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "growth-new"
+    },
+    {
+      "photo_link_id": 4791,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/08/original/eriobotrya-deflexa-flowers-2.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "flowers-2"
+    },
+    {
+      "photo_link_id": 4792,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/08/original/eriobotrya-deflexa-flowers.jpg",
+      "sequence": 11,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "flowers"
+    },
+    {
+      "photo_link_id": 4793,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/08/original/eriobotrya-deflexa-fruit-green.jpg",
+      "sequence": 12,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit-green"
+    },
+    {
+      "photo_link_id": 4794,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/08/original/eriobotrya-deflexa-fruit-close-up-2.jpg",
+      "sequence": 13,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit-close-up-2"
+    },
+    {
+      "photo_link_id": 4795,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/08/original/eriobotrya-deflexa-fruit-close-up.jpg",
+      "sequence": 14,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit-close-up"
+    },
+    {
+      "photo_link_id": 4796,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/08/original/eriobotrya-deflexa-bark.jpg",
+      "sequence": 15,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "bark"
+    },
+    {
+      "photo_link_id": 4797,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/08/original/eriobotrya-deflexa-bark-2.jpg",
+      "sequence": 16,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "bark-2"
+    }
+  ],
+  "landscape_application": [
+    "Screen Tree"
+  ],
+  "landscape_use": [
+    "Espalier",
+    "Hedged"
+  ],
+  "sunset_zone": [
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24"
+  ],
+  "formatted_sunset_zones": [
+    "8 - 24"
+  ],
+  "usda_zone": [
+    9,
+    10
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [
+    "Armillaria",
+    "Root Rot"
+  ],
+  "disease_susceptibility": [
+    "Fire Blight"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [],
+  "health_hazard": [
+    "None Known"
+  ],
+  "attracts_wildlife": [
+    "Bees",
+    "Birds"
+  ],
+  "fruit_value": [],
+  "fruiting_time": [
+    "Summer"
+  ],
+  "flower_time": [
+    "Spring"
+  ],
+  "flower_color": [
+    "White"
+  ],
+  "foliage_growth_color": [
+    "Green"
+  ],
+  "bark_texture": [
+    "Exfoliating",
+    "Smooth"
+  ],
+  "tree_shape": [
+    "Rounded",
+    "Vase"
+  ],
+  "litter_type": [
+    "Wet Fruit"
+  ],
+  "climate_adapted_regions": [],
+  "appraisal_text": "Suggested LCANT 24\" box, Group Rating 2, Approx. cross sectional area 2.24 sq. in.",
+  "app_grrating": "2",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Bronze_loquat"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/490705-Eriobotrya-deflexa"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:724780-1"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 2
+}

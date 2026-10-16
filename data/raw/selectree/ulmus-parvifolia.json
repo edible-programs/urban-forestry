@@ -1,0 +1,297 @@
+{
+  "tree_id": 1443,
+  "family": "Ulmaceae",
+  "memo": "&lt;em&gt;Ulmus parvifolia&lt;/em&gt; features a graceful, arching canopy with small, leathery leaves that turn a striking golden yellow in the fall. Its bark is a standout, showcasing a patchwork of gray, orange, and brown that peels away in delicate flakes. The tree is highly adaptable and tolerant of urban conditions, making it a popular choice for city landscapes. It grows at a moderate rate and provides ample shade, creating a welcoming environment beneath its branches. Its resilience against pests and diseases adds to its appeal, ensuring long-lasting beauty and functionality in urban settings.",
+  "fragrance": 0,
+  "native_range": "China, Japan, North Korea, and Vietnam",
+  "photolocations": "Beverly Hills, CA, Los Angeles County Arboretum - Arcadia, CA, Cal Poly State University Campus - San Luis Obispo, CA, The National Arboretum - Washington, DC, Finch Arboretum - Spokane, WA and Arnold Arboretum - Boston, MA",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 0,
+  "ethnobotanical_info": "",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 1,
+  "schoolyard_use_notes": "Chinese Elm has small, serrated leaves that turn a vibrant yellow in the fall, making it ideal for lessons on seasonal changes and leaf identification. Its bark is mottled and exfoliates in patches, providing a tactile experience for students studying tree anatomy. The tree's resilience to various conditions can be used to discuss plant adaptation and urban forestry. Small, inconspicuous flowers appear in late summer, offering a subtle introduction to plant reproduction.",
+  "soil_ph_low": 1,
+  "soil_ph_high": 7,
+  "planting_area": ">7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Medium Weak",
+  "branch_strength_high": "Medium",
+  "root_damage_potential": "Moderate",
+  "biogenic_emissions": "Low",
+  "deer_palatable": null,
+  "height_high": 60,
+  "height_memo": null,
+  "width_high": 70,
+  "growth_rate_high": 36,
+  "water_use": "Medium",
+  "salt_tolerance": "Moderate",
+  "fruit_size": "Small",
+  "fruit_color": "Brown or Mostly Green",
+  "fruit_type": "Samara",
+  "flower_showiness": "Inconspicuous",
+  "bark_color": [
+    "Dark Gray",
+    "Light Gray",
+    "Orange",
+    "Red Brown or Multicolored"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Oval",
+  "foliage_fall_color": 1,
+  "foliage_type": "Partly Deciduous",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": "Lowest",
+  "suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/43/original/1443_current_suitability_map.png",
+  "future_suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/43/original/1443_future_suitability_map.png",
+  "sex_explanation": null,
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 1423,
+    "tree_id": 1443,
+    "common": "CHINESE ELM",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 0
+  },
+  "primary_taxon": {
+    "taxon_id": 1423,
+    "genus": "Ulmus",
+    "species": "parvifolia",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Ulmus parvifolia"
+  },
+  "other_taxa": [],
+  "other_common": [
+    {
+      "common_id": 10084,
+      "tree_id": 1443,
+      "common": "LACEBARK ELM",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 1
+    },
+    {
+      "common_id": 4417,
+      "tree_id": 1443,
+      "common": "CHINESE EVERGREEN ELM",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    }
+  ],
+  "genericCommonNames": [
+    "ELM"
+  ],
+  "images": [
+    {
+      "photo_link_id": 13228,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/43/original/ulmus-parvifolia-tree-2.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 13229,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/43/original/ulmus-parvifolia-trees.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "trees"
+    },
+    {
+      "photo_link_id": 13230,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/43/original/ulmus-parvifolia-tree.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 13231,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/43/original/ulmus-parvifolia-tree-fall.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-fall"
+    },
+    {
+      "photo_link_id": 32109,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/43/original/Ulmus-parvifolia.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 19138,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/43/original/Ulmus-parvifolia_4401.jpg",
+      "sequence": 6,
+      "credit": "C. Stubler and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 13232,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/43/original/ulmus-parvifolia-tree-bonsai-2.jpg",
+      "sequence": 7,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-bonsai-2"
+    },
+    {
+      "photo_link_id": 13233,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/43/original/ulmus-parvifolia-tree-bonsai.jpg",
+      "sequence": 8,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-bonsai"
+    },
+    {
+      "photo_link_id": 13234,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/43/original/ulmus-parvifolia-leaves.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 13235,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/43/original/ulmus-parvifolia-leaves-2.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves-2"
+    },
+    {
+      "photo_link_id": 13240,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/43/original/ulmus-parvifolia-leaves-and-fruit.jpg",
+      "sequence": 11,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit"
+    },
+    {
+      "photo_link_id": 13242,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/43/original/ulmus-parvifolia-bark.jpg",
+      "sequence": 12,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "bark"
+    }
+  ],
+  "landscape_application": [],
+  "landscape_use": [],
+  "sunset_zone": [
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24"
+  ],
+  "formatted_sunset_zones": [
+    "3 - 24"
+  ],
+  "usda_zone": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [],
+  "disease_susceptibility": [
+    "Dutch Elm Disease",
+    "Armillaria",
+    "Phytophthora",
+    "Root Rot"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [
+    "Aphids",
+    "Beetle Borers",
+    "Beetle Leaves",
+    "Caterpillars",
+    "Japanese beetle (Popillia japonica)"
+  ],
+  "health_hazard": [
+    "Allergy"
+  ],
+  "attracts_wildlife": [],
+  "fruit_value": [],
+  "fruiting_time": [
+    "Fall"
+  ],
+  "flower_time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower_color": [],
+  "foliage_growth_color": [
+    "Dark Green"
+  ],
+  "bark_texture": [
+    "Exfoliating",
+    "Mottled",
+    "Smooth"
+  ],
+  "tree_shape": [
+    "Rounded"
+  ],
+  "litter_type": [
+    "Dry Fruit"
+  ],
+  "climate_adapted_regions": [],
+  "appraisal_text": "Suggested LCANT 24\" box, Group Rating 2, Approx. cross sectional area 2.24 sq. in.",
+  "app_grrating": "2",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Ulmus_parvifolia"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/79462-Ulmus-parvifolia"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:302296-2"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 1
+}

@@ -1,0 +1,392 @@
+{
+  "tree_id": 1485,
+  "family": "Scrophulariaceae",
+  "memo": "&lt;em&gt;Myoporum laetum&lt;/em&gt; is a small tree native to New Zealand that thrives in coastal areas. This species is commonly used as an ornamental plant due to its small white flowers and purple berries. However, M. laetum has escaped cultivation in many parts of the United States and is considered invasive in coastal regions. It spreads rapidly, as its abundant fruits produce many seeds that are highly palatable to birds. This plant should not be cultivated along the California coast. In other regions, it is valued as an ornamental for creating hedges and screens. M. laetum is a dense, low-growing tree whose fruit can be messy and toxic. Additionally, the Myoporum thrip (Klambothrips myopori) is causing significant damage to M. laetum trees in Southern California landscapes.",
+  "fragrance": 0,
+  "native_range": "New Zealand",
+  "photolocations": "San Luis Obispo, CA, Morro Bay, CA, Avila Beach, CA, San Diego, CA, San Francisco, CA, and New Zealand",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 0,
+  "ethnobotanical_info": "",
+  "pi_invasive": 0,
+  "invasive_text": "This plant is classified as potentially invasive in specific areas of California by the California Invasive Plant Council (&lt;a href=&quot;http://www.cal-ipc.org/&quot;&gt;Cal-IPC&lt;/a&gt;).",
+  "ca_invasive": 0,
+  "schoolyard": 0,
+  "schoolyard_use_notes": null,
+  "soil_ph_low": 3,
+  "soil_ph_high": 5,
+  "planting_area": "4 to 7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Medium Weak",
+  "branch_strength_high": "Medium Weak",
+  "root_damage_potential": "Moderate",
+  "biogenic_emissions": "",
+  "deer_palatable": 0,
+  "height_high": 30,
+  "height_memo": null,
+  "width_high": 20,
+  "growth_rate_high": 36,
+  "water_use": "Medium",
+  "salt_tolerance": "High",
+  "fruit_size": "Small",
+  "fruit_color": "Purple or Red",
+  "fruit_type": "Drupe",
+  "flower_showiness": "",
+  "bark_color": [
+    "Dark Brown or Light Green"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Oval",
+  "foliage_fall_color": 0,
+  "foliage_type": "Evergreen",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": null,
+  "suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/85/original/1485_current_suitability_map.png",
+  "future_suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/85/original/1485_future_suitability_map.png",
+  "sex_explanation": null,
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 1465,
+    "tree_id": 1485,
+    "common": "MYOPORUM",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 0
+  },
+  "primary_taxon": {
+    "taxon_id": 1465,
+    "genus": "Myoporum",
+    "species": "laetum",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Myoporum laetum"
+  },
+  "other_taxa": [],
+  "other_common": [
+    {
+      "common_id": 4478,
+      "tree_id": 1485,
+      "common": "NGAIO",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 1
+    },
+    {
+      "common_id": 12651,
+      "tree_id": 1485,
+      "common": "NEW ZEALAND MANATOKA",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 12652,
+      "tree_id": 1485,
+      "common": "NGAIO TREE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 3
+    }
+  ],
+  "genericCommonNames": [
+    "MYOPORUM"
+  ],
+  "images": [
+    {
+      "photo_link_id": 13675,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/85/original/myoporum-laetum-tree.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 13676,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/85/original/myoporum-laetum-tree-2.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 13677,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/85/original/myoporum-laetum-tree-3.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "tree-3"
+    },
+    {
+      "photo_link_id": 23611,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/85/original/Myoporum-Avila.jpg",
+      "sequence": 4,
+      "credit": "J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 13678,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/85/original/myoporum-laetum-tree-4.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "tree-4"
+    },
+    {
+      "photo_link_id": 24823,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/85/original/Myoporum-laetum-7addc60d-9f85-45ad-b760-aaeaa16548fc.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 13679,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/85/original/myoporum-laetum-foliage.jpg",
+      "sequence": 7,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "foliage"
+    },
+    {
+      "photo_link_id": 20269,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/85/original/Myoporum-laetum-(2).jpg",
+      "sequence": 8,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 13680,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/85/original/myoporum-laetum-foliage-2.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "foliage-2"
+    },
+    {
+      "photo_link_id": 20270,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/85/original/Myoporum-laetum-(3).jpg",
+      "sequence": 10,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20271,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/85/original/Myoporum-laetum-(1).jpg",
+      "sequence": 11,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 13682,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/85/original/myoporum-laetum-leaves-and-flowers.jpg",
+      "sequence": 12,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "flowers"
+    },
+    {
+      "photo_link_id": 18862,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/85/original/Myoporum_laetum_4082.jpg",
+      "sequence": 13,
+      "credit": "J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20274,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/85/original/Myoporum-laetum.jpg",
+      "sequence": 14,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20275,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/85/original/Myoporum-laetum-(6).jpg",
+      "sequence": 15,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 18863,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/85/original/Myoporum_laetum_4100.jpg",
+      "sequence": 16,
+      "credit": "J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 31857,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/85/original/Myoporum-laetum-(1)-3831d069-bc42-4c75-95fd-1f3068a4c4b9.jpg",
+      "sequence": 17,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 31858,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/85/original/Myoporum-laetum-041d8351-a284-4f33-91f7-8baae6d06342.jpg",
+      "sequence": 18,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 18864,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/85/original/Myoporum_laetum_4102.jpg",
+      "sequence": 19,
+      "credit": "J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 18865,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/85/original/Myoporum_laetum_4101.jpg",
+      "sequence": 20,
+      "credit": "J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 13683,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/85/original/myoporum-laetum-fruit.jpg",
+      "sequence": 21,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "fruit"
+    },
+    {
+      "photo_link_id": 13685,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/85/original/myoporum-laetum-diseased.jpg",
+      "sequence": 22,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "diseased"
+    },
+    {
+      "photo_link_id": 31856,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/85/original/Myoporum-laetum-(2)-eff71069-0dc9-4626-be39-3a053615aa4a.jpg",
+      "sequence": 23,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20272,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/85/original/Myoporum-laetum-(4).jpg",
+      "sequence": 24,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20273,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/85/original/Myoporum-laetum-(5).jpg",
+      "sequence": 25,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 13686,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/85/original/myoporum-laetum-bark.jpg",
+      "sequence": 26,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "bark"
+    },
+    {
+      "photo_link_id": 13687,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/85/original/myoporum-laetum-bark-2.jpg",
+      "sequence": 27,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "bark-2"
+    }
+  ],
+  "landscape_application": [
+    "Screen Tree"
+  ],
+  "landscape_use": [],
+  "sunset_zone": [
+    "8",
+    "9",
+    "14",
+    "15",
+    "16",
+    "17",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24"
+  ],
+  "formatted_sunset_zones": [
+    "8 - 9",
+    "14 - 17",
+    "19 - 24"
+  ],
+  "usda_zone": [
+    9,
+    10
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand"
+  ],
+  "disease_resistant": [],
+  "disease_susceptibility": [
+    "Sooty Mold"
+  ],
+  "pest_resistant": [
+    "Thrips"
+  ],
+  "pest_susceptibility": [
+    "Aphids"
+  ],
+  "health_hazard": [
+    "Poisonous"
+  ],
+  "attracts_wildlife": [],
+  "fruit_value": [],
+  "fruiting_time": [
+    "Fall"
+  ],
+  "flower_time": [
+    "Summer"
+  ],
+  "flower_color": [
+    "Purple",
+    "White"
+  ],
+  "foliage_growth_color": [
+    "Dark Green"
+  ],
+  "bark_texture": [
+    "Furrowed"
+  ],
+  "tree_shape": [
+    "Rounded"
+  ],
+  "litter_type": [
+    "Wet Fruit"
+  ],
+  "climate_adapted_regions": [],
+  "appraisal_text": "Suggested LCANT 24\" box, Group Rating 3, Approx. cross sectional area 3.80 sq. in.",
+  "app_grrating": "3",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Myoporum_laetum"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/63611-Myoporum-laetum"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:585291-1"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 0
+}

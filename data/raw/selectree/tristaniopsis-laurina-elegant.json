@@ -1,0 +1,256 @@
+{
+  "tree_id": 1426,
+  "family": "Myrtaceae",
+  "memo": "Elegant Water Gum is a cultivar distinctive for its larger foliage and reddish new growth. This evergreen tree forms a slender, upright trunk with attractively-peeling bark in shades of white, brown, and orange. Its deep green leaves are glossy and aromatic when crushed. A flurry of fragrant, yellow flowers blanket the canopy in spring and summer, attracting bees for pollination. This species can be pruned into a multi-trunked or rounded shape. It  best suited to cultivation in temperate, coastal sites.",
+  "fragrance": 1,
+  "native_range": "Australia",
+  "photolocations": "San Luis Obispo, CA and Stanford, CA",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 0,
+  "ethnobotanical_info": "",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 0,
+  "schoolyard_use_notes": null,
+  "soil_ph_low": 3,
+  "soil_ph_high": 5,
+  "planting_area": "4 to 7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Medium Weak",
+  "branch_strength_high": "Medium Weak",
+  "root_damage_potential": "Low",
+  "biogenic_emissions": "",
+  "deer_palatable": null,
+  "height_high": 40,
+  "height_memo": null,
+  "width_high": 30,
+  "growth_rate_high": 12,
+  "water_use": "Medium",
+  "salt_tolerance": "High",
+  "fruit_size": "Small",
+  "fruit_color": "Brown, Red",
+  "fruit_type": "Capsule",
+  "flower_showiness": "Showy",
+  "sex": "Perfect Flowers",
+  "bark_color": [
+    "Cream",
+    "Dark Brown",
+    "Light Brown",
+    "Reddish"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Spear Shaped",
+  "foliage_fall_color": 0,
+  "foliage_type": "Evergreen",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": null,
+  "suitability_map": null,
+  "future_suitability_map": null,
+  "sex_explanation": "Has male and female reproductive parts in each flower (perfect)",
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 1406,
+    "tree_id": 1426,
+    "common": "ELEGANT WATER GUM",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 0
+  },
+  "primary_taxon": {
+    "taxon_id": 1406,
+    "genus": "Tristaniopsis",
+    "species": "laurina",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": "Elegant",
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Tristaniopsis laurina 'Elegant'"
+  },
+  "other_taxa": [
+    {
+      "taxon_id": 2478,
+      "genus": "Tristania",
+      "species": "laurina",
+      "hybrid_alt_species": "",
+      "subspecies": "",
+      "variety": "",
+      "cultivar": "Elegant",
+      "hybrid_x": null,
+      "sequence": 2,
+      "name_concat": "Tristania laurina 'Elegant'"
+    }
+  ],
+  "other_common": [],
+  "genericCommonNames": [
+    "WATER GUM"
+  ],
+  "images": [
+    {
+      "photo_link_id": 13079,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/26/original/tristaniopsis-laurina-elegant-tree.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 13080,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/26/original/tristaniopsis-laurina-elegant-trees.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "trees"
+    },
+    {
+      "photo_link_id": 13081,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/26/original/tristaniopsis-laurina-elegant-tree-shaped.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "tree-shaped"
+    },
+    {
+      "photo_link_id": 13082,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/26/original/tristaniopsis-laurina-elegant-leaves.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 13083,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/26/original/tristaniopsis-laurina-elegant-leaves-and-flowers.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "leaves-and-flowers"
+    },
+    {
+      "photo_link_id": 13084,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/26/original/tristaniopsis-laurina-elegant-flowers.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "flowers"
+    },
+    {
+      "photo_link_id": 13085,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/26/original/tristaniopsis-laurina-elegant-bark-2.jpg",
+      "sequence": 7,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "bark-2"
+    },
+    {
+      "photo_link_id": 13086,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/26/original/tristaniopsis-laurina-elegant-bark.jpg",
+      "sequence": 8,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "bark"
+    }
+  ],
+  "landscape_application": [
+    "Screen Tree"
+  ],
+  "landscape_use": [
+    "Hedged"
+  ],
+  "sunset_zone": [
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24"
+  ],
+  "formatted_sunset_zones": [
+    "15 - 24"
+  ],
+  "usda_zone": [
+    10,
+    11,
+    12,
+    9
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [],
+  "disease_susceptibility": [],
+  "pest_resistant": [],
+  "pest_susceptibility": [
+    "Scales"
+  ],
+  "health_hazard": [],
+  "attracts_wildlife": [
+    "Bees"
+  ],
+  "fruit_value": [],
+  "fruiting_time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower_time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower_color": [
+    "Yellow"
+  ],
+  "foliage_growth_color": [
+    "Green",
+    "Reddish"
+  ],
+  "bark_texture": [
+    "Exfoliating",
+    "Smooth",
+    "Papery",
+    "Mottled"
+  ],
+  "tree_shape": [
+    "Rounded"
+  ],
+  "litter_type": [
+    "Dry Fruit"
+  ],
+  "climate_adapted_regions": [
+    "Northern California Coast",
+    "Southern California Coast"
+  ],
+  "appraisal_text": null,
+  "app_grrating": "",
+  "app_lcant": "",
+  "appraisal": "",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "N/A"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "N/A"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "N/A"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 0
+}

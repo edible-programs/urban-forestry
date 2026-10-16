@@ -1,0 +1,356 @@
+{
+  "tree_id": 238,
+  "family": "Myrtaceae",
+  "memo": "Lemon bottlebrush is commonly grown as a shrub, or as a single-trunked standard&amp;nbsp;tree. It is a tough, reliable evergreen species, with red brush-like flowers in hanging clusters. The leaves smell lemon-like when crushed, hence the common name. It may require regularly scheduled light top-trimming (but not necessarily shearing) of vigorous top shoots to maintain its height below 25 feet. The leaves can be used as a tea substitute and a tan dye can be obtained from the flowers.&amp;nbsp;&lt;em&gt;Callistemon&amp;nbsp;citrinus&lt;/em&gt;&amp;nbsp;has a&amp;nbsp;HPWRA (Hawai‘i Pacific Weed Risk Assessment) score of 0&amp;nbsp;(Low Risk), and the Plant Pono link is:&amp;nbsp;&lt;a href=&quot;https://plantpono.org/pono-plants/callistemon-citrinus/&quot;&gt;https://plantpono.org/pono-plants/callistemon-citrinus/&lt;/a&gt;.",
+  "fragrance": 1,
+  "native_range": "Eastern Australia",
+  "photolocations": "Honolulu, HI, Los Angeles County Arboretum - Arcadia, CA, Santa Barbara Courthouse - Santa Barbara, CA and San Luis Obispo, CA",
+  "display": 1,
+  "pacific_island": 1,
+  "california_native": 0,
+  "ethnobotanical_info": "Commercially grown to produce essential oils with antibacterial properties. The ‘bottlebrush’ is a common ornamental street tree throughout the tropics and subtropics. (Oyedeji et al., 2009) ",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 1,
+  "schoolyard_use_notes": "This tree features vibrant, brush-like flowers that can be used to teach about pollination and the role of color in attracting pollinators. Its narrow, evergreen leaves release a citrus scent when crushed, providing a sensory experience for lessons on plant aromas and essential oils. The tree&#x27;s resilience to drought makes it an example of water conservation and adaptation in plant species. The unique flower structure can also be used to discuss the anatomy of flowering plants.",
+  "soil_ph_low": 3,
+  "soil_ph_high": 7,
+  "planting_area": "4 to 7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Medium",
+  "branch_strength_high": "Medium",
+  "root_damage_potential": "Low",
+  "biogenic_emissions": "High",
+  "deer_palatable": 0,
+  "height_high": 30,
+  "height_memo": null,
+  "width_high": 25,
+  "growth_rate_high": 36,
+  "water_use": "Low",
+  "salt_tolerance": "moderate",
+  "fruit_size": "Small",
+  "fruit_color": "Brown",
+  "fruit_type": "Capsule",
+  "flower_showiness": "Showy",
+  "sex": "Perfect Flowers",
+  "bark_color": [
+    "Light Green or Light Gray"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Spear Shaped",
+  "foliage_fall_color": 0,
+  "foliage_type": "Evergreen",
+  "redirect_tree_id": null,
+  "utility_friendly": 1,
+  "wind_resistance": "Medium Low",
+  "suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/38/original/238_current_suitability_map.png",
+  "future_suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/38/original/238_future_suitability_map.png",
+  "sex_explanation": "Has male and female reproductive parts in each flower (perfect)",
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 9344,
+    "tree_id": 238,
+    "common": "LEMON BOTTLEBRUSH",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 1
+  },
+  "primary_taxon": {
+    "taxon_id": 236,
+    "genus": "Callistemon",
+    "species": "citrinus",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Callistemon citrinus"
+  },
+  "other_taxa": [
+    {
+      "taxon_id": 2122,
+      "genus": "Callistemon",
+      "species": "citrinus",
+      "hybrid_alt_species": "",
+      "subspecies": "",
+      "variety": "splendens",
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 2,
+      "name_concat": "Callistemon citrinus var. splendens"
+    },
+    {
+      "taxon_id": 3087,
+      "genus": "Melaleuca",
+      "species": "citrina",
+      "hybrid_alt_species": "",
+      "subspecies": "",
+      "variety": "",
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 3,
+      "name_concat": "Melaleuca citrina"
+    }
+  ],
+  "other_common": [
+    {
+      "common_id": 7462,
+      "tree_id": 238,
+      "common": "SCARLET BOTTLEBRUSH",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 1
+    },
+    {
+      "common_id": 7461,
+      "tree_id": 238,
+      "common": "CRIMSON BOTTLEBRUSH",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 10832,
+      "tree_id": 238,
+      "common": "BOTTLE BRUSH",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 7463,
+      "tree_id": 238,
+      "common": "RED BOTTLEBRUSH",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 3
+    }
+  ],
+  "genericCommonNames": [
+    "BOTTLEBRUSH"
+  ],
+  "images": [
+    {
+      "photo_link_id": 2279,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/38/original/callistemon-citrinus-tree-3.jpg",
+      "sequence": 1,
+      "credit": "P. Ruisi-Besares, M. Ritter, W. Mark, J. Reimer and C. Stubl",
+      "attribute_name": "tree-3"
+    },
+    {
+      "photo_link_id": 2280,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/38/original/callistemon-citrinus-tree-flowering.jpg",
+      "sequence": 2,
+      "credit": "P. Ruisi-Besares, M. Ritter, W. Mark, J. Reimer and C. Stubl",
+      "attribute_name": "tree-flowering"
+    },
+    {
+      "photo_link_id": 2281,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/38/original/callistemon-citrinus-tree.jpg",
+      "sequence": 3,
+      "credit": "P. Ruisi-Besares, M. Ritter, W. Mark, J. Reimer and C. Stubl",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 2282,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/38/original/callistemon-citrinus-tree-2.jpg",
+      "sequence": 4,
+      "credit": "P. Ruisi-Besares, M. Ritter, W. Mark, J. Reimer and C. Stubl",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 2283,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/38/original/callistemon-citrinus-leaves.jpg",
+      "sequence": 5,
+      "credit": "P. Ruisi-Besares, M. Ritter, W. Mark, J. Reimer and C. Stubl",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 2285,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/38/original/callistemon-citrinus-flowers-2.jpg",
+      "sequence": 6,
+      "credit": "P. Ruisi-Besares, M. Ritter, W. Mark, J. Reimer and C. Stubl",
+      "attribute_name": "flowers-2"
+    },
+    {
+      "photo_link_id": 2286,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/38/original/callistemon-citrinus-flowers-3.jpg",
+      "sequence": 7,
+      "credit": "P. Ruisi-Besares, M. Ritter, W. Mark, J. Reimer and C. Stubl",
+      "attribute_name": "flowers-3"
+    },
+    {
+      "photo_link_id": 2287,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/38/original/callistemon-citrinus-leaves-and-flowers.jpg",
+      "sequence": 8,
+      "credit": "P. Ruisi-Besares, M. Ritter, W. Mark, J. Reimer and C. Stubl",
+      "attribute_name": "flowers"
+    },
+    {
+      "photo_link_id": 2288,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/38/original/callistemon-citrinus-flower-buds.jpg",
+      "sequence": 9,
+      "credit": "P. Ruisi-Besares, M. Ritter, W. Mark, J. Reimer and C. Stubl",
+      "attribute_name": "flower-buds"
+    },
+    {
+      "photo_link_id": 2289,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/38/original/callistemon-citrinus-fruit-2.jpg",
+      "sequence": 10,
+      "credit": "P. Ruisi-Besares, M. Ritter, W. Mark, J. Reimer and C. Stubl",
+      "attribute_name": "fruit-2"
+    },
+    {
+      "photo_link_id": 2290,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/38/original/callistemon-citrinus-fruit.jpg",
+      "sequence": 11,
+      "credit": "P. Ruisi-Besares, M. Ritter, W. Mark, J. Reimer and C. Stubl",
+      "attribute_name": "fruit"
+    },
+    {
+      "photo_link_id": 2291,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/38/original/callistemon-citrinus-branch.jpg",
+      "sequence": 12,
+      "credit": "P. Ruisi-Besares, M. Ritter, W. Mark, J. Reimer and C. Stubl",
+      "attribute_name": "branch"
+    },
+    {
+      "photo_link_id": 2292,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/38/original/callistemon-citrinus-bark-2.jpg",
+      "sequence": 13,
+      "credit": "P. Ruisi-Besares, M. Ritter, W. Mark, J. Reimer and C. Stubl",
+      "attribute_name": "bark-2"
+    },
+    {
+      "photo_link_id": 2293,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/38/original/callistemon-citrinus-bark.jpg",
+      "sequence": 14,
+      "credit": "P. Ruisi-Besares, M. Ritter, W. Mark, J. Reimer and C. Stubl",
+      "attribute_name": "bark"
+    }
+  ],
+  "landscape_application": [
+    "Street Tree",
+    "Screen Tree"
+  ],
+  "landscape_use": [
+    "Espalier",
+    "Hedged"
+  ],
+  "sunset_zone": [
+    "8",
+    "9",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "H1",
+    "H2"
+  ],
+  "formatted_sunset_zones": [
+    "8 - 9",
+    "12 - 24",
+    "H1",
+    "H2"
+  ],
+  "usda_zone": [
+    9,
+    10,
+    11
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [
+    "Armillaria",
+    "Root Rot"
+  ],
+  "disease_susceptibility": [
+    "Chlorosis"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [],
+  "health_hazard": [
+    "Allergy"
+  ],
+  "attracts_wildlife": [
+    "Bees",
+    "Birds"
+  ],
+  "fruit_value": [
+    "Wildlife use it"
+  ],
+  "fruiting_time": [
+    "Fall"
+  ],
+  "flower_time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower_color": [
+    "Red"
+  ],
+  "foliage_growth_color": [
+    "Green"
+  ],
+  "bark_texture": [
+    "Exfoliating",
+    "Striated"
+  ],
+  "tree_shape": [
+    "Rounded"
+  ],
+  "litter_type": [
+    "Flowers"
+  ],
+  "climate_adapted_regions": [
+    "Inland Empire",
+    "Southern California Coast",
+    "Southwest Desert"
+  ],
+  "appraisal_text": "Group 1, Approx. cross sectional area 2.09 sq. in.",
+  "app_grrating": "1",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Melaleuca_citrina"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/77976-Melaleuca-citrina"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:591369-1"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 0
+}

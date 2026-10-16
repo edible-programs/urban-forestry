@@ -1,0 +1,313 @@
+{
+  "tree_id": 1181,
+  "family": "Rosaceae",
+  "memo": "&lt;em&gt;Prunus ‘Kwanzan&lt;/em&gt;’ is one of the most widely planted cultivars of ornamental cherry, with origins in Japan dating back centuries. This medium-sized deciduous tree has a vase-shaped crown, but it is best known for its large, fully double flowers. Each bloom has 25–30 petals, and flowers are so abundant that the branches often hang pendulously under their weight during peak bloom. This cultivar does not produce fruit, as the extravagant flowers lack functional reproductive parts. Its combination of showy blossoms, tolerance of a wide range of temperatures, and manageable size makes it a popular choice for streetscapes and urban plantings. &lt;em&gt;Kwanzan&lt;/em&gt; performs best in fertile, well-drained soils with full sun and is relatively short-lived for a tree, typically reaching up to 40 years.",
+  "fragrance": 1,
+  "native_range": "Horticultural Hybrid",
+  "photolocations": "Missouri Botanical Garden - St. Louis, MO, The National Arboretum - Washington, DC, Dallas Arboretum - Dallas, TX, Los Angeles County Arboretum - Arcadia, CA and Fairfield, CA",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 0,
+  "ethnobotanical_info": "",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 0,
+  "schoolyard_use_notes": null,
+  "soil_ph_low": 1,
+  "soil_ph_high": 5,
+  "planting_area": "4 to 7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Medium",
+  "branch_strength_high": "Medium",
+  "root_damage_potential": "Low",
+  "biogenic_emissions": "",
+  "deer_palatable": 1,
+  "height_high": 30,
+  "height_memo": null,
+  "width_high": 30,
+  "growth_rate_high": 24,
+  "water_use": "Medium",
+  "salt_tolerance": "Moderate",
+  "fruit_size": "Small",
+  "fruit_color": "Black",
+  "fruit_type": "Drupe",
+  "flower_showiness": "Showy",
+  "bark_color": [
+    "Mottled",
+    "Dark Gray or Light Gray"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Spear Shaped",
+  "foliage_fall_color": 1,
+  "foliage_type": "Deciduous",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": null,
+  "suitability_map": null,
+  "future_suitability_map": null,
+  "sex_explanation": null,
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 1164,
+    "tree_id": 1181,
+    "common": "KWANSAN JAPANESE FLOWERING CHERRY",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 0
+  },
+  "primary_taxon": {
+    "taxon_id": 1164,
+    "genus": "Prunus",
+    "species": null,
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": "Kwanzan",
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Prunus 'Kwanzan'"
+  },
+  "other_taxa": [
+    {
+      "taxon_id": 2399,
+      "genus": "Prunus",
+      "species": "serrulata",
+      "hybrid_alt_species": "",
+      "subspecies": "",
+      "variety": "",
+      "cultivar": "Kwanzan",
+      "hybrid_x": null,
+      "sequence": 2,
+      "name_concat": "Prunus serrulata 'Kwanzan'"
+    },
+    {
+      "taxon_id": 3157,
+      "genus": "Prunus",
+      "species": null,
+      "hybrid_alt_species": "",
+      "subspecies": "",
+      "variety": "",
+      "cultivar": "Kanzan",
+      "hybrid_x": null,
+      "sequence": 3,
+      "name_concat": "Prunus 'Kanzan'"
+    }
+  ],
+  "other_common": [
+    {
+      "common_id": 4009,
+      "tree_id": 1181,
+      "common": "KWANZAN JAPANESE CHERRY",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 1
+    }
+  ],
+  "genericCommonNames": [
+    "CHERRY"
+  ],
+  "images": [
+    {
+      "photo_link_id": 23695,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/81/original/Prunus-kwanzan_6457.jpg",
+      "sequence": 1,
+      "credit": "C. Stubler and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 18575,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/81/original/Prunus-Kwanzan_0007.jpg",
+      "sequence": 2,
+      "credit": "C. Stubler and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 10835,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/81/original/prunus-kwanzan-tree.jpg",
+      "sequence": 3,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 18574,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/81/original/Prunus-Kwanzan_0004.jpg",
+      "sequence": 4,
+      "credit": "C. Stubler and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 10836,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/81/original/prunus-kwanzan-leaves.jpg",
+      "sequence": 5,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 10837,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/81/original/prunus-kwanzan-leaves-2.jpg",
+      "sequence": 6,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "leaves-2"
+    },
+    {
+      "photo_link_id": 10838,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/81/original/prunus-kwanzan-flowers.jpg",
+      "sequence": 7,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "flowers"
+    },
+    {
+      "photo_link_id": 10839,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/81/original/prunus-kwanzan-flower.jpg",
+      "sequence": 8,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "flower"
+    },
+    {
+      "photo_link_id": 20549,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/81/original/Prunus-'Kwanzan'.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 18576,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/81/original/Prunus-Kwanzan_0003.jpg",
+      "sequence": 10,
+      "credit": "C. Stubler and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 10840,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/81/original/prunus-kwanzan-bark-2.jpg",
+      "sequence": 11,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "bark-2"
+    },
+    {
+      "photo_link_id": 10841,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/81/original/prunus-kwanzan-bark.jpg",
+      "sequence": 12,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "bark"
+    },
+    {
+      "photo_link_id": 20550,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/81/original/Prunus-'Kwanzan'-(1).jpg",
+      "sequence": 13,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    }
+  ],
+  "landscape_application": [
+    "Screen Tree"
+  ],
+  "landscape_use": [],
+  "sunset_zone": [
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20"
+  ],
+  "formatted_sunset_zones": [
+    "3 - 7",
+    "14 - 20"
+  ],
+  "usda_zone": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [],
+  "disease_susceptibility": [
+    "Canker",
+    "Crown Rot",
+    "Armillaria",
+    "Phytophthora"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [
+    "Caterpillars"
+  ],
+  "health_hazard": [
+    "None Known"
+  ],
+  "attracts_wildlife": [
+    "Birds"
+  ],
+  "fruit_value": [],
+  "fruiting_time": [
+    "Fall",
+    "Winter",
+    "Summer"
+  ],
+  "flower_time": [
+    "Spring"
+  ],
+  "flower_color": [
+    "Pink",
+    "Rose"
+  ],
+  "foliage_growth_color": [
+    "Dark Green"
+  ],
+  "bark_texture": [
+    "Smooth"
+  ],
+  "tree_shape": [
+    "Rounded"
+  ],
+  "litter_type": [
+    "Dry Fruit",
+    "Flowers"
+  ],
+  "climate_adapted_regions": [],
+  "appraisal_text": null,
+  "app_grrating": "",
+  "app_lcant": "",
+  "appraisal": "",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Prunus_%27Kanzan%27"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "N/A"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "N/A"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 0
+}

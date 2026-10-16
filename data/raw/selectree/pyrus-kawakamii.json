@@ -1,0 +1,310 @@
+{
+  "tree_id": 1222,
+  "family": "Rosaceae",
+  "memo": "Evergreen pear is only semi-evergreen in most of California. Depending on the local climate, some—occasionally all—of the brittle, reddish brown bodies of withered leaves will fall briskly to the ground and scrape along the sidewalk with the late-fall wind. If not pruned carefully, this tree often develops an erratic form, with branches like scaly bent knees, angling and jutting in various directions. This species can be spectacular in midwin¬ter, when it is fleetingly covered with bright white, subtly fragrant flowers. When not in bloom, it can be recognized by its glossy, oval leaves with rounded teeth on the margins, and its charcoal gray bark that cracks into irregular squares with age.&lt;br&gt;&lt;br&gt;&lt;br&gt;Pyrus calleryana is a slender-trunked tree with neat, upright growth and a rounded canopy. In autumn, the canopy puts on a colorful display of foliage ranging from reddish-purple to bronze-red. Its flowers make an appearance in early spring, blanketing a leafless canopy in white. These flowers produce an offensive odor. Round, yellowish-green to brown pome fruits attract birds. In some parts of the US this species forms dense thickets and is highly invasive. Its branches can also thorny.&lt;br&gt;&lt;br&gt;The Flora of China, Plants of the World Online, and several horticultural databases consistently treat Pyrus kawakamii as a synonym or variety within Pyrus calleryana, even though western horticulture in California continues to distinguish the two because they behave differently in the landscape. Pyrus calleryana is universally described as a fully deciduous tree, dropping its leaves for an extended winter period and blooming in early spring, whereas Pyrus kawakamii is evergreen to briefly deciduous, losing foliage only for a short interval in mid-winter and flowering several weeks earlier, often in late winter. Bark characteristics also diverge: P. calleryana has gray to grayish brown bark that becomes shallowly fissured with age, while P. kawakamii develops darker gray to brown bark that is deeply furrowed or blocky and appears checkered on mature trunks. The crown architecture further separates the two, with Callery pear forming a dense, upright, vase-shaped canopy with tight branching angles, and evergreen pear forming a rounder, more open canopy with broader, better spaced branches. These morphological and phenological traits align well with field observations in California, where P. kawakamii reliably blooms three to four weeks earlier than P. calleryana. Although major floras now usually lump kawakamii under calleryana, the horticultural distinctions remain pronounced and diagnostically consistent, making the species readily separable in California landscapes. &lt;br&gt;&lt;br&gt;&lt;br&gt;Key to speices in California&lt;br&gt;Tree deciduous for more than one month; bark gray to grayish brown, shallowly fissured; crown often compact and vase shaped toward the top of the trunk, with many narrow branch angles, Callery or Bradford pear (Pyrus calleryana).&lt;br&gt;&lt;br&gt;&lt;br&gt;Tree evergreen or briefly deciduous only in mid-winter; bark dark gray to brown, deeply furrowed in a blocky or checkered pattern; crown rounded or umbrella shaped with a more open branching structure, evergreen pear (Pyrus kawakamii).&lt;br&gt;Native Range: China, Vietnam, Japan, and Taiwan&lt;br&gt;&lt;br&gt;&lt;br&gt;",
+  "fragrance": 0,
+  "native_range": "Taiwan and China",
+  "photolocations": "Alameda Plazas and Alice Keck Park Memorial Garden - Santa Barbara, CA, Cal Poly State University Campus - San Luis Obispo, CA, Westwood, CA, Balboa Park - San Diego, CA and Los Angeles County Arboretum - Arcadia, CA",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 0,
+  "ethnobotanical_info": "",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 0,
+  "schoolyard_use_notes": null,
+  "soil_ph_low": 1,
+  "soil_ph_high": 7,
+  "planting_area": "4 to 7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Medium",
+  "branch_strength_high": "Medium",
+  "root_damage_potential": "Low",
+  "biogenic_emissions": "Low",
+  "deer_palatable": null,
+  "height_high": 30,
+  "height_memo": null,
+  "width_high": 30,
+  "growth_rate_high": 36,
+  "water_use": "Medium",
+  "salt_tolerance": "Moderate",
+  "fruit_size": "Very Small",
+  "fruit_color": "Brown or Mostly Green",
+  "fruit_type": "Pome",
+  "flower_showiness": "Showy",
+  "bark_color": [
+    "Dark Brown or Light Green"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Oval",
+  "foliage_fall_color": 1,
+  "foliage_type": "Partly Deciduous",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": null,
+  "suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/22/original/1222_current_suitability_map.png",
+  "future_suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/22/original/1222_future_suitability_map.png",
+  "sex_explanation": null,
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 1204,
+    "tree_id": 1222,
+    "common": "EVERGREEN PEAR",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 0
+  },
+  "primary_taxon": {
+    "taxon_id": 1204,
+    "genus": "Pyrus",
+    "species": "kawakamii",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Pyrus kawakamii"
+  },
+  "other_taxa": [
+    {
+      "taxon_id": 2411,
+      "genus": "Pyrus",
+      "species": "calleryana",
+      "hybrid_alt_species": "",
+      "subspecies": "",
+      "variety": "calleryana",
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 2,
+      "name_concat": "Pyrus calleryana var. calleryana"
+    },
+    {
+      "taxon_id": 4371,
+      "genus": "Pyrus",
+      "species": "calleryana",
+      "hybrid_alt_species": null,
+      "subspecies": null,
+      "variety": null,
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 3,
+      "name_concat": "Pyrus calleryana"
+    }
+  ],
+  "other_common": [
+    {
+      "common_id": 4087,
+      "tree_id": 1222,
+      "common": "CHINESE EVERGREEN PEAR",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 1
+    }
+  ],
+  "genericCommonNames": [
+    "PEAR"
+  ],
+  "images": [
+    {
+      "photo_link_id": 11175,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/22/original/pyrus-kawakamii-tree-2.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 17322,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/22/original/Pyrus-kawakamii.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 11176,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/22/original/pyrus-kawakamii-tree.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 11177,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/22/original/pyrus-kawakamii-trees-flowering.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "trees-flowering"
+    },
+    {
+      "photo_link_id": 11178,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/22/original/pyrus-kawakamii-tree-canopy.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-canopy"
+    },
+    {
+      "photo_link_id": 11179,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/22/original/pyrus-kawakamii-leaves.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 11180,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/22/original/pyrus-kawakamii-leaves-2.jpg",
+      "sequence": 7,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves-2"
+    },
+    {
+      "photo_link_id": 11181,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/22/original/pyrus-kawakamii-leaves-close-up.jpg",
+      "sequence": 8,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves-close-up"
+    },
+    {
+      "photo_link_id": 11182,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/22/original/pyrus-kawakamii-flowers.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "flowers"
+    },
+    {
+      "photo_link_id": 11183,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/22/original/pyrus-kawakamii-flowers-close-up.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "flowers-close-up"
+    },
+    {
+      "photo_link_id": 11184,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/22/original/pyrus-kawakamii-fruit.jpg",
+      "sequence": 11,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit"
+    },
+    {
+      "photo_link_id": 11185,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/22/original/pyrus-kawakamii-bark.jpg",
+      "sequence": 12,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "bark"
+    }
+  ],
+  "landscape_application": [
+    "Screen Tree"
+  ],
+  "landscape_use": [
+    "Espalier",
+    "Pleached"
+  ],
+  "sunset_zone": [
+    "8",
+    "9",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24"
+  ],
+  "formatted_sunset_zones": [
+    "8 - 9",
+    "12 - 24"
+  ],
+  "usda_zone": [
+    8,
+    9,
+    10
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [
+    "Verticillium Armillaria",
+    "Root Rot"
+  ],
+  "disease_susceptibility": [
+    "Fire Blight",
+    "Sooty Mold"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [
+    "Aphids",
+    "White Fly"
+  ],
+  "health_hazard": [
+    "None Known"
+  ],
+  "attracts_wildlife": [
+    "Birds"
+  ],
+  "fruit_value": [],
+  "fruiting_time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower_time": [
+    "Winter",
+    "Spring"
+  ],
+  "flower_color": [
+    "White"
+  ],
+  "foliage_growth_color": [
+    "Green"
+  ],
+  "bark_texture": [
+    "Blocky",
+    "Furrowed"
+  ],
+  "tree_shape": [
+    "Rounded"
+  ],
+  "litter_type": [
+    "Dry Fruit"
+  ],
+  "climate_adapted_regions": [],
+  "appraisal_text": "Suggested LCANT 24\" box, Group Rating 2, Approx. cross sectional area 2.24 sq. in.",
+  "app_grrating": "2",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Pyrus_calleryana"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/205897-Pyrus-kawakamii"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:730959-1"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 0
+}

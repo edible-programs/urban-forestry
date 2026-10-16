@@ -1,0 +1,435 @@
+{
+  "tree_id": 569,
+  "family": "Myrtaceae",
+  "memo": "This tree features a striking, rough bark that ranges in color from dark brown to black, providing a dramatic contrast to its slender, blue-green leaves. It produces clusters of small, cream-colored to pink flowers that attract bees and birds, adding a lively touch to urban landscapes. Its branches have a graceful, slightly drooping habit, creating a soft, cascading effect. This tree is well-suited for dry climates, thriving in full sun and requiring minimal water once established. Its resilience and unique appearance make it a popular choice for parks and large gardens.",
+  "fragrance": 1,
+  "native_range": "Eastern Australia",
+  "photolocations": "Cuesta College - San Luis Obispo, CA, Cal Poly State University - San Luis Obispo, CA, Los Angeles County Arboretum - Arcadia, CA, Huntington Botanical Gardens - San Marino, CA, and New Zealand",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 0,
+  "ethnobotanical_info": "",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 1,
+  "schoolyard_use_notes": "This tree has narrow, lance-shaped leaves that can be used to teach about leaf shapes and adaptations to dry climates. Its bark is deeply furrowed and peels away in strips, offering a tactile experience for lessons on tree anatomy. The small, clustered flowers attract various pollinators, making it ideal for discussions on ecosystems and pollination. The tree's resilience to drought conditions can also be a practical example for environmental science topics.",
+  "soil_ph_low": 4,
+  "soil_ph_high": 7,
+  "planting_area": ">7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Medium",
+  "branch_strength_high": "Medium",
+  "root_damage_potential": "High",
+  "biogenic_emissions": "High",
+  "deer_palatable": 0,
+  "height_high": 80,
+  "height_memo": null,
+  "width_high": 60,
+  "growth_rate_high": 36,
+  "water_use": "Low",
+  "salt_tolerance": "High",
+  "fruit_size": "Small",
+  "fruit_color": "Brown",
+  "fruit_type": "Capsule",
+  "flower_showiness": "Showy",
+  "bark_color": [
+    "Black or Red Brown"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Spear Shaped",
+  "foliage_fall_color": 0,
+  "foliage_type": "Evergreen",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": null,
+  "suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/69/original/569_current_suitability_map.png",
+  "future_suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/69/original/569_future_suitability_map.png",
+  "sex_explanation": null,
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 556,
+    "tree_id": 569,
+    "common": "RED IRONBARK",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 0
+  },
+  "primary_taxon": {
+    "taxon_id": 556,
+    "genus": "Eucalyptus",
+    "species": "sideroxylon",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Eucalyptus sideroxylon"
+  },
+  "other_taxa": [],
+  "other_common": [
+    {
+      "common_id": 11335,
+      "tree_id": 569,
+      "common": "MUGGA",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 11336,
+      "tree_id": 569,
+      "common": "THREE FRUIT RED IRONBARK",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 3
+    },
+    {
+      "common_id": 11337,
+      "tree_id": 569,
+      "common": "MUGGA IRONBARK",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 4
+    },
+    {
+      "common_id": 11338,
+      "tree_id": 569,
+      "common": "BLACK IRONBARK",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 5
+    },
+    {
+      "common_id": 11339,
+      "tree_id": 569,
+      "common": "IRONBARK",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 6
+    }
+  ],
+  "genericCommonNames": [
+    "EUCALYPTUS"
+  ],
+  "images": [
+    {
+      "photo_link_id": 5335,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/69/original/eucalyptus-sideroxylon-tree-3.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-3"
+    },
+    {
+      "photo_link_id": 5336,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/69/original/eucalyptus-sideroxylon-tree.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 20469,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/69/original/Eucalyptus-sideroxylon-(2)-42c3bcb0-4839-41de-a2d7-0b5e2680e904.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20471,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/69/original/Eucalyptus-sideroxylon-(3)-312430cb-2565-47f9-b5ce-d93dd93b1350.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 5338,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/69/original/eucalyptus-sideroxylon-canopy.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "canopy"
+    },
+    {
+      "photo_link_id": 5339,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/69/original/eucalyptus-sideroxylon-canopy-2.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "canopy-2"
+    },
+    {
+      "photo_link_id": 20900,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/69/original/Eucalyptus-sideroxylon-(2)-8ab9a7b5-a5bb-41a8-ae7c-68127f0d93a6.jpg",
+      "sequence": 7,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 5340,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/69/original/eucalyptus-sideroxylon-foliage.jpg",
+      "sequence": 8,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "foliage"
+    },
+    {
+      "photo_link_id": 19584,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/69/original/Eucalyptus-sideroxylon-(6).jpg",
+      "sequence": 9,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 5342,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/69/original/eucalyptus-sideroxylon-flower-buds.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "flower-buds"
+    },
+    {
+      "photo_link_id": 19582,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/69/original/Eucalyptus-sideroxylon-(3).jpg",
+      "sequence": 11,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 5345,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/69/original/eucalyptus-sideroxylon-flowers-2.jpg",
+      "sequence": 12,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "flowers-2"
+    },
+    {
+      "photo_link_id": 24655,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/69/original/Eucalyptus-sideroxylon-8e639c65-79c0-4d9e-83b3-86d9806b9f3b.jpg",
+      "sequence": 13,
+      "credit": "M. Ritter ",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 24656,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/69/original/Eucalyptus-sideroxylon-(2)-57967637-52b1-4a35-a5ce-e3066605a909.jpg",
+      "sequence": 14,
+      "credit": "M. Ritter ",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 24241,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/69/original/E.-sideroxylon---6",
+      "sequence": 15,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 24654,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/69/original/Eucalyptus-sideroxylon-(1)-93098c61-d243-4d71-9a47-311738649fd9.jpg",
+      "sequence": 16,
+      "credit": "M. Ritter ",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 19579,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/69/original/Eucalyptus-sideroxylon-(1).jpg",
+      "sequence": 17,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 19583,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/69/original/Eucalyptus-sideroxylon-(2).jpg",
+      "sequence": 18,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 33194,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/69/original/Eucalyptus-sideroxylon-3ed6406f-89b8-4438-9e32-991c479e2144.jpg",
+      "sequence": 19,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 19585,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/69/original/Eucalyptus-sideroxylon-(4).jpg",
+      "sequence": 20,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 5347,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/69/original/eucalyptus-sideroxylon-fruit-id.jpg",
+      "sequence": 21,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit-id"
+    },
+    {
+      "photo_link_id": 20901,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/69/original/Eucalyptus-sideroxylon-8a8f631d-3b9d-4404-9d1f-41899d0c8a4b.jpg",
+      "sequence": 22,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 19581,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/69/original/Eucalyptus-sideroxylon-(5).jpg",
+      "sequence": 23,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 5349,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/69/original/eucalyptus-sideroxylon-bark-3.jpg",
+      "sequence": 24,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "bark-3"
+    },
+    {
+      "photo_link_id": 5348,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/69/original/eucalyptus-sideroxylon-bark-2.jpg",
+      "sequence": 25,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "bark-2"
+    },
+    {
+      "photo_link_id": 20902,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/69/original/Eucalyptus-sideroxylon-(1)-921910e4-5add-4efd-aea2-bbe339f711fe.jpg",
+      "sequence": 26,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    }
+  ],
+  "landscape_application": [],
+  "landscape_use": [],
+  "sunset_zone": [
+    "5",
+    "6",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "H1",
+    "H2"
+  ],
+  "formatted_sunset_zones": [
+    "5 - 6",
+    "8 - 24",
+    "H1",
+    "H2"
+  ],
+  "usda_zone": [
+    9,
+    10
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [
+    "Texas Root Rot",
+    "Verticillium"
+  ],
+  "disease_susceptibility": [
+    "Chlorosis",
+    "Armillaria",
+    "Phytophthora",
+    "Root Rot"
+  ],
+  "pest_resistant": [
+    "Eucalyptus Snout Beetle (Gonipterus platensis)"
+  ],
+  "pest_susceptibility": [
+    "Beetle Borers",
+    "Thrip"
+  ],
+  "health_hazard": [
+    "None Known"
+  ],
+  "attracts_wildlife": [
+    "Bees",
+    "Birds"
+  ],
+  "fruit_value": [
+    "Wildlife use it"
+  ],
+  "fruiting_time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower_time": [
+    "Fall",
+    "Winter",
+    "Spring"
+  ],
+  "flower_color": [
+    "Pink",
+    "Red",
+    "Rose"
+  ],
+  "foliage_growth_color": [
+    "Bluish Green",
+    "Silver",
+    "Gray Green"
+  ],
+  "bark_texture": [
+    "Blocky",
+    "Furrowed"
+  ],
+  "tree_shape": [
+    "Rounded",
+    "Vase"
+  ],
+  "litter_type": [
+    "Dry Fruit"
+  ],
+  "climate_adapted_regions": [
+    "Inland Empire",
+    "Inland Valleys",
+    "Southern California Coast",
+    "Southwest Desert"
+  ],
+  "appraisal_text": "Suggested LCANT 24\" box, Group Rating 2, Approx. cross sectional area 2.24 sq. in.",
+  "app_grrating": "2",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Eucalyptus_sideroxylon"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/77092-Eucalyptus-sideroxylon"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:593359-1"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 0
+}

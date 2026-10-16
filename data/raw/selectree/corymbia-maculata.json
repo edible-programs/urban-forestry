@@ -1,0 +1,449 @@
+{
+  "tree_id": 550,
+  "family": "Myrtaceae",
+  "memo": "This tall tree is known for its striking, smooth bark that peels away in patches, revealing a mix of cream, gray, and brown underneath. Its long, slender leaves provide a gentle rustling sound in the wind, creating a soothing atmosphere. The tree produces small, white flowers that attract bees and other pollinators, adding life to urban spaces. It is well-suited to city environments due to its ability to withstand pollution and drought. With its rapid growth and impressive height, this tree offers ample shade and a unique visual appeal to parks and streetscapes.&lt;br&gt;&lt;br&gt;&lt;br&gt;The publication of a new genus within Eucalyptus (Blakella) by Crisp et. al. 2024,  has led most world eucalypt experts to recognize all Corymbia and Angophora species in Eucalyptus. It now makes the most sense taxonomically, for field characteristics, and for disruption of names to move everything to one genus, and we have done so here at SelecTree.\nCorymbia citriodora becomes (or goes back) to Eucalyptus citriodora, C. ficifolia to E. ficifolia, Angophora costata becomes Eucalyptus apocynifolia (due to the species name having been previously published in Eucalyptus).\n\nDean Nicolle’s new taxonomy: https://www.dn.com.au/Classification-Of-The-Eucalypts.pdf.",
+  "fragrance": 1,
+  "native_range": "Southeastern Australia",
+  "photolocations": "Los Angeles County Arboretum - Arcadia, CA and San Francisco, CA",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 0,
+  "ethnobotanical_info": "",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 1,
+  "schoolyard_use_notes": "This tree features smooth, mottled bark that peels away in patches, providing a visual example of bark exfoliation. Its long, narrow leaves can be used to discuss leaf shapes and adaptations to dry climates. The tree produces small, white flowers that attract various pollinators, making it a good subject for lessons on plant-pollinator interactions. The distinctive scent of its leaves can also be explored in discussions about plant chemistry and essential oils.",
+  "soil_ph_low": 3,
+  "soil_ph_high": 7,
+  "planting_area": "4 to 7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Medium Strong",
+  "branch_strength_high": "Medium Strong",
+  "root_damage_potential": "Moderate",
+  "biogenic_emissions": "High",
+  "deer_palatable": 0,
+  "height_high": 80,
+  "height_memo": null,
+  "width_high": 40,
+  "growth_rate_high": 36,
+  "water_use": "Low",
+  "salt_tolerance": "",
+  "fruit_size": "Small",
+  "fruit_color": "Brown or Mostly Green",
+  "fruit_type": "Capsule",
+  "flower_showiness": "",
+  "bark_color": [
+    "Mottled",
+    "Light Gray",
+    "Purple",
+    "Red Brown or Multicolored"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Spear Shaped",
+  "foliage_fall_color": 0,
+  "foliage_type": "Evergreen",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": null,
+  "suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/50/original/550_current_suitability_map.png",
+  "future_suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/50/original/550_future_suitability_map.png",
+  "sex_explanation": null,
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 541,
+    "tree_id": 550,
+    "common": "SPOTTED GUM",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 1
+  },
+  "primary_taxon": {
+    "taxon_id": 2212,
+    "genus": "Eucalyptus",
+    "species": "maculata",
+    "hybrid_alt_species": null,
+    "subspecies": null,
+    "variety": null,
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Eucalyptus maculata"
+  },
+  "other_taxa": [
+    {
+      "taxon_id": 541,
+      "genus": "Corymbia",
+      "species": "maculata",
+      "hybrid_alt_species": "",
+      "subspecies": "",
+      "variety": "",
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 2,
+      "name_concat": "Corymbia maculata"
+    }
+  ],
+  "other_common": [
+    {
+      "common_id": 3022,
+      "tree_id": 550,
+      "common": "SPOTTED EUCALYPTUS",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 1
+    },
+    {
+      "common_id": 11282,
+      "tree_id": 550,
+      "common": "SPOTTED GUM TREE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    }
+  ],
+  "genericCommonNames": [
+    "SPOTTED GUM"
+  ],
+  "images": [
+    {
+      "photo_link_id": 5157,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/50/original/corymbia-maculata-tree-5.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-5"
+    },
+    {
+      "photo_link_id": 16571,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/50/original/Corymbia-maculata.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter",
+      "attribute_name": "Young Tree"
+    },
+    {
+      "photo_link_id": 5158,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/50/original/corymbia-maculata-tree-2.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 5159,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/50/original/corymbia-maculata-tree.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 5160,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/50/original/corymbia-maculata-tree-3.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-3"
+    },
+    {
+      "photo_link_id": 20447,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/50/original/Corymbia-maculata-304f279a-2040-4f60-80b4-317ec62287f3.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 18720,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/50/original/Corymbia-maculata-(2).jpg",
+      "sequence": 7,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 31684,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/50/original/Eucalyptus-maculata.jpg",
+      "sequence": 8,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 5161,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/50/original/corymbia-maculata-canopy.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "canopy"
+    },
+    {
+      "photo_link_id": 24069,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/50/original/Corymbia-maculata-ab4e5dae-8589-4e84-a9b4-837eaf2cb42a.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter ",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 24201,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/50/original/E.-maculata1---1",
+      "sequence": 11,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 18953,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/50/original/Corymbia-maculata-(3).jpg",
+      "sequence": 12,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 5162,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/50/original/corymbia-maculata-leaves.jpg",
+      "sequence": 13,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 5163,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/50/original/corymbia-maculata-leaves-2.jpg",
+      "sequence": 14,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves-2"
+    },
+    {
+      "photo_link_id": 5164,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/50/original/corymbia-maculata-foliage.jpg",
+      "sequence": 15,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "foliage"
+    },
+    {
+      "photo_link_id": 5165,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/50/original/corymbia-maculata-leaves-3.jpg",
+      "sequence": 16,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves-3"
+    },
+    {
+      "photo_link_id": 5166,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/50/original/corymbia-maculata-leaves-4.jpg",
+      "sequence": 17,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves-4"
+    },
+    {
+      "photo_link_id": 20445,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/50/original/Corymbia-maculata-(1)-6866a11f-0f25-483a-a003-cb3f3d7a5f25.jpg",
+      "sequence": 18,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 5167,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/50/original/corymbia-maculata-leaves-and-buds.jpg",
+      "sequence": 19,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves-and-buds"
+    },
+    {
+      "photo_link_id": 24157,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/50/original/Corybmia-maculata.jpg",
+      "sequence": 20,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 18718,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/50/original/Corymbia-maculata-(1).jpg",
+      "sequence": 21,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 5168,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/50/original/corymbia-maculata-fruit.jpg",
+      "sequence": 22,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit"
+    },
+    {
+      "photo_link_id": 33429,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/50/original/Eucalyptus-maculata-5aaa3326-3d35-473d-a2ba-018ae4e68abf.jpg",
+      "sequence": 23,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 26686,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/50/original/Corymbia-maculata-e4df72d3-676c-4b6e-a450-6a094fcec258.jpg",
+      "sequence": 24,
+      "credit": "M. Ritter ",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 24202,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/50/original/E.-maculata1---2",
+      "sequence": 25,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 5169,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/50/original/corymbia-maculata-trunk.jpg",
+      "sequence": 26,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "trunk"
+    },
+    {
+      "photo_link_id": 16910,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/50/original/Coymbia-maculata-(1).jpg",
+      "sequence": 27,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 16911,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/50/original/Coymbia-maculata.jpg",
+      "sequence": 28,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20446,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/50/original/Corymbia-maculata-(2)-c3783090-2e53-4c16-a0d1-ed506b169607.jpg",
+      "sequence": 29,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 5170,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/50/original/corymbia-maculata-bark.jpg",
+      "sequence": 30,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "bark"
+    },
+    {
+      "photo_link_id": 5171,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/50/original/corymbia-maculata-bark-2.jpg",
+      "sequence": 31,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "bark-2"
+    }
+  ],
+  "landscape_application": [],
+  "landscape_use": [],
+  "sunset_zone": [
+    "5",
+    "6",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "H1",
+    "H2"
+  ],
+  "formatted_sunset_zones": [
+    "5 - 6",
+    "8 - 24",
+    "H1",
+    "H2"
+  ],
+  "usda_zone": [
+    9,
+    10
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [
+    "Texas Root Rot",
+    "Verticillium"
+  ],
+  "disease_susceptibility": [
+    "Armillaria",
+    "Phytophthora",
+    "Root Rot",
+    "Eucalyptus Rust (Puccinia psidii)"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [
+    "Beetle Borers",
+    "Psyllid"
+  ],
+  "health_hazard": [
+    "None Known"
+  ],
+  "attracts_wildlife": [
+    "Bees",
+    "Birds"
+  ],
+  "fruit_value": [],
+  "fruiting_time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower_time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower_color": [
+    "White"
+  ],
+  "foliage_growth_color": [
+    "Dark Green"
+  ],
+  "bark_texture": [
+    "Smooth"
+  ],
+  "tree_shape": [
+    "Rounded"
+  ],
+  "litter_type": [
+    "Dry Fruit"
+  ],
+  "climate_adapted_regions": [
+    "Inland Empire",
+    "Southern California Coast"
+  ],
+  "appraisal_text": "Suggested LCANT 24\" box, Group Rating 2, Approx. cross sectional area 2.24 sq. in.",
+  "app_grrating": "2",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Corymbia_maculata"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/417763-Corymbia-maculata"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:986338-1"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "/spotted-gum/"
+    }
+  ],
+  "champ_count": 0
+}

@@ -1,0 +1,436 @@
+{
+  "tree_id": 561,
+  "family": "Myrtaceae",
+  "memo": "This tree has a distinctive round canopy that provides ample shade. Its leaves are oval-shaped and have a striking blue-green color, adding a unique touch to urban landscapes. The bark peels in strips, revealing a smooth, cream-colored surface underneath, which gives the trunk a mottled appearance. During the blooming season, clusters of small, white flowers emerge, attracting bees and other pollinators. This tree is drought-tolerant and thrives in sunny locations, making it a practical choice for city streets and parks. Its aromatic leaves release a refreshing scent when crushed, adding to its appeal.",
+  "fragrance": 1,
+  "native_range": "Southeastern Australia",
+  "photolocations": "UC Santa Cruz Arboretum - Santa Cruz, CA, Cal Poly State University Campus - San Luis Obispo, CA, Huntington Botanical Gardens - San Marino, CA and Los Angeles County Arboretum - Arcadia, CA",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 0,
+  "ethnobotanical_info": "",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 1,
+  "schoolyard_use_notes": "This tree has round, bluish-green leaves that can be used to teach about leaf shapes and coloration. The leaves release a distinctive aroma when crushed, providing a sensory experience for students. Its bark peels off in strips, revealing a smooth, multicolored trunk underneath, which can be a talking point for discussions on bark texture and tree growth. The small, white flowers attract pollinators, offering an opportunity to explore plant-insect interactions.",
+  "soil_ph_low": 3,
+  "soil_ph_high": 7,
+  "planting_area": "4 to 7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Medium",
+  "branch_strength_high": "Medium",
+  "root_damage_potential": "Moderate",
+  "biogenic_emissions": "High",
+  "deer_palatable": 0,
+  "height_high": 80,
+  "height_memo": null,
+  "width_high": 45,
+  "growth_rate_high": 36,
+  "water_use": "Low",
+  "salt_tolerance": "Moderate",
+  "fruit_size": "Small",
+  "fruit_color": "Brown",
+  "fruit_type": "Capsule",
+  "flower_showiness": "",
+  "bark_color": [
+    "Dark Gray or Light Gray"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Oval",
+  "foliage_fall_color": 0,
+  "foliage_type": "Evergreen",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": null,
+  "suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/61/original/561_current_suitability_map.png",
+  "future_suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/61/original/561_future_suitability_map.png",
+  "sex_explanation": null,
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 551,
+    "tree_id": 561,
+    "common": "SILVER DOLLAR GUM",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 0
+  },
+  "primary_taxon": {
+    "taxon_id": 551,
+    "genus": "Eucalyptus",
+    "species": "polyanthemos",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Eucalyptus polyanthemos"
+  },
+  "other_taxa": [],
+  "other_common": [
+    {
+      "common_id": 11310,
+      "tree_id": 561,
+      "common": "RED BOX TREE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 1
+    },
+    {
+      "common_id": 11311,
+      "tree_id": 561,
+      "common": "GREY BOX",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 11312,
+      "tree_id": 561,
+      "common": "REDBOX",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 3
+    },
+    {
+      "common_id": 11313,
+      "tree_id": 561,
+      "common": "BROWN BOX",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 4
+    },
+    {
+      "common_id": 11314,
+      "tree_id": 561,
+      "common": "RED BOX",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 5
+    },
+    {
+      "common_id": 11315,
+      "tree_id": 561,
+      "common": "AUSTRALIAN BEECH",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 6
+    },
+    {
+      "common_id": 11316,
+      "tree_id": 561,
+      "common": "BASTARD BOX",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 7
+    },
+    {
+      "common_id": 11317,
+      "tree_id": 561,
+      "common": "BASTARD BOX TREE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 8
+    }
+  ],
+  "genericCommonNames": [
+    "EUCALYPTUS"
+  ],
+  "images": [
+    {
+      "photo_link_id": 5276,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/61/original/eucalyptus-polyanthemos-tree-4.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-4"
+    },
+    {
+      "photo_link_id": 5277,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/61/original/eucalyptus-polyanthemos-tree-3.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-3"
+    },
+    {
+      "photo_link_id": 5278,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/61/original/eucalyptus-polyanthemos-tree.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 5280,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/61/original/eucalyptus-polyanthemos-tree-2.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 18767,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/61/original/Euclypatus-polyanthemos.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 30543,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/61/original/Eucalyptus-polyanthemos-91684b79-c123-4561-b37c-6c21256770b8.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 23849,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/61/original/Eucalyptus-polyanthemos-dbc3db50-d937-41af-bf0f-9f8fb0f79144.jpg",
+      "sequence": 7,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25058,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/61/original/Eucalyptus-polyanthemos-4b6a3776-ce8a-4ff3-8dc8-df64eb76deb2.jpg",
+      "sequence": 8,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 18975,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/61/original/Eucalyptus-polyanthemos.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20467,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/61/original/Eucalyptus-polyanthemos-777b2233-398a-4321-bbe2-9fdd4fe9b9b5.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 5281,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/61/original/eucalyptus-polyanthemos-tree-canopy.jpg",
+      "sequence": 11,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "canopy"
+    },
+    {
+      "photo_link_id": 29501,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/61/original/Eucalyptus-polyanthemos-fb64bbbc-45ec-45ac-aa18-75c74d0a459c.jpg",
+      "sequence": 12,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 5282,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/61/original/eucalyptus-polyanthemos-leaves-2.jpg",
+      "sequence": 13,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves-2"
+    },
+    {
+      "photo_link_id": 5283,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/61/original/eucalyptus-polyanthemos-leaves.jpg",
+      "sequence": 14,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 24218,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/61/original/E.-polyanthemos2---2",
+      "sequence": 15,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 5284,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/61/original/eucalyptus-polyanthemos-flowers.jpg",
+      "sequence": 16,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "flowers"
+    },
+    {
+      "photo_link_id": 24217,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/61/original/E.-polyanthemos---4",
+      "sequence": 17,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 24216,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/61/original/E.-polyanthemos2---1",
+      "sequence": 18,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 5285,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/61/original/eucalyptus-polyanthemos-flowers-2.jpg",
+      "sequence": 19,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "flowers-2"
+    },
+    {
+      "photo_link_id": 24215,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/61/original/E.-polyanthemos---3",
+      "sequence": 20,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20013,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/61/original/Eucalyptus-polyanthemos-f6565434-2ed0-4165-9442-a72bb1512342.jpg",
+      "sequence": 21,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 5287,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/61/original/eucalyptus-polyanthemos-leaves-and-fruit.jpg",
+      "sequence": 22,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit"
+    },
+    {
+      "photo_link_id": 5288,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/61/original/eucalyptus-polyanthemos-fruit-close-up.jpg",
+      "sequence": 23,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit-close-up"
+    },
+    {
+      "photo_link_id": 5289,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/61/original/eucalyptus-polyanthemos-fruit-id.jpg",
+      "sequence": 24,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit-id"
+    },
+    {
+      "photo_link_id": 5290,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0500/61/original/eucalyptus-polyanthemos-bark.jpg",
+      "sequence": 25,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "bark"
+    }
+  ],
+  "landscape_application": [],
+  "landscape_use": [],
+  "sunset_zone": [
+    "5",
+    "6",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "H1",
+    "H2"
+  ],
+  "formatted_sunset_zones": [
+    "5 - 6",
+    "8 - 24",
+    "H1",
+    "H2"
+  ],
+  "usda_zone": [
+    9,
+    10
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [
+    "Texas Root Rot",
+    "Verticillium"
+  ],
+  "disease_susceptibility": [
+    "Armillaria",
+    "Root Rot"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [
+    "Beetle Borers"
+  ],
+  "health_hazard": [
+    "None Known"
+  ],
+  "attracts_wildlife": [
+    "Bees"
+  ],
+  "fruit_value": [],
+  "fruiting_time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower_time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower_color": [
+    "White"
+  ],
+  "foliage_growth_color": [
+    "Bluish Green",
+    "Silver",
+    "Gray Green"
+  ],
+  "bark_texture": [],
+  "tree_shape": [
+    "Rounded"
+  ],
+  "litter_type": [
+    "Dry Fruit"
+  ],
+  "climate_adapted_regions": [
+    "Inland Empire",
+    "Southern California Coast",
+    "Southwest Desert"
+  ],
+  "appraisal_text": "Suggested LCANT 24\" box, Group Rating 2, Approx. cross sectional area 2.24 sq. in.",
+  "app_grrating": "2",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Eucalyptus_polyanthemos"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/58207-Eucalyptus-polyanthemos"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:593261-1"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 2
+}

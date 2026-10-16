@@ -1,0 +1,300 @@
+{
+  "tree_id": 850,
+  "family": "Magnoliaceae",
+  "memo": "&lt;em&gt;Magnolia grandiflora 'Little Gem&lt;/em&gt;' is a dwarf cultivar of the Southern magnolia, notable for its compact size and slower growth. The leaves are large, with a glossy deep green upper surface and a bronze-toned underside. The flowers feature fleshy white tepals surrounding stamens on a central receptacle. Following pollination, the tree produces distinctive seed cones, which release seeds encased in a waxy red coat.",
+  "fragrance": 1,
+  "native_range": "Eastern United States",
+  "photolocations": "Dallas Arboretum - Dallas, TX, The National Arboretum - Washington, DC and San Marcos Growers - Santa Barbara, CA",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 0,
+  "ethnobotanical_info": "",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 0,
+  "schoolyard_use_notes": null,
+  "soil_ph_low": 1,
+  "soil_ph_high": 5,
+  "planting_area": "2 to 4",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Medium",
+  "branch_strength_high": "Medium",
+  "root_damage_potential": "Low",
+  "biogenic_emissions": "",
+  "deer_palatable": null,
+  "height_high": 20,
+  "height_memo": null,
+  "width_high": 60,
+  "growth_rate_high": 12,
+  "water_use": "Medium",
+  "salt_tolerance": "",
+  "fruit_size": "Large",
+  "fruit_color": "Purple or Red",
+  "fruit_type": "Follicle",
+  "flower_showiness": "Showy",
+  "bark_color": [
+    "Light Green"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Oval",
+  "foliage_fall_color": 0,
+  "foliage_type": "Evergreen",
+  "redirect_tree_id": null,
+  "utility_friendly": 1,
+  "wind_resistance": "Highest",
+  "suitability_map": null,
+  "future_suitability_map": null,
+  "sex_explanation": null,
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 835,
+    "tree_id": 850,
+    "common": "LITTLE GEM MAGNOLIA",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 0
+  },
+  "primary_taxon": {
+    "taxon_id": 835,
+    "genus": "Magnolia",
+    "species": "grandiflora",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": "Little Gem",
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Magnolia grandiflora 'Little Gem'"
+  },
+  "other_taxa": [],
+  "other_common": [
+    {
+      "common_id": 13069,
+      "tree_id": 850,
+      "common": "DWARF SOUTHERN MAGNOLIA",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 1
+    }
+  ],
+  "genericCommonNames": [
+    "MAGNOLIA"
+  ],
+  "images": [
+    {
+      "photo_link_id": 7823,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/50/original/magnolia-grandiflora-little-gem-tree-2.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 7824,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/50/original/magnolia-grandiflora-little-gem-tree-3.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "tree-3"
+    },
+    {
+      "photo_link_id": 7825,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/50/original/magnolia-grandiflora-little-gem-tree-4.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "tree-4"
+    },
+    {
+      "photo_link_id": 7826,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/50/original/magnolia-grandiflora-little-gem-tree.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 7827,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/50/original/magnolia-grandiflora-little-gem-leaves.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 7828,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/50/original/magnolia-grandiflora-little-gem-leaf-underside.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "leaf-underside"
+    },
+    {
+      "photo_link_id": 7829,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/50/original/magnolia-grandiflora-little-gem-leaf-close-up.jpg",
+      "sequence": 7,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "leaf-close-up"
+    },
+    {
+      "photo_link_id": 7830,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/50/original/magnolia-grandiflora-little-gem-flower.jpg",
+      "sequence": 8,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "flower"
+    },
+    {
+      "photo_link_id": 7831,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/50/original/magnolia-grandiflora-little-gem-flower-2.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "flower-2"
+    },
+    {
+      "photo_link_id": 7832,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/50/original/magnolia-grandiflora-little-gem-flower-bud.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "flower-bud"
+    },
+    {
+      "photo_link_id": 7833,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/50/original/magnolia-grandiflora-little-gem-fruit-young.jpg",
+      "sequence": 11,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "fruit-young"
+    },
+    {
+      "photo_link_id": 7834,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/50/original/magnolia-grandiflora-little-gem-fruit-old.jpg",
+      "sequence": 12,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "fruit-old"
+    },
+    {
+      "photo_link_id": 7835,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/50/original/magnolia-grandiflora-little-gem-bark.jpg",
+      "sequence": 13,
+      "credit": "M. Ritter, C. Stubler, W. Mark and J. Reimer",
+      "attribute_name": "bark"
+    }
+  ],
+  "landscape_application": [
+    "Screen Tree"
+  ],
+  "landscape_use": [
+    "Espalier"
+  ],
+  "sunset_zone": [
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24"
+  ],
+  "formatted_sunset_zones": [
+    "4 - 12",
+    "14 - 24"
+  ],
+  "usda_zone": [
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [],
+  "disease_susceptibility": [
+    "Armillaria",
+    "Root Rot",
+    "Verticillium"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [
+    "Invasive Shot Hole Borer",
+    "Aphids",
+    "Scales",
+    "Spider Mites"
+  ],
+  "health_hazard": [
+    "None Known"
+  ],
+  "attracts_wildlife": [
+    "Birds"
+  ],
+  "fruit_value": [],
+  "fruiting_time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower_time": [
+    "Fall",
+    "Spring",
+    "Summer"
+  ],
+  "flower_color": [
+    "White"
+  ],
+  "foliage_growth_color": [
+    "Dark Green"
+  ],
+  "bark_texture": [
+    "Furrowed"
+  ],
+  "tree_shape": [
+    "Rounded"
+  ],
+  "litter_type": [
+    "Dry Fruit",
+    "Leaves",
+    "Flowers"
+  ],
+  "climate_adapted_regions": [],
+  "appraisal_text": null,
+  "app_grrating": "",
+  "app_lcant": "",
+  "appraisal": "",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "N/A"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "N/A"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "N/A"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "/southern-magnolia/"
+    }
+  ],
+  "champ_count": 0
+}

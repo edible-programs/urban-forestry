@@ -1,0 +1,363 @@
+{
+  "tree_id": 709,
+  "family": "Pittosporaceae",
+  "memo": "This tree is known for its striking, fragrant yellow flowers that bloom in clusters, providing a delightful scent to urban areas. Its dark green, glossy leaves create a lush canopy that offers ample shade. As it matures, the tree develops a slender, upright trunk with rough, grayish bark. It thrives in full sun and well-drained soils, making it a versatile choice for various landscapes. The flowers gradually turn from yellow to cream, adding a dynamic color display throughout the blooming season. This tree is relatively low-maintenance and can attract birds and pollinators, enhancing the biodiversity of urban spaces.",
+  "fragrance": 1,
+  "native_range": "Australia",
+  "photolocations": "Los Angeles County Arboretum - Arcadia, CA, Santa Barbara, CA, Cal Poly Campus - San Luis Obispo, CA, Lotusland - Santa Barbara, CA and Quail Botanical Gardens - Encinitas, CA",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 0,
+  "ethnobotanical_info": "",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 1,
+  "schoolyard_use_notes": "This tree produces fragrant, yellow flowers that can be used in lessons about pollination and plant reproduction. The flowers transition to a creamy white as they age, providing a visual example of plant aging and lifecycle. Its evergreen leaves stay on the tree year-round, making it useful for discussions about different leaf retention strategies. The tree's growth habit and size make it suitable for studying plant structure and habitat preferences. The seeds develop in woody pods, which can be used to explore seed dispersal methods.",
+  "soil_ph_low": 3,
+  "soil_ph_high": 7,
+  "planting_area": "4 to 7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Weak",
+  "branch_strength_high": "Weak",
+  "root_damage_potential": "Low",
+  "biogenic_emissions": "Low",
+  "deer_palatable": null,
+  "height_high": 50,
+  "height_memo": null,
+  "width_high": 20,
+  "growth_rate_high": 24,
+  "water_use": "Medium",
+  "salt_tolerance": "",
+  "fruit_size": "Medium",
+  "fruit_color": "Brown or Mostly Green",
+  "fruit_type": "Capsule",
+  "flower_showiness": "Showy",
+  "bark_color": [
+    "Light Green or Light Gray"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Oblong",
+  "foliage_fall_color": 0,
+  "foliage_type": "Evergreen",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": null,
+  "suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/09/original/709_current_suitability_map.png",
+  "future_suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/09/original/709_future_suitability_map.png",
+  "sex_explanation": null,
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 694,
+    "tree_id": 709,
+    "common": "SWEETSHADE",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 0
+  },
+  "primary_taxon": {
+    "taxon_id": 694,
+    "genus": "Hymenosporum",
+    "species": "flavum",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Hymenosporum flavum"
+  },
+  "other_taxa": [],
+  "other_common": [
+    {
+      "common_id": 11530,
+      "tree_id": 709,
+      "common": "NATIVE FRANGIPANI",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 1
+    },
+    {
+      "common_id": 11531,
+      "tree_id": 709,
+      "common": "QUEENSLAND FRANGIPANI",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    }
+  ],
+  "genericCommonNames": [
+    "SWEETSHADE"
+  ],
+  "images": [
+    {
+      "photo_link_id": 6542,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/09/original/hymenosporum-flavum-tree-2.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 6543,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/09/original/hymenosporum-flavum-tree.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 28977,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/09/original/Hymenosporum-flavum-6cc17d05-b159-4644-846e-e38615591a71.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 33759,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/09/original/Hymenosperum-flavum.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 28976,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/09/original/Hymenosporum-flavum-(3)-ef08a339-61e4-43a3-b6e9-374730750644.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20483,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/09/original/Hymenosporum-flavum.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 6544,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/09/original/hymenosporum-flavum-tree-3.jpg",
+      "sequence": 7,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-3"
+    },
+    {
+      "photo_link_id": 6545,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/09/original/hymenosporum-flavum-tree-4.jpg",
+      "sequence": 8,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-4"
+    },
+    {
+      "photo_link_id": 25891,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/09/original/Hymenosporum-flavum-0bb5af85-06c5-4782-b947-ab574ce1d4f6.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter ",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 32179,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/09/original/Hymenosporum-flavum-8e982e93-ed2f-442d-929f-1a6335a27bfb.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25892,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/09/original/Hymenosporum-flavum-(2).jpg",
+      "sequence": 11,
+      "credit": "M. Ritter ",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25893,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/09/original/Hymenosporum-flavum-(1).jpg",
+      "sequence": 12,
+      "credit": "M. Ritter ",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 6546,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/09/original/hymenosporum-flavum-leaves-2.jpg",
+      "sequence": 13,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves-2"
+    },
+    {
+      "photo_link_id": 6547,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/09/original/hymenosporum-flavum-leaves-new.jpg",
+      "sequence": 14,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves-new"
+    },
+    {
+      "photo_link_id": 6548,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/09/original/hymenosporum-flavum-leaves.jpg",
+      "sequence": 15,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 28975,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/09/original/Hymenosporum-flavum-(1)-eac1c36e-b3f1-4aa2-959d-ba98a16ac474.jpg",
+      "sequence": 16,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 6549,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/09/original/hymenosporum-flavum-flowers.jpg",
+      "sequence": 17,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "flowers"
+    },
+    {
+      "photo_link_id": 6550,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/09/original/hymenosporum-flavum-flower-yellow.jpg",
+      "sequence": 18,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "flower-yellow"
+    },
+    {
+      "photo_link_id": 28974,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/09/original/Hymenosporum-flavum-(2)-14882ba6-d9fd-47b0-8773-e108343f8465.jpg",
+      "sequence": 19,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 6551,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/09/original/hymenosporum-flavum-flower-white.jpg",
+      "sequence": 20,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "flower-white"
+    },
+    {
+      "photo_link_id": 6552,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/09/original/hymenosporum-flavum-fruit-green.jpg",
+      "sequence": 21,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit-green"
+    },
+    {
+      "photo_link_id": 6555,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/09/original/hymenosporum-flavum-fruit-3.jpg",
+      "sequence": 22,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit-3"
+    },
+    {
+      "photo_link_id": 25894,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/09/original/Hymenosporum-flavum-(3).jpg",
+      "sequence": 23,
+      "credit": "M. Ritter ",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 6556,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0700/09/original/hymenosporum-flavum-bark-2.jpg",
+      "sequence": 24,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "bark-2"
+    }
+  ],
+  "landscape_application": [
+    "Screen Tree"
+  ],
+  "landscape_use": [],
+  "sunset_zone": [
+    "8",
+    "9",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24"
+  ],
+  "formatted_sunset_zones": [
+    "8 - 9",
+    "14 - 24"
+  ],
+  "usda_zone": [
+    9,
+    10
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand"
+  ],
+  "disease_resistant": [],
+  "disease_susceptibility": [],
+  "pest_resistant": [],
+  "pest_susceptibility": [],
+  "health_hazard": [
+    "None Known"
+  ],
+  "attracts_wildlife": [
+    "Bees",
+    "Birds"
+  ],
+  "fruit_value": [],
+  "fruiting_time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower_time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower_color": [
+    "Yellow"
+  ],
+  "foliage_growth_color": [
+    "Dark Green"
+  ],
+  "bark_texture": [
+    "Rough"
+  ],
+  "tree_shape": [
+    "Conical",
+    "Rounded"
+  ],
+  "litter_type": [
+    "Dry Fruit",
+    "Flowers"
+  ],
+  "climate_adapted_regions": [],
+  "appraisal_text": "Suggested LCANT 24\" box, Group Rating 2, Approx. cross sectional area 2.24 sq. in.",
+  "app_grrating": "2",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Hymenosporum"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/369895-Hymenosporum-flavum"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:684320-1"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 0
+}

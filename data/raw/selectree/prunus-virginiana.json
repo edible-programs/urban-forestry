@@ -1,0 +1,340 @@
+{
+  "tree_id": 1191,
+  "family": "Rosaceae",
+  "memo": "&lt;em&gt;Prunus virginiana&lt;/em&gt;, commonly known as chokecherry, is a species native to North America, occurring from southern Canada south into Texas, with scattered populations in California. This deciduous species often forms dense thickets and can be grown as either a large shrub or small tree. In spring, the plant produces white flowers arranged in elongated racemes, which are later followed by small, astringent fruits. &lt;em&gt;Prunus virginiana&lt;/em&gt; has significant ecological value, providing food and habitat for birds, mammals, and pollinators. This species is exceptionally cold hardy and highly adaptable. It grows best in full sun, tolerates a wide range of soil conditions, and has moderate water requirements once established.",
+  "fragrance": 1,
+  "native_range": "North America",
+  "photolocations": "Hoyt Arboretum - Portland, OR, Red Butte Garden - Salt Lake City, UT, Rancho Santa Ana Botanic Gardens - Claremont, CA and Tilden Regional Parks Botanical Garden - Berkeley, CA",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 1,
+  "ethnobotanical_info": "Indigenous peoples traditionally used &lt;em&gt;Prunus virginiana&lt;/em&gt; as a food source. The fruit was commonly cooked or preserved to reduce its naturally astringent flavor and improve palatability.&nbsp;",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 0,
+  "schoolyard_use_notes": null,
+  "soil_ph_low": 1,
+  "soil_ph_high": 5,
+  "planting_area": "4 to 7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Medium",
+  "branch_strength_high": "Medium",
+  "root_damage_potential": "Low",
+  "biogenic_emissions": "Low",
+  "deer_palatable": null,
+  "height_high": 30,
+  "height_memo": null,
+  "width_high": 25,
+  "growth_rate_high": 24,
+  "water_use": "Medium",
+  "salt_tolerance": "Low",
+  "fruit_size": "Small",
+  "fruit_color": "Purple, Red or Black",
+  "fruit_type": "Drupe",
+  "flower_showiness": "Showy",
+  "sex": "Perfect Flowers",
+  "bark_color": [
+    "Dark Gray or Light Gray"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Obovate",
+  "foliage_fall_color": 1,
+  "foliage_type": "Deciduous",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": null,
+  "suitability_map": null,
+  "future_suitability_map": null,
+  "sex_explanation": "Has male and female reproductive parts in each flower (perfect)",
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 1174,
+    "tree_id": 1191,
+    "common": "CHOKE CHERRY",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 1
+  },
+  "primary_taxon": {
+    "taxon_id": 1174,
+    "genus": "Prunus",
+    "species": "virginiana",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Prunus virginiana"
+  },
+  "other_taxa": [],
+  "other_common": [
+    {
+      "common_id": 4030,
+      "tree_id": 1191,
+      "common": "COMMON CHOKECHERRY",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 12203,
+      "tree_id": 1191,
+      "common": "BITTER BERRY",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 4031,
+      "tree_id": 1191,
+      "common": "VIRGINIA BIRD CHERRY",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 3
+    },
+    {
+      "common_id": 12204,
+      "tree_id": 1191,
+      "common": "EASTERN CHOKECHERRY",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 3
+    },
+    {
+      "common_id": 12205,
+      "tree_id": 1191,
+      "common": "CHOKECHERRY",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 4
+    },
+    {
+      "common_id": 12206,
+      "tree_id": 1191,
+      "common": "VIRGINIA CHOKECHERRY",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 5
+    },
+    {
+      "common_id": 12207,
+      "tree_id": 1191,
+      "common": "RED CHOKECHERRY",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 6
+    }
+  ],
+  "genericCommonNames": [
+    "CHERRY"
+  ],
+  "images": [
+    {
+      "photo_link_id": 10893,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/91/original/prunus-virginiana-tree-demissa.jpg",
+      "sequence": 1,
+      "credit": "C. Stubler and J. Reimer",
+      "attribute_name": "tree-demissa"
+    },
+    {
+      "photo_link_id": 10894,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/91/original/prunus-virginiana-foliage-demissa.jpg",
+      "sequence": 2,
+      "credit": "C. Stubler and J. Reimer",
+      "attribute_name": "foliage-demissa"
+    },
+    {
+      "photo_link_id": 10895,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/91/original/prunus-virginiana-tree-fall.jpg",
+      "sequence": 3,
+      "credit": "C. Stubler and J. Reimer",
+      "attribute_name": "tree-fall"
+    },
+    {
+      "photo_link_id": 10896,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/91/original/prunus-virginiana-tree-young-fall.jpg",
+      "sequence": 4,
+      "credit": "C. Stubler and J. Reimer",
+      "attribute_name": "tree-young-fall"
+    },
+    {
+      "photo_link_id": 10897,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/91/original/prunus-virginiana-leaves-demissa-2.jpg",
+      "sequence": 5,
+      "credit": "C. Stubler and J. Reimer",
+      "attribute_name": "leaves-demissa-2"
+    },
+    {
+      "photo_link_id": 10898,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/91/original/prunus-virginiana-leaves-demissa-3.jpg",
+      "sequence": 6,
+      "credit": "C. Stubler and J. Reimer",
+      "attribute_name": "leaves-demissa-3"
+    },
+    {
+      "photo_link_id": 10899,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/91/original/prunus-virginiana-leaves.jpg",
+      "sequence": 7,
+      "credit": "C. Stubler and J. Reimer",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 10900,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/91/original/prunus-virginiana-leaves-fall.jpg",
+      "sequence": 8,
+      "credit": "C. Stubler and J. Reimer",
+      "attribute_name": "leaves-fall"
+    },
+    {
+      "photo_link_id": 10902,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/91/original/prunus-virginiana-leaves-and-fruit.jpg",
+      "sequence": 9,
+      "credit": "C. Stubler and J. Reimer",
+      "attribute_name": "leaves-and-fruit"
+    },
+    {
+      "photo_link_id": 10903,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/91/original/prunus-virginiana-fruit-demissa-2.jpg",
+      "sequence": 10,
+      "credit": "C. Stubler and J. Reimer",
+      "attribute_name": "fruit-demissa-2"
+    },
+    {
+      "photo_link_id": 10904,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/91/original/prunus-virginiana-fruit-demissa.jpg",
+      "sequence": 11,
+      "credit": "C. Stubler and J. Reimer",
+      "attribute_name": "fruit-demissa"
+    },
+    {
+      "photo_link_id": 10905,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/91/original/prunus-virginiana-fruit-old.jpg",
+      "sequence": 12,
+      "credit": "C. Stubler and J. Reimer",
+      "attribute_name": "fruit-old"
+    },
+    {
+      "photo_link_id": 10906,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/91/original/prunus-virginiana-bark.jpg",
+      "sequence": 13,
+      "credit": "C. Stubler and J. Reimer",
+      "attribute_name": "bark"
+    },
+    {
+      "photo_link_id": 10907,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1100/91/original/prunus-virginiana-bark-demissa-2.jpg",
+      "sequence": 14,
+      "credit": "C. Stubler and J. Reimer",
+      "attribute_name": "bark-demissa-2"
+    }
+  ],
+  "landscape_application": [
+    "Screen Tree"
+  ],
+  "landscape_use": [],
+  "sunset_zone": [
+    "1",
+    "2",
+    "3",
+    "10"
+  ],
+  "formatted_sunset_zones": [
+    "1 - 3",
+    "10"
+  ],
+  "usda_zone": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [],
+  "disease_susceptibility": [
+    "Armillaria",
+    "Phytophthora",
+    "Root Rot",
+    "Rust"
+  ],
+  "pest_resistant": [
+    "Gypsy Moth"
+  ],
+  "pest_susceptibility": [
+    "Caterpillars"
+  ],
+  "health_hazard": [
+    "Allergy",
+    "Poisonous"
+  ],
+  "attracts_wildlife": [
+    "Bees",
+    "Birds"
+  ],
+  "fruit_value": [],
+  "fruiting_time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower_time": [
+    "Spring"
+  ],
+  "flower_color": [
+    "White"
+  ],
+  "foliage_growth_color": [
+    "Green"
+  ],
+  "bark_texture": [
+    "Furrowed",
+    "Scaly"
+  ],
+  "tree_shape": [
+    "Rounded"
+  ],
+  "litter_type": [
+    "Wet Fruit"
+  ],
+  "climate_adapted_regions": [
+    "Northern California Coast"
+  ],
+  "appraisal_text": "Group —, Approx. cross sectional area —",
+  "app_grrating": "—",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Prunus_virginiana"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/54835-Prunus-virginiana"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:30003056-2"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 0
+}

@@ -1,0 +1,383 @@
+{
+  "tree_id": 812,
+  "family": "Oleaceae",
+  "memo": "Glossy Privet is used extensively as a shrub or tree standard. It is tough and durable, and its dark shiny green foliage makes it desirable. The showy white flower clusters are attractive, however, the odor may be objectionable. The profusion of berries afterward are not especially attractive and can be messy. It reseeds freely and is drought tolerant. It takes shearing. It often requires regularly scheduled light top-trimming (but not necessarily shearing) of vigorous top shoots to maintain a lower height.",
+  "fragrance": 1,
+  "native_range": "China, Korea, and Japan",
+  "photolocations": "Paris, France, Los Angeles County Arboretum - Arcadia, CA, San Francisco, CA and Ukiah, CA",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 0,
+  "ethnobotanical_info": "",
+  "pi_invasive": 0,
+  "invasive_text": "This plant is classified as potentially invasive in specific areas of California by the California Invasive Plant Council (&lt;a href=&quot;http://www.cal-ipc.org/&quot;&gt;Cal-IPC&lt;/a&gt;).",
+  "ca_invasive": 1,
+  "schoolyard": 0,
+  "schoolyard_use_notes": null,
+  "soil_ph_low": 1,
+  "soil_ph_high": 7,
+  "planting_area": ">7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Medium",
+  "branch_strength_high": "Medium",
+  "root_damage_potential": "Moderate",
+  "biogenic_emissions": "Low",
+  "deer_palatable": null,
+  "height_high": 50,
+  "height_memo": null,
+  "width_high": 35,
+  "growth_rate_high": 36,
+  "water_use": "Medium",
+  "salt_tolerance": "Moderate",
+  "fruit_size": "Small",
+  "fruit_color": "Black or Mostly Blue",
+  "fruit_type": "Drupe",
+  "flower_showiness": "Showy",
+  "sex": "Perfect Flowers",
+  "bark_color": [
+    "Light Gray"
+  ],
+  "leaf_arrangement": "Opposite",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Ovate",
+  "foliage_fall_color": 0,
+  "foliage_type": "Evergreen",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": "Medium Low",
+  "suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/12/original/812_current_suitability_map.png",
+  "future_suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/12/original/812_future_suitability_map.png",
+  "sex_explanation": "Has male and female reproductive parts in each flower (perfect)",
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 797,
+    "tree_id": 812,
+    "common": "GLOSSY PRIVET",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 0
+  },
+  "primary_taxon": {
+    "taxon_id": 797,
+    "genus": "Ligustrum",
+    "species": "lucidum",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Ligustrum lucidum"
+  },
+  "other_taxa": [],
+  "other_common": [
+    {
+      "common_id": 11650,
+      "tree_id": 812,
+      "common": "TREE PRIVET",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 11651,
+      "tree_id": 812,
+      "common": "LARGE LEAF PRIVET",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 3
+    },
+    {
+      "common_id": 11652,
+      "tree_id": 812,
+      "common": "CHINESE WAX LEAF PRIVET",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 4
+    },
+    {
+      "common_id": 11653,
+      "tree_id": 812,
+      "common": "LIGUSTRUM",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 5
+    },
+    {
+      "common_id": 11654,
+      "tree_id": 812,
+      "common": "CHINESE PRIVET",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 6
+    },
+    {
+      "common_id": 11655,
+      "tree_id": 812,
+      "common": "GIANT PRIVET",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 7
+    },
+    {
+      "common_id": 11656,
+      "tree_id": 812,
+      "common": "WHITE WAXTREE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 8
+    },
+    {
+      "common_id": 11657,
+      "tree_id": 812,
+      "common": "BROADLEAF PRIVET",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 9
+    },
+    {
+      "common_id": 11658,
+      "tree_id": 812,
+      "common": "BROAD LEAF PRIVET",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 10
+    }
+  ],
+  "genericCommonNames": [
+    "PRIVET"
+  ],
+  "images": [
+    {
+      "photo_link_id": 7451,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/12/original/ligustrum-lucidum-tree-3.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter",
+      "attribute_name": "tree-3"
+    },
+    {
+      "photo_link_id": 7452,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/12/original/ligustrum-lucidum-tree.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 7453,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/12/original/ligustrum-lucidum-tree-4.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter",
+      "attribute_name": "tree-4"
+    },
+    {
+      "photo_link_id": 7454,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/12/original/ligustrum-lucidum-tree-2.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 7455,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/12/original/ligustrum-lucidum-tree-5.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter",
+      "attribute_name": "tree-5"
+    },
+    {
+      "photo_link_id": 23596,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/12/original/Ligustrum-lucidum.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 7456,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/12/original/ligustrum-lucidum-leaves-2.jpg",
+      "sequence": 7,
+      "credit": "M. Ritter",
+      "attribute_name": "leaves-2"
+    },
+    {
+      "photo_link_id": 7457,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/12/original/ligustrum-lucidum-leaves.jpg",
+      "sequence": 8,
+      "credit": "M. Ritter",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 7458,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/12/original/ligustrum-lucidum-leaves-close-up.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter",
+      "attribute_name": "leaves-close-up"
+    },
+    {
+      "photo_link_id": 7459,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/12/original/ligustrum-lucidum-flowers.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter",
+      "attribute_name": "flowers"
+    },
+    {
+      "photo_link_id": 7460,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/12/original/ligustrum-lucidum-flowers-close-up.jpg",
+      "sequence": 11,
+      "credit": "M. Ritter",
+      "attribute_name": "flowers-close-up"
+    },
+    {
+      "photo_link_id": 7461,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/12/original/ligustrum-lucidum-fruit.jpg",
+      "sequence": 12,
+      "credit": "M. Ritter",
+      "attribute_name": "fruit"
+    },
+    {
+      "photo_link_id": 7462,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/12/original/ligustrum-lucidum-fruit-3.jpg",
+      "sequence": 13,
+      "credit": "M. Ritter",
+      "attribute_name": "fruit-3"
+    },
+    {
+      "photo_link_id": 7463,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/12/original/ligustrum-lucidum-fruit-2.jpg",
+      "sequence": 14,
+      "credit": "M. Ritter",
+      "attribute_name": "fruit-2"
+    },
+    {
+      "photo_link_id": 7464,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/12/original/ligustrum-lucidum-bark.jpg",
+      "sequence": 15,
+      "credit": "M. Ritter",
+      "attribute_name": "bark"
+    },
+    {
+      "photo_link_id": 7465,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/12/original/ligustrum-lucidum-bark-2.jpg",
+      "sequence": 16,
+      "credit": "M. Ritter",
+      "attribute_name": "bark-2"
+    }
+  ],
+  "landscape_application": [
+    "Screen Tree"
+  ],
+  "landscape_use": [],
+  "sunset_zone": [
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "H1",
+    "H2"
+  ],
+  "formatted_sunset_zones": [
+    "5 - 24",
+    "H1",
+    "H2"
+  ],
+  "usda_zone": [
+    8,
+    9,
+    10
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [],
+  "disease_susceptibility": [
+    "Armillaria",
+    "Phytophthora",
+    "Root Rot",
+    "Sooty Mold"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [
+    "Aphids",
+    "Leaf Miner"
+  ],
+  "health_hazard": [
+    "Allergy",
+    "Poisonous"
+  ],
+  "attracts_wildlife": [
+    "Birds"
+  ],
+  "fruit_value": [],
+  "fruiting_time": [
+    "Fall",
+    "Winter",
+    "Summer"
+  ],
+  "flower_time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower_color": [
+    "White"
+  ],
+  "foliage_growth_color": [
+    "Dark Green"
+  ],
+  "bark_texture": [
+    "Smooth"
+  ],
+  "tree_shape": [
+    "Rounded"
+  ],
+  "litter_type": [
+    "Wet Fruit"
+  ],
+  "climate_adapted_regions": [],
+  "appraisal_text": "Group 3, Approx. cross sectional area 3.80 sq. in.",
+  "app_grrating": "3",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Ligustrum_lucidum"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/77740-Ligustrum-lucidum"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:610017-1"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 2
+}

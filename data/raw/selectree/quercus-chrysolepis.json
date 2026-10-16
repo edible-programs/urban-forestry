@@ -1,0 +1,396 @@
+{
+  "tree_id": 1232,
+  "family": "Fagaceae",
+  "memo": "Canyon live or maul oak is the most widely distributed oak in California, ranging from Baja California to southern Oregon and eastward into Arizona. It can grow from a small shrub on exposed ridges to a massive tree in deep canyons, where it matures as one of the worldÕs largest oak species. It has a dark, evergreen canopy of leaves that vary wildly in shape and size, often on a single branch. The leaf edges are irregularly spine-toothed or completely smooth and everything in between. When young, the leaf underside is covered with golden hairs but eventually becomes pale gray-green and hairless. The acorn cups, which are lined with golden felt, are usually much wider than the acorn itself.",
+  "fragrance": 0,
+  "native_range": "California and Southwestern United States",
+  "photolocations": "Rancho Santa Ana Botanic Gardens - Claremont, CA, Tilden Regional Parks Botanic Garden - Berkeley, CA, Strybing Arboretum - San Francisco, CA and Hoyt Arboretum - Portland, OR, and in the wild throughout California",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 1,
+  "ethnobotanical_info": "",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 1,
+  "schoolyard_use_notes": "This tree offers opportunities to learn about ethnobotany, ecology, and symbiosis. The acorns are an important food resource for indigenous people and are still processed for cooking and baking. They provide important insight into human history on the California coast. In addition to human use, the acorns are important food for squirrels, deer, and small mammals. Acorn woodpeckers (Melanerpes formicivorus) rely heavily on these trees for food resources caching hundreds to thousands of acorns in granaries to supplement their diet of insects. The tree produces soft, golden fuzz on the underside of its new leaves. Additionally, the acorns and acorn cupules are great materials for natural art projects.\n",
+  "soil_ph_low": 1,
+  "soil_ph_high": 5,
+  "planting_area": ">7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Strong",
+  "branch_strength_high": "Strong",
+  "root_damage_potential": "Moderate",
+  "biogenic_emissions": "High",
+  "deer_palatable": -1,
+  "height_high": 70,
+  "height_memo": null,
+  "width_high": 30,
+  "growth_rate_high": 24,
+  "water_use": "Low",
+  "salt_tolerance": "Moderate",
+  "fruit_size": "Medium",
+  "fruit_color": "Brown",
+  "fruit_type": "Acorn",
+  "flower_showiness": "Inconspicuous",
+  "bark_color": [
+    "Light Green",
+    "Light Gray or Red Brown"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Oval",
+  "foliage_fall_color": 0,
+  "foliage_type": "Evergreen",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": null,
+  "suitability_map": null,
+  "future_suitability_map": null,
+  "sex_explanation": null,
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 1214,
+    "tree_id": 1232,
+    "common": "CANYON LIVE OAK",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 0
+  },
+  "primary_taxon": {
+    "taxon_id": 1214,
+    "genus": "Quercus",
+    "species": "chrysolepis",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Quercus chrysolepis"
+  },
+  "other_taxa": [],
+  "other_common": [
+    {
+      "common_id": 4104,
+      "tree_id": 1232,
+      "common": "MAUL OAK",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 1
+    },
+    {
+      "common_id": 4105,
+      "tree_id": 1232,
+      "common": "GOLDENCUP OAK",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 12241,
+      "tree_id": 1232,
+      "common": "GOLDCUP OAK",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 3
+    },
+    {
+      "common_id": 12242,
+      "tree_id": 1232,
+      "common": "CANYON OAK",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 4
+    }
+  ],
+  "genericCommonNames": [
+    "OAK"
+  ],
+  "images": [
+    {
+      "photo_link_id": 11285,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/32/original/quercus-chrysolepis-tree-2.jpg",
+      "sequence": 1,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 11286,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/32/original/quercus-chrysolepis-tree-3.jpg",
+      "sequence": 2,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "tree-3"
+    },
+    {
+      "photo_link_id": 23299,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/32/original/Quercus-chrysolepis2.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 11287,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/32/original/quercus-chrysolepis-tree.jpg",
+      "sequence": 4,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 26010,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/32/original/Qeurcus-chysolepis.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 11288,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/32/original/quercus-chrysolepis-leaves.jpg",
+      "sequence": 6,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 11289,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/32/original/quercus-chrysolepis-leaves-2.jpg",
+      "sequence": 7,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "leaves-2"
+    },
+    {
+      "photo_link_id": 11293,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/32/original/quercus-chrysolepis-flowers-2.jpg",
+      "sequence": 8,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "flowers-2"
+    },
+    {
+      "photo_link_id": 20125,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/32/original/Quercus-chrysolepis-(1).jpg",
+      "sequence": 9,
+      "credit": "M. Ritter ",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20126,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/32/original/Quercus-chrysolepis-leaf.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter ",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20127,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/32/original/Quercus-chrysolepis.jpg",
+      "sequence": 11,
+      "credit": "M. Ritter ",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20993,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/32/original/Quercus-chrysolepis-(2).jpg",
+      "sequence": 12,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20994,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/32/original/Quercus-chrysolepis-779fd228-0d9c-4ea2-b1bb-5dde0cf4bfd7.jpg",
+      "sequence": 13,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20995,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/32/original/Quercus-chrysolepis-(1)-7e0579fb-6a30-4a00-9fff-240b1eb3f21d.jpg",
+      "sequence": 14,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 11295,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/32/original/quercus-chrysolepis-fruit-2.jpg",
+      "sequence": 15,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "fruit-2"
+    },
+    {
+      "photo_link_id": 11296,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/32/original/quercus-chrysolepis-fruit-3.jpg",
+      "sequence": 16,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "fruit-3"
+    },
+    {
+      "photo_link_id": 23296,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/32/original/Quercus-chrysolepis-dacc38b9-cf7d-4706-b724-a3d4255122c2.jpg",
+      "sequence": 17,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 23298,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/32/original/Quercus-chrysolepis3.jpg",
+      "sequence": 18,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 23297,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/32/original/Quercus-chrysolepis1.jpg",
+      "sequence": 19,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 23295,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/32/original/Quercus-chrysolepis4.jpg",
+      "sequence": 20,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 11297,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/32/original/quercus-chrysolepis-leaves-and-fruit.jpg",
+      "sequence": 21,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "leaves-and-fruit"
+    },
+    {
+      "photo_link_id": 11298,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/32/original/quercus-chrysolepis-bark.jpg",
+      "sequence": 22,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "bark"
+    },
+    {
+      "photo_link_id": 11299,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/32/original/quercus-chrysolepis-bark-2.jpg",
+      "sequence": 23,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "bark-2"
+    }
+  ],
+  "landscape_application": [],
+  "landscape_use": [],
+  "sunset_zone": [
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24"
+  ],
+  "formatted_sunset_zones": [
+    "3 - 11",
+    "14 - 24"
+  ],
+  "usda_zone": [
+    7,
+    8,
+    9
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [
+    "Verticillium"
+  ],
+  "disease_susceptibility": [
+    "Sudden Oak Death",
+    "Crown Rot",
+    "Mistletoe",
+    "Armillaria"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [
+    "Invasive Shot Hole Borer",
+    "Goldspotted Oak Borer",
+    "Aphids",
+    "Caterpillars"
+  ],
+  "health_hazard": [
+    "Allergy",
+    "Poisonous"
+  ],
+  "attracts_wildlife": [
+    "Birds",
+    "Squirrels"
+  ],
+  "fruit_value": [],
+  "fruiting_time": [
+    "Fall",
+    "Winter"
+  ],
+  "flower_time": [
+    "Spring"
+  ],
+  "flower_color": [],
+  "foliage_growth_color": [
+    "Dark Green"
+  ],
+  "bark_texture": [
+    "Furrowed",
+    "Scaly",
+    "Smooth"
+  ],
+  "tree_shape": [
+    "Rounded"
+  ],
+  "litter_type": [
+    "Dry Fruit"
+  ],
+  "climate_adapted_regions": [
+    "Inland Empire",
+    "Inland Valleys",
+    "Interior West",
+    "Northern California Coast",
+    "Southern California Coast"
+  ],
+  "appraisal_text": "Suggested LCANT 24\" box, Group Rating 2, Approx. cross sectional area 2.24 sq. in.",
+  "app_grrating": "2",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Quercus_chrysolepis"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/51092-Quercus-chrysolepis"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:295951-1"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 2
+}

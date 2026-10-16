@@ -1,0 +1,372 @@
+{
+  "tree_id": 819,
+  "family": "Hamamelidaceae",
+  "memo": "&lt;em&gt;Liquidambar styraciflua&lt;/em&gt;, commonly known as sweetgum, is a large deciduous tree native to the eastern United States and Mexico. This species develops a straight bole and, at maturity, a broad, rounded crown. Its leaves are particularly distinctive, featuring five lobes with sharply acuminate tips and serrated margins. Renowned for its striking autumn coloration, sweetgum is a popular choice for street and landscape plantings. However, its vigorous root system can damage sidewalks and pavement, requiring ample planting space. Additionally, the tree produces spherical fruits, commonly referred to as “gum balls,” which fall in spring and may create maintenance issues. This species is resistant to oak root fungus.",
+  "fragrance": 0,
+  "native_range": "Eastern United States",
+  "photolocations": "Los Angeles County Arboretum - Arcadia, CA, Huntington Botanical Gardens - San Marino, CA, The National Arboretum - Washington, DC, Hoyt Arboretum - Portland, OR and Arnold Arboretum - Boston, MA",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 0,
+  "ethnobotanical_info": "",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 0,
+  "schoolyard_use_notes": "",
+  "soil_ph_low": 1,
+  "soil_ph_high": 5,
+  "planting_area": ">7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Medium",
+  "branch_strength_high": "Medium",
+  "root_damage_potential": "High",
+  "biogenic_emissions": "High",
+  "deer_palatable": -1,
+  "height_high": 80,
+  "height_memo": null,
+  "width_high": 40,
+  "growth_rate_high": 36,
+  "water_use": "Medium",
+  "salt_tolerance": "Moderate",
+  "fruit_size": "Large",
+  "fruit_color": "Brown, Beige or Mostly Green",
+  "fruit_type": "Capsule",
+  "flower_showiness": "Inconspicuous",
+  "sex": "Dioecious",
+  "bark_color": [
+    "Light Green or Light Gray"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Palmately Lobed",
+  "foliage_fall_color": 1,
+  "foliage_type": "Deciduous",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": "Medium High",
+  "suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/19/original/819_current_suitability_map.png",
+  "future_suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/19/original/819_future_suitability_map.png",
+  "sex_explanation": "Has either male or female reproductive parts (dioecious)",
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 804,
+    "tree_id": 819,
+    "common": "AMERICAN SWEETGUM",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 0
+  },
+  "primary_taxon": {
+    "taxon_id": 804,
+    "genus": "Liquidambar",
+    "species": "styraciflua",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Liquidambar styraciflua"
+  },
+  "other_taxa": [],
+  "other_common": [
+    {
+      "common_id": 3440,
+      "tree_id": 819,
+      "common": "LIQUIDAMBAR",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 1
+    },
+    {
+      "common_id": 11668,
+      "tree_id": 819,
+      "common": "AMERICAN STORAX",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 11669,
+      "tree_id": 819,
+      "common": "AMERICAN SWEET GUM",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 3
+    },
+    {
+      "common_id": 11670,
+      "tree_id": 819,
+      "common": "SATIN WALNUT",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 4
+    },
+    {
+      "common_id": 11671,
+      "tree_id": 819,
+      "common": "ALLIGATOR WOOD",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 5
+    },
+    {
+      "common_id": 11672,
+      "tree_id": 819,
+      "common": "SWEETGUM",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 6
+    },
+    {
+      "common_id": 11673,
+      "tree_id": 819,
+      "common": "SWEET GUM",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 7
+    }
+  ],
+  "genericCommonNames": [
+    "SWEETGUM"
+  ],
+  "images": [
+    {
+      "photo_link_id": 7490,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/19/original/liquidambar-styraciflua-tree-3.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-3"
+    },
+    {
+      "photo_link_id": 7491,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/19/original/liquidambar-styraciflua-tree-2.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 7492,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/19/original/liquidambar-styraciflua-tree.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 7493,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/19/original/liquidambar-styraciflua-tree-fall.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-fall"
+    },
+    {
+      "photo_link_id": 7494,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/19/original/liquidambar-styraciflua-canopy-fall.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "canopy-fall"
+    },
+    {
+      "photo_link_id": 7495,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/19/original/liquidambar-styraciflua-tree-winter.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-winter"
+    },
+    {
+      "photo_link_id": 7496,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/19/original/liquidambar-styraciflua-leaves.jpg",
+      "sequence": 7,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 7497,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/19/original/liquidambar-styraciflua-leaves-2.jpg",
+      "sequence": 8,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves-2"
+    },
+    {
+      "photo_link_id": 7498,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/19/original/liquidambar-styraciflua-buds.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "buds"
+    },
+    {
+      "photo_link_id": 7499,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/19/original/liquidambar-styraciflua-leaves-close-up.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves-close-up"
+    },
+    {
+      "photo_link_id": 7500,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/19/original/liquidambar-styraciflua-leaves-variation.jpg",
+      "sequence": 11,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves-variation"
+    },
+    {
+      "photo_link_id": 7501,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/19/original/liquidambar-styraciflua-flowers.jpg",
+      "sequence": 12,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "flowers"
+    },
+    {
+      "photo_link_id": 7502,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/19/original/liquidambar-styraciflua-flowers-2.jpg",
+      "sequence": 13,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "flowers-2"
+    },
+    {
+      "photo_link_id": 7503,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/19/original/liquidambar-styraciflua-fruit-2.jpg",
+      "sequence": 14,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit-2"
+    },
+    {
+      "photo_link_id": 29105,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/19/original/Liquidambar-styraciflua.jpg",
+      "sequence": 15,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 29106,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/19/original/Liquidambar-styraciflua-(1).jpg",
+      "sequence": 16,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 7504,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/19/original/liquidambar-styraciflua-bark-2.jpg",
+      "sequence": 17,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "bark-2"
+    }
+  ],
+  "landscape_application": [
+    "Riparian"
+  ],
+  "landscape_use": [],
+  "sunset_zone": [
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24"
+  ],
+  "formatted_sunset_zones": [
+    "3 - 9",
+    "14 - 24"
+  ],
+  "usda_zone": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [
+    "Verticillium"
+  ],
+  "disease_susceptibility": [
+    "Armillaria",
+    "Anthracnose",
+    "Chlorosis",
+    "Sooty Mold",
+    "Root Rot"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [
+    "Invasive Shot Hole Borer",
+    "Aphids",
+    "Caterpillars",
+    "Scales",
+    "Gypsy Moth"
+  ],
+  "health_hazard": [
+    "None Known"
+  ],
+  "attracts_wildlife": [],
+  "fruit_value": [
+    "Wildlife use it"
+  ],
+  "fruiting_time": [
+    "Fall"
+  ],
+  "flower_time": [
+    "Spring"
+  ],
+  "flower_color": [],
+  "foliage_growth_color": [
+    "Dark Green"
+  ],
+  "bark_texture": [
+    "Furrowed"
+  ],
+  "tree_shape": [
+    "Conical"
+  ],
+  "litter_type": [
+    "Dry Fruit"
+  ],
+  "climate_adapted_regions": [],
+  "appraisal_text": "Suggested LCANT 24\" box, Group Rating 2, Approx. cross sectional area 2.24 sq. in.",
+  "app_grrating": "2",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Liquidambar_styraciflua"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/49658-Liquidambar-styraciflua"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:430718-1"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "/sweetgum/"
+    }
+  ],
+  "champ_count": 0
+}

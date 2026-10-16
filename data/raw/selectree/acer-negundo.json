@@ -1,0 +1,463 @@
+{
+  "tree_id": 60,
+  "family": "Sapindaceae",
+  "memo": "This adaptable tree thrives in a variety of urban environments, offering a touch of green to cityscapes. It has compound leaves with multiple leaflets that provide a delicate, airy appearance. In the fall, the foliage can turn a bright yellow, adding seasonal interest. The tree's branches are often irregular and can create a unique, somewhat wild silhouette. It's a fast-growing species, making it a popular choice for quick shade. Its tolerance to different soil types and conditions makes it a resilient option for urban landscaping.",
+  "fragrance": 1,
+  "native_range": "California",
+  "photolocations": "San Luis Obispo, CA, Rancho Santa Ana Botanic Gardens - Claremont, CA, LSU Hilltop Arboretum - Baton Rouge, LA and Finch Arboretum - Spokane, WA",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 1,
+  "ethnobotanical_info": "",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 1,
+  "schoolyard_use_notes": "This tree has compound leaves with multiple leaflets that can be used to teach about leaf structure and compound versus simple leaves. It is deciduous, making it a good example for lessons on seasonal changes. The tree produces clusters of small, winged seeds that spin as they fall, illustrating seed dispersal by wind. Its adaptability to different environments can also serve as a discussion point for plant resilience and habitat preferences.",
+  "soil_ph_low": 1,
+  "soil_ph_high": 7,
+  "planting_area": ">7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Weak",
+  "branch_strength_high": "Weak",
+  "root_damage_potential": "Moderate",
+  "biogenic_emissions": "Moderate",
+  "deer_palatable": -1,
+  "height_high": 50,
+  "height_memo": null,
+  "width_high": 40,
+  "growth_rate_high": 36,
+  "water_use": "High",
+  "salt_tolerance": "Moderate",
+  "fruit_size": "Medium",
+  "fruit_color": "Beige or Red",
+  "fruit_type": "Samara",
+  "flower_showiness": "Inconspicuous",
+  "bark_color": [
+    "Black or Dark Gray"
+  ],
+  "leaf_arrangement": "Opposite",
+  "leaf_form": "Pinnately Compound",
+  "leaflet_shape": "Oval",
+  "foliage_fall_color": 1,
+  "foliage_type": "Deciduous",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": "Medium Low",
+  "suitability_map": null,
+  "future_suitability_map": null,
+  "sex_explanation": null,
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 60,
+    "tree_id": 60,
+    "common": "BOX ELDER",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 0
+  },
+  "primary_taxon": {
+    "taxon_id": 60,
+    "genus": "Acer",
+    "species": "negundo",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Acer negundo"
+  },
+  "other_taxa": [],
+  "other_common": [
+    {
+      "common_id": 10612,
+      "tree_id": 60,
+      "common": "WESTERN BOX ELDER",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 1
+    },
+    {
+      "common_id": 10613,
+      "tree_id": 60,
+      "common": "WESTERN BOXELDER",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 10614,
+      "tree_id": 60,
+      "common": "MANITOBA MAPLE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 3
+    },
+    {
+      "common_id": 10615,
+      "tree_id": 60,
+      "common": "CALIFORNIA BOXELDER",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 4
+    },
+    {
+      "common_id": 10616,
+      "tree_id": 60,
+      "common": "BOX ELDER MAPLE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 5
+    },
+    {
+      "common_id": 10617,
+      "tree_id": 60,
+      "common": "THREE LEAVED MAPLE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 6
+    },
+    {
+      "common_id": 10618,
+      "tree_id": 60,
+      "common": "ASH LEAF MAPLE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 7
+    },
+    {
+      "common_id": 10619,
+      "tree_id": 60,
+      "common": "BOXELDER MAPLE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 8
+    },
+    {
+      "common_id": 10620,
+      "tree_id": 60,
+      "common": "BOXELDER",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 9
+    },
+    {
+      "common_id": 10621,
+      "tree_id": 60,
+      "common": "THREE LEAF MAPLE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 10
+    },
+    {
+      "common_id": 10622,
+      "tree_id": 60,
+      "common": "ASHLEAF MAPLE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 11
+    }
+  ],
+  "genericCommonNames": [
+    "MAPLE"
+  ],
+  "images": [
+    {
+      "photo_link_id": 616,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/60/original/acer-negundo-tree.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter, C. Stubler and J. Reimer",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 615,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/60/original/acer-negundo-tree-3.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter, C. Stubler and J. Reimer",
+      "attribute_name": "tree-3"
+    },
+    {
+      "photo_link_id": 617,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/60/original/acer-negundo-tree-2.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter, C. Stubler and J. Reimer",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 29058,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/60/original/Acer-negundo-(2).jpg",
+      "sequence": 4,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 32695,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/60/original/Acer-negundo-7102b290-597e-4a01-a3a6-3d897acf4545.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 33557,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/60/original/Acer-negundo-f958d5c6-3ed8-46bb-bc1f-f1402885ff61.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 29056,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/60/original/Acer-negundo-bee6d558-05f4-4812-9772-809354c0d78a.jpg",
+      "sequence": 7,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 23499,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/60/original/Acer-negundo-(1).jpg",
+      "sequence": 8,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 620,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/60/original/acer-negundo-leaves-californicum.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter, C. Stubler and J. Reimer",
+      "attribute_name": "leaves-californicum"
+    },
+    {
+      "photo_link_id": 621,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/60/original/acer-negundo-leaves-4.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter, C. Stubler and J. Reimer",
+      "attribute_name": "leaves-4"
+    },
+    {
+      "photo_link_id": 623,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/60/original/acer-negundo-leaves-3.jpg",
+      "sequence": 11,
+      "credit": "M. Ritter, C. Stubler and J. Reimer",
+      "attribute_name": "leaves-3"
+    },
+    {
+      "photo_link_id": 622,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/60/original/acer-negundo-leaves-2.jpg",
+      "sequence": 12,
+      "credit": "M. Ritter, C. Stubler and J. Reimer",
+      "attribute_name": "leaves-2"
+    },
+    {
+      "photo_link_id": 618,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/60/original/acer-negundo-leaves-close-up.jpg",
+      "sequence": 13,
+      "credit": "M. Ritter, C. Stubler and J. Reimer",
+      "attribute_name": "leaves-close-up"
+    },
+    {
+      "photo_link_id": 619,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/60/original/acer-negundo-leaf-close-up.jpg",
+      "sequence": 14,
+      "credit": "M. Ritter, C. Stubler and J. Reimer",
+      "attribute_name": "leaf-close-up"
+    },
+    {
+      "photo_link_id": 624,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/60/original/acer-negundo-leaves-fall-2.jpg",
+      "sequence": 15,
+      "credit": "M. Ritter, C. Stubler and J. Reimer",
+      "attribute_name": "leaves-fall-2"
+    },
+    {
+      "photo_link_id": 625,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/60/original/acer-negundo-leaves-fall.jpg",
+      "sequence": 16,
+      "credit": "M. Ritter, C. Stubler and J. Reimer",
+      "attribute_name": "leaves-fall"
+    },
+    {
+      "photo_link_id": 23500,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/60/original/Acer-negundo.jpg",
+      "sequence": 17,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25013,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/60/original/Acer-negundo-(1)-9be36638-ae88-4802-a7f8-eedc5a45c8cc.jpg",
+      "sequence": 18,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25012,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/60/original/Acer-negundo-aacc2edf-4ea3-4eed-9ed0-55746887d3c1.jpg",
+      "sequence": 19,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 626,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/60/original/acer-negundo-fruit-2.jpg",
+      "sequence": 20,
+      "credit": "M. Ritter, C. Stubler and J. Reimer",
+      "attribute_name": "fruit-2"
+    },
+    {
+      "photo_link_id": 627,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/60/original/acer-negundo-leaves-and-fruit.jpg",
+      "sequence": 21,
+      "credit": "M. Ritter, C. Stubler and J. Reimer",
+      "attribute_name": "fruit"
+    },
+    {
+      "photo_link_id": 29057,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/60/original/Acer-negundo-(1)-a22e43d2-ac4b-473e-9f92-e5d6f9f5b53a.jpg",
+      "sequence": 22,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 628,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/60/original/acer-negundo-bark-2.jpg",
+      "sequence": 23,
+      "credit": "M. Ritter, C. Stubler and J. Reimer",
+      "attribute_name": "bark-2"
+    },
+    {
+      "photo_link_id": 629,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0000/60/original/acer-negundo-bark.jpg",
+      "sequence": 24,
+      "credit": "M. Ritter, C. Stubler and J. Reimer",
+      "attribute_name": "bark"
+    }
+  ],
+  "landscape_application": [
+    "Riparian",
+    "Screen Tree"
+  ],
+  "landscape_use": [
+    "Bonsai"
+  ],
+  "sunset_zone": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24"
+  ],
+  "formatted_sunset_zones": [
+    "1 - 10",
+    "12 - 24"
+  ],
+  "usda_zone": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand"
+  ],
+  "disease_resistant": [],
+  "disease_susceptibility": [
+    "Armillaria",
+    "Leaf Blight",
+    "Fusarium",
+    "Powdery Mildew"
+  ],
+  "pest_resistant": [
+    "Gypsy Moth"
+  ],
+  "pest_susceptibility": [
+    "Invasive Shot Hole Borer",
+    "Aphids",
+    "Beetle Borers"
+  ],
+  "health_hazard": [
+    "Allergy",
+    "Irritant"
+  ],
+  "attracts_wildlife": [
+    "Mammals"
+  ],
+  "fruit_value": [],
+  "fruiting_time": [
+    "Summer"
+  ],
+  "flower_time": [
+    "Spring"
+  ],
+  "flower_color": [
+    "Green",
+    "Pink"
+  ],
+  "foliage_growth_color": [
+    "Light Green"
+  ],
+  "bark_texture": [
+    "Blocky",
+    "Furrowed"
+  ],
+  "tree_shape": [
+    "Rounded"
+  ],
+  "litter_type": [
+    "Dry Fruit",
+    "Leaves",
+    "Twigs"
+  ],
+  "climate_adapted_regions": [
+    "Northern California Coast"
+  ],
+  "appraisal_text": "Suggested LCANT 24\" box, Group Rating 4, Approx. cross sectional area 4.75 sq. in.",
+  "app_grrating": "4",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Acer_negundo"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/47726-Acer-negundo"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:781412-1"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "/box-elder/"
+    }
+  ],
+  "champ_count": 2
+}

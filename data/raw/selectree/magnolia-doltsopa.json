@@ -1,0 +1,312 @@
+{
+  "tree_id": 941,
+  "family": "Magnoliaceae",
+  "memo": "This tree is known for its fragrant, creamy white flowers that bloom in the spring, filling the air with a delightful scent. Its dark green, glossy leaves provide a lush backdrop for the blossoms, making it a stunning addition to any urban landscape. The tree has a graceful, upright growth habit, often forming a dense canopy that offers ample shade. It thrives in well-drained soil and prefers a sunny spot, though it can tolerate partial shade. This tree is also relatively low-maintenance, requiring only occasional pruning to maintain its shape and health.",
+  "fragrance": 1,
+  "native_range": "China and Western Himalayas",
+  "photolocations": "Los Angeles County Arboretum - Arcadia, CA, Strybing Arboretum - San Francisco, CA, San Luis Obispo, CA and UC Santa Cruz Arboretum - Santa Cruz, CA",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 0,
+  "ethnobotanical_info": "",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 1,
+  "schoolyard_use_notes": "This tree has glossy, dark green leaves that can be used to teach about leaf anatomy and the role of evergreen species. Its fragrant, creamy-white flowers are perfect for lessons on pollination and plant reproduction. The flowers bloom in clusters, making them easy to observe and study. The tree's dense foliage provides ample shade, creating a comfortable outdoor learning environment.",
+  "soil_ph_low": 1,
+  "soil_ph_high": 5,
+  "planting_area": "4 to 7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Medium",
+  "branch_strength_high": "Medium",
+  "root_damage_potential": "Low",
+  "biogenic_emissions": "",
+  "deer_palatable": null,
+  "height_high": 40,
+  "height_memo": null,
+  "width_high": 20,
+  "growth_rate_high": 12,
+  "water_use": "Medium",
+  "salt_tolerance": "Moderate",
+  "fruit_size": "Medium",
+  "fruit_color": "Red or Mostly Green",
+  "fruit_type": "Capsule",
+  "flower_showiness": "Showy",
+  "sex": "Perfect Flowers",
+  "bark_color": [
+    "Dark Gray"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Oval",
+  "foliage_fall_color": 0,
+  "foliage_type": "Evergreen",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": null,
+  "suitability_map": null,
+  "future_suitability_map": null,
+  "sex_explanation": "Has male and female reproductive parts in each flower (perfect)",
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 925,
+    "tree_id": 941,
+    "common": "SWEET MICHELIA",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 1
+  },
+  "primary_taxon": {
+    "taxon_id": 925,
+    "genus": "Michelia",
+    "species": "doltsopa",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Michelia doltsopa"
+  },
+  "other_taxa": [
+    {
+      "taxon_id": 2334,
+      "genus": "Magnolia",
+      "species": "doltsopa",
+      "hybrid_alt_species": "",
+      "subspecies": "",
+      "variety": "",
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 2,
+      "name_concat": "Magnolia doltsopa"
+    }
+  ],
+  "other_common": [],
+  "genericCommonNames": [
+    "MICHELIA"
+  ],
+  "images": [
+    {
+      "photo_link_id": 27156,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/41/original/Michelia-doltsopa-SLO.jpg",
+      "sequence": 1,
+      "credit": "J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 33400,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/41/original/Michelia-doltsopa-3e2507bd-1266-48a7-a139-cd7354c4cb39.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 8611,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/41/original/michelia-doltsopa-tree-2.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 8612,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/41/original/michelia-doltsopa-tree.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 8613,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/41/original/michelia-doltsopa-tree-young.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-young"
+    },
+    {
+      "photo_link_id": 8614,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/41/original/michelia-doltsopa-leaves-2.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves-2"
+    },
+    {
+      "photo_link_id": 8615,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/41/original/michelia-doltsopa-leaves.jpg",
+      "sequence": 7,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 8616,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/41/original/michelia-doltsopa-leaves-3.jpg",
+      "sequence": 8,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves-3"
+    },
+    {
+      "photo_link_id": 8617,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/41/original/michelia-doltsopa-flower.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "flower"
+    },
+    {
+      "photo_link_id": 8618,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/41/original/michelia-doltsopa-flower-2.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "flower-2"
+    },
+    {
+      "photo_link_id": 8619,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/41/original/michelia-doltsopa-flower-3.jpg",
+      "sequence": 11,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "flower-3"
+    },
+    {
+      "photo_link_id": 8620,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/41/original/michelia-doltsopa-flower-buds.jpg",
+      "sequence": 12,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "flower-buds"
+    },
+    {
+      "photo_link_id": 8621,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/41/original/michelia-doltsopa-fruit-young.jpg",
+      "sequence": 13,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit-young"
+    },
+    {
+      "photo_link_id": 8622,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/41/original/michelia-doltsopa-fruit.jpg",
+      "sequence": 14,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit"
+    },
+    {
+      "photo_link_id": 8623,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/41/original/michelia-doltsopa-fruit-2.jpg",
+      "sequence": 15,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit-2"
+    },
+    {
+      "photo_link_id": 23881,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/41/original/Michelia-doltsopa.jpg",
+      "sequence": 16,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 8624,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/41/original/michelia-doltsopa-bark-young.jpg",
+      "sequence": 17,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "bark-young"
+    },
+    {
+      "photo_link_id": 8625,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/41/original/michelia-doltsopa-bark.jpg",
+      "sequence": 18,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "bark"
+    }
+  ],
+  "landscape_application": [
+    "Screen Tree"
+  ],
+  "landscape_use": [],
+  "sunset_zone": [
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24"
+  ],
+  "formatted_sunset_zones": [
+    "14 - 24"
+  ],
+  "usda_zone": [
+    9
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand"
+  ],
+  "disease_resistant": [],
+  "disease_susceptibility": [],
+  "pest_resistant": [],
+  "pest_susceptibility": [],
+  "health_hazard": [
+    "None Known"
+  ],
+  "attracts_wildlife": [],
+  "fruit_value": [],
+  "fruiting_time": [
+    "Summer"
+  ],
+  "flower_time": [
+    "Winter",
+    "Spring"
+  ],
+  "flower_color": [
+    "Cream",
+    "Green",
+    "White"
+  ],
+  "foliage_growth_color": [
+    "Dark Green"
+  ],
+  "bark_texture": [
+    "Smooth"
+  ],
+  "tree_shape": [
+    "Conical",
+    "Rounded"
+  ],
+  "litter_type": [
+    "Dry Fruit",
+    "Flowers"
+  ],
+  "climate_adapted_regions": [],
+  "appraisal_text": "Suggested LCANT 24\" box, Group Rating 2, Approx. cross sectional area 2.24 sq. in.",
+  "app_grrating": "2",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Magnolia_doltsopa"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/135422-Magnolia-doltsopa"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:554956-1"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 0
+}

@@ -1,0 +1,427 @@
+{
+  "tree_id": 1323,
+  "family": "Anacardiaceae",
+  "memo": "This species is widely naturalized in Hawai‘i, as it is in tropical areas worldwide. In California it only occasionally naturalizes. Female trees produce bright red fruit, dispersed by birds into forested areas and used as decoration, in leis, and wreaths. The sap can cause an allergic reaction on the skin of many people. The berries are used and sold as pink peppercorns in culinary realms and often blended with commercial pepper (&lt;em&gt;Piper nigrum&lt;/em&gt;).&amp;nbsp;We do not recommend planting this tree in Hawai‘i.According to Zona, S. (2015). The correct gender of Schinus (Anacardiaceae). Phytotaxa, 222(1), 75&amp;ndash;77, the correct specific epithet is terebinthifolia. The name is commonly misspelled as &amp;quot;terebinthifolius&amp;quot; due to historic confusion about the gender of the genus. Schinus is feminine.&lt;em&gt;Schinus terebinthifolia&lt;/em&gt; has a HPWRA (Hawai‘i Pacific Weed Risk Assessment) score of 10 (High Risk).",
+  "fragrance": 0,
+  "native_range": "South America",
+  "photolocations": "Kauai, HI, Los Angeles County Arboretum - Arcadia, CA, Cal Poly State University - San Luis Obispo, CA and The National Arboretum - Washington, DC",
+  "display": 1,
+  "pacific_island": 1,
+  "california_native": 0,
+  "ethnobotanical_info": "",
+  "pi_invasive": 0,
+  "invasive_text": "This plant is classified as potentially invasive in specific areas of California by the California Invasive Plant Council (&lt;a href=&quot;http://www.cal-ipc.org/&quot;&gt;Cal-IPC&lt;/a&gt;).",
+  "ca_invasive": 1,
+  "schoolyard": 0,
+  "schoolyard_use_notes": null,
+  "soil_ph_low": 3,
+  "soil_ph_high": 7,
+  "planting_area": "4 to 7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Medium Weak",
+  "branch_strength_high": "Medium Weak",
+  "root_damage_potential": "Moderate",
+  "biogenic_emissions": "Moderate",
+  "deer_palatable": null,
+  "height_high": 30,
+  "height_memo": null,
+  "width_high": 30,
+  "growth_rate_high": 24,
+  "water_use": "Low",
+  "salt_tolerance": "Moderate",
+  "fruit_size": "Very Small",
+  "fruit_color": "Red",
+  "fruit_type": "Drupe",
+  "flower_showiness": "",
+  "bark_color": [
+    "Light Green or Light Gray"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Pinnately Compound",
+  "leaflet_shape": "Oblong",
+  "foliage_fall_color": 0,
+  "foliage_type": "Evergreen",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": null,
+  "suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/23/original/1323_current_suitability_map.png",
+  "future_suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/23/original/1323_future_suitability_map.png",
+  "sex_explanation": null,
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 9500,
+    "tree_id": 1323,
+    "common": "BRAZILIAN PEPPER OR CHRISTMAS BERRY",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 0
+  },
+  "primary_taxon": {
+    "taxon_id": 1304,
+    "genus": "Schinus",
+    "species": "terebinthifolia",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Schinus terebinthifolia"
+  },
+  "other_taxa": [
+    {
+      "taxon_id": 2444,
+      "genus": "Schinus",
+      "species": "terebinthifolius",
+      "hybrid_alt_species": "",
+      "subspecies": "",
+      "variety": "",
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 2,
+      "name_concat": "Schinus terebinthifolius"
+    }
+  ],
+  "other_common": [
+    {
+      "common_id": 8225,
+      "tree_id": 1323,
+      "common": "BRAZILIAN PEPPER",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 1
+    },
+    {
+      "common_id": 8226,
+      "tree_id": 1323,
+      "common": "CHRISTMAS BERRY",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 1
+    },
+    {
+      "common_id": 12382,
+      "tree_id": 1323,
+      "common": "BRAZILIAN PEPPERTREE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 8227,
+      "tree_id": 1323,
+      "common": "NANI-O-HILO",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 3
+    },
+    {
+      "common_id": 12383,
+      "tree_id": 1323,
+      "common": "WARUI",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 3
+    },
+    {
+      "common_id": 8228,
+      "tree_id": 1323,
+      "common": "WILELAIKI",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 4
+    },
+    {
+      "common_id": 12384,
+      "tree_id": 1323,
+      "common": "FLORIDA HOLLY",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 4
+    },
+    {
+      "common_id": 12385,
+      "tree_id": 1323,
+      "common": "BRAZILIAN PEPPER TREE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 5
+    },
+    {
+      "common_id": 12386,
+      "tree_id": 1323,
+      "common": "CHRISTMASBERRY TREE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 6
+    },
+    {
+      "common_id": 12387,
+      "tree_id": 1323,
+      "common": "MEXICAN PEPPER TREE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 7
+    }
+  ],
+  "genericCommonNames": [
+    "PEPPER TREE"
+  ],
+  "images": [
+    {
+      "photo_link_id": 12168,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/23/original/schinus-terebinthifolia-tree-2.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 12169,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/23/original/schinus-terebinthifolia-tree-3.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-3"
+    },
+    {
+      "photo_link_id": 24672,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/23/original/Schinus_terebinthIMG_7654.jpg",
+      "sequence": 3,
+      "credit": "C. Stubler and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 12170,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/23/original/schinus-terebinthifolia-tree.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 24135,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/23/original/Schinus-terebinthifolia.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter ",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 12171,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/23/original/schinus-terebinthifolia-tree-4.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-4"
+    },
+    {
+      "photo_link_id": 12172,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/23/original/schinus-terebinthifolia-tree-bonsai.jpg",
+      "sequence": 7,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-bonsai"
+    },
+    {
+      "photo_link_id": 12173,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/23/original/schinus-terebinthifolia-foliage.jpg",
+      "sequence": 8,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "foliage"
+    },
+    {
+      "photo_link_id": 32948,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/23/original/Schinus-terebinthifolia-58c7b657-6bf1-4440-8e8c-5b419c945661.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 32950,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/23/original/Schinus-terebinthifolia-(1)-ef7496a3-ac95-4edb-822d-868e1af36294.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 12174,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/23/original/schinus-terebinthifolia-leaves-2.jpg",
+      "sequence": 11,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves-2"
+    },
+    {
+      "photo_link_id": 32949,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/23/original/Schinus-terebinthifolia-(2).jpg",
+      "sequence": 12,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 12175,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/23/original/schinus-terebinthifolia-flowers-2.jpg",
+      "sequence": 13,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "flowers-2"
+    },
+    {
+      "photo_link_id": 12176,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/23/original/schinus-terebinthifolia-flowers.jpg",
+      "sequence": 14,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "flowers"
+    },
+    {
+      "photo_link_id": 12177,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/23/original/schinus-terebinthifolia-branch.jpg",
+      "sequence": 15,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "branch"
+    },
+    {
+      "photo_link_id": 12178,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/23/original/schinus-terebinthifolia-leaf.jpg",
+      "sequence": 16,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaf"
+    },
+    {
+      "photo_link_id": 17437,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/23/original/Schinus-terebinthifolia-(1).jpg",
+      "sequence": 17,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 12179,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/23/original/schinus-terebinthifolia-leaves-close-up.jpg",
+      "sequence": 18,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves-close-up"
+    },
+    {
+      "photo_link_id": 12180,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/23/original/schinus-terebinthifolia-fruit.jpg",
+      "sequence": 19,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit"
+    },
+    {
+      "photo_link_id": 12181,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/23/original/schinus-terebinthifolia-trunk.jpg",
+      "sequence": 20,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "trunk"
+    },
+    {
+      "photo_link_id": 12182,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1300/23/original/schinus-terebinthifolia-bark.jpg",
+      "sequence": 21,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "bark"
+    }
+  ],
+  "landscape_application": [
+    "Screen Tree"
+  ],
+  "landscape_use": [],
+  "sunset_zone": [
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "H1",
+    "H2"
+  ],
+  "formatted_sunset_zones": [
+    "13 - 17",
+    "19 - 24",
+    "H1",
+    "H2"
+  ],
+  "usda_zone": [
+    10,
+    11,
+    12
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [],
+  "disease_susceptibility": [
+    "Armillaria",
+    "Root Rot",
+    "Verticillium"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [
+    "Scales"
+  ],
+  "health_hazard": [
+    "Allergy",
+    "Irritant"
+  ],
+  "attracts_wildlife": [],
+  "fruit_value": [
+    "Wildlife use it"
+  ],
+  "fruiting_time": [
+    "Fall"
+  ],
+  "flower_time": [
+    "Summer"
+  ],
+  "flower_color": [
+    "White"
+  ],
+  "foliage_growth_color": [
+    "Dark Green"
+  ],
+  "bark_texture": [
+    "Furrowed"
+  ],
+  "tree_shape": [],
+  "litter_type": [
+    "Dry Fruit"
+  ],
+  "climate_adapted_regions": [
+    "Inland Empire",
+    "Inland Valleys",
+    "Southern California Coast"
+  ],
+  "appraisal_text": "Group —, Approx. cross sectional area —",
+  "app_grrating": "—",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Schinus_terebinthifolia"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/130872-Schinus-terebinthifolia"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:71069-1"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 6
+}

@@ -1,0 +1,372 @@
+{
+  "tree_id": 804,
+  "family": "Lauraceae",
+  "memo": "This tree is known for its aromatic, glossy green leaves that are often used in cooking. It has a dense, bushy growth habit, making it an excellent choice for hedges or privacy screens. The small, yellowish flowers it produces in spring are subtle but add a touch of charm. Over time, it can develop into a small to medium-sized tree with an attractive, smooth gray bark. Its evergreen nature ensures year-round greenery, and it thrives in well-drained soils and sunny locations. This tree is also quite drought-tolerant once established, making it a suitable option for urban landscapes.",
+  "fragrance": 1,
+  "native_range": "Mediterranean",
+  "photolocations": "Independence Park Botanic Garden - Baton Rouge, LA, Los Angeles County Arboretum - Arcadia, CA, Santa Barbara, CA, Quail Arboretum - Encinitas, CA and Blake Garden - Kensington, CA",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 0,
+  "ethnobotanical_info": "",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 1,
+  "schoolyard_use_notes": "This tree features glossy, aromatic leaves that can be used to teach about sensory experiences and plant-based culinary uses. The leaves remain evergreen, making it a good example for lessons on evergreen species and their adaptations. Small, yellowish flowers appear in clusters and can be used to discuss plant reproduction and pollination. Its compact size and dense foliage make it suitable for creating shaded outdoor classrooms or quiet study areas.",
+  "soil_ph_low": 1,
+  "soil_ph_high": 7,
+  "planting_area": "4 to 7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Medium",
+  "branch_strength_high": "Medium",
+  "root_damage_potential": "Moderate",
+  "biogenic_emissions": "Low",
+  "deer_palatable": null,
+  "height_high": 40,
+  "height_memo": null,
+  "width_high": 30,
+  "growth_rate_high": 24,
+  "water_use": "Medium",
+  "salt_tolerance": "Moderate",
+  "fruit_size": "Small",
+  "fruit_color": "Black or Purple",
+  "fruit_type": "Berry",
+  "flower_showiness": "",
+  "sex": "Dioecious",
+  "bark_color": [
+    "Dark Gray or Light Gray"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Ovate",
+  "foliage_fall_color": 0,
+  "foliage_type": "Evergreen",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": null,
+  "suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/04/original/804_current_suitability_map.png",
+  "future_suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/04/original/804_future_suitability_map.png",
+  "sex_explanation": "Has either male or female reproductive parts (dioecious)",
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 789,
+    "tree_id": 804,
+    "common": "SWEET BAY",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 1
+  },
+  "primary_taxon": {
+    "taxon_id": 789,
+    "genus": "Laurus",
+    "species": "nobilis",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Laurus nobilis"
+  },
+  "other_taxa": [],
+  "other_common": [
+    {
+      "common_id": 3404,
+      "tree_id": 804,
+      "common": "GRECIAN LAUREL",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 11634,
+      "tree_id": 804,
+      "common": "BAY LEAF LAUREL",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 3406,
+      "tree_id": 804,
+      "common": "BAY LARUEL",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 3
+    },
+    {
+      "common_id": 11635,
+      "tree_id": 804,
+      "common": "SWEETBAL TREE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 3
+    },
+    {
+      "common_id": 3407,
+      "tree_id": 804,
+      "common": "BAY LEAF",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 4
+    },
+    {
+      "common_id": 11636,
+      "tree_id": 804,
+      "common": "BAY",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 4
+    },
+    {
+      "common_id": 11637,
+      "tree_id": 804,
+      "common": "BAY LAUREL",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 5
+    },
+    {
+      "common_id": 11638,
+      "tree_id": 804,
+      "common": "LAUREL",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 6
+    }
+  ],
+  "genericCommonNames": [
+    "LAUREL"
+  ],
+  "images": [
+    {
+      "photo_link_id": 7370,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/04/original/laurus-nobilis-tree-2.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 7371,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/04/original/laurus-nobilis-tree.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 33519,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/04/original/Laurus-nobilis-(1).jpg",
+      "sequence": 3,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 33518,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/04/original/Laurus-nobilis.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 7372,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/04/original/laurus-nobilis-tree-4.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-4"
+    },
+    {
+      "photo_link_id": 7373,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/04/original/laurus-nobilis-tree-3.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-3"
+    },
+    {
+      "photo_link_id": 7374,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/04/original/laurus-nobilis-tree-5.jpg",
+      "sequence": 7,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-5"
+    },
+    {
+      "photo_link_id": 7375,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/04/original/laurus-nobilis-foliage.jpg",
+      "sequence": 8,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "foliage"
+    },
+    {
+      "photo_link_id": 7376,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/04/original/laurus-nobilis-leaves.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 7377,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/04/original/laurus-nobilis-leaves-2.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves-2"
+    },
+    {
+      "photo_link_id": 7378,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/04/original/laurus-nobilis-leaves-close-up.jpg",
+      "sequence": 11,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves-close-up"
+    },
+    {
+      "photo_link_id": 7379,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/04/original/laurus-nobilis-flowers.jpg",
+      "sequence": 12,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "flowers"
+    },
+    {
+      "photo_link_id": 7380,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/04/original/laurus-nobilis-flower-buds.jpg",
+      "sequence": 13,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "flower-buds"
+    },
+    {
+      "photo_link_id": 7381,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/04/original/laurus-nobilis-bark-2.jpg",
+      "sequence": 14,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "bark-2"
+    },
+    {
+      "photo_link_id": 7382,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0800/04/original/laurus-nobilis-bark.jpg",
+      "sequence": 15,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "bark"
+    }
+  ],
+  "landscape_application": [
+    "Screen Tree"
+  ],
+  "landscape_use": [
+    "Hedged",
+    "Topiary"
+  ],
+  "sunset_zone": [
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "H1",
+    "H2"
+  ],
+  "formatted_sunset_zones": [
+    "5 - 9",
+    "12 - 24",
+    "H1",
+    "H2"
+  ],
+  "usda_zone": [
+    8,
+    9,
+    10
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [
+    "Armillaria",
+    "Root Rot"
+  ],
+  "disease_susceptibility": [
+    "Phytophthora",
+    "Root Rot"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [
+    "Psyllid",
+    "Scales"
+  ],
+  "health_hazard": [
+    "None Known"
+  ],
+  "attracts_wildlife": [
+    "Birds"
+  ],
+  "fruit_value": [],
+  "fruiting_time": [
+    "Fall"
+  ],
+  "flower_time": [
+    "Spring"
+  ],
+  "flower_color": [
+    "Green",
+    "White",
+    "Yellow"
+  ],
+  "foliage_growth_color": [
+    "Bluish Green",
+    "Silver",
+    "Gray Green"
+  ],
+  "bark_texture": [
+    "Furrowed"
+  ],
+  "tree_shape": [
+    "Conical",
+    "Rounded"
+  ],
+  "litter_type": [
+    "Dry Fruit"
+  ],
+  "climate_adapted_regions": [],
+  "appraisal_text": "Suggested LCANT 24\" box, Group Rating 2, Approx. cross sectional area 2.24 sq. in.",
+  "app_grrating": "2",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Laurus_nobilis"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/54759-Laurus-nobilis"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:465049-1"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 0
+}

@@ -1,0 +1,409 @@
+{
+  "tree_id": 631,
+  "family": "Oleaceae",
+  "memo": "Oregon ash grows in canyons, on stream banks, and in swampy woodlands from central California north to British Columbia. In California, it occurs in the coast ranges from the San Francisco Bay region northward through the Klamath Range and in the interior through the length of the Sierra Nevada. Its leaflets are rounder and have shorter stalks than those of velvet ash, which tend to be more spearhead-shaped with short stalks.",
+  "fragrance": 0,
+  "native_range": "California, Oregon, and Washington",
+  "photolocations": "Santa Barbara Botanic Garden - Santa Barbara, CA, Rancho Santa Ana Botanic Gardens - Claremont, CA, Hoyt Arboretum - Portland, OR, Regional Parks Botanic Garden, Tilden Regional Park - Berkeley, CA, Merced River - El Portal, CA",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 1,
+  "ethnobotanical_info": "",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 0,
+  "schoolyard_use_notes": null,
+  "soil_ph_low": 1,
+  "soil_ph_high": 7,
+  "planting_area": ">7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Medium",
+  "branch_strength_high": "Medium",
+  "root_damage_potential": "Moderate",
+  "biogenic_emissions": "Low",
+  "deer_palatable": 0,
+  "height_high": 80,
+  "height_memo": null,
+  "width_high": 50,
+  "growth_rate_high": 36,
+  "water_use": "Medium",
+  "salt_tolerance": "Moderate",
+  "fruit_size": "Medium",
+  "fruit_color": "Yellow or Mostly Green",
+  "fruit_type": "Samara",
+  "flower_showiness": "Inconspicuous",
+  "bark_color": [
+    "Dark Gray or Light Gray"
+  ],
+  "leaf_arrangement": "Opposite",
+  "leaf_form": "Pinnately Compound",
+  "leaflet_shape": "Oval",
+  "foliage_fall_color": 1,
+  "foliage_type": "Deciduous",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": null,
+  "suitability_map": null,
+  "future_suitability_map": null,
+  "sex_explanation": null,
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 616,
+    "tree_id": 631,
+    "common": "OREGON ASH",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 1
+  },
+  "primary_taxon": {
+    "taxon_id": 616,
+    "genus": "Fraxinus",
+    "species": "latifolia",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Fraxinus latifolia"
+  },
+  "other_taxa": [
+    {
+      "taxon_id": 3990,
+      "genus": "Fraxinus",
+      "species": "oregana",
+      "hybrid_alt_species": null,
+      "subspecies": null,
+      "variety": null,
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 2,
+      "name_concat": "Fraxinus oregana"
+    }
+  ],
+  "other_common": [],
+  "genericCommonNames": [
+    "ASH"
+  ],
+  "images": [
+    {
+      "photo_link_id": 5892,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/31/original/fraxinus-latifolia-tree-fall.jpg",
+      "sequence": 1,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "tree-fall"
+    },
+    {
+      "photo_link_id": 5893,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/31/original/fraxinus-latifolia-tree-3.jpg",
+      "sequence": 2,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "tree-3"
+    },
+    {
+      "photo_link_id": 5894,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/31/original/fraxinus-latifolia-tree.jpg",
+      "sequence": 3,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 22922,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/31/original/Fraxinus-latifolia6.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25261,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/31/original/Fraxinus-latifolia-(5).jpg",
+      "sequence": 5,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 22917,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/31/original/Fraxinus-latifolia1.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 22918,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/31/original/Fraxinus-latifolia2.jpg",
+      "sequence": 7,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 5895,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/31/original/fraxinus-latifolia-tree-2.jpg",
+      "sequence": 8,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 22919,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/31/original/Fraxinus-latifolia.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 22915,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/31/original/Fraxinus-latifolia3.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 22916,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/31/original/Fraxinus-latifolia5.jpg",
+      "sequence": 11,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25262,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/31/original/Fraxinus-latifolia-(4).jpg",
+      "sequence": 12,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25259,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/31/original/Fraxinus-latifolia-d0c63e7d-108a-452c-b8ea-6ad3bd757dac.jpg",
+      "sequence": 13,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 5896,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/31/original/fraxinus-latifolia-leaves-2.jpg",
+      "sequence": 14,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "leaves-2"
+    },
+    {
+      "photo_link_id": 5897,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/31/original/fraxinus-latifolia-leaves-3.jpg",
+      "sequence": 15,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "leaves-3"
+    },
+    {
+      "photo_link_id": 5898,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/31/original/fraxinus-latifolia-leaves-4.jpg",
+      "sequence": 16,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "leaves-4"
+    },
+    {
+      "photo_link_id": 5899,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/31/original/fraxinus-latifolia-leaves.jpg",
+      "sequence": 17,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 5900,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/31/original/fraxinus-latifolia-leaves-5.jpg",
+      "sequence": 18,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "leaves-5"
+    },
+    {
+      "photo_link_id": 25258,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/31/original/Fraxinus-latifolia-(6).jpg",
+      "sequence": 19,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 5901,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/31/original/fraxinus-latifolia-leaves-6.jpg",
+      "sequence": 20,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "leaves-6"
+    },
+    {
+      "photo_link_id": 25260,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/31/original/Fraxinus-latifolia-(3).jpg",
+      "sequence": 21,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25257,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/31/original/Fraxinus-latifolia-(1).jpg",
+      "sequence": 22,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25256,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/31/original/Fraxinus-latifolia-(2).jpg",
+      "sequence": 23,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 5902,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/31/original/fraxinus-latifolia-flowers-old.jpg",
+      "sequence": 24,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "flowers-old"
+    },
+    {
+      "photo_link_id": 5903,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/31/original/fraxinus-latifolia-fruit.jpg",
+      "sequence": 25,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "fruit"
+    },
+    {
+      "photo_link_id": 5904,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/31/original/fraxinus-latifolia-bark-3.jpg",
+      "sequence": 26,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "bark-3"
+    },
+    {
+      "photo_link_id": 5905,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/31/original/fraxinus-latifolia-bark-2.jpg",
+      "sequence": 27,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "bark-2"
+    },
+    {
+      "photo_link_id": 5906,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/31/original/fraxinus-latifolia-bark.jpg",
+      "sequence": 28,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "bark"
+    },
+    {
+      "photo_link_id": 22920,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/31/original/Fraxinus-latifolia7.jpg",
+      "sequence": 29,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 22921,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0600/31/original/Fraxinus-latifolia8.jpg",
+      "sequence": 30,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    }
+  ],
+  "landscape_application": [
+    "Riparian"
+  ],
+  "landscape_use": [],
+  "sunset_zone": [
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24"
+  ],
+  "formatted_sunset_zones": [
+    "3 - 9",
+    "14 - 24"
+  ],
+  "usda_zone": [
+    6,
+    7,
+    8
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [],
+  "disease_susceptibility": [
+    "Anthracnose",
+    "Root Rot",
+    "Rust",
+    "Sooty Mold",
+    "Armillaria"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [
+    "Caterpillars",
+    "Scales"
+  ],
+  "health_hazard": [
+    "Allergy"
+  ],
+  "attracts_wildlife": [],
+  "fruit_value": [],
+  "fruiting_time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower_time": [
+    "Spring"
+  ],
+  "flower_color": [],
+  "foliage_growth_color": [
+    "Light Green"
+  ],
+  "bark_texture": [
+    "Furrowed",
+    "Ridged",
+    "Scaly"
+  ],
+  "tree_shape": [
+    "Rounded"
+  ],
+  "litter_type": [
+    "Dry Fruit"
+  ],
+  "climate_adapted_regions": [
+    "Northern California Coast"
+  ],
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Fraxinus_latifolia"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/63878-Fraxinus-latifolia"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:609072-1"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 2
+}

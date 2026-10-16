@@ -1,0 +1,316 @@
+{
+  "tree_id": 453,
+  "family": "Rosaceae",
+  "memo": "A small flowering accent tree with a more graceful branching habit than other hawthorns. The flowers often attract bees, but the berries in fall provide a showy accent. It is dependable in ordinary soils, with moderate moisture, in full sun. It may suffer from occasional aphids, but is the least susceptible to fireblight of the hawthorns. It is quite hardy. It may require regularly scheduled light top-trimming (but not necessarily shearing) of vigorous top shoots to maintain its height below 25.",
+  "fragrance": 0,
+  "native_range": "Southeastern United States",
+  "photolocations": "The National Arboretum - Washington, DC, Arnold Arboretum - Boston, MA and Red Butte Garden - Salt Lake City, UT",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 0,
+  "ethnobotanical_info": "",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 0,
+  "schoolyard_use_notes": null,
+  "soil_ph_low": 1,
+  "soil_ph_high": 7,
+  "planting_area": "4 to 7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Strong",
+  "branch_strength_high": "Strong",
+  "root_damage_potential": "Low",
+  "biogenic_emissions": "",
+  "deer_palatable": null,
+  "height_high": 40,
+  "height_memo": null,
+  "width_high": 25,
+  "growth_rate_high": 24,
+  "water_use": "Medium",
+  "salt_tolerance": "Moderate",
+  "fruit_size": "Small",
+  "fruit_color": "Red",
+  "fruit_type": "Pome",
+  "flower_showiness": "Showy",
+  "bark_color": [
+    "Dark Brown or Dark Gray"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Triangular",
+  "foliage_fall_color": 1,
+  "foliage_type": "Deciduous",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": null,
+  "suitability_map": null,
+  "future_suitability_map": null,
+  "sex_explanation": null,
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 449,
+    "tree_id": 453,
+    "common": "WASHINGTON HAWTHORN",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 0
+  },
+  "primary_taxon": {
+    "taxon_id": 449,
+    "genus": "Crataegus",
+    "species": "phaenopyrum",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Crataegus phaenopyrum"
+  },
+  "other_taxa": [
+    {
+      "taxon_id": 2183,
+      "genus": "Crataegus",
+      "species": "cordata",
+      "hybrid_alt_species": "",
+      "subspecies": "",
+      "variety": "",
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 2,
+      "name_concat": "Crataegus cordata"
+    }
+  ],
+  "other_common": [
+    {
+      "common_id": 2847,
+      "tree_id": 453,
+      "common": "WASHINGTON THORN",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 1
+    }
+  ],
+  "genericCommonNames": [
+    "HAWTHORN"
+  ],
+  "images": [
+    {
+      "photo_link_id": 4247,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0400/53/original/crataegus-phaenopyrum-tree-2.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 4248,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0400/53/original/crataegus-phaenopyrum-tree.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 4249,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0400/53/original/crataegus-phaenopyrum-tree-3.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-3"
+    },
+    {
+      "photo_link_id": 4250,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0400/53/original/crataegus-phaenopyrum-tree-winter.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-winter"
+    },
+    {
+      "photo_link_id": 4251,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0400/53/original/crataegus-phaenopyrum-leaves.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 4252,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0400/53/original/crataegus-phaenopyrum-leaves-2.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves-2"
+    },
+    {
+      "photo_link_id": 4253,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0400/53/original/crataegus-phaenopyrum-thorns.jpg",
+      "sequence": 7,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "thorns"
+    },
+    {
+      "photo_link_id": 4255,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0400/53/original/crataegus-phaenopyrum-leaf-and-thorn.jpg",
+      "sequence": 8,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "thorn"
+    },
+    {
+      "photo_link_id": 4256,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0400/53/original/crataegus-phaenopyrum-branch-fruiting.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "branch-fruiting"
+    },
+    {
+      "photo_link_id": 4257,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0400/53/original/crataegus-phaenopyrum-branches-fruiting.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "branches-fruiting"
+    },
+    {
+      "photo_link_id": 4258,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0400/53/original/crataegus-phaenopyrum-fruit.jpg",
+      "sequence": 11,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit"
+    },
+    {
+      "photo_link_id": 4259,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0400/53/original/crataegus-phaenopyrum-fruit-2.jpg",
+      "sequence": 12,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit-2"
+    },
+    {
+      "photo_link_id": 4260,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0400/53/original/crataegus-phaenopyrum-bark.jpg",
+      "sequence": 13,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "bark"
+    }
+  ],
+  "landscape_application": [
+    "Screen Tree"
+  ],
+  "landscape_use": [
+    "Hedged",
+    "Pleached"
+  ],
+  "sunset_zone": [
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "14",
+    "15",
+    "16",
+    "17"
+  ],
+  "formatted_sunset_zones": [
+    "2 - 12",
+    "14 - 17"
+  ],
+  "usda_zone": [
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [
+    "Fair Resistance to Fire Blight",
+    "Verticillium"
+  ],
+  "disease_susceptibility": [
+    "Fire Blight",
+    "Armillaria",
+    "Powdery Mildew",
+    "Root Rot"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [
+    "Aphids",
+    "Beetle Borers",
+    "Scales",
+    "Spider Mites"
+  ],
+  "health_hazard": [
+    "Allergy"
+  ],
+  "attracts_wildlife": [
+    "Bees",
+    "Birds"
+  ],
+  "fruit_value": [
+    "Edible",
+    "Wildlife use it"
+  ],
+  "fruiting_time": [
+    "Fall",
+    "Winter"
+  ],
+  "flower_time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower_color": [
+    "White"
+  ],
+  "foliage_growth_color": [
+    "Green"
+  ],
+  "bark_texture": [
+    "Scaly",
+    "Smooth"
+  ],
+  "tree_shape": [
+    "Rounded",
+    "Vase"
+  ],
+  "litter_type": [
+    "Wet Fruit"
+  ],
+  "climate_adapted_regions": [],
+  "appraisal_text": "Suggested LCANT 24\" box, Group Rating 1, Approx. cross sectional area 2.09 sq. in.",
+  "app_grrating": "1",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Crataegus_phaenopyrum"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/141714-Crataegus-phaenopyrum"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:30065973-2"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 0
+}

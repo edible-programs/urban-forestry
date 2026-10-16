@@ -1,0 +1,393 @@
+{
+  "tree_id": 939,
+  "family": "Myrtaceae",
+  "memo": "This tree is known for its striking, bright red flowers that bloom in clusters, creating a vibrant display. It has a gnarled, twisted trunk and branches that give it a unique, sculptural appearance. The leaves are leathery and dark green, often with a silvery underside, adding to its visual appeal. This tree is well-suited to coastal areas, as it is highly tolerant of salt and wind. It provides excellent shade and can attract a variety of birds and pollinators. Its resilience and beauty make it a popular choice for parks and gardens in urban settings.",
+  "fragrance": 0,
+  "native_range": "New Zealand",
+  "photolocations": "Strybing Arboretum - San Francisco, CA, Santa Barbara, CA, San Diego Botanic Garden - Encinitas, CA, San Francisco, CA, and New Zealand",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 0,
+  "ethnobotanical_info": "",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 1,
+  "schoolyard_use_notes": "This tree has striking, leathery leaves with a silvery underside, ideal for studying plant texture and adaptation to coastal environments. It produces vibrant, brush-like flowers that attract pollinators, offering a practical example of plant-pollinator interactions. The tree's resilience to wind and salt spray can be used to discuss plant survival strategies in harsh conditions. Its gnarled branches and dense canopy provide ample shade, making it a pleasant spot for outdoor learning sessions.",
+  "soil_ph_low": 4,
+  "soil_ph_high": 5,
+  "planting_area": "4 to 7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Medium",
+  "branch_strength_high": "Medium",
+  "root_damage_potential": "Moderate",
+  "biogenic_emissions": "High",
+  "deer_palatable": null,
+  "height_high": 40,
+  "height_memo": null,
+  "width_high": 35,
+  "growth_rate_high": 24,
+  "water_use": "Low",
+  "salt_tolerance": "High",
+  "fruit_size": "Small",
+  "fruit_color": "Brown or Gray",
+  "fruit_type": "Capsule",
+  "flower_showiness": "Showy",
+  "bark_color": [
+    "Dark Brown"
+  ],
+  "leaf_arrangement": "Opposite",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Oval",
+  "foliage_fall_color": 0,
+  "foliage_type": "Evergreen",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": null,
+  "suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/39/original/939_current_suitability_map.png",
+  "future_suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/39/original/939_future_suitability_map.png",
+  "sex_explanation": null,
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 923,
+    "tree_id": 939,
+    "common": "NEW ZEALAND CHRISTMAS TREE",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 1
+  },
+  "primary_taxon": {
+    "taxon_id": 923,
+    "genus": "Metrosideros",
+    "species": "excelsa",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Metrosideros excelsa"
+  },
+  "other_taxa": [
+    {
+      "taxon_id": 2333,
+      "genus": "Metrosideros",
+      "species": "exelsus",
+      "hybrid_alt_species": "",
+      "subspecies": "",
+      "variety": "",
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 2,
+      "name_concat": "Metrosideros exelsus"
+    },
+    {
+      "taxon_id": 3141,
+      "genus": "Metrosideros",
+      "species": "tomentosa",
+      "hybrid_alt_species": "",
+      "subspecies": "",
+      "variety": "",
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 3,
+      "name_concat": "Metrosideros tomentosa"
+    }
+  ],
+  "other_common": [
+    {
+      "common_id": 3631,
+      "tree_id": 939,
+      "common": "POHUTUKAWA",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 11797,
+      "tree_id": 939,
+      "common": "NEW ZEALAND CHRISTMASTREE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    }
+  ],
+  "genericCommonNames": [
+    "METROSIDEROS"
+  ],
+  "images": [
+    {
+      "photo_link_id": 8590,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/39/original/metrosideros-excelsa-tree-2.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 8591,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/39/original/metrosideros-excelsa-tree-3.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "tree-3"
+    },
+    {
+      "photo_link_id": 8592,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/39/original/metrosideros-excelsa-tree-flowering.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "tree-flowering"
+    },
+    {
+      "photo_link_id": 8593,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/39/original/metrosideros-excelsa-tree-4.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "tree-4"
+    },
+    {
+      "photo_link_id": 8594,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/39/original/metrosideros-excelsa-tree.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 24817,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/39/original/Metrosideros-excelsa-(2).jpg",
+      "sequence": 6,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 24820,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/39/original/Metrosideros-excelsa-3445961d-b633-4e9c-b5f1-e81ca787fdc0.jpg",
+      "sequence": 7,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 24819,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/39/original/Metrosideros-excelsa-(1)-0228ced2-7f97-4d0b-b43c-e81e83a40985.jpg",
+      "sequence": 8,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 18992,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/39/original/Metrosideros-excelsa.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 8595,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/39/original/metrosideros-excelsa-tree-5.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "tree-5"
+    },
+    {
+      "photo_link_id": 8596,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/39/original/metrosideros-excelsa-leaves.jpg",
+      "sequence": 11,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 33401,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/39/original/Metrosideros-excelsa-(1)-1639010b-77cf-436e-b112-a956ed9b4ad9.jpg",
+      "sequence": 12,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 8597,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/39/original/metrosideros-excelsa-leaves-close-up.jpg",
+      "sequence": 13,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "leaves-close-up"
+    },
+    {
+      "photo_link_id": 33402,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/39/original/Metrosideros-excelsa-654fa39d-9076-49d2-90a9-842841eb9017.jpg",
+      "sequence": 14,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 8598,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/39/original/metrosideros-excelsa-flowers-close-up.jpg",
+      "sequence": 15,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "flowers-close-up"
+    },
+    {
+      "photo_link_id": 8599,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/39/original/metrosideros-excelsa-flowers.jpg",
+      "sequence": 16,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "flowers"
+    },
+    {
+      "photo_link_id": 8600,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/39/original/metrosideros-excelsa-fruit.jpg",
+      "sequence": 17,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "fruit"
+    },
+    {
+      "photo_link_id": 8601,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/39/original/metrosideros-excelsa-aerial-roots.jpg",
+      "sequence": 18,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "aerial-roots"
+    },
+    {
+      "photo_link_id": 18991,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/39/original/Metrosideros-excelsa-(1).jpg",
+      "sequence": 19,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 8602,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/39/original/metrosideros-excelsa-aerial-roots-2.jpg",
+      "sequence": 20,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "aerial-roots-2"
+    },
+    {
+      "photo_link_id": 8603,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/39/original/metrosideros-excelsa-bark-and-trunks.jpg",
+      "sequence": 21,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "bark-and-trunks"
+    },
+    {
+      "photo_link_id": 24821,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/39/original/Metrosideros-excelsa-(4).jpg",
+      "sequence": 22,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 24822,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/39/original/Metrosideros-excelsa-(5).jpg",
+      "sequence": 23,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 8604,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/39/original/metrosideros-excelsa-bark.jpg",
+      "sequence": 24,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "bark"
+    },
+    {
+      "photo_link_id": 24818,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/39/original/Metrosideros-excelsa-(3).jpg",
+      "sequence": 25,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    }
+  ],
+  "landscape_application": [
+    "Screen Tree"
+  ],
+  "landscape_use": [
+    "Hedged"
+  ],
+  "sunset_zone": [
+    "16",
+    "17",
+    "23",
+    "24",
+    "H1",
+    "H2"
+  ],
+  "formatted_sunset_zones": [
+    "16 - 17",
+    "23 - 24",
+    "H1",
+    "H2"
+  ],
+  "usda_zone": [
+    10,
+    11
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand"
+  ],
+  "disease_resistant": [],
+  "disease_susceptibility": [
+    "Phytophthora",
+    "Root Rot"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [],
+  "health_hazard": [
+    "None Known"
+  ],
+  "attracts_wildlife": [
+    "Birds"
+  ],
+  "fruit_value": [],
+  "fruiting_time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower_time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower_color": [
+    "Red"
+  ],
+  "foliage_growth_color": [
+    "Dark Green"
+  ],
+  "bark_texture": [],
+  "tree_shape": [
+    "Rounded"
+  ],
+  "litter_type": [
+    "Dry Fruit"
+  ],
+  "climate_adapted_regions": [
+    "Inland Empire",
+    "Southern California Coast"
+  ],
+  "appraisal_text": "Suggested LCANT 24\" box, Group Rating 1, Approx. cross sectional area 2.09 sq. in.",
+  "app_grrating": "1",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Metrosideros_excelsa"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/122905-Metrosideros-excelsa"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:598207-1"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 2
+}

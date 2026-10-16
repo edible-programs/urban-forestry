@@ -1,0 +1,475 @@
+{
+  "tree_id": 1099,
+  "family": "Platanaceae",
+  "memo": "This large tree is known for its striking, mottled bark that peels away in patches to reveal a creamy, smooth surface beneath. It has broad, maple-like leaves that provide ample shade, making it a popular choice for urban streets and parks. In the fall, its foliage turns a warm yellow-brown, adding seasonal color to the landscape. The tree produces small, round seed balls that hang on long stems and often persist through winter. With its robust, upright growth and tolerance to pollution, it thrives in city environments, offering both beauty and practicality.",
+  "fragrance": 0,
+  "native_range": "A hybrid the likely first formed in Spain, but arose many times in different places where the two parents are grown.",
+  "photolocations": "Rome, Italy, Cal Poly State University Campus - San Luis Obispo, CA, The National Arboretum - Washington, DC, Palo Alto, CA, Santa Cruz, CA, Los Angeles, CA, Salinas, CA and Arnold Arboretum - Boston, MA",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 0,
+  "ethnobotanical_info": "",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 1,
+  "schoolyard_use_notes": "This tree has broad, maple-like leaves that can be used to teach about leaf structure and function. Its distinctive, mottled bark peels away in patches, providing a hands-on example of tree growth and health. The round, spiky seed balls hang from long stems and can be used to explain seed dispersal mechanisms. This tree's adaptability to urban environments makes it a practical example of plant resilience and urban ecology.",
+  "soil_ph_low": 1,
+  "soil_ph_high": 7,
+  "planting_area": ">7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Strong",
+  "branch_strength_high": "Strong",
+  "root_damage_potential": "High",
+  "biogenic_emissions": "High",
+  "deer_palatable": null,
+  "height_high": 80,
+  "height_memo": null,
+  "width_high": 50,
+  "growth_rate_high": 36,
+  "water_use": "Medium",
+  "salt_tolerance": "Moderate",
+  "fruit_size": "Medium",
+  "fruit_color": "Brown or Mostly Green",
+  "fruit_type": "Achene",
+  "flower_showiness": "Inconspicuous",
+  "bark_color": [
+    "Cream",
+    "Light Green",
+    "Light Gray or Multicolored"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Palmately Lobed",
+  "foliage_fall_color": 1,
+  "foliage_type": "Deciduous",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": "Medium Low",
+  "suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/99/original/1099_current_suitability_map.png",
+  "future_suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/99/original/1099_future_suitability_map.png",
+  "sex_explanation": null,
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 1083,
+    "tree_id": 1099,
+    "common": "LONDON PLANE TREE",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 0
+  },
+  "primary_taxon": {
+    "taxon_id": 1083,
+    "genus": "Platanus",
+    "species": "hispanica",
+    "hybrid_alt_species": null,
+    "subspecies": null,
+    "variety": null,
+    "cultivar": null,
+    "hybrid_x": "species",
+    "sequence": 1,
+    "name_concat": "Platanus &times hispanica"
+  },
+  "other_taxa": [
+    {
+      "taxon_id": 2371,
+      "genus": "Platanus",
+      "species": "acerifolia",
+      "hybrid_alt_species": "",
+      "subspecies": "",
+      "variety": "",
+      "cultivar": null,
+      "hybrid_x": "species",
+      "sequence": 2,
+      "name_concat": "Platanus &times acerifolia"
+    }
+  ],
+  "other_common": [
+    {
+      "common_id": 12070,
+      "tree_id": 1099,
+      "common": "LONDON PLANE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 1
+    },
+    {
+      "common_id": 12071,
+      "tree_id": 1099,
+      "common": "LONDON PLANETREE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 12072,
+      "tree_id": 1099,
+      "common": "MAPLE LEAVED PLANE TREE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 3
+    }
+  ],
+  "genericCommonNames": [
+    "PLANE TREE"
+  ],
+  "images": [
+    {
+      "photo_link_id": 29129,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/99/original/Platanus-×-hispanica-91aba5ce-c533-4042-9203-a685bc63e977.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 18035,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/99/original/Platanus-×-hispanica.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 10173,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/99/original/platanus-×-hispanica-trees.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "trees"
+    },
+    {
+      "photo_link_id": 10174,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/99/original/platanus-×-hispanica-tree-4.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-4"
+    },
+    {
+      "photo_link_id": 29130,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/99/original/Platanus-acerifolia-BH.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 10175,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/99/original/platanus-×-hispanica-tree-3.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-3"
+    },
+    {
+      "photo_link_id": 29136,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/99/original/Platanus-acerifolia-line.jpg",
+      "sequence": 7,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 29126,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/99/original/Platanus-acerifolia-Mitchell-Park.jpg",
+      "sequence": 8,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 10176,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/99/original/platanus-×-hispanica-tree-2.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 28774,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/99/original/Platanus-×-hispanica-ac23555b-cae3-4d9b-92b2-8e926ebe1e50.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 29137,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/99/original/Platanus-hispanica-Pollard.jpg",
+      "sequence": 11,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 28775,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/99/original/Platanus-×-hispanica-(1)-a74daef0-46b6-4edf-afb5-b2ea5a151d5b.jpg",
+      "sequence": 12,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 29132,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/99/original/Platanus-×-hispanica-(1)-cc6d25e8-da35-42e5-bf90-69526e4d0822.jpg",
+      "sequence": 13,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 29138,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/99/original/Platanus-×-hispanica-(2)-21c9aa8e-584d-479d-972b-dba5031626d6.jpg",
+      "sequence": 14,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 29135,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/99/original/Platanus-×-hispanica-(3)-7f630c16-3feb-4fbc-bb72-80eeae640111.jpg",
+      "sequence": 15,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 29134,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/99/original/Platanus-×-hispanica-(4)-43ee16e0-376b-4e28-8616-eba400503bf0.jpg",
+      "sequence": 16,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 10177,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/99/original/platanus-×-hispanica-trees-2.jpg",
+      "sequence": 17,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "trees-2"
+    },
+    {
+      "photo_link_id": 10178,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/99/original/platanus-×-hispanica-trees-3.jpg",
+      "sequence": 18,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "trees-3"
+    },
+    {
+      "photo_link_id": 10179,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/99/original/platanus-×-hispanica-tree-pollarded.jpg",
+      "sequence": 19,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-pollarded"
+    },
+    {
+      "photo_link_id": 20991,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/99/original/Platanus-x-hispanica.jpg",
+      "sequence": 20,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 10182,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/99/original/platanus-×-hispanica-leaves.jpg",
+      "sequence": 21,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 10180,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/99/original/platanus-×-hispanica-leaf-fall.jpg",
+      "sequence": 22,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaf-fall"
+    },
+    {
+      "photo_link_id": 10181,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/99/original/platanus-×-hispanica-leaf-fall-2.jpg",
+      "sequence": 23,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaf-fall-2"
+    },
+    {
+      "photo_link_id": 10186,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/99/original/platanus-×-hispanica-fruit-2.jpg",
+      "sequence": 24,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit-2"
+    },
+    {
+      "photo_link_id": 10183,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/99/original/platanus-×-hispanica-flower.jpg",
+      "sequence": 25,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "flower"
+    },
+    {
+      "photo_link_id": 10184,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/99/original/platanus-×-hispanica-fruit.jpg",
+      "sequence": 26,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit"
+    },
+    {
+      "photo_link_id": 33751,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/99/original/Platanus-x-hispanica-(1)-d2788c4c-4c42-4e10-a4bf-dd49fdad9a0d.jpg",
+      "sequence": 27,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 33752,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/99/original/Platanus-x-hispanica-726b0e8e-ae33-4b8d-a265-c80c0fffd178.jpg",
+      "sequence": 28,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 10185,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/99/original/platanus-×-hispanica-fruit-close-up.jpg",
+      "sequence": 29,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit-close-up"
+    },
+    {
+      "photo_link_id": 10187,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/99/original/platanus-×-hispanica-bark.jpg",
+      "sequence": 30,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "bark"
+    },
+    {
+      "photo_link_id": 27431,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/99/original/Platanus-x-hispanica-(1).jpg",
+      "sequence": 31,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 27432,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/99/original/Platanus-x-hispanica-dea954b6-9e1e-4011-a319-f7da7bf46a86.jpg",
+      "sequence": 32,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 29131,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/99/original/Platanus-acerifolia-UCSC.jpg",
+      "sequence": 33,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 29128,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/99/original/Platanus-×-hispanica-(7).jpg",
+      "sequence": 34,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    }
+  ],
+  "landscape_application": [],
+  "landscape_use": [
+    "Pleached",
+    "Pollarding"
+  ],
+  "sunset_zone": [
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24"
+  ],
+  "formatted_sunset_zones": [
+    "2 - 24"
+  ],
+  "usda_zone": [
+    5,
+    6,
+    7,
+    8
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [
+    "Verticillium"
+  ],
+  "disease_susceptibility": [
+    "Anthracnose",
+    "Powdery Mildew"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [
+    "Invasive Shot Hole Borer",
+    "Scales",
+    "Spider Mites"
+  ],
+  "health_hazard": [
+    "Allergy"
+  ],
+  "attracts_wildlife": [
+    "Bees"
+  ],
+  "fruit_value": [],
+  "fruiting_time": [
+    "Summer"
+  ],
+  "flower_time": [
+    "Winter",
+    "Spring"
+  ],
+  "flower_color": [],
+  "foliage_growth_color": [
+    "Green"
+  ],
+  "bark_texture": [
+    "Exfoliating",
+    "Smooth"
+  ],
+  "tree_shape": [
+    "Rounded"
+  ],
+  "litter_type": [
+    "Bark",
+    "Dry Fruit",
+    "Twigs"
+  ],
+  "climate_adapted_regions": [],
+  "appraisal_text": "Suggested LCANT 24\" box, Group Rating 3, Approx. cross sectional area 3.80 sq. in.",
+  "app_grrating": "3",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Platanus_%C3%97_acerifolia"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "N/A"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:685854-1"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 0
+}

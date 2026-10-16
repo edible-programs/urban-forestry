@@ -1,0 +1,335 @@
+{
+  "tree_id": 931,
+  "family": "Myrtaceae",
+  "memo": "This tree features a striking white, papery bark that peels away in layers, giving it a unique texture. Its dense, dark green foliage consists of narrow, needle-like leaves that provide a lush canopy. During the blooming season, the tree is adorned with fluffy, white flower clusters that resemble bottlebrushes, attracting bees and other pollinators. It is well-suited to urban environments due to its ability to tolerate a range of soil types and conditions, including periods of drought. The tree’s moderate size and attractive appearance make it a popular choice for street planting and garden landscapes.",
+  "fragrance": 1,
+  "native_range": "Eastern Australia",
+  "photolocations": "Los Angeles County Arboretum - Arcadia, CA, San Luis Obispo, CA, Santa Barbara, CA, Los Gatos, CA and Quail Arboretum - Encinitas, CA",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 0,
+  "ethnobotanical_info": "",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 1,
+  "schoolyard_use_notes": "This tree has narrow, needle-like leaves that can be used to discuss leaf structure and water conservation in plants. The bark peels off in paper-like sheets, providing a tactile experience for students and a lesson in plant adaptation. It produces fluffy white flowers that can attract pollinators, making it useful for lessons on plant reproduction and ecosystems. The tree's resilience to drought conditions offers practical examples of survival strategies in harsh environments.",
+  "soil_ph_low": 3,
+  "soil_ph_high": 5,
+  "planting_area": "4 to 7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Medium",
+  "branch_strength_high": "Medium",
+  "root_damage_potential": "Low",
+  "biogenic_emissions": "High",
+  "deer_palatable": null,
+  "height_high": 30,
+  "height_memo": null,
+  "width_high": 25,
+  "growth_rate_high": 36,
+  "water_use": "Low",
+  "salt_tolerance": "Moderate",
+  "fruit_size": "Small",
+  "fruit_color": "Brown or Gray",
+  "fruit_type": "Capsule",
+  "flower_showiness": "Showy",
+  "sex": "Perfect Flowers",
+  "bark_color": [
+    "Cream"
+  ],
+  "leaf_arrangement": "Opposite",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Linear",
+  "foliage_fall_color": 0,
+  "foliage_type": "Evergreen",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": null,
+  "suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/31/original/931_current_suitability_map.png",
+  "future_suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/31/original/931_future_suitability_map.png",
+  "sex_explanation": "Has male and female reproductive parts in each flower (perfect)",
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 915,
+    "tree_id": 931,
+    "common": "FLAXLEAF PAPERBARK",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 1
+  },
+  "primary_taxon": {
+    "taxon_id": 915,
+    "genus": "Melaleuca",
+    "species": "linariifolia",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Melaleuca linariifolia"
+  },
+  "other_taxa": [],
+  "other_common": [
+    {
+      "common_id": 3613,
+      "tree_id": 931,
+      "common": "CAJEPUT TREE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 11768,
+      "tree_id": 931,
+      "common": "NARROW LEAF PAPERBARK",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 3614,
+      "tree_id": 931,
+      "common": "SNOW-IN-SUMMER",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 3
+    },
+    {
+      "common_id": 11769,
+      "tree_id": 931,
+      "common": "NARROW LEAF TEATREE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 3
+    },
+    {
+      "common_id": 11770,
+      "tree_id": 931,
+      "common": "FLAX LEAF PAPERBARK",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 4
+    }
+  ],
+  "genericCommonNames": [
+    "MELALEUCA"
+  ],
+  "images": [
+    {
+      "photo_link_id": 8494,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/31/original/melaleuca-linariifolia-tree-flowering.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-flowering"
+    },
+    {
+      "photo_link_id": 8495,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/31/original/melaleuca-linariifolia-tree-3.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-3"
+    },
+    {
+      "photo_link_id": 8496,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/31/original/melaleuca-linariifolia-trees.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "trees"
+    },
+    {
+      "photo_link_id": 8497,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/31/original/melaleuca-linariifolia-tree-2.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 8498,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/31/original/melaleuca-linariifolia-tree.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 8499,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/31/original/melaleuca-linariifolia-foliage.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "foliage"
+    },
+    {
+      "photo_link_id": 8500,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/31/original/melaleuca-linariifolia-leaves.jpg",
+      "sequence": 7,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 8501,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/31/original/melaleuca-linariifolia-leaves-2.jpg",
+      "sequence": 8,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves-2"
+    },
+    {
+      "photo_link_id": 8502,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/31/original/melaleuca-linariifolia-leaves-close-up.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves-close-up"
+    },
+    {
+      "photo_link_id": 8503,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/31/original/melaleuca-linariifolia-flowers.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "flowers"
+    },
+    {
+      "photo_link_id": 8504,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/31/original/melaleuca-linariifolia-flower-buds.jpg",
+      "sequence": 11,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "flower-buds"
+    },
+    {
+      "photo_link_id": 8505,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/31/original/melaleuca-linariifolia-fruit.jpg",
+      "sequence": 12,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit"
+    },
+    {
+      "photo_link_id": 8506,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/31/original/melaleuca-linariifolia-bark.jpg",
+      "sequence": 13,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "bark"
+    },
+    {
+      "photo_link_id": 8507,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/31/original/melaleuca-linariifolia-bark-3.jpg",
+      "sequence": 14,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "bark-3"
+    },
+    {
+      "photo_link_id": 8508,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0900/31/original/melaleuca-linariifolia-bark-2.jpg",
+      "sequence": 15,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "bark-2"
+    }
+  ],
+  "landscape_application": [
+    "Riparian",
+    "Screen Tree"
+  ],
+  "landscape_use": [
+    "Hedged"
+  ],
+  "sunset_zone": [
+    "9",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "H1"
+  ],
+  "formatted_sunset_zones": [
+    "9",
+    "13 - 24",
+    "H1"
+  ],
+  "usda_zone": [
+    10
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [],
+  "disease_susceptibility": [
+    "Chlorosis",
+    "Phytophthora",
+    "Root Rot"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [],
+  "health_hazard": [
+    "None Known"
+  ],
+  "attracts_wildlife": [
+    "Birds"
+  ],
+  "fruit_value": [],
+  "fruiting_time": [
+    "Fall"
+  ],
+  "flower_time": [
+    "Summer"
+  ],
+  "flower_color": [
+    "White"
+  ],
+  "foliage_growth_color": [
+    "Bluish Green",
+    "Silver",
+    "Gray Green"
+  ],
+  "bark_texture": [
+    "Exfoliating"
+  ],
+  "tree_shape": [
+    "Rounded"
+  ],
+  "litter_type": [
+    "Dry Fruit"
+  ],
+  "climate_adapted_regions": [
+    "Inland Empire",
+    "Southern California Coast",
+    "Southwest Desert"
+  ],
+  "appraisal_text": "Group 2, Approx. cross sectional area 2.24 sq. in.",
+  "app_grrating": "2",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Melaleuca_linariifolia"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/165216-Melaleuca-linariifolia"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:598003-1"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 5
+}

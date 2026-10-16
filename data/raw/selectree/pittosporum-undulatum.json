@@ -1,0 +1,360 @@
+{
+  "tree_id": 1097,
+  "family": "Pittosporaceae",
+  "memo": "&lt;em&gt;Pittosporum undulatum &lt;/em&gt;is a large shrub to tree with pale gray branches and an inviting, heavy shade. Its small white flowers are strongly fragrant at night, attracting moths for pollination. Once mature, its orange fruit capsules open and drop sticky seeds enjoyed by birds. This Australian-native is resistant to drought and honey fungus. With its high seed production rate and popularity as an ornamental, it has become invasive across regions like California, South Africa, and Hawai'i. This species is considered a weed in some parts of its natural habitat due to suppressed fire regimes.&nbsp;",
+  "fragrance": 1,
+  "native_range": "eastern Australia",
+  "photolocations": "Lotusland - Santa Barbara, CA, Los Angeles County Arboretum - Arcadia, CA, San Francisco, CA, Alice Keck Park Memorial Garden - Santa Barbara, CA and Cal Poly Campus - San Luis Obispo, CA",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 0,
+  "ethnobotanical_info": "",
+  "pi_invasive": 1,
+  "invasive_text": "This plant is classified as potentially invasive in specific areas of California by the California Invasive Plant Council (&lt;a href=&quot;http://www.cal-ipc.org/&quot;&gt;Cal-IPC&lt;/a&gt;).",
+  "ca_invasive": 1,
+  "schoolyard": 0,
+  "schoolyard_use_notes": null,
+  "soil_ph_low": 3,
+  "soil_ph_high": 5,
+  "planting_area": "4 to 7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Medium",
+  "branch_strength_high": "Medium",
+  "root_damage_potential": "Low",
+  "biogenic_emissions": "Low",
+  "deer_palatable": null,
+  "height_high": 40,
+  "height_memo": null,
+  "width_high": 40,
+  "growth_rate_high": 36,
+  "water_use": "Medium",
+  "salt_tolerance": "Moderate",
+  "fruit_size": "Small",
+  "fruit_color": "Orange, Yellow",
+  "fruit_type": "Capsule",
+  "flower_showiness": "Showy",
+  "bark_color": [
+    "Light Gray"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Oblong",
+  "foliage_fall_color": 0,
+  "foliage_type": "Evergreen",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": null,
+  "suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/97/original/1097_current_suitability_map.png",
+  "future_suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/97/original/1097_future_suitability_map.png",
+  "sex_explanation": null,
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 1081,
+    "tree_id": 1097,
+    "common": "VICTORIAN BOX",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 0
+  },
+  "primary_taxon": {
+    "taxon_id": 1081,
+    "genus": "Pittosporum",
+    "species": "undulatum",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Pittosporum undulatum"
+  },
+  "other_taxa": [],
+  "other_common": [
+    {
+      "common_id": 12063,
+      "tree_id": 1097,
+      "common": "VICTORIAN LAUREL",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 1
+    },
+    {
+      "common_id": 12064,
+      "tree_id": 1097,
+      "common": "WAVE LEAF PITTOSPORUM",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 12065,
+      "tree_id": 1097,
+      "common": "ENGRAVER WOOD",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 3
+    },
+    {
+      "common_id": 12066,
+      "tree_id": 1097,
+      "common": "AUSTRALIAN CHEESEWOOD",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 4
+    },
+    {
+      "common_id": 12067,
+      "tree_id": 1097,
+      "common": "UNDULATING PITTOSPORUM",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 5
+    },
+    {
+      "common_id": 12068,
+      "tree_id": 1097,
+      "common": "ORANGE BERRY PITTOSPORUM",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 6
+    },
+    {
+      "common_id": 12069,
+      "tree_id": 1097,
+      "common": "SWEET PITTOSPORUM",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 7
+    }
+  ],
+  "genericCommonNames": [
+    "PITTOSPORUM"
+  ],
+  "images": [
+    {
+      "photo_link_id": 10149,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/97/original/pittosporum-undulatum-tree-2.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 10150,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/97/original/pittosporum-undulatum-tree-3.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-3"
+    },
+    {
+      "photo_link_id": 10151,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/97/original/pittosporum-undulatum-tree.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 27111,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/97/original/Pittosporum-undulatum.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 31667,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/97/original/Pittosporum-undulatum-(1).jpg",
+      "sequence": 5,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 10152,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/97/original/pittosporum-undulatum-hedge.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "hedge"
+    },
+    {
+      "photo_link_id": 10153,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/97/original/pittosporum-undulatum-foliage-2.jpg",
+      "sequence": 7,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "foliage-2"
+    },
+    {
+      "photo_link_id": 10154,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/97/original/pittosporum-undulatum-foliage.jpg",
+      "sequence": 8,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "foliage"
+    },
+    {
+      "photo_link_id": 10155,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/97/original/pittosporum-undulatum-leaves.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 31668,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/97/original/Pittosporum-undulatum-58a4b76f-bb53-4ed7-822d-3bec221c8eb9.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 10157,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/97/original/pittosporum-undulatum-leaves-and-flowers.jpg",
+      "sequence": 11,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "flowers"
+    },
+    {
+      "photo_link_id": 10158,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/97/original/pittosporum-undulatum-flowers-3.jpg",
+      "sequence": 12,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "flowers-3"
+    },
+    {
+      "photo_link_id": 10162,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/97/original/pittosporum-undulatum-fruit-old.jpg",
+      "sequence": 13,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit-old"
+    },
+    {
+      "photo_link_id": 10159,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/97/original/pittosporum-undulatum-fruit-2.jpg",
+      "sequence": 14,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit-2"
+    },
+    {
+      "photo_link_id": 10160,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/97/original/pittosporum-undulatum-fruit.jpg",
+      "sequence": 15,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit"
+    },
+    {
+      "photo_link_id": 10161,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/97/original/pittosporum-undulatum-fruit-close-up.jpg",
+      "sequence": 16,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit-close-up"
+    },
+    {
+      "photo_link_id": 10163,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/97/original/pittosporum-undulatum-bark.jpg",
+      "sequence": 17,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "bark"
+    }
+  ],
+  "landscape_application": [
+    "Screen Tree"
+  ],
+  "landscape_use": [
+    "Hedged"
+  ],
+  "sunset_zone": [
+    "14",
+    "15",
+    "16",
+    "17",
+    "21",
+    "22",
+    "23",
+    "24",
+    "H1",
+    "H2"
+  ],
+  "formatted_sunset_zones": [
+    "14 - 17",
+    "21 - 24",
+    "H1",
+    "H2"
+  ],
+  "usda_zone": [
+    9,
+    10
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [
+    "Armillaria",
+    "Root Rot"
+  ],
+  "disease_susceptibility": [
+    "Sooty Mold"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [
+    "Aphids",
+    "Scales"
+  ],
+  "health_hazard": [
+    "Allergy"
+  ],
+  "attracts_wildlife": [
+    "Birds",
+    "Butterflies"
+  ],
+  "fruit_value": [],
+  "fruiting_time": [
+    "Fall"
+  ],
+  "flower_time": [
+    "Spring"
+  ],
+  "flower_color": [
+    "White"
+  ],
+  "foliage_growth_color": [
+    "Green"
+  ],
+  "bark_texture": [
+    "Smooth"
+  ],
+  "tree_shape": [
+    "Rounded"
+  ],
+  "litter_type": [
+    "Dry Fruit"
+  ],
+  "climate_adapted_regions": [],
+  "appraisal_text": "Suggested LCANT 24\" box, Group Rating 2, Approx. cross sectional area 2.24 sq. in.",
+  "app_grrating": "2",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Pittosporum_undulatum"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/51594-Pittosporum-undulatum"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:684733-1"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 0
+}

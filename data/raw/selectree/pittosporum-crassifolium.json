@@ -1,0 +1,311 @@
+{
+  "tree_id": 1090,
+  "family": "Pittosporaceae",
+  "memo": "Karo is an evergreen shrub or small tree native to New Zealand, where it is commonly found in coastal habitats. It has thick, leathery leaves with densely white, felted undersides, an adaptation that helps reduce moisture loss and withstand exposed coastal conditions. Deep crimson, highly fragrant flowers appear in spring and give way to distinctive seed capsules covered in a felt-like texture. Karo can be grown as either a shrub or a single-trunk tree and is valued as an ornamental for its clean, dense growth, rapid establishment, salt tolerance, and durability in harsh seaside environments. It is fairly drought tolerant and can also tolerate saline soils and urban smog, although it generally performs poorly in hot climates. It should be grown in full sun and well-drained soil. Young plants can be sensitive to frost, but established trees tolerate moderate frost, occasional snowfall, and prolonged coastal exposure.&nbsp;",
+  "fragrance": 1,
+  "native_range": "New Zealand",
+  "photolocations": "San Diego, CA, Strybing Arboretum - San Francisco, CA and Santa Cruz, CA",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 0,
+  "ethnobotanical_info": "Māori traditionally used Karo’s dense, durable wood to make tools, weapons, and musical instruments, and the plant was also used as a source of natural dye. Its highly fragrant flowers hold cultural significance in Māori tradition and have been associated with love and romance.",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 0,
+  "schoolyard_use_notes": "",
+  "soil_ph_low": 3,
+  "soil_ph_high": 5,
+  "planting_area": "4 to 7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Medium",
+  "branch_strength_high": "Medium",
+  "root_damage_potential": "Low",
+  "biogenic_emissions": "",
+  "deer_palatable": 0,
+  "height_high": 30,
+  "height_memo": null,
+  "width_high": 15,
+  "growth_rate_high": 24,
+  "water_use": "Medium",
+  "salt_tolerance": "High",
+  "fruit_size": "Medium",
+  "fruit_color": "Mostly Green",
+  "fruit_type": "Capsule",
+  "flower_showiness": "Showy",
+  "sex": "Monoecious",
+  "bark_color": [
+    "Light Gray"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Oval",
+  "foliage_fall_color": 0,
+  "foliage_type": "Evergreen",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": "Highest",
+  "suitability_map": null,
+  "future_suitability_map": null,
+  "sex_explanation": "Has separate male and female reproductive parts on the same tree (monoecious)",
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 1074,
+    "tree_id": 1090,
+    "common": "SEASIDE PITTOSPORUM",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 1
+  },
+  "primary_taxon": {
+    "taxon_id": 1074,
+    "genus": "Pittosporum",
+    "species": "crassifolium",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Pittosporum crassifolium"
+  },
+  "other_taxa": [],
+  "other_common": [
+    {
+      "common_id": 3853,
+      "tree_id": 1090,
+      "common": "STIFFLEAF CHEESEWOOD",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 12045,
+      "tree_id": 1090,
+      "common": "KARO",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 12046,
+      "tree_id": 1090,
+      "common": "STIFF LEAF CHEESEWOOD",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 3
+    }
+  ],
+  "genericCommonNames": [
+    "PITTOSPORUM"
+  ],
+  "images": [
+    {
+      "photo_link_id": 10068,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/90/original/pittosporum-crassifolium-tree.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 10069,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/90/original/pittosporum-crassifolium-tree-variegatum.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-variegatum"
+    },
+    {
+      "photo_link_id": 10070,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/90/original/pittosporum-crassifolium-hedge.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "hedge"
+    },
+    {
+      "photo_link_id": 10071,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/90/original/pittosporum-crassifolium-leaves-3.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves-3"
+    },
+    {
+      "photo_link_id": 10072,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/90/original/pittosporum-crassifolium-leaves-2.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves-2"
+    },
+    {
+      "photo_link_id": 10074,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/90/original/pittosporum-crassifolium-leaves-and-flowers.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "flowers"
+    },
+    {
+      "photo_link_id": 10075,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/90/original/pittosporum-crassifolium-flowers-2.jpg",
+      "sequence": 7,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "flowers-2"
+    },
+    {
+      "photo_link_id": 10076,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/90/original/pittosporum-crassifolium-fruit.jpg",
+      "sequence": 8,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit"
+    },
+    {
+      "photo_link_id": 10077,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/90/original/pittosporum-crassifolium-fruit-2.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit-2"
+    },
+    {
+      "photo_link_id": 10078,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/90/original/pittosporum-crassifolium-leaves.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 10079,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/90/original/pittosporum-crassifolium-fruit-close-up.jpg",
+      "sequence": 11,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit-close-up"
+    },
+    {
+      "photo_link_id": 10080,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/90/original/pittosporum-crassifolium-bark.jpg",
+      "sequence": 12,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "bark"
+    },
+    {
+      "photo_link_id": 10081,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1000/90/original/pittosporum-crassifolium-bark-2.jpg",
+      "sequence": 13,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "bark-2"
+    }
+  ],
+  "landscape_application": [
+    "Screen Tree"
+  ],
+  "landscape_use": [
+    "Hedged"
+  ],
+  "sunset_zone": [
+    "9",
+    "14",
+    "15",
+    "16",
+    "17",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24"
+  ],
+  "formatted_sunset_zones": [
+    "9",
+    "14 - 17",
+    "19 - 24"
+  ],
+  "usda_zone": [
+    9,
+    10,
+    11
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [
+    "Armillaria",
+    "Root Rot"
+  ],
+  "disease_susceptibility": [
+    "Sooty Mold"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [
+    "Aphids",
+    "Scales"
+  ],
+  "health_hazard": [
+    "Allergy"
+  ],
+  "attracts_wildlife": [
+    "Birds"
+  ],
+  "fruit_value": [
+    "Wildlife use it"
+  ],
+  "fruiting_time": [
+    "Fall",
+    "Summer"
+  ],
+  "flower_time": [
+    "Spring"
+  ],
+  "flower_color": [
+    "Maroon"
+  ],
+  "foliage_growth_color": [
+    "Bluish Green",
+    "Silver",
+    "Gray Green"
+  ],
+  "bark_texture": [
+    "Smooth"
+  ],
+  "tree_shape": [
+    "Rounded"
+  ],
+  "litter_type": [
+    "Dry Fruit"
+  ],
+  "climate_adapted_regions": [
+    "Inland Valleys",
+    "Northern California Coast",
+    "Southern California Coast",
+    "Southwest Desert"
+  ],
+  "appraisal_text": "Suggested LCANT 24\" box, Group Rating 1, Approx. cross sectional area 2.09 sq. in.",
+  "app_grrating": "1",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Pittosporum_crassifolium"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/78590-Pittosporum-crassifolium"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:957688-1"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 0
+}

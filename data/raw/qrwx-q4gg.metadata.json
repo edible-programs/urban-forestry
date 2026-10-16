@@ -1,0 +1,1998 @@
+{
+  "id": "qrwx-q4gg",
+  "name": "Street Tree Removal Notifications",
+  "assetType": "dataset",
+  "attribution": "San Francisco Public Works",
+  "attributionLink": "http://www.sfdpw.org",
+  "averageRating": 0,
+  "category": "City Infrastructure",
+  "createdAt": 1595445312,
+  "description": "<strong>Dataset Update (July 31, 2025):</strong> This dataset is now sourced from a new system following a planned system migration. For questions or feedback, please contact support@datasf.org.\n\n<strong>A. SUMMARY</strong>\nStreet Tree Removal public notifications managed by San Francisco Public Works.\n\n<strong>B. HOW THE DATASET IS CREATED</strong>\nData is based on 24-hour, 15-day, or 30-day public notices posted on the trees after a Street Tree Removal Permit was issued by the City.\n\n<strong>C. UPDATE PROCESS</strong>\nUpdated daily.\n\n<strong>D. HOW TO USE THIS DATASET</strong>\nEach record is a street tree removal public notice after a permit was issued and the tree was recommended for removal.",
+  "diciBackend": false,
+  "displayType": "table",
+  "domainCName": "data.sf.gov",
+  "downloadCount": 5874,
+  "hideFromCatalog": false,
+  "hideFromDataJson": false,
+  "licenseId": "PUBLIC_DOMAIN",
+  "locked": false,
+  "newBackend": true,
+  "numberOfComments": 0,
+  "oid": 41503873,
+  "provenance": "official",
+  "publicationAppendEnabled": true,
+  "publicationDate": 1753982410,
+  "publicationGroup": 17363562,
+  "publicationStage": "published",
+  "rowsUpdatedAt": 1792168980,
+  "rowsUpdatedBy": "dbag-6qd9",
+  "tableId": 20001363,
+  "totalTimesRated": 0,
+  "viewCount": 4574,
+  "viewLastModified": 1792168979,
+  "viewType": "tabular",
+  "approvals": [
+    {
+      "reviewedAt": 1597156594,
+      "reviewedAutomatically": false,
+      "state": "approved",
+      "submissionId": 7019639,
+      "submissionObject": "public_audience_request",
+      "submissionOutcome": "change_audience",
+      "submittedAt": 1597129793,
+      "targetAudience": "public",
+      "workflowId": 2546,
+      "reviewer": {
+        "id": "s7k8-df3k",
+        "displayName": "Jason Lally"
+      },
+      "submissionDetails": {
+        "permissionType": "read"
+      },
+      "submissionOutcomeApplication": {
+        "endedAt": 1597156594,
+        "failureCount": 0,
+        "startedAt": 1597156594,
+        "status": "success"
+      },
+      "submitter": {
+        "id": "a4uf-jukj",
+        "displayName": "Jennifer Valencia"
+      }
+    },
+    {
+      "message": "The `strict_permissions` flag must be on to enable internal approvals.",
+      "state": "unsubmittable",
+      "targetAudience": "internal",
+      "workflowId": 5264
+    }
+  ],
+  "clientContext": {
+    "clientContextVariables": [],
+    "inheritedVariables": {}
+  },
+  "columns": [
+    {
+      "id": 615229048,
+      "name": "PostedType",
+      "dataTypeName": "text",
+      "description": "Posted Type",
+      "fieldName": "postedtype",
+      "position": 1,
+      "renderTypeName": "text",
+      "tableColumnId": 160594632,
+      "cachedContents": {
+        "non_null": "5722",
+        "largest": "Posted 30 Day",
+        "null": "0",
+        "top": [
+          {
+            "item": "Posted 15 Day",
+            "count": "2492"
+          },
+          {
+            "item": "Posted 30 Day",
+            "count": "1876"
+          },
+          {
+            "item": "Posted 24hr",
+            "count": "1354"
+          }
+        ],
+        "smallest": "Posted 15 Day",
+        "count": "5722",
+        "cardinality": "5722"
+      },
+      "format": {}
+    },
+    {
+      "id": 615229047,
+      "name": "PostedDate",
+      "dataTypeName": "calendar_date",
+      "description": "Posted Date",
+      "fieldName": "posteddate",
+      "position": 2,
+      "renderTypeName": "calendar_date",
+      "tableColumnId": 160594631,
+      "cachedContents": {
+        "non_null": "5722",
+        "largest": "2026-10-15T00:00:00.000",
+        "null": "0",
+        "top": [
+          {
+            "item": "2018-10-04T00:00:00.000",
+            "count": "53"
+          },
+          {
+            "item": "2018-05-18T00:00:00.000",
+            "count": "41"
+          },
+          {
+            "item": "2018-10-09T00:00:00.000",
+            "count": "34"
+          },
+          {
+            "item": "2020-06-11T00:00:00.000",
+            "count": "29"
+          },
+          {
+            "item": "2017-07-28T00:00:00.000",
+            "count": "28"
+          },
+          {
+            "item": "2018-12-19T00:00:00.000",
+            "count": "27"
+          },
+          {
+            "item": "2023-05-15T00:00:00.000",
+            "count": "26"
+          },
+          {
+            "item": "2026-01-29T00:00:00.000",
+            "count": "26"
+          },
+          {
+            "item": "2020-01-23T00:00:00.000",
+            "count": "26"
+          },
+          {
+            "item": "2018-08-10T00:00:00.000",
+            "count": "25"
+          },
+          {
+            "item": "2018-01-12T00:00:00.000",
+            "count": "24"
+          },
+          {
+            "item": "2025-01-17T00:00:00.000",
+            "count": "22"
+          },
+          {
+            "item": "2019-02-05T00:00:00.000",
+            "count": "22"
+          },
+          {
+            "item": "2018-10-05T00:00:00.000",
+            "count": "22"
+          },
+          {
+            "item": "2019-06-04T00:00:00.000",
+            "count": "22"
+          },
+          {
+            "item": "2018-02-13T00:00:00.000",
+            "count": "21"
+          },
+          {
+            "item": "2018-09-13T00:00:00.000",
+            "count": "20"
+          },
+          {
+            "item": "2018-09-18T00:00:00.000",
+            "count": "20"
+          },
+          {
+            "item": "2019-09-11T00:00:00.000",
+            "count": "20"
+          },
+          {
+            "item": "2017-10-27T00:00:00.000",
+            "count": "19"
+          }
+        ],
+        "smallest": "2017-07-05T00:00:00.000",
+        "count": "5722",
+        "cardinality": "5722"
+      },
+      "format": {
+        "view": "date_ymd_time"
+      }
+    },
+    {
+      "id": 615229039,
+      "name": "TreeID",
+      "dataTypeName": "text",
+      "description": "Tree ID",
+      "fieldName": "treeid",
+      "position": 3,
+      "renderTypeName": "text",
+      "tableColumnId": 160594623,
+      "cachedContents": {
+        "non_null": "5722",
+        "largest": "TRE-98328",
+        "null": "0",
+        "top": [
+          {
+            "item": "TRE-142820",
+            "count": "8"
+          },
+          {
+            "item": "110971",
+            "count": "3"
+          },
+          {
+            "item": "190355",
+            "count": "3"
+          },
+          {
+            "item": "124806",
+            "count": "3"
+          },
+          {
+            "item": "266978",
+            "count": "3"
+          },
+          {
+            "item": "127310",
+            "count": "2"
+          },
+          {
+            "item": "126718",
+            "count": "2"
+          },
+          {
+            "item": "12741",
+            "count": "2"
+          },
+          {
+            "item": "121990",
+            "count": "2"
+          },
+          {
+            "item": "121989",
+            "count": "2"
+          },
+          {
+            "item": "123417",
+            "count": "2"
+          },
+          {
+            "item": "125971",
+            "count": "2"
+          },
+          {
+            "item": "126868",
+            "count": "2"
+          },
+          {
+            "item": "126869",
+            "count": "2"
+          },
+          {
+            "item": "10340",
+            "count": "2"
+          },
+          {
+            "item": "10693",
+            "count": "2"
+          },
+          {
+            "item": "10230",
+            "count": "2"
+          },
+          {
+            "item": "10437",
+            "count": "2"
+          },
+          {
+            "item": "100258",
+            "count": "2"
+          },
+          {
+            "item": "10242",
+            "count": "2"
+          }
+        ],
+        "smallest": "10000",
+        "count": "5722",
+        "cardinality": "5722"
+      },
+      "format": {
+        "noCommas": "true"
+      }
+    },
+    {
+      "id": 615229046,
+      "name": "Supervisor_District",
+      "dataTypeName": "text",
+      "description": "Supervisor District",
+      "fieldName": "supervisor_district",
+      "position": 4,
+      "renderTypeName": "text",
+      "tableColumnId": 160594630,
+      "cachedContents": {
+        "non_null": "5646",
+        "largest": "9",
+        "null": "76",
+        "top": [
+          {
+            "item": "8",
+            "count": "847"
+          },
+          {
+            "item": "2",
+            "count": "701"
+          },
+          {
+            "item": "5",
+            "count": "687"
+          },
+          {
+            "item": "10",
+            "count": "615"
+          },
+          {
+            "item": "6",
+            "count": "564"
+          },
+          {
+            "item": "7",
+            "count": "563"
+          },
+          {
+            "item": "9",
+            "count": "542"
+          },
+          {
+            "item": "3",
+            "count": "434"
+          },
+          {
+            "item": "1",
+            "count": "278"
+          },
+          {
+            "item": "4",
+            "count": "212"
+          },
+          {
+            "item": "11",
+            "count": "203"
+          }
+        ],
+        "smallest": "1",
+        "count": "5722",
+        "cardinality": "5722"
+      },
+      "format": {}
+    },
+    {
+      "id": 615229045,
+      "name": "Description",
+      "dataTypeName": "text",
+      "description": "Address | SiteOrder",
+      "fieldName": "description",
+      "position": 5,
+      "renderTypeName": "text",
+      "tableColumnId": 160594629,
+      "cachedContents": {
+        "non_null": "5700",
+        "largest": "Brotherhood open space RALSTON ST unaccepted ROW",
+        "null": "22",
+        "top": [
+          {
+            "item": "1754 POLK ST | Tree 2",
+            "count": "8"
+          },
+          {
+            "item": "2860 Greenwich St | Tree 1",
+            "count": "3"
+          },
+          {
+            "item": "2717 Harrison St | Tree 1",
+            "count": "3"
+          },
+          {
+            "item": "20 Federal St | Tree 4",
+            "count": "3"
+          },
+          {
+            "item": "1472 Haight St | Tree 1",
+            "count": "3"
+          },
+          {
+            "item": "1779 Oakdale Ave | Tree 1",
+            "count": "3"
+          },
+          {
+            "item": "0 Gonzalez Dr | Tree 2",
+            "count": "3"
+          },
+          {
+            "item": "2485 Washington St | Tree 2",
+            "count": "3"
+          },
+          {
+            "item": "95 Brady St | Tree 3",
+            "count": "3"
+          },
+          {
+            "item": "1357 Dolores St | Tree 2",
+            "count": "2"
+          },
+          {
+            "item": "1000 Oakdale Ave | Tree 6",
+            "count": "2"
+          },
+          {
+            "item": "1330 Baker St | Tree 1",
+            "count": "2"
+          },
+          {
+            "item": "1000 Oakdale Ave | Tree 7",
+            "count": "2"
+          },
+          {
+            "item": "1355 Laguna St | Tree 2",
+            "count": "2"
+          },
+          {
+            "item": "1336 Willard St | Tree 2",
+            "count": "2"
+          },
+          {
+            "item": "1379 Dolores St | Tree 2",
+            "count": "2"
+          },
+          {
+            "item": "1000 Oakdale Ave | Tree 4",
+            "count": "2"
+          },
+          {
+            "item": "1125 Goettingen St | Tree 1",
+            "count": "2"
+          },
+          {
+            "item": "1250 Hayes St | Tree 1",
+            "count": "2"
+          },
+          {
+            "item": "1290 Palou Ave | Tree 1",
+            "count": "2"
+          }
+        ],
+        "smallest": "0 Cole St | Tree 1",
+        "count": "5722",
+        "cardinality": "5722"
+      },
+      "format": {}
+    },
+    {
+      "id": 615229020,
+      "name": "SiteOrder",
+      "dataTypeName": "number",
+      "description": "Site Order",
+      "fieldName": "siteorder",
+      "position": 6,
+      "renderTypeName": "number",
+      "tableColumnId": 109446079,
+      "cachedContents": {
+        "non_null": "5699",
+        "largest": "115",
+        "null": "23",
+        "top": [
+          {
+            "item": "1",
+            "count": "2864"
+          },
+          {
+            "item": "2",
+            "count": "1006"
+          },
+          {
+            "item": "3",
+            "count": "478"
+          },
+          {
+            "item": "4",
+            "count": "316"
+          },
+          {
+            "item": "5",
+            "count": "211"
+          },
+          {
+            "item": "6",
+            "count": "127"
+          },
+          {
+            "item": "7",
+            "count": "114"
+          },
+          {
+            "item": "8",
+            "count": "96"
+          },
+          {
+            "item": "10",
+            "count": "59"
+          },
+          {
+            "item": "9",
+            "count": "59"
+          },
+          {
+            "item": "11",
+            "count": "42"
+          },
+          {
+            "item": "12",
+            "count": "40"
+          },
+          {
+            "item": "13",
+            "count": "28"
+          },
+          {
+            "item": "15",
+            "count": "24"
+          },
+          {
+            "item": "14",
+            "count": "21"
+          },
+          {
+            "item": "17",
+            "count": "13"
+          },
+          {
+            "item": "18",
+            "count": "12"
+          },
+          {
+            "item": "19",
+            "count": "9"
+          },
+          {
+            "item": "16",
+            "count": "9"
+          },
+          {
+            "item": "21",
+            "count": "9"
+          }
+        ],
+        "smallest": "0",
+        "count": "5722",
+        "cardinality": "5722"
+      },
+      "format": {}
+    },
+    {
+      "id": 615229018,
+      "name": "LegalStatus",
+      "dataTypeName": "text",
+      "description": "Legal Status",
+      "fieldName": "legalstatus",
+      "position": 7,
+      "renderTypeName": "text",
+      "tableColumnId": 109446077,
+      "cachedContents": {
+        "non_null": "5719",
+        "largest": "Undocumented",
+        "null": "3",
+        "top": [
+          {
+            "item": "DPW Maintained",
+            "count": "5136"
+          },
+          {
+            "item": "Significant Tree",
+            "count": "287"
+          },
+          {
+            "item": "Undocumented",
+            "count": "132"
+          },
+          {
+            "item": "Permitted Site",
+            "count": "96"
+          },
+          {
+            "item": "Section 806 (d)",
+            "count": "34"
+          },
+          {
+            "item": "Private",
+            "count": "9"
+          },
+          {
+            "item": "Landmark tree",
+            "count": "6"
+          },
+          {
+            "item": "Planning Code 138.1 required",
+            "count": "6"
+          },
+          {
+            "item": "Prune Opt Out",
+            "count": "5"
+          },
+          {
+            "item": "Property Tree",
+            "count": "4"
+          },
+          {
+            "item": "Street Tree Maintenance Opt Out",
+            "count": "4"
+          }
+        ],
+        "smallest": "DPW Maintained",
+        "count": "5722",
+        "cardinality": "5722"
+      },
+      "format": {}
+    },
+    {
+      "id": 615229044,
+      "name": "Planter",
+      "dataTypeName": "text",
+      "description": "Owner",
+      "fieldName": "planter",
+      "position": 8,
+      "renderTypeName": "text",
+      "tableColumnId": 160594628,
+      "cachedContents": {
+        "non_null": "5687",
+        "largest": "SFUSD",
+        "null": "35",
+        "top": [
+          {
+            "item": "Private",
+            "count": "4589"
+          },
+          {
+            "item": "DPW",
+            "count": "869"
+          },
+          {
+            "item": "FUF",
+            "count": "158"
+          },
+          {
+            "item": "SFUSD",
+            "count": "26"
+          },
+          {
+            "item": "Rec/Park",
+            "count": "22"
+          },
+          {
+            "item": "DPW for City Agency",
+            "count": "6"
+          },
+          {
+            "item": "Fire Dept",
+            "count": "3"
+          },
+          {
+            "item": "Dept of Real Estate",
+            "count": "3"
+          },
+          {
+            "item": "Port",
+            "count": "3"
+          },
+          {
+            "item": "CAN",
+            "count": "2"
+          },
+          {
+            "item": "MTA",
+            "count": "2"
+          },
+          {
+            "item": "Police Dept",
+            "count": "1"
+          },
+          {
+            "item": "Mission Verde",
+            "count": "1"
+          },
+          {
+            "item": "Housing Authority",
+            "count": "1"
+          },
+          {
+            "item": "Cleary Bros. Landscape",
+            "count": "1"
+          }
+        ],
+        "smallest": "CAN",
+        "count": "5722",
+        "cardinality": "5722"
+      },
+      "format": {}
+    },
+    {
+      "id": 615229043,
+      "name": "Location",
+      "dataTypeName": "text",
+      "description": "Location Site",
+      "fieldName": "location",
+      "position": 9,
+      "renderTypeName": "text",
+      "tableColumnId": 160594627,
+      "cachedContents": {
+        "non_null": "5693",
+        "largest": "unknown",
+        "null": "29",
+        "top": [
+          {
+            "item": "Sidewalk, Curb side",
+            "count": "4835"
+          },
+          {
+            "item": "Sidewalk, Property side",
+            "count": "346"
+          },
+          {
+            "item": "Median",
+            "count": "218"
+          },
+          {
+            "item": "Front Yard",
+            "count": "165"
+          },
+          {
+            "item": "Side Yard",
+            "count": "68"
+          },
+          {
+            "item": "Back Yard",
+            "count": "38"
+          },
+          {
+            "item": "Unaccepted Street",
+            "count": "12"
+          },
+          {
+            "item": "unknown",
+            "count": "11"
+          }
+        ],
+        "smallest": "Back Yard",
+        "count": "5722",
+        "cardinality": "5722"
+      },
+      "format": {}
+    },
+    {
+      "id": 615229022,
+      "name": "SiteType",
+      "dataTypeName": "text",
+      "description": "Site Type",
+      "fieldName": "sitetype",
+      "position": 10,
+      "renderTypeName": "text",
+      "tableColumnId": 109446081,
+      "cachedContents": {
+        "non_null": "5694",
+        "largest": "Yard",
+        "null": "28",
+        "top": [
+          {
+            "item": "Cutout",
+            "count": "4712"
+          },
+          {
+            "item": "Yard",
+            "count": "935"
+          },
+          {
+            "item": "Pot",
+            "count": "46"
+          },
+          {
+            "item": "Hanging Pot",
+            "count": "1"
+          }
+        ],
+        "smallest": "Cutout",
+        "count": "5722",
+        "cardinality": "5722"
+      },
+      "format": {}
+    },
+    {
+      "id": 615229023,
+      "name": "PlantType",
+      "dataTypeName": "text",
+      "description": "Plant Type",
+      "fieldName": "planttype",
+      "position": 11,
+      "renderTypeName": "text",
+      "tableColumnId": 109446082,
+      "cachedContents": {
+        "non_null": "5718",
+        "largest": "Tree",
+        "null": "4",
+        "top": [
+          {
+            "item": "Tree",
+            "count": "5067"
+          },
+          {
+            "item": "Empty",
+            "count": "424"
+          },
+          {
+            "item": "Abandoned",
+            "count": "169"
+          },
+          {
+            "item": "Potential",
+            "count": "31"
+          },
+          {
+            "item": "Landscaping",
+            "count": "27"
+          }
+        ],
+        "smallest": "Abandoned",
+        "count": "5722",
+        "cardinality": "5722"
+      },
+      "format": {}
+    },
+    {
+      "id": 615229042,
+      "name": "Species",
+      "dataTypeName": "text",
+      "description": "Scientific Name : Common Name",
+      "fieldName": "species",
+      "position": 12,
+      "renderTypeName": "text",
+      "tableColumnId": 160594626,
+      "cachedContents": {
+        "non_null": "5553",
+        "largest": "Zelkova serrata 'Village Green' : Village Green Zelkova",
+        "null": "169",
+        "top": [
+          {
+            "item": "Planting site (plant) : Planting Site (plant)",
+            "count": "412"
+          },
+          {
+            "item": "Acacia melanoxylon : Blackwood Acacia",
+            "count": "269"
+          },
+          {
+            "item": "Ficus microcarpa nitida 'Green Gem' : Indian Laurel Fig Tree 'Green Gem'",
+            "count": "257"
+          },
+          {
+            "item": "Prunus cerasifera : Cherry Plum",
+            "count": "209"
+          },
+          {
+            "item": "Planting site : Planting Site",
+            "count": "193"
+          },
+          {
+            "item": "Platanus x hispanica : Sycamore, London Plane",
+            "count": "186"
+          },
+          {
+            "item": "Pittosporum undulatum : Victorian Box",
+            "count": "184"
+          },
+          {
+            "item": "Lophostemon confertus : Brisbane Box",
+            "count": "181"
+          },
+          {
+            "item": "Arbutus 'Marina' : Hybrid Strawberry Tree",
+            "count": "156"
+          },
+          {
+            "item": "Stump (use Grinder) : Stump (use Grinder)",
+            "count": "141"
+          },
+          {
+            "item": "Pinus radiata : Monterey Pine",
+            "count": "138"
+          },
+          {
+            "item": "Planting site (pave) : Planting Site (pave)",
+            "count": "130"
+          },
+          {
+            "item": "Myoporum laetum : Myoporum",
+            "count": "122"
+          },
+          {
+            "item": "Prunus serrulata 'Kwanzan' : Kwanzan Flowering Cherry",
+            "count": "112"
+          },
+          {
+            "item": "Tristaniopsis laurina : Swamp Myrtle",
+            "count": "98"
+          },
+          {
+            "item": "Ficus retusa nitida : Banyan Fig",
+            "count": "89"
+          },
+          {
+            "item": "Paved Over : Paved Over",
+            "count": "86"
+          },
+          {
+            "item": "Metrosideros excelsa : New Zealand Xmas Tree",
+            "count": "76"
+          },
+          {
+            "item": "Magnolia grandiflora : Southern Magnolia",
+            "count": "71"
+          },
+          {
+            "item": "Maytenus boaria : Mayten",
+            "count": "70"
+          }
+        ],
+        "smallest": "Abutilon hybridum : Flowering maple",
+        "count": "5722",
+        "cardinality": "5722"
+      },
+      "format": {}
+    },
+    {
+      "id": 615229028,
+      "name": "X",
+      "dataTypeName": "number",
+      "description": "X Coordinate",
+      "fieldName": "x",
+      "position": 13,
+      "renderTypeName": "number",
+      "tableColumnId": 109446089,
+      "cachedContents": {
+        "non_null": "5694",
+        "largest": "6020620.74495",
+        "null": "28",
+        "top": [
+          {
+            "item": "6004027.1917",
+            "count": "26"
+          },
+          {
+            "item": "5997124",
+            "count": "13"
+          },
+          {
+            "item": "6004444",
+            "count": "10"
+          },
+          {
+            "item": "6000242",
+            "count": "9"
+          },
+          {
+            "item": "6006598.3556",
+            "count": "8"
+          },
+          {
+            "item": "6010509",
+            "count": "8"
+          },
+          {
+            "item": "5983894",
+            "count": "8"
+          },
+          {
+            "item": "6005306",
+            "count": "6"
+          },
+          {
+            "item": "5993879",
+            "count": "6"
+          },
+          {
+            "item": "5994866",
+            "count": "6"
+          },
+          {
+            "item": "5984960",
+            "count": "6"
+          },
+          {
+            "item": "6001595.34039",
+            "count": "5"
+          },
+          {
+            "item": "5985361",
+            "count": "5"
+          },
+          {
+            "item": "5984943",
+            "count": "5"
+          },
+          {
+            "item": "5990529",
+            "count": "5"
+          },
+          {
+            "item": "6005211",
+            "count": "4"
+          },
+          {
+            "item": "6006422",
+            "count": "4"
+          },
+          {
+            "item": "5992091",
+            "count": "4"
+          },
+          {
+            "item": "5984817.9532367",
+            "count": "4"
+          },
+          {
+            "item": "5990881",
+            "count": "4"
+          }
+        ],
+        "smallest": "5980709.97353",
+        "count": "5722",
+        "cardinality": "5722"
+      },
+      "format": {
+        "noCommas": "true"
+      }
+    },
+    {
+      "id": 615229029,
+      "name": "Y",
+      "dataTypeName": "number",
+      "description": "Y Coordinate",
+      "fieldName": "y",
+      "position": 14,
+      "renderTypeName": "number",
+      "tableColumnId": 109446090,
+      "cachedContents": {
+        "non_null": "5694",
+        "largest": "2122430.29329",
+        "null": "28",
+        "top": [
+          {
+            "item": "2114282.142",
+            "count": "26"
+          },
+          {
+            "item": "2108265",
+            "count": "13"
+          },
+          {
+            "item": "2113383",
+            "count": "10"
+          },
+          {
+            "item": "2096441.5",
+            "count": "9"
+          },
+          {
+            "item": "2116937.7026",
+            "count": "8"
+          },
+          {
+            "item": "2103658",
+            "count": "8"
+          },
+          {
+            "item": "2095251",
+            "count": "8"
+          },
+          {
+            "item": "2098973",
+            "count": "6"
+          },
+          {
+            "item": "2112177.5",
+            "count": "6"
+          },
+          {
+            "item": "2094729",
+            "count": "6"
+          },
+          {
+            "item": "2101255",
+            "count": "6"
+          },
+          {
+            "item": "2118060.27385",
+            "count": "5"
+          },
+          {
+            "item": "2092111",
+            "count": "5"
+          },
+          {
+            "item": "2095249",
+            "count": "5"
+          },
+          {
+            "item": "2095009",
+            "count": "5"
+          },
+          {
+            "item": "2095183",
+            "count": "5"
+          },
+          {
+            "item": "2107919",
+            "count": "4"
+          },
+          {
+            "item": "2098359",
+            "count": "4"
+          },
+          {
+            "item": "2104951.7766639",
+            "count": "4"
+          },
+          {
+            "item": "2107103.92491",
+            "count": "4"
+          }
+        ],
+        "smallest": "2086182.07734",
+        "count": "5722",
+        "cardinality": "5722"
+      },
+      "format": {
+        "noCommas": "true"
+      }
+    },
+    {
+      "id": 615229030,
+      "name": "Lat",
+      "dataTypeName": "number",
+      "description": "Latitude",
+      "fieldName": "lat",
+      "position": 15,
+      "renderTypeName": "number",
+      "tableColumnId": 109446086,
+      "cachedContents": {
+        "non_null": "5715",
+        "largest": "37.808380583835046",
+        "null": "7",
+        "top": [
+          {
+            "item": "37.780402324115535",
+            "count": "25"
+          },
+          {
+            "item": "37.785643",
+            "count": "22"
+          },
+          {
+            "item": "37.768705611537705",
+            "count": "17"
+          },
+          {
+            "item": "37.76666670247559",
+            "count": "14"
+          },
+          {
+            "item": "37.728860307861744",
+            "count": "14"
+          },
+          {
+            "item": "37.76410055499252",
+            "count": "14"
+          },
+          {
+            "item": "37.78288351174735",
+            "count": "13"
+          },
+          {
+            "item": "37.77681981252814",
+            "count": "13"
+          },
+          {
+            "item": "37.790806925248006",
+            "count": "12"
+          },
+          {
+            "item": "37.74239610883806",
+            "count": "12"
+          },
+          {
+            "item": "37.779465776231376",
+            "count": "11"
+          },
+          {
+            "item": "37.779890123012215",
+            "count": "11"
+          },
+          {
+            "item": "37.75807014954387",
+            "count": "11"
+          },
+          {
+            "item": "37.744659445609514",
+            "count": "10"
+          },
+          {
+            "item": "37.76337846551698",
+            "count": "10"
+          },
+          {
+            "item": "37.736442",
+            "count": "9"
+          },
+          {
+            "item": "37.750168942227674",
+            "count": "9"
+          },
+          {
+            "item": "37.74256808329907",
+            "count": "9"
+          },
+          {
+            "item": "37.766705616375724",
+            "count": "9"
+          },
+          {
+            "item": "37.745609457910824",
+            "count": "9"
+          }
+        ],
+        "smallest": "37.708020476379765",
+        "count": "5722",
+        "cardinality": "5722"
+      },
+      "format": {}
+    },
+    {
+      "id": 615229031,
+      "name": "Long",
+      "dataTypeName": "number",
+      "description": "Longtitude",
+      "fieldName": "long",
+      "position": 16,
+      "renderTypeName": "number",
+      "tableColumnId": 109446087,
+      "cachedContents": {
+        "non_null": "5715",
+        "largest": "-122.370963",
+        "null": "7",
+        "top": [
+          {
+            "item": "-122.42537387510771",
+            "count": "25"
+          },
+          {
+            "item": "-122.429819",
+            "count": "22"
+          },
+          {
+            "item": "-122.45344458114148",
+            "count": "17"
+          },
+          {
+            "item": "-122.40370129561151",
+            "count": "14"
+          },
+          {
+            "item": "-122.3802869202717",
+            "count": "14"
+          },
+          {
+            "item": "-122.49589458546646",
+            "count": "14"
+          },
+          {
+            "item": "-122.39685672807914",
+            "count": "13"
+          },
+          {
+            "item": "-122.42838270836528",
+            "count": "13"
+          },
+          {
+            "item": "-122.3962515600959",
+            "count": "12"
+          },
+          {
+            "item": "-122.38717757343699",
+            "count": "12"
+          },
+          {
+            "item": "-122.42518493632116",
+            "count": "11"
+          },
+          {
+            "item": "-122.41430717852911",
+            "count": "11"
+          },
+          {
+            "item": "-122.4956230318873",
+            "count": "11"
+          },
+          {
+            "item": "-122.46253356094167",
+            "count": "10"
+          },
+          {
+            "item": "-122.45331527404447",
+            "count": "10"
+          },
+          {
+            "item": "-122.43156068332569",
+            "count": "9"
+          },
+          {
+            "item": "-122.441633",
+            "count": "9"
+          },
+          {
+            "item": "-122.42981939357045",
+            "count": "9"
+          },
+          {
+            "item": "-122.46386611556483",
+            "count": "9"
+          },
+          {
+            "item": "-122.46674694150418",
+            "count": "9"
+          }
+        ],
+        "smallest": "-122.51010288086485",
+        "count": "5722",
+        "cardinality": "5722"
+      },
+      "format": {}
+    },
+    {
+      "id": 615229032,
+      "name": "Point",
+      "dataTypeName": "point",
+      "description": "Represents vector geometry objects on a map",
+      "fieldName": "point",
+      "position": 17,
+      "renderTypeName": "point",
+      "tableColumnId": 110074382,
+      "cachedContents": {
+        "non_null": "5715",
+        "null": "7",
+        "top": [
+          {
+            "item": {
+              "coordinates": [
+                -122.425,
+                37.7804
+              ],
+              "type": "Point"
+            },
+            "count": "25"
+          },
+          {
+            "item": {
+              "coordinates": [
+                -122.429819,
+                37.785643
+              ],
+              "type": "Point"
+            },
+            "count": "22"
+          },
+          {
+            "item": {
+              "coordinates": [
+                -122.453,
+                37.7687
+              ],
+              "type": "Point"
+            },
+            "count": "17"
+          },
+          {
+            "item": {
+              "coordinates": [
+                -122.496,
+                37.7641
+              ],
+              "type": "Point"
+            },
+            "count": "16"
+          },
+          {
+            "item": {
+              "coordinates": [
+                -122.404,
+                37.7667
+              ],
+              "type": "Point"
+            },
+            "count": "14"
+          },
+          {
+            "item": {
+              "coordinates": [
+                -122.414,
+                37.7796
+              ],
+              "type": "Point"
+            },
+            "count": "14"
+          },
+          {
+            "item": {
+              "coordinates": [
+                -122.38,
+                37.7289
+              ],
+              "type": "Point"
+            },
+            "count": "14"
+          },
+          {
+            "item": {
+              "coordinates": [
+                -122.428,
+                37.7829
+              ],
+              "type": "Point"
+            },
+            "count": "13"
+          },
+          {
+            "item": {
+              "coordinates": [
+                -122.397,
+                37.7768
+              ],
+              "type": "Point"
+            },
+            "count": "13"
+          },
+          {
+            "item": {
+              "coordinates": [
+                -122.494,
+                37.7321
+              ],
+              "type": "Point"
+            },
+            "count": "12"
+          },
+          {
+            "item": {
+              "coordinates": [
+                -122.387,
+                37.7424
+              ],
+              "type": "Point"
+            },
+            "count": "12"
+          },
+          {
+            "item": {
+              "coordinates": [
+                -122.396,
+                37.7908
+              ],
+              "type": "Point"
+            },
+            "count": "12"
+          },
+          {
+            "item": {
+              "coordinates": [
+                -122.425,
+                37.7795
+              ],
+              "type": "Point"
+            },
+            "count": "11"
+          },
+          {
+            "item": {
+              "coordinates": [
+                -122.496,
+                37.7581
+              ],
+              "type": "Point"
+            },
+            "count": "11"
+          },
+          {
+            "item": {
+              "coordinates": [
+                -122.414,
+                37.7799
+              ],
+              "type": "Point"
+            },
+            "count": "11"
+          },
+          {
+            "item": {
+              "coordinates": [
+                -122.495,
+                37.7469
+              ],
+              "type": "Point"
+            },
+            "count": "11"
+          },
+          {
+            "item": {
+              "coordinates": [
+                -122.4,
+                37.756
+              ],
+              "type": "Point"
+            },
+            "count": "10"
+          },
+          {
+            "item": {
+              "coordinates": [
+                -122.494,
+                37.7376
+              ],
+              "type": "Point"
+            },
+            "count": "10"
+          },
+          {
+            "item": {
+              "coordinates": [
+                -122.463,
+                37.7447
+              ],
+              "type": "Point"
+            },
+            "count": "10"
+          },
+          {
+            "item": {
+              "coordinates": [
+                -122.453,
+                37.7634
+              ],
+              "type": "Point"
+            },
+            "count": "10"
+          }
+        ],
+        "count": "5722",
+        "cardinality": "5722"
+      },
+      "format": {}
+    },
+    {
+      "id": 615229041,
+      "name": "Analysis_Neighborhood",
+      "dataTypeName": "text",
+      "description": "Analysis Neighborhood",
+      "fieldName": "analysis_neighborhood",
+      "position": 18,
+      "renderTypeName": "text",
+      "tableColumnId": 160594625,
+      "cachedContents": {
+        "non_null": "5714",
+        "largest": "West of Twin Peaks",
+        "null": "8",
+        "top": [
+          {
+            "item": "Mission",
+            "count": "492"
+          },
+          {
+            "item": "West of Twin Peaks",
+            "count": "417"
+          },
+          {
+            "item": "Noe Valley",
+            "count": "347"
+          },
+          {
+            "item": "Bayview Hunters Point",
+            "count": "339"
+          },
+          {
+            "item": "Pacific Heights",
+            "count": "308"
+          },
+          {
+            "item": "Sunset/Parkside",
+            "count": "255"
+          },
+          {
+            "item": "Bernal Heights",
+            "count": "252"
+          },
+          {
+            "item": "Financial District/South Beach",
+            "count": "228"
+          },
+          {
+            "item": "Castro/Upper Market",
+            "count": "217"
+          },
+          {
+            "item": "Western Addition",
+            "count": "205"
+          },
+          {
+            "item": "Marina",
+            "count": "184"
+          },
+          {
+            "item": "Presidio Heights",
+            "count": "180"
+          },
+          {
+            "item": "Haight Ashbury",
+            "count": "175"
+          },
+          {
+            "item": "Hayes Valley",
+            "count": "173"
+          },
+          {
+            "item": "Potrero Hill",
+            "count": "169"
+          },
+          {
+            "item": "Inner Sunset",
+            "count": "167"
+          },
+          {
+            "item": "Outer Richmond",
+            "count": "160"
+          },
+          {
+            "item": "South of Market",
+            "count": "137"
+          },
+          {
+            "item": "Glen Park",
+            "count": "136"
+          },
+          {
+            "item": "Russian Hill",
+            "count": "132"
+          }
+        ],
+        "smallest": "Bayview Hunters Point",
+        "count": "5722",
+        "cardinality": "5722"
+      },
+      "format": {}
+    },
+    {
+      "id": 615229040,
+      "name": "data_as_of",
+      "dataTypeName": "calendar_date",
+      "description": "Timestamp the data was updated in the source system.",
+      "fieldName": "data_as_of",
+      "position": 19,
+      "renderTypeName": "calendar_date",
+      "tableColumnId": 160594624,
+      "cachedContents": {
+        "non_null": "5722",
+        "largest": "2026-10-16T00:00:00.000",
+        "null": "0",
+        "top": [
+          {
+            "item": "2025-07-31T04:26:21.501",
+            "count": "5207"
+          },
+          {
+            "item": "2025-07-17T00:00:00.000",
+            "count": "172"
+          },
+          {
+            "item": "2026-02-16T00:00:00.000",
+            "count": "24"
+          },
+          {
+            "item": "2025-12-05T00:00:00.000",
+            "count": "11"
+          },
+          {
+            "item": "2026-05-19T00:00:00.000",
+            "count": "11"
+          },
+          {
+            "item": "2026-01-17T00:00:00.000",
+            "count": "10"
+          },
+          {
+            "item": "2025-07-30T00:00:00.000",
+            "count": "10"
+          },
+          {
+            "item": "2025-09-24T00:00:00.000",
+            "count": "10"
+          },
+          {
+            "item": "2025-08-22T00:00:00.000",
+            "count": "10"
+          },
+          {
+            "item": "2026-05-28T00:00:00.000",
+            "count": "8"
+          },
+          {
+            "item": "2026-01-23T00:00:00.000",
+            "count": "7"
+          },
+          {
+            "item": "2025-08-07T00:00:00.000",
+            "count": "7"
+          },
+          {
+            "item": "2026-03-21T00:00:00.000",
+            "count": "6"
+          },
+          {
+            "item": "2026-04-09T00:00:00.000",
+            "count": "6"
+          },
+          {
+            "item": "2026-02-21T00:00:00.000",
+            "count": "6"
+          },
+          {
+            "item": "2026-03-13T00:00:00.000",
+            "count": "5"
+          },
+          {
+            "item": "2026-06-02T00:00:00.000",
+            "count": "5"
+          },
+          {
+            "item": "2025-08-21T00:00:00.000",
+            "count": "5"
+          },
+          {
+            "item": "2025-12-24T00:00:00.000",
+            "count": "5"
+          },
+          {
+            "item": "2026-08-27T00:00:00.000",
+            "count": "5"
+          }
+        ],
+        "smallest": "2025-07-17T00:00:00.000",
+        "count": "5722",
+        "cardinality": "5722"
+      },
+      "format": {
+        "view": "date_ymd_time"
+      }
+    },
+    {
+      "id": 615229038,
+      "name": "data_loaded_at",
+      "dataTypeName": "calendar_date",
+      "description": "Timestamp the data was uploaded to the open data portal.",
+      "fieldName": "data_loaded_at",
+      "position": 20,
+      "renderTypeName": "calendar_date",
+      "tableColumnId": 160594622,
+      "cachedContents": {
+        "non_null": "5722",
+        "largest": "2026-10-16T09:42:13.133",
+        "null": "0",
+        "top": [
+          {
+            "item": "2026-10-16T09:42:13.133",
+            "count": "5722"
+          }
+        ],
+        "smallest": "2026-10-16T09:42:13.133",
+        "count": "5722",
+        "cardinality": "5722"
+      },
+      "format": {
+        "view": "date_ymd_time"
+      }
+    },
+    {
+      "id": 615229033,
+      "name": "Neighborhoods",
+      "dataTypeName": "number",
+      "description": "This column was automatically created in order to record in what polygon from the dataset 'Neighborhoods' (jwn9-ihcz) the point in column 'point' is located.  This enables the creation of region maps (choropleths) in the visualization canvas and data lens.",
+      "fieldName": ":@computed_region_jwn9_ihcz",
+      "position": 22,
+      "renderTypeName": "number",
+      "tableColumnId": 110074383,
+      "computationStrategy": {
+        "source_columns": [
+          "point"
+        ],
+        "type": "georegion_match_on_point",
+        "parameters": {
+          "region": "_jwn9-ihcz",
+          "primary_key": "_feature_id"
+        }
+      },
+      "format": {}
+    },
+    {
+      "id": 615229034,
+      "name": "SF Find Neighborhoods",
+      "dataTypeName": "number",
+      "description": "This column was automatically created in order to record in what polygon from the dataset 'SF Find Neighborhoods' (6qbp-sg9q) the point in column 'point' is located.  This enables the creation of region maps (choropleths) in the visualization canvas and data lens.",
+      "fieldName": ":@computed_region_6qbp_sg9q",
+      "position": 23,
+      "renderTypeName": "number",
+      "tableColumnId": 110074384,
+      "computationStrategy": {
+        "source_columns": [
+          "point"
+        ],
+        "type": "georegion_match_on_point",
+        "parameters": {
+          "region": "_6qbp-sg9q",
+          "primary_key": "_feature_id"
+        }
+      },
+      "format": {}
+    },
+    {
+      "id": 615229035,
+      "name": "Current Police Districts",
+      "dataTypeName": "number",
+      "description": "This column was automatically created in order to record in what polygon from the dataset 'Current Police Districts' (qgnn-b9vv) the point in column 'point' is located.  This enables the creation of region maps (choropleths) in the visualization canvas and data lens.",
+      "fieldName": ":@computed_region_qgnn_b9vv",
+      "position": 24,
+      "renderTypeName": "number",
+      "tableColumnId": 110074385,
+      "computationStrategy": {
+        "source_columns": [
+          "point"
+        ],
+        "type": "georegion_match_on_point",
+        "parameters": {
+          "region": "_qgnn-b9vv",
+          "primary_key": "_feature_id"
+        }
+      },
+      "format": {}
+    },
+    {
+      "id": 615229036,
+      "name": "Current Supervisor Districts",
+      "dataTypeName": "number",
+      "description": "This column was automatically created in order to record in what polygon from the dataset 'Current Supervisor Districts' (26cr-cadq) the point in column 'point' is located.  This enables the creation of region maps (choropleths) in the visualization canvas and data lens.",
+      "fieldName": ":@computed_region_26cr_cadq",
+      "position": 25,
+      "renderTypeName": "number",
+      "tableColumnId": 110074386,
+      "computationStrategy": {
+        "source_columns": [
+          "point"
+        ],
+        "type": "georegion_match_on_point",
+        "parameters": {
+          "region": "_26cr-cadq",
+          "primary_key": "_feature_id"
+        }
+      },
+      "format": {}
+    },
+    {
+      "id": 615229037,
+      "name": "Analysis Neighborhoods",
+      "dataTypeName": "number",
+      "description": "This column was automatically created in order to record in what polygon from the dataset 'Analysis Neighborhoods' (ajp5-b2md) the point in column 'point' is located.  This enables the creation of region maps (choropleths) in the visualization canvas and data lens.",
+      "fieldName": ":@computed_region_ajp5_b2md",
+      "position": 26,
+      "renderTypeName": "number",
+      "tableColumnId": 110074387,
+      "computationStrategy": {
+        "source_columns": [
+          "point"
+        ],
+        "type": "georegion_match_on_point",
+        "parameters": {
+          "region": "_ajp5-b2md",
+          "primary_key": "_feature_id"
+        }
+      },
+      "format": {}
+    }
+  ],
+  "grants": [
+    {
+      "inherited": false,
+      "type": "viewer",
+      "flags": [
+        "public"
+      ]
+    }
+  ],
+  "license": {
+    "name": "Public Domain"
+  },
+  "metadata": {
+    "custom_fields": {
+      "Department Metrics": {
+        "Publishing Department": "Public Works"
+      },
+      "Internal Management": {
+        "Inventory ID": "DPW-0044"
+      },
+      "Detailed Descriptive": {
+        "Geographic unit": "Latitude/longitude"
+      },
+      "Publishing Details": {
+        "Data change frequency": "Daily",
+        "Program link": "",
+        "Publishing frequency": "Daily",
+        "Geographic unit": "Latitude/longitude"
+      }
+    },
+    "rowLabel": "Street tree removal public notice",
+    "availableDisplayTypes": [
+      "table",
+      "fatrow",
+      "page"
+    ]
+  },
+  "owner": {
+    "id": "dbag-6qd9",
+    "displayName": "OpenData",
+    "screenName": "OpenData",
+    "type": "interactive",
+    "flags": [
+      "acceptedEula"
+    ]
+  },
+  "query": {},
+  "rights": [
+    "read"
+  ],
+  "tableAuthor": {
+    "id": "dbag-6qd9",
+    "displayName": "OpenData",
+    "screenName": "OpenData",
+    "type": "interactive",
+    "flags": [
+      "acceptedEula"
+    ]
+  },
+  "tags": [
+    "tree",
+    "trees",
+    "removal",
+    "schedule",
+    "posting",
+    "notification"
+  ],
+  "flags": [
+    "default",
+    "federated",
+    "internalToPublicFederatedView",
+    "ownerMayBeContacted",
+    "restorable",
+    "restorePossibleForType"
+  ]
+}

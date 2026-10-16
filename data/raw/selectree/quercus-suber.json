@@ -1,0 +1,454 @@
+{
+  "tree_id": 1263,
+  "family": "Fagaceae",
+  "memo": "&lt;em&gt;Quercus suber&lt;/em&gt; has a rugged, thick bark that is deeply fissured and cork-like, making it quite unique in appearance. It can grow to a moderate height with a broad, rounded canopy that provides ample shade. The leaves are dark green and leathery with a glossy surface, often staying on the tree year-round. In spring, it produces small, inconspicuous flowers that later develop into acorns. This tree is highly adaptable to various soil types and can tolerate drought conditions, making it a resilient choice for urban landscaping. Its distinctive bark is often harvested sustainably for commercial use without harming the tree.",
+  "fragrance": 0,
+  "native_range": "Western Mediterranean and North Africa",
+  "photolocations": "Cal Poly Campus - San Luis Obispo, CA, Santa Barbara, CA, Davis, CA, Sonoma, CA, Balboa Park - San Diego, CA, Sacramento, CA and Quail Arboretum - Encinitas, CA",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 0,
+  "ethnobotanical_info": "The bark of Cork Oak is the primary source of commercial cork. Cork is heat and sound insulating as well as water repellant. The first harvest usually occurs once the tree is around 25 years old with a DBH of 28in and is subsequently harvested every nine to twelve. The first two harvests are lower quality with cracking and low elasticity. The third harvest and onward is the cork that is used commercially.&lt;br&gt;The acorns are used as pig feed in a practice called acorn fattening.",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 1,
+  "schoolyard_use_notes": "This tree is great for learning about human uses for trees, fire ecology, and mycorrhizal symbiosis. &lt;em&gt;Q. suber&lt;/em&gt; is best known for its valuable bark which is harvested to make cork. Cork is the outer layer of tree bark that is made up of thinly walled, irregularly shaped, waxy cells. Many trees that have peeling or exfoliating bark have cork but the cork of &lt;em&gt;Q. suber&lt;/em&gt; is distinctly spongy and flexible making it commercially very valuable. Additionally, the spongy cork naturally insulates the tree from fire making it resilient in its native fire-prone landscapes. This could provide an interesting introduction to how plants adapt to regular wildfires. Cork Oaks also form mycorrhizal symbioses with four species for Amanita among other fungi. The vegetative bodies of these fungi, the mycelium, are in close contact with the roots of the oak. The fungi provide water and nutrients for the oak in exchange for products of photosynthesis.&nbsp;",
+  "soil_ph_low": 1,
+  "soil_ph_high": 5,
+  "planting_area": "4 to 7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Strong",
+  "branch_strength_high": "Strong",
+  "root_damage_potential": "Moderate",
+  "biogenic_emissions": "High",
+  "deer_palatable": null,
+  "height_high": 70,
+  "height_memo": null,
+  "width_high": 70,
+  "growth_rate_high": 36,
+  "water_use": "Low",
+  "salt_tolerance": "Moderate",
+  "fruit_size": "Medium",
+  "fruit_color": "Brown",
+  "fruit_type": "Acorn",
+  "flower_showiness": "Inconspicuous",
+  "bark_color": [
+    "Light Green or Light Gray"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Oblong",
+  "foliage_fall_color": 0,
+  "foliage_type": "Evergreen",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": null,
+  "suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/63/original/1263_current_suitability_map.png",
+  "future_suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/63/original/1263_future_suitability_map.png",
+  "sex_explanation": null,
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 1245,
+    "tree_id": 1263,
+    "common": "CORK OAK",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 0
+  },
+  "primary_taxon": {
+    "taxon_id": 4451,
+    "genus": "Quercus",
+    "species": "suber",
+    "hybrid_alt_species": null,
+    "subspecies": null,
+    "variety": null,
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Quercus suber"
+  },
+  "other_taxa": [
+    {
+      "taxon_id": 4452,
+      "genus": "Quercus",
+      "species": "cintrana",
+      "hybrid_alt_species": null,
+      "subspecies": null,
+      "variety": null,
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 2,
+      "name_concat": "Quercus cintrana"
+    },
+    {
+      "taxon_id": 4453,
+      "genus": "Quercus",
+      "species": "corticosa",
+      "hybrid_alt_species": null,
+      "subspecies": null,
+      "variety": null,
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 3,
+      "name_concat": "Quercus corticosa"
+    },
+    {
+      "taxon_id": 4454,
+      "genus": "Quercus",
+      "species": "mitis",
+      "hybrid_alt_species": null,
+      "subspecies": null,
+      "variety": null,
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 4,
+      "name_concat": "Quercus mitis"
+    },
+    {
+      "taxon_id": 4455,
+      "genus": "Quercus",
+      "species": "occidentalis",
+      "hybrid_alt_species": null,
+      "subspecies": null,
+      "variety": null,
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 5,
+      "name_concat": "Quercus occidentalis"
+    },
+    {
+      "taxon_id": 4456,
+      "genus": "Quercus",
+      "species": "sardoa",
+      "hybrid_alt_species": null,
+      "subspecies": null,
+      "variety": null,
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 6,
+      "name_concat": "Quercus sardoa"
+    },
+    {
+      "taxon_id": 4457,
+      "genus": "Quercus",
+      "species": "subera",
+      "hybrid_alt_species": null,
+      "subspecies": null,
+      "variety": null,
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 7,
+      "name_concat": "Quercus subera"
+    }
+  ],
+  "other_common": [
+    {
+      "common_id": 12270,
+      "tree_id": 1263,
+      "common": "CORK BARK OAK",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 1
+    }
+  ],
+  "genericCommonNames": [
+    "OAK"
+  ],
+  "images": [
+    {
+      "photo_link_id": 11644,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/63/original/quercus-suber-tree-4.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-4"
+    },
+    {
+      "photo_link_id": 29529,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/63/original/Quercus-suber-8462813c-e735-4517-b3b3-87858a2d9844.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 11645,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/63/original/quercus-suber-tree-2.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 11646,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/63/original/quercus-suber-tree.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 11647,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/63/original/quercus-suber-tree-5.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-5"
+    },
+    {
+      "photo_link_id": 11648,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/63/original/quercus-suber-tree-6.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-6"
+    },
+    {
+      "photo_link_id": 11649,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/63/original/quercus-suber-tree-canopy.jpg",
+      "sequence": 7,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-canopy"
+    },
+    {
+      "photo_link_id": 19989,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/63/original/Quercus-suber-2e9502a6-1a7d-4781-813a-4151051864ca.jpg",
+      "sequence": 8,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 18041,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/63/original/Quercus-suber-(2).jpg",
+      "sequence": 9,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 18044,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/63/original/Quercus-suber.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 18042,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/63/original/Quercus-suber-(3).jpg",
+      "sequence": 11,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 11650,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/63/original/quercus-suber-leaves-2.jpg",
+      "sequence": 12,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves-2"
+    },
+    {
+      "photo_link_id": 11651,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/63/original/quercus-suber-leaves-close-up.jpg",
+      "sequence": 13,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves-close-up"
+    },
+    {
+      "photo_link_id": 11652,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/63/original/quercus-suber-leaf-close-up.jpg",
+      "sequence": 14,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaf-close-up"
+    },
+    {
+      "photo_link_id": 18043,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/63/original/Quercus-suber-(1).jpg",
+      "sequence": 15,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 11655,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/63/original/quercus-suber-acorns-young.jpg",
+      "sequence": 16,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "acorns-young"
+    },
+    {
+      "photo_link_id": 11653,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/63/original/quercus-suber-fruit.jpg",
+      "sequence": 17,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit"
+    },
+    {
+      "photo_link_id": 11654,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/63/original/quercus-suber-acorn-cups.jpg",
+      "sequence": 18,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "acorn-cups"
+    },
+    {
+      "photo_link_id": 11656,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/63/original/quercus-suber-cork.jpg",
+      "sequence": 19,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "cork"
+    },
+    {
+      "photo_link_id": 23978,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/63/original/Quercus-suber-corks.jpg",
+      "sequence": 20,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 11657,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/63/original/quercus-suber-bark.jpg",
+      "sequence": 21,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "bark"
+    },
+    {
+      "photo_link_id": 11658,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/63/original/quercus-suber-trunk.jpg",
+      "sequence": 22,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "trunk"
+    },
+    {
+      "photo_link_id": 29007,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/63/original/Quercus-suber-(1)-37719e4f-4a18-4d08-8793-c0aa36a46940.jpg",
+      "sequence": 23,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20572,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/63/original/Quercus-suber-de108244-9cc9-4f6c-8d8f-55216a8586bc.jpg",
+      "sequence": 24,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 29019,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1200/63/original/Quercus-suber-e70ba23d-5fc9-49a2-8fb7-72b20dc209e2.jpg",
+      "sequence": 25,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    }
+  ],
+  "landscape_application": [],
+  "landscape_use": [],
+  "sunset_zone": [
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24"
+  ],
+  "formatted_sunset_zones": [
+    "5 - 16",
+    "18 - 24"
+  ],
+  "usda_zone": [
+    8,
+    9,
+    10
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [
+    "Verticillium"
+  ],
+  "disease_susceptibility": [
+    "Armillaria",
+    "Phytophthora",
+    "Root Rot"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [
+    "Invasive Shot Hole Borer"
+  ],
+  "health_hazard": [
+    "Allergy",
+    "Poisonous"
+  ],
+  "attracts_wildlife": [
+    "Birds",
+    "Squirrels"
+  ],
+  "fruit_value": [
+    "Wildlife use it"
+  ],
+  "fruiting_time": [
+    "Fall",
+    "Winter"
+  ],
+  "flower_time": [
+    "Spring"
+  ],
+  "flower_color": [
+    "Yellow-Green",
+    "Brown"
+  ],
+  "foliage_growth_color": [
+    "Dark Green"
+  ],
+  "bark_texture": [
+    "Furrowed"
+  ],
+  "tree_shape": [
+    "Rounded"
+  ],
+  "litter_type": [
+    "Dry Fruit"
+  ],
+  "climate_adapted_regions": [
+    "Inland Empire",
+    "Inland Valleys",
+    "Southern California Coast"
+  ],
+  "appraisal_text": "Suggested LCANT 24\" box, Group Rating 2, Approx. cross sectional area 2.24 sq. in.",
+  "app_grrating": "2",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Quercus_suber"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/50868-Quercus-suber"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:296785-1"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 1
+}

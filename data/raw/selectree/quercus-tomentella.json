@@ -1,0 +1,404 @@
+{
+  "tree_id": 1484,
+  "family": "Fagaceae",
+  "memo": "Although popular in cultivation, the Island Oak is the rarest of California's oaks in the wild, endemic to only five California islands and Guadalupe Island off the west coast of Baja California. It is listed as an endangered species by the IUCN, threatened by overgrazing from feral goats and sheep. This smooth-barked, medium-sized tree forms a rounded, dark green canopy. Its leathery, evergreen leaves have pleated parallel side veins, and are shiny on the upper surface while being covered in woolly hairs underneath. It forms hybrids easily with &lt;em&gt;Q. chrysolepis&lt;/em&gt;. In cultivation, this species is fast-growing and low-maintenance.&nbsp;",
+  "fragrance": 0,
+  "native_range": "California Channel Islands, Guadalupe Island",
+  "photolocations": "Cal Poly State University - San Luis Obispo, CA, Santa Babara Botanic Garden - Santa Babara, CA and Quail Botanical Gardens - Encinitas, CA",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 1,
+  "ethnobotanical_info": "",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 1,
+  "schoolyard_use_notes": "This tree has thick, leathery leaves that provide a great opportunity to discuss leaf texture and water conservation. The leaves are evergreen, making it useful for lessons on different leaf life cycles. Its acorns can be used to teach about seed dispersal and the importance of native wildlife. The tree&#x27;s ability to thrive in various soil types can also be a point of interest for discussions on plant adaptability.",
+  "soil_ph_low": 5,
+  "soil_ph_high": 3,
+  "planting_area": "4 to 7",
+  "shade_tolerant": 0,
+  "branch_strength_low": null,
+  "branch_strength_high": null,
+  "root_damage_potential": "Moderate",
+  "biogenic_emissions": "",
+  "deer_palatable": null,
+  "height_high": 50,
+  "height_memo": null,
+  "width_high": 40,
+  "growth_rate_high": 24,
+  "water_use": "Low",
+  "salt_tolerance": "",
+  "fruit_size": "Medium",
+  "fruit_color": "Brown",
+  "fruit_type": "Acorn",
+  "flower_showiness": "Inconspicuous",
+  "sex": "Dioecious",
+  "bark_color": [
+    "Dark Gray",
+    "Brown"
+  ],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Ovate",
+  "foliage_fall_color": 0,
+  "foliage_type": "Evergreen",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": null,
+  "suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/84/original/1484_current_suitability_map.png",
+  "future_suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/84/original/1484_future_suitability_map.png",
+  "sex_explanation": "Has either male or female reproductive parts (dioecious)",
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 1464,
+    "tree_id": 1484,
+    "common": "ISLAND OAK",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 0
+  },
+  "primary_taxon": {
+    "taxon_id": 1464,
+    "genus": "Quercus",
+    "species": "tomentella",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Quercus tomentella"
+  },
+  "other_taxa": [
+    {
+      "taxon_id": 4431,
+      "genus": "Quercus",
+      "species": "chrysolepis",
+      "hybrid_alt_species": null,
+      "subspecies": null,
+      "variety": "tomentella",
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 2,
+      "name_concat": "Quercus chrysolepis var. tomentella"
+    },
+    {
+      "taxon_id": 4432,
+      "genus": "Quercus",
+      "species": "chrysolepis",
+      "hybrid_alt_species": null,
+      "subspecies": "tomentella ",
+      "variety": null,
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 3,
+      "name_concat": "Quercus chrysolepis subsp. tomentella"
+    },
+    {
+      "taxon_id": 4433,
+      "genus": "Quercus",
+      "species": "tomentella",
+      "hybrid_alt_species": null,
+      "subspecies": null,
+      "variety": "conjungens",
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 4,
+      "name_concat": "Quercus tomentella var. conjungens"
+    }
+  ],
+  "other_common": [
+    {
+      "common_id": 12650,
+      "tree_id": 1484,
+      "common": "ISLAND LIVE OAK",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 1
+    }
+  ],
+  "genericCommonNames": [
+    "OAK"
+  ],
+  "images": [
+    {
+      "photo_link_id": 13660,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/84/original/quercus-tomentella-tree.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 13661,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/84/original/quercus-tomentella-tree-3.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "tree-3"
+    },
+    {
+      "photo_link_id": 29011,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/84/original/Quercus-tomentella-2d65644e-118a-4eb1-ab83-c9cded86f608.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 13662,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/84/original/quercus-tomentella-tree-4.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "tree-4"
+    },
+    {
+      "photo_link_id": 29009,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/84/original/Quercus-tomentella-(1)-b0d104d9-6b19-4a7f-b26e-ffc57a56daf6.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 32941,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/84/original/Quercus-tomentella-(1)-58a45d77-0ce8-4d1f-b6f0-40006a3c7763.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 32942,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/84/original/Quercus-tomentella-885aa092-5797-4b72-b616-98e182b640d8.jpg",
+      "sequence": 7,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 18997,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/84/original/Quercus-tomentella.jpg",
+      "sequence": 8,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 13663,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/84/original/quercus-tomentella-canopy.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "canopy"
+    },
+    {
+      "photo_link_id": 13664,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/84/original/quercus-tomentella-leaves.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 13665,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/84/original/quercus-tomentella-leaves-2.jpg",
+      "sequence": 11,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "leaves-2"
+    },
+    {
+      "photo_link_id": 20573,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/84/original/Quercus-tomentella-(2).jpg",
+      "sequence": 12,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20574,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/84/original/Quercus-tomentella-42ccb631-b9e0-4901-be82-4daee624f760.jpg",
+      "sequence": 13,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 29010,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/84/original/Quercus-tomentella-(2)-732af843-79c9-4835-9df7-1d2be082c227.jpg",
+      "sequence": 14,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 20575,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/84/original/Quercus-tomentella-(1).jpg",
+      "sequence": 15,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 13668,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/84/original/quercus-tomentella-leaves-and-flowers-2.jpg",
+      "sequence": 16,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "leaves-and-flowers-2"
+    },
+    {
+      "photo_link_id": 13666,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/84/original/quercus-tomentella-leaves-3.jpg",
+      "sequence": 17,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "leaves-3"
+    },
+    {
+      "photo_link_id": 13667,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/84/original/quercus-tomentella-leaves-and-flowers.jpg",
+      "sequence": 18,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "leaves-and-flowers"
+    },
+    {
+      "photo_link_id": 13669,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/84/original/quercus-tomentella-leaves-and-flowers-3.jpg",
+      "sequence": 19,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "leaves-and-flowers-3"
+    },
+    {
+      "photo_link_id": 13670,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/84/original/quercus-tomentella-fruit.jpg",
+      "sequence": 20,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "fruit"
+    },
+    {
+      "photo_link_id": 13671,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/84/original/quercus-tomentella-fruit-2.jpg",
+      "sequence": 21,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "fruit-2"
+    },
+    {
+      "photo_link_id": 13672,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/84/original/quercus-tomentella-acorns.jpg",
+      "sequence": 22,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "acorns"
+    },
+    {
+      "photo_link_id": 13673,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/84/original/quercus-tomentella-bark.jpg",
+      "sequence": 23,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "bark"
+    },
+    {
+      "photo_link_id": 13674,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/1400/84/original/quercus-tomentella-bark-young.jpg",
+      "sequence": 24,
+      "credit": "M. Ritter and J. Reimer",
+      "attribute_name": "bark-young"
+    }
+  ],
+  "landscape_application": [],
+  "landscape_use": [],
+  "sunset_zone": [
+    "5",
+    "7",
+    "8",
+    "9",
+    "14",
+    "15",
+    "16",
+    "17",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24"
+  ],
+  "formatted_sunset_zones": [
+    "5",
+    "7 - 9",
+    "14 - 17",
+    "19 - 24"
+  ],
+  "usda_zone": [
+    7,
+    8,
+    9,
+    10
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [
+    "Verticillium"
+  ],
+  "disease_susceptibility": [
+    "Armillaria"
+  ],
+  "pest_resistant": [],
+  "pest_susceptibility": [],
+  "health_hazard": [],
+  "attracts_wildlife": [
+    "Birds",
+    "Squirrels",
+    "Butterflies"
+  ],
+  "fruit_value": [
+    "Wildlife use it"
+  ],
+  "fruiting_time": [],
+  "flower_time": [
+    "Spring",
+    "Summer"
+  ],
+  "flower_color": [
+    "Brown",
+    "Yellow"
+  ],
+  "foliage_growth_color": [
+    "Dark Green"
+  ],
+  "bark_texture": [
+    "Blocky",
+    "Smooth"
+  ],
+  "tree_shape": [
+    "Rounded"
+  ],
+  "litter_type": [
+    "Dry Fruit"
+  ],
+  "climate_adapted_regions": [
+    "Inland Empire",
+    "Northern California Coast",
+    "Southern California Coast"
+  ],
+  "appraisal_text": "Suggested LCANT 24\" box, Group Rating 2, Approx. cross sectional area 2.24 sq. in.",
+  "app_grrating": "2",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Quercus_tomentella"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/64138-Quercus-tomentella"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:216489-2"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 2
+}

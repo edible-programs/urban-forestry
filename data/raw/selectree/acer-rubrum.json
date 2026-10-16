@@ -1,0 +1,361 @@
+{
+  "tree_id": 100,
+  "family": "Sapindaceae",
+  "memo": "&lt;em&gt;Acer rubrum&lt;/em&gt;, commonly known as red maple, is a species native to eastern and central North America, where it is highly abundant. This deciduous tree features a compact crown and is well known for its vibrant red fall color. It is dioecious, with male trees producing pink to red flowers and female trees developing red samaras. Red maple thrives in wet soils and performs well in riparian forests, though it typically requires irrigation when cultivated in drier environments. In clay soils, good drainage should be provided. This species also tolerates smog, making it a suitable choice for urban landscapes.",
+  "fragrance": 0,
+  "native_range": "Eastern North America",
+  "photolocations": "LSU Hilltop Arboretum - Baton Rouge, LA, The National Arboretum - Washington, DC, Finch Arboretum - Spokane, WA  and Sacramento State University - Sacramento, CA",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 0,
+  "ethnobotanical_info": "",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 0,
+  "schoolyard_use_notes": null,
+  "soil_ph_low": 1,
+  "soil_ph_high": 5,
+  "planting_area": ">7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Medium Weak",
+  "branch_strength_high": "Medium Weak",
+  "root_damage_potential": "Moderate",
+  "biogenic_emissions": "Moderate",
+  "deer_palatable": 1,
+  "height_high": 60,
+  "height_memo": null,
+  "width_high": 50,
+  "growth_rate_high": 36,
+  "water_use": "Medium",
+  "salt_tolerance": "Moderate",
+  "fruit_size": "Large",
+  "fruit_color": "Red",
+  "fruit_type": "Samara",
+  "flower_showiness": "Showy",
+  "bark_color": [
+    "Black or Dark Gray"
+  ],
+  "leaf_arrangement": "Opposite",
+  "leaf_form": "Simple",
+  "leaflet_shape": "Palmately Lobed",
+  "foliage_fall_color": 1,
+  "foliage_type": "Deciduous",
+  "redirect_tree_id": null,
+  "utility_friendly": 0,
+  "wind_resistance": "Medium Low",
+  "suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/00/original/100_current_suitability_map.png",
+  "future_suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/00/original/100_future_suitability_map.png",
+  "sex_explanation": null,
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 99,
+    "tree_id": 100,
+    "common": "RED MAPLE",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 0
+  },
+  "primary_taxon": {
+    "taxon_id": 99,
+    "genus": "Acer",
+    "species": "rubrum",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Acer rubrum"
+  },
+  "other_taxa": [
+    {
+      "taxon_id": 2071,
+      "genus": "Acer",
+      "species": "rubrum",
+      "hybrid_alt_species": "",
+      "subspecies": "",
+      "variety": "drummondii",
+      "cultivar": null,
+      "hybrid_x": null,
+      "sequence": 2,
+      "name_concat": "Acer rubrum var. drummondii"
+    }
+  ],
+  "other_common": [
+    {
+      "common_id": 2213,
+      "tree_id": 100,
+      "common": "SCARLET MAPLE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 1
+    },
+    {
+      "common_id": 10634,
+      "tree_id": 100,
+      "common": "MAPLE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 2
+    },
+    {
+      "common_id": 2214,
+      "tree_id": 100,
+      "common": "SWAMP RED MAPLE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 3
+    },
+    {
+      "common_id": 10635,
+      "tree_id": 100,
+      "common": "SWAMP MAPLE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 4
+    },
+    {
+      "common_id": 10636,
+      "tree_id": 100,
+      "common": "SOFT MAPLE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 5
+    }
+  ],
+  "genericCommonNames": [
+    "MAPLE"
+  ],
+  "images": [
+    {
+      "photo_link_id": 848,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/00/original/acer-rubrum-tree-3.jpg",
+      "sequence": 1,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-3"
+    },
+    {
+      "photo_link_id": 849,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/00/original/acer-rubrum-tree-2.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 860,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/00/original/acer-rubrum-tree.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree"
+    },
+    {
+      "photo_link_id": 850,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/00/original/acer-rubrum-tree-fall.jpg",
+      "sequence": 4,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-fall"
+    },
+    {
+      "photo_link_id": 851,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/00/original/acer-rubrum-tree-fall-2.jpg",
+      "sequence": 5,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-fall-2"
+    },
+    {
+      "photo_link_id": 852,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/00/original/acer-rubrum-tree-winter.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "tree-winter"
+    },
+    {
+      "photo_link_id": 853,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/00/original/acer-rubrum-canopy.jpg",
+      "sequence": 7,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "canopy"
+    },
+    {
+      "photo_link_id": 854,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/00/original/acer-rubrum-foliage.jpg",
+      "sequence": 8,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "foliage"
+    },
+    {
+      "photo_link_id": 855,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/00/original/acer-rubrum-leaves.jpg",
+      "sequence": 9,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 856,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/00/original/acer-rubrum-leaves-fall-2.jpg",
+      "sequence": 10,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves-fall-2"
+    },
+    {
+      "photo_link_id": 857,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/00/original/acer-rubrum-leaves-fall.jpg",
+      "sequence": 11,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "leaves-fall"
+    },
+    {
+      "photo_link_id": 858,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/00/original/acer-rubrum-fruit.jpg",
+      "sequence": 12,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit"
+    },
+    {
+      "photo_link_id": 859,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/00/original/acer-rubrum-fruit-2.jpg",
+      "sequence": 13,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "fruit-2"
+    },
+    {
+      "photo_link_id": 25014,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/00/original/Acer-rubrum-(1).jpg",
+      "sequence": 14,
+      "credit": "M. Ritter ",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 861,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/00/original/acer-rubrum-trunk.jpg",
+      "sequence": 15,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "trunk"
+    },
+    {
+      "photo_link_id": 862,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0100/00/original/acer-rubrum-bark.jpg",
+      "sequence": 16,
+      "credit": "M. Ritter, J. Yost, W. Mark and J. Reimer",
+      "attribute_name": "bark"
+    }
+  ],
+  "landscape_application": [
+    "Riparian"
+  ],
+  "landscape_use": [],
+  "sunset_zone": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "14",
+    "15",
+    "16",
+    "17",
+    "A2",
+    "A3"
+  ],
+  "formatted_sunset_zones": [
+    "1 - 9",
+    "14 - 17",
+    "A2",
+    "A3"
+  ],
+  "usda_zone": [
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand",
+    "Clay"
+  ],
+  "disease_resistant": [],
+  "disease_susceptibility": [
+    "Armillaria",
+    "Phytophthora",
+    "Root Rot",
+    "Verticillium"
+  ],
+  "pest_resistant": [
+    "Gypsy Moth"
+  ],
+  "pest_susceptibility": [
+    "Aphids",
+    "Beetle Borers",
+    "Scales",
+    "Maple Shoot Borer (Proteoteras aesculana)"
+  ],
+  "health_hazard": [
+    "Allergy"
+  ],
+  "attracts_wildlife": [],
+  "fruit_value": [],
+  "fruiting_time": [
+    "Summer"
+  ],
+  "flower_time": [
+    "Spring"
+  ],
+  "flower_color": [
+    "Red"
+  ],
+  "foliage_growth_color": [
+    "Green"
+  ],
+  "bark_texture": [
+    "Exfoliating",
+    "Furrowed"
+  ],
+  "tree_shape": [
+    "Conical",
+    "Rounded"
+  ],
+  "litter_type": [
+    "Dry Fruit"
+  ],
+  "climate_adapted_regions": [],
+  "appraisal_text": "Suggested LCANT 24\" box, Group Rating 4, Approx. cross sectional area 4.75 sq. in.",
+  "app_grrating": "4",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Acer_rubrum"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/48098-Acer-rubrum"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:1867-2"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "/red-maple/"
+    }
+  ],
+  "champ_count": 0
+}

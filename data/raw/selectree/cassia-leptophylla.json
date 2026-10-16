@@ -1,0 +1,330 @@
+{
+  "tree_id": 266,
+  "family": "Fabaceae",
+  "memo": "This tree is known for its cascading clusters of bright yellow flowers that create a striking visual display during the summer months. Its delicate, fern-like leaves provide a soft, airy texture, making it a popular choice for urban landscapes. The tree's moderate size and graceful, spreading canopy offer ample shade without overwhelming smaller spaces. It thrives in sunny locations and is relatively drought-tolerant once established. This tree's vibrant blooms and attractive foliage make it a favorite for adding a touch of elegance and color to streets and parks.",
+  "fragrance": 0,
+  "native_range": "Brazil",
+  "photolocations": "San Luis Obispo, CA, Balboa Park - San Diego, CA, Santa Cruz, CA, Foster Botanical Garden - Honolulu, HI, City College - San Diego, CA and Los Angeles County Arboretum - Arcadia, CA",
+  "display": 1,
+  "pacific_island": 0,
+  "california_native": 0,
+  "ethnobotanical_info": "",
+  "pi_invasive": 0,
+  "invasive_text": "",
+  "ca_invasive": 0,
+  "schoolyard": 1,
+  "schoolyard_use_notes": "This tree has delicate, feathery leaves that offer a chance to explore leaf structure and light filtration. Its bright yellow flowers can be used to discuss pollination and the role of color in attracting pollinators. The tree produces long, slender seed pods that demonstrate seed dispersal mechanisms. Its semi-deciduous nature provides an opportunity to study seasonal changes and how trees adapt to different climates.",
+  "soil_ph_low": 4,
+  "soil_ph_high": 5,
+  "planting_area": "4 to 7",
+  "shade_tolerant": 0,
+  "branch_strength_low": "Medium Weak",
+  "branch_strength_high": "Medium Weak",
+  "root_damage_potential": "Low",
+  "biogenic_emissions": "",
+  "deer_palatable": null,
+  "height_high": 30,
+  "height_memo": null,
+  "width_high": 30,
+  "growth_rate_high": 36,
+  "water_use": "Medium",
+  "salt_tolerance": "High",
+  "fruit_size": "Very Large",
+  "fruit_color": "Brown",
+  "fruit_type": "Legume",
+  "flower_showiness": "Showy",
+  "bark_color": [],
+  "leaf_arrangement": "Alternate",
+  "leaf_form": "Pinnately Compound",
+  "leaflet_shape": "Spear Shaped",
+  "foliage_fall_color": 0,
+  "foliage_type": "Partly Deciduous",
+  "redirect_tree_id": null,
+  "utility_friendly": 1,
+  "wind_resistance": null,
+  "suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/66/original/266_current_suitability_map.png",
+  "future_suitability_map": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/66/original/266_future_suitability_map.png",
+  "sex_explanation": null,
+  "has_redirect": 0,
+  "primary_common": {
+    "common_id": 263,
+    "tree_id": 266,
+    "common": "GOLD MEDALLION TREE",
+    "sequence": 1,
+    "displayed_alt_common": null,
+    "display_order": 0
+  },
+  "primary_taxon": {
+    "taxon_id": 263,
+    "genus": "Cassia",
+    "species": "leptophylla",
+    "hybrid_alt_species": "",
+    "subspecies": "",
+    "variety": "",
+    "cultivar": null,
+    "hybrid_x": null,
+    "sequence": 1,
+    "name_concat": "Cassia leptophylla"
+  },
+  "other_taxa": [],
+  "other_common": [
+    {
+      "common_id": 14187,
+      "tree_id": 266,
+      "common": "GOLDEN SHOWER TREE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 0
+    },
+    {
+      "common_id": 13060,
+      "tree_id": 266,
+      "common": "BRAZIL PINK SHOWER TREE",
+      "sequence": null,
+      "displayed_alt_common": 1,
+      "display_order": 1
+    }
+  ],
+  "genericCommonNames": [
+    "GOLD MEDALLION TREE"
+  ],
+  "images": [
+    {
+      "photo_link_id": 2583,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/66/original/cassia-leptophylla-tree-flowering.jpg",
+      "sequence": 1,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "tree-flowering"
+    },
+    {
+      "photo_link_id": 22869,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/66/original/Cassia-leptophylla.jpg",
+      "sequence": 2,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 29491,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/66/original/Cassia-leptophylla-9c3ba3dc-f0ed-494a-a8e1-b39967afdd9e.jpg",
+      "sequence": 3,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 2584,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/66/original/cassia-leptophylla-tree-3.jpg",
+      "sequence": 4,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "tree-3"
+    },
+    {
+      "photo_link_id": 2585,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/66/original/cassia-leptophylla-tree-2.jpg",
+      "sequence": 5,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "tree-2"
+    },
+    {
+      "photo_link_id": 32804,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/66/original/Cassia-leptophylla-b7d127a4-7b25-4a2a-8200-03d342161c27.jpg",
+      "sequence": 6,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 25237,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/66/original/Cassia-leptophylla-b51b8359-e574-4268-a7d1-6ca58aaeb183.jpg",
+      "sequence": 7,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 2586,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/66/original/cassia-leptophylla-tree-young.jpg",
+      "sequence": 8,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "tree-young"
+    },
+    {
+      "photo_link_id": 2587,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/66/original/cassia-leptophylla-leaves.jpg",
+      "sequence": 9,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "leaves"
+    },
+    {
+      "photo_link_id": 2588,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/66/original/cassia-leptophylla-leaves-2.jpg",
+      "sequence": 10,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "leaves-2"
+    },
+    {
+      "photo_link_id": 22870,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/66/original/Cassia-leptophylla-(1).jpg",
+      "sequence": 11,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 2589,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/66/original/cassia-leptophylla-flowers-3.jpg",
+      "sequence": 12,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "flowers-3"
+    },
+    {
+      "photo_link_id": 22868,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/66/original/Cassia-leptophylla-(2).jpg",
+      "sequence": 13,
+      "credit": "M. Ritter",
+      "attribute_name": null
+    },
+    {
+      "photo_link_id": 2590,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/66/original/cassia-leptophylla-flowers-2.jpg",
+      "sequence": 14,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "flowers-2"
+    },
+    {
+      "photo_link_id": 2591,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/66/original/cassia-leptophylla-flowers.jpg",
+      "sequence": 15,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "flowers"
+    },
+    {
+      "photo_link_id": 2592,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/66/original/cassia-leptophylla-flower.jpg",
+      "sequence": 16,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "flower"
+    },
+    {
+      "photo_link_id": 2593,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/66/original/cassia-leptophylla-flower-2.jpg",
+      "sequence": 17,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "flower-2"
+    },
+    {
+      "photo_link_id": 2594,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/66/original/cassia-leptophylla-flower-close-up.jpg",
+      "sequence": 18,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "flower-close-up"
+    },
+    {
+      "photo_link_id": 2595,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/66/original/cassia-leptophylla-fruit.jpg",
+      "sequence": 19,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "fruit"
+    },
+    {
+      "photo_link_id": 2596,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/66/original/cassia-leptophylla-fruit-close-up.jpg",
+      "sequence": 20,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "fruit-close-up"
+    },
+    {
+      "photo_link_id": 2597,
+      "link": "https://d25fkdmcid2ugy.cloudfront.net/images/0200/66/original/cassia-leptophylla-bark.jpg",
+      "sequence": 21,
+      "credit": "C. Stubler, J. Reimer and M. Ritter",
+      "attribute_name": "bark"
+    }
+  ],
+  "landscape_application": [
+    "Screen Tree"
+  ],
+  "landscape_use": [],
+  "sunset_zone": [
+    "15",
+    "16",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "H1",
+    "H2"
+  ],
+  "formatted_sunset_zones": [
+    "15 - 16",
+    "20 - 24",
+    "H1",
+    "H2"
+  ],
+  "usda_zone": [
+    10,
+    11,
+    12
+  ],
+  "soil_texture": [
+    "Loam",
+    "Sand"
+  ],
+  "disease_resistant": [],
+  "disease_susceptibility": [],
+  "pest_resistant": [],
+  "pest_susceptibility": [],
+  "health_hazard": [
+    "Poisonous"
+  ],
+  "attracts_wildlife": [],
+  "fruit_value": [],
+  "fruiting_time": [
+    "Fall"
+  ],
+  "flower_time": [
+    "Summer"
+  ],
+  "flower_color": [
+    "Yellow"
+  ],
+  "foliage_growth_color": [
+    "Green"
+  ],
+  "bark_texture": [],
+  "tree_shape": [
+    "Rounded"
+  ],
+  "litter_type": [
+    "Dry Fruit"
+  ],
+  "climate_adapted_regions": [],
+  "appraisal_text": "Group —, Approx. cross sectional area —",
+  "app_grrating": "—",
+  "app_lcant": "24\" box",
+  "appraisal": "Yes",
+  "external_resources": [
+    {
+      "resourceId": 0,
+      "name": "Wikipedia",
+      "host": "https://en.wikipedia.org",
+      "href": "/wiki/Cassia_leptophylla"
+    },
+    {
+      "resourceId": 1,
+      "name": "iNaturalist",
+      "host": "https://www.inaturalist.org",
+      "href": "/taxa/335464-Cassia-leptophylla"
+    },
+    {
+      "resourceId": 2,
+      "name": "Kew",
+      "host": "https://powo.science.kew.org",
+      "href": "/taxon/urn:lsid:ipni.org:names:484754-1"
+    },
+    {
+      "resourceId": 3,
+      "name": "The Wood Database",
+      "host": "https://www.wood-database.com",
+      "href": "N/A"
+    }
+  ],
+  "champ_count": 0
+}
