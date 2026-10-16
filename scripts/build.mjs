@@ -1,7 +1,8 @@
 import {build} from 'esbuild';
 import './ensure-data.mjs';
-import {mkdir,copyFile,cp} from 'node:fs/promises';
+import {mkdir,copyFile,writeFile} from 'node:fs/promises';
 await mkdir('dist',{recursive:true});
+await writeFile('dist/.nojekyll','');
 await build({entryPoints:['src/app.js'],bundle:true,minify:true,sourcemap:false,outfile:'dist/app.js',format:'esm',target:'es2022'});
 await copyFile('src/index.html','dist/index.html');
 await copyFile('src/style.css','dist/style.css');

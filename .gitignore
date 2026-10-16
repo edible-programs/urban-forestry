@@ -2,5 +2,5 @@ node_modules/
 .DS_Store
 *.tar.gz
 *.log
-.sites-local/
+.openai/
 public/data/trees.json

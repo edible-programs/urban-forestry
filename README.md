@@ -2,6 +2,12 @@
 
 An independent, data-rich explorer of San Francisco's street trees, built from official city records. Browse the map in 2D or 3D, inspect an individual tree, filter the inventory, compare selections, and keep personal field collections.
 
+## Hosting
+
+Deploy to **GitHub Pages** using `.github/workflows/pages.yml`. Pushes to `main` run the data tests, build the static application, and publish `dist/`. The website has no application login or account requirement. Asset and data URLs are relative to support GitHub Pages project paths.
+
+Do not use ChatGPT Sites for this project. This preference is also recorded in `AGENTS.md`.
+
 ## Run locally
 
 Requires Node.js 20 or later and npm. From this directory:
